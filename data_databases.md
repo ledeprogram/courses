@@ -9,7 +9,15 @@ location: TBA
 
 !!!DRAFT
 
-We will need to coordinate introducing basic python stuff; seems like we'll get to more python earlier.
+Based on on conversations this course will need to coordinate introducing basic python stuff; seems like we'll get to more python earlier.
+
+
+-python datatypes
+--lists, dictionaries
+--control, iterators
+--conversion to/from xml/json
+--textual analysis tools
+
 
 unformatted from the formal submission
 
