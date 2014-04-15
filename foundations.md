@@ -11,13 +11,16 @@ location: TBA
 !!!DRAFT
 
 Getting in touch with your inner terminal  
+Programmer's mindset (Stack Overflow + IRC)  
 Markdown + Pandoc + vim  
-Version Control  
+Version control  
 GitHub  
-Computer Architecture  
-Internet Infrastructure  
+Computer architecture  
+Internet infrastructure  
 Protocols  
 Virtual Servers  
+unix tools and sys admin (package management, permissions, pipes, grep, awk, cron)  
 Scripting w/ Python  
+Basic debugging
 Crypto basics  
 Sensor tech? (Phidgets or similar)  
