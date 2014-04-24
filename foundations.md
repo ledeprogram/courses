@@ -45,7 +45,7 @@ We meet on Mondays and Wednesdays. 1hr discussion section + 2hr lab.
 - APIs
 - Security and cryptography 
 
-***Lab:*** Build a Twitter bot. Send an encrypted email.
+***Lab:*** Build a Twitter bot. Send an encrypted email message.
 
 **Week 6:**
 - Bad stats 
