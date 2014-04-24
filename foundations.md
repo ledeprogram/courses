@@ -14,6 +14,7 @@ We meet on Mondays and Wednesdays. 1hr discussion section + 2hr lab.
 
 **Week 1:**  
 - Programmer's mindset
+- Course philosophy
 - Where to get help
 - Computer architecture
 
@@ -23,7 +24,7 @@ We meet on Mondays and Wednesdays. 1hr discussion section + 2hr lab.
 - Markup languages
 - Version control
 - Pseudo code
-- Procedural and object-oriented basics.
+- Procedural and object-oriented basics
 
 ***Lab:*** Pandoc + Markdown. Vim! Lab notebooks.
 
