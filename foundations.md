@@ -2,7 +2,7 @@
 title: Foundations of Computing 
 date: 5/28/14 - 7/14/14
 time: M & W 10am - 1pm 
-university: Columbia University
+affiliation: Columbia University
 instructors: Jonathan Soma, Dennis Tenen
 contact: TBA 
 location: TBA 
