@@ -12,48 +12,49 @@ We meet on Mondays and Wednesdays. 1hr discussion section + 2hr lab.
 
 Week 1:  
 - Computer architecture
-    - Programmer's mindset
-    - Where to get help
-    Lab: Getting in touch with your inner terminal. Working with files. Bash. IRC backchannel. Diagram your machine. File cleanup.
+- Programmer's mindset
+- Where to get help
+
+Lab: Getting in touch with your inner terminal. Working with files. Bash. IRC backchannel. Diagram your machine. File cleanup.
 
 Week 2:
-    - Markup languages
-    - Version control
-    - Pseudo code
-    - Procedural and object-oriented basics.
+- Markup languages
+- Version control
+- Pseudo code
+- Procedural and object-oriented basics.
 
-    Lab: Pandoc + Markdown. Lab notebooks.
+Lab: Pandoc + Markdown. Lab notebooks.
 
 Week 3:
-    - PEP 8
-    - Data types
-    - Control structures
+- PEP 8
+- Data types
+- Control structures
 
-    Lab: Github workflow. Intro to Python.
+Lab: Github workflow. Intro to Python.
 
 Week 4:
-    - Internet infrastructure 
-    - Cloud computing
-    - Protocols
+- Internet infrastructure 
+- Cloud computing
+- Protocols
 
-    Lab: Traceroute. Amazon AWS. Sys admin basics. Package management, permissions, security, etc. Diagram a packet from home.
+Lab: Traceroute. Amazon AWS. Sys admin basics. Package management, permissions, security, etc. Diagram a packet from home.
 
 Week 5:
-    - APIs
-    - Security and cryptography 
+- APIs
+- Security and cryptography 
 
-    Lab: Build a Twitter bot. Send an encrypted email.
+Lab: Build a Twitter bot. Send an encrypted email.
 
 Week 6:
-    - Bad stats 
-    - Working with data
-    - Data visualization 
+- Bad stats 
+- Working with data
+- Data visualization 
 
-    Lab: Debugging w/PDB in iPython. Google TakeOut. MatPlotLib + Bokeh. 
+Lab: Debugging w/PDB in iPython. Google TakeOut. MatPlotLib + Bokeh. 
 
 Week 7:
-    - Physical computing
-    - Sensor tech
-    - Drone control
+- Physical computing
+- Sensor tech
+- Drone control
 
-    Lab: Phidget music machine.
+Lab: Phidget music machine.
