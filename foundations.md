@@ -25,7 +25,7 @@ We meet on Mondays and Wednesdays. 1hr discussion section + 2hr lab.
 - Pseudo code
 - Procedural and object-oriented basics.
 
-***Lab:*** Pandoc + Markdown. Lab notebooks.
+***Lab:*** Pandoc + Markdown. Vim! Lab notebooks.
 
 **Week 3:**
 - PEP 8
