@@ -1,28 +1,60 @@
 ---
 title: Foundations of Computing 
-date: Summer 2014
+date: 5/28/14 - 7/14/14
+time: M & W 10am - 1pm 
 university: Columbia University
-author: Dennis Tenen, Jonathan Soma
+instructors: Dennis Tenen, Jonathan Soma
 contact: TBA 
-time: TBA 
 location: TBA 
 ---
 
-5/28 - 7/14
-M-w 10am - 1pm
-!!!DRAFT
+We meet on Mondays and Wednesdays. 1hr discussion section + 2hr lab. 
 
-- Getting in touch with your inner terminal  
-- Programmer's mindset (Stack Overflow + IRC)  
-- Compiling text (Markdown + Pandoc + vim)  
-- Version control  
-- GitHub  
-- Computer architecture  
-- Internet infrastructure  
-- Protocols  
-- Virtual Servers  
-- unix tools and sys admin (package management, permissions, pipes, grep, awk, cron)  
-- Scripting w/ Python  
-- Basic debugging
-- Crypto basics  
-- Sensor tech? (Phidgets or similar)  
+Week 1:
+    - Computer architecture
+    - Programmer's mindset
+    - Where to get help
+    
+    Lab: Getting in touch with your inner terminal. Working with files. Bash. IRC backchannel. Diagram your machine. File cleanup.
+
+Week 2:
+    - Markup languages
+    - Version control
+    - Pseudo code
+    - Procedural and object-oriented basics.
+
+    Lab: Pandoc + Markdown. Lab notebooks.
+
+Week 3:
+    - PEP 8
+    - Data types
+    - Control structures
+
+    Lab: Github workflow. Intro to Python.
+
+Week 4:
+    - Internet infrastructure 
+    - Cloud computing
+    - Protocols
+
+    Lab: Traceroute. Amazon AWS. Sys admin basics. Package management, permissions, security, etc. Diagram a packet from home.
+
+Week 5:
+    - APIs
+    - Security and cryptography 
+
+    Lab: Build a Twitter bot. Send an encrypted email.
+
+Week 6:
+    - Bad stats 
+    - Working with data
+    - Data visualization 
+
+    Lab: Debugging w/PDB in iPython. Google TakeOut. MatPlotLib + Bokeh. 
+
+Week 7:
+    - Physical computing
+    - Sensor tech
+    - Drone control
+
+    Lab: Phidget music machine.
