@@ -11,7 +11,7 @@ location: TBA
 We meet on Mondays and Wednesdays. 1hr discussion section + 2hr lab. 
 
 Week 1:  
-    - Computer architecture
+- Computer architecture
     - Programmer's mindset
     - Where to get help
     Lab: Getting in touch with your inner terminal. Working with files. Bash. IRC backchannel. Diagram your machine. File cleanup.
