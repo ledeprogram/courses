@@ -8,6 +8,8 @@ time: TBA
 location: TBA 
 ---
 
+5/28 - 7/14
+M-w 10am - 1pm
 !!!DRAFT
 
 - Getting in touch with your inner terminal  
