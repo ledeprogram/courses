@@ -17,7 +17,7 @@ We meet on Mondays and Wednesdays. 1hr discussion section + 2hr lab.
 - Course philosophy
 - Where to get help
 - Computer architecture
-- Procedural programming with Bash
+- Procedural scripting with Bash
 
 ***Lab:*** Getting in touch with your inner terminal. Working with files. IRC backchannel. Diagram your machine. File cleanup. Automate something with Bash script.
 
