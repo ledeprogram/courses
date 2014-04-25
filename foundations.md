@@ -18,7 +18,7 @@ We meet on Mondays and Wednesdays. 1hr discussion section + 2hr lab.
 - Where to get help
 - Computer architecture
 
-***Lab:*** Getting in touch with your inner terminal. Working with files. Bash. IRC backchannel. Diagram your machine. File cleanup.
+***Lab:*** Getting in touch with your inner terminal. Working with files. IRC backchannel. Diagram your machine. File cleanup. Automate something Bash Script.
 
 **Week 2**:
 - Markup languages
