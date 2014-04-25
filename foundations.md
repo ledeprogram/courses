@@ -17,30 +17,32 @@ We meet on Mondays and Wednesdays. 1hr discussion section + 2hr lab.
 - Course philosophy
 - Where to get help
 - Computer architecture
+- Procedural programming with Bash
 
-***Lab:*** Getting in touch with your inner terminal. Working with files. IRC backchannel. Diagram your machine. File cleanup. Automate something Bash Script.
+***Lab:*** Getting in touch with your inner terminal. Working with files. IRC backchannel. Diagram your machine. File cleanup. Automate something with Bash Script.
 
 **Week 2**:
 - Markup languages
-- Version control
 - Pseudo code
-- Procedural and object-oriented basics
+- Object-oriented basics
+- Style w/ PEP 8
 
-***Lab:*** Pandoc + Markdown. Vim! Lab notebooks.
+***Lab:*** Pandoc + Markdown. Vim! Lab notebooks. Hello world in iPython.
 
 **Week 3:**
-- PEP 8
+- Version control
 - Data types
 - Control structures
+- From text to data
 
-***Lab:*** Github workflow. Intro to Python.
+***Lab:*** Github workflow. NLTK excercises.
 
 **Week 4:**
 - Internet infrastructure 
 - Cloud computing
 - Protocols
 
-***Lab:*** Traceroute. Amazon AWS. Sys admin basics. Package management, permissions, security, etc. Diagram a packet from home.
+***Lab:*** Traceroute. Amazon AWS. Sys admin basics. Package management, permissions, security, etc. Diagram a packet from home. Cron and Boto.
 
 **Week 5:**
 - APIs
