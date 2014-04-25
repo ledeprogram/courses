@@ -19,7 +19,7 @@ We meet on Mondays and Wednesdays. 1hr discussion section + 2hr lab.
 - Computer architecture
 - Procedural programming with Bash
 
-***Lab:*** Getting in touch with your inner terminal. Working with files. IRC backchannel. Diagram your machine. File cleanup. Automate something with Bash Script.
+***Lab:*** Getting in touch with your inner terminal. Working with files. IRC backchannel. Diagram your machine. File cleanup. Automate something with Bash script.
 
 **Week 2**:
 - Markup languages
