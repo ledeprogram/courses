@@ -43,7 +43,8 @@ We meet on Mondays and Wednesdays. 1hr discussion section + 2hr lab.
 - Cloud computing
 - Protocols
 
-***Lab:*** Traceroute. Amazon AWS. Sys admin basics. Package management, permissions, security, etc. Diagram a packet from home. Cron and Boto.
+***Lab:*** Traceroute. Amazon AWS. Sys admin basics. Package management, permissions, security, etc. Diagram a packet from home. Cron and Boto.  
+***Resources***: [Take the Linux Filesystem Tour](http://web.archive.org/web/20140501190339/http://tuxradar.com/content/take-linux-filesystem-tour/)
 
 **Week 5:**
 - APIs
