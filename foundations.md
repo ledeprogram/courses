@@ -49,6 +49,7 @@ We meet on Mondays and Wednesdays. 1hr discussion section + 2hr lab.
 - Security and cryptography 
 
 ***Lab:*** Build a Twitter bot. Send an encrypted email message.
+***Resources***: [How PGP Works](http://web.archive.org/web/20140501185547/http://www.pgpi.org/doc/pgpintro/)
 
 **Week 6:**
 - Bad stats 
