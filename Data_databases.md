@@ -8,9 +8,12 @@ contact: TBA
 location: TBA 
 ---
 
+#Data and Databases
 
 **SUPER DRAFTY--overly detailed in early weeks and overly schematic in late weeks**
+
 **tried to put python intros within motivation**
+
 **motivations and exemplars needed!**
 
 
