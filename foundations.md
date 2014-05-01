@@ -27,7 +27,8 @@ We meet on Mondays and Wednesdays. 1hr discussion section + 2hr lab.
 - Object-oriented basics
 - Style w/ PEP 8
 
-***Lab:*** Pandoc + Markdown. Vim! Lab notebooks. Hello world in iPython.
+***Lab:*** Pandoc + Markdown. Vim! Lab notebooks. Hello world in iPython.    
+***Resources:*** [Sustainable Authorship in Plain Text](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
 
 **Week 3:**
 - Version control
