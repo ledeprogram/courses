@@ -35,7 +35,8 @@ We meet on Mondays and Wednesdays. 1hr discussion section + 2hr lab.
 - Control structures
 - From text to data
 
-***Lab:*** Github workflow. NLTK excercises.
+***Lab:*** Github workflow. NLTK excercises.  
+***Resources***: [Idiomatic Python](http://web.archive.org/web/20140501190202/http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
 
 **Week 4:**
 - Internet infrastructure 
