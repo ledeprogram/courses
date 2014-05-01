@@ -58,7 +58,8 @@ We meet on Mondays and Wednesdays. 1hr discussion section + 2hr lab.
 - Working with data
 - Data visualization 
 
-***Lab:*** Debugging w/PDB in iPython. Google TakeOut. MatPlotLib + Bokeh. 
+***Lab:*** Debugging w/PDB in iPython. Google TakeOut. MatPlotLib + Bokeh.   
+***Resources:*** [Statistics Done Wrong](http://www.statisticsdonewrong.com/)
 
 **Week 7:**
 - Physical computing
