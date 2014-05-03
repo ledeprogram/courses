@@ -36,17 +36,12 @@ The theory:
 
 - Structured vs. unstructured data
 
-The theory:
-
-- Structured vs. unstructured data
-
 - varieds example: MTA data? some pdf data; crappy http tables
 
 The practice:
 
 - *Python* 
 	- data types: lists
-
 		- practice traversing
 		- counting from zero
 		- list comprehensions [big ask for first day]
@@ -92,6 +87,7 @@ END OF WEEK ONE:
 - *Python* 
 	- conditionals and binary operators
 		- explicit (if) & as indices
+		-filtering lists
 	- exception handling
 	- html(BeautifulSoup),  XML parsing
 
@@ -103,9 +99,14 @@ Halevy, A., P. Norvig, and F. Pereira. “The Unreasonable Effectiveness of Data
 danah boyd and Kate Crawford “Six Provocations for Big Data.” 
 https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1926431_code1210838.pdf?abstractid=1926431&mirid=2.
 
-- Google flu trends debacle
-- basic machine learning concepts [??]
+- Google flu trends 
+
+Lazer, David M., Ryan Kennedy, Gary King, and Alessandro Vespignani. “The Parable of Google Flu: Traps in Big Data Analysis.” Science 343, no. 6176 (2014): 1203–5. doi:10.1126/science.1248506.
+
+- basic machine learning concepts [aim for literacy not practice??]
 	- supervised/unsupervised learning
+	- overfitting
+	- training set/ etc.
 
 ??? NOT SURE IF A SEPARATE DAY/WHAT TECH CONTENT?
 
@@ -128,7 +129,7 @@ https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1926431_code1210838.pdf?abstrac
 
 - Tables, vectors, and arrays
 	- basic linear algebra and vector operations
-	- *python* NumPy arrays [?]
+	- *python* pandas/NumPy basics
 
 *END OF WEEK TWO: able to move to and from different formats*
 
@@ -138,12 +139,14 @@ https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1926431_code1210838.pdf?abstrac
 - *python* strings and string methods
 
 - text mining basics
+	- regular expressions/grep/*python*
 	- tdm
 	- bag of words and its alternatives
 	- text munging [https://de.dariah.eu/tatom/preprocessing.html]
 		- tokenizing, stemming
  	- simple algos
- 	    - clustering, &c	
+ 	    - clustering, &c
+
 
 ### 7. Making structure: binary blobs
 
@@ -164,13 +167,20 @@ https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1926431_code1210838.pdf?abstrac
 
 ##Database Metaphors and Systems
 
+
 ### 8. Databases: Relational
 - Motivation: 
+- sqlite3 shell
+
 
 - relational metaphor
 - ACID
 - basic SQL
 	- *python* interface
+
+Fortune, Stephen. “A Brief History of Databases.” Accessed May 3, 2014. http://vvvnt.com/media/history-of-databases.
+
+
 
 ### 9. Databases: NoSQL and document stores
 
