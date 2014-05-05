@@ -46,12 +46,14 @@ The practice:
 		- counting from zero
 		- list comprehensions [big ask for first day]
 			- MTA data? 
-	- first functions
-	- importing csv
+	- importing csv [PANDAs?]
+	- importing rss [?]
+	-  control structures 
+		- for..in; while?
 
 ### 2. Structured data
 
-- NYT json data?
+- NYT json data? wordnik? 
 	- getting API keys, etc.
 
 - Metadata and data
@@ -62,9 +64,7 @@ The practice:
 	- data types: dicts
 		- practice traversing
 		- key, value
-	-  control structures 
-		- for..in; while?
-
+	
 - JSON as simple structured data
 	- *python* 
 
@@ -74,45 +74,40 @@ The practice:
 END OF WEEK ONE:
 	some systematic api program to draw from source, put in good dict, calculation something meaningful
 
-**need functions by end of week one**
+
 **assume familiary with unix file system by week two?**
 
-### 3. Proprietary, open, and inbetween
+
+### 3. Structured data: strings and regular expressions
+
+- *python* strings and string methods
+
+- regular expressions/grep/*python*
+
+
+### 4. Proprietary, open, and inbetween
 
 - poltics of drm, etc.? (Gillespie)
 - proprietary data stores of public records 
 
-- XML, the horror, the beauty
-
 - *Python* 
 	- conditionals and binary operators
 		- explicit (if) & as indices
-		-filtering lists
+		- filtering lists
 	- exception handling
-	- html(BeautifulSoup),  XML parsing
+	- html(BeautifulSoup)
 
-##The Critique of Pure Data
-### 4. Ideologies of data
+- XML, the horror, the beauty
+	- standard XML parsing libraries
 
-Halevy, A., P. Norvig, and F. Pereira. “The Unreasonable Effectiveness of Data.” Intelligent Systems, IEEE 24, no. 2 (April 2009): 8–12. doi:10.1109/MIS.2009.36.
 
-danah boyd and Kate Crawford “Six Provocations for Big Data.” 
-https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1926431_code1210838.pdf?abstractid=1926431&mirid=2.
-
-- Google flu trends 
-
-Lazer, David M., Ryan Kennedy, Gary King, and Alessandro Vespignani. “The Parable of Google Flu: Traps in Big Data Analysis.” Science 343, no. 6176 (2014): 1203–5. doi:10.1126/science.1248506.
-
-- basic machine learning concepts [aim for literacy not practice??]
-	- supervised/unsupervised learning
-	- overfitting
-	- training set/ etc.
 
 ??? NOT SURE IF A SEPARATE DAY/WHAT TECH CONTENT?
 
+
 ##'Raw data' is an oxymoron
 
-### 5. Making structure: number munging
+###  Making structure: number munging
 
 - Paul Edwards on climate data
 
@@ -133,13 +128,13 @@ Lazer, David M., Ryan Kennedy, Gary King, and Alessandro Vespignani. “The Para
 
 *END OF WEEK TWO: able to move to and from different formats*
 
-### 6. Making structure: text mining
+
+###  Making structure: text mining
 - example: wikileaks telegraphs, enron emails, declassified state dept telegrams, twitter
 
 - *python* strings and string methods
 
 - text mining basics
-	- regular expressions/grep/*python*
 	- tdm
 	- bag of words and its alternatives
 	- text munging [https://de.dariah.eu/tatom/preprocessing.html]
@@ -148,9 +143,9 @@ Lazer, David M., Ryan Kennedy, Gary King, and Alessandro Vespignani. “The Para
  	    - clustering, &c
 
 
-### 7. Making structure: binary blobs
+###  Making structure: binary blobs
 
--motivation: scanned document dumps?
+- motivation: scanned document dumps?
 
 - Binary formats (lossy/lossless)
 	- pdf
@@ -165,38 +160,11 @@ Lazer, David M., Ryan Kennedy, Gary King, and Alessandro Vespignani. “The Para
 ***end of week three: ???****
 
 
-##Database Metaphors and Systems
 
-
-### 8. Databases: Relational
-- Motivation: 
-- sqlite3 shell
-
-
-- relational metaphor
-- ACID
-- basic SQL
-	- *python* interface
-
-Fortune, Stephen. “A Brief History of Databases.” Accessed May 3, 2014. http://vvvnt.com/media/history-of-databases.
-
-
-
-### 9. Databases: NoSQL and document stores
-
-- JSON
-- Key-value
-- Document stores (SOLR)
-- MongoDB
-	- *python* interface
-- distribution and its significance
-	- practical APT theorem: can't have everything
-
-##Critical publicity of data journalism 
-
-### 10. Documenting data journalism
+###  Documenting data journalism
 
 >see http://www.theguardian.com/news/datablog/2011/dec/09/data-journalism-reading-riots
+##Critical publicity of data journalism 
 
 >and the connected series
 
@@ -210,13 +178,46 @@ Fortune, Stephen. “A Brief History of Databases.” Accessed May 3, 2014. http
 
 - critical exercise on a number of examples good and bad of documentation
 
-###11. Building openness: archives old and new
+
+
+
+
+
+##Database Metaphors and Systems
+
+
+### . Databases: Relational
+- relational metaphor
+
+Fortune, Stephen. “A Brief History of Databases.” Accessed May 3, 2014. http://vvvnt.com/media/history-of-databases.
+
+- ACID and its (un)importance
+- basic SQL
+	- *python* interface
+	- sqlite3 shell [/}]
+
+
+### . Databases: NoSQL and document stores
+
+- JSON
+- Key-value
+- Document stores (SOLR)
+- MongoDB
+	- *python* interface
+- distribution and its significance
+	- practical APT theorem: can't have everything
+
+
+## Building Opening: HTTP/Networking Basics
+
+
+### Building openness: API
 
 - Clinton FOIA materials? NSA materials
 - archives as political legitimation
 - building counter-archives (national security archive)
 
-- Creating Flask page with API
+- Creating Flask? page with API
 	- drawing upon (earlier) SQL and mongo databases
 - documenting methods/data
 - CRITICAL reflection of many posts of exemplary projects
@@ -229,6 +230,24 @@ Fortune, Stephen. “A Brief History of Databases.” Accessed May 3, 2014. http
 
 
 
+
+##The Critique of Pure Data
+### . Ideologies of data
+
+Halevy, A., P. Norvig, and F. Pereira. “The Unreasonable Effectiveness of Data.” Intelligent Systems, IEEE 24, no. 2 (April 2009): 8–12. doi:10.1109/MIS.2009.36.
+
+danah boyd and Kate Crawford “Six Provocations for Big Data.” 
+https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1926431_code1210838.pdf?abstractid=1926431&mirid=2.
+
+- Google flu trends 
+
+Lazer, David M., Ryan Kennedy, Gary King, and Alessandro Vespignani. “The Parable of Google Flu: Traps in Big Data Analysis.” Science 343, no. 6176 (2014): 1203–5. doi:10.1126/science.1248506.
+
+
+##on-line classes and tutorials worth considering
+Eugene Wu:
+https://dataiap.github.io/dataiap/
+https://github.com/mitdbg/asciiclass
 
 
 
