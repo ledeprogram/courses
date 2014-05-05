@@ -60,7 +60,7 @@ We meet on Mondays and Wednesdays. 1hr discussion section + 2hr lab.
 - Data visualization 
 
 ***Lab:*** Debugging w/PDB in iPython. Google TakeOut. MatPlotLib + Bokeh.   
-***Resources:*** [Statistics Done Wrong](http://www.statisticsdonewrong.com/), [Demystifying Networks](http://web.archive.org/web/20140501191102/http://www.scottbot.net/HIAL/?p=6279)
+***Resources:*** [Statistics Done Wrong](http://www.statisticsdonewrong.com/), [Demystifying Networks](http://web.archive.org/web/20140501191102/http://www.scottbot.net/HIAL/?p=6279), [Introduction to social network methods](http://www.faculty.ucr.edu/~hanneman/nettext/)
 
 **Week 7:**
 - Physical computing
