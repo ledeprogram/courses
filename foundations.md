@@ -11,7 +11,7 @@ location: TBA
 
 ## Week 1: Intro to Terminal (1)
 
-***Focus***: Get comfortable running Python at the command line and understand that seeking out help is 90% of coding
+**Focus**: Get comfortable running Python at the command line and understand that seeking out help is 90% of coding
 
 ### Wednesday 5/28
 
@@ -35,11 +35,11 @@ Conditionals & lists
 
 ## Week 2: Python Basics (2, 3)
 
-***Focus***: Learn to read and write basic (clean, commented, beautiful) Python.
+**Focus**: Learn to read and write basic (clean, commented, beautiful) Python.
 
-***Week Inspiration:*** [Dogs of NYC](http://project.wnyc.org/dogs-of-nyc/)
+**Week Inspiration:** [Dogs of NYC](http://project.wnyc.org/dogs-of-nyc/)
 
-***Resources:*** [Sustainable Authorship in Plain Text](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
+**Resources:** [Sustainable Authorship in Plain Text](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
 
 ### Monday 6/2
 
@@ -56,15 +56,15 @@ Conditionals & lists
 - Github workflow
 - Markdown
 - Lab notebooks
-- Algorithmic thinking with Dogs of NYC data
+- Algorithmic thinking with [Dogs of NYC data](https://www.google.com/fusiontables/data?docid=1pKcxc8kzJbBVzLu_kgzoAMzqYhZyUhtScXjB0BQ#rows:id=1)
 
 ## Week 3: Object Orienteering (4, 5)
 
-***Focus:*** Get more comfortable with coding, install some libraries, write your own class.
+**Focus:** Get more comfortable with coding, install some libraries, write your own class.
 
-***Week Inspiration:*** [Quakebot](http://www.slate.com/blogs/future_tense/2014/03/17/quakebot_los_angeles_times_robot_journalist_writes_article_on_la_earthquake.html)
+**Week Inspiration:** [Quakebot](http://www.slate.com/blogs/future_tense/2014/03/17/quakebot_los_angeles_times_robot_journalist_writes_article_on_la_earthquake.html)
 
-***Resources***: [Idiomatic Python](http://web.archive.org/web/20140501190202/http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
+**Resources**: [Idiomatic Python](http://web.archive.org/web/20140501190202/http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
 
 ### Monday: 6/9
 
@@ -85,11 +85,11 @@ Conditionals & lists
 
 ~~***Lab:*** Github workflow. NLTK excercises.~~
 
-## Week 4: Introduction to APIs (6, 7)
+## Week 4: Working with the Census and an introduction to APIs (6, 7)
 
-***Focus:*** Use another library, a simple key-based API, understand Census data
+**Focus:** Use another library, a simple key-based API, understand Census data
 
-***Week Inspiration:*** [Almost every story ever uses ACS data](http://articles.latimes.com/keyword/american-community-survey)
+**Week Inspiration:** [Almost every story ever uses ACS data](http://articles.latimes.com/keyword/american-community-survey)
 
 ### Monday 6/16
 
@@ -106,13 +106,16 @@ Conditionals & lists
 - .gitignore for API keys
 - Project using with ACS data
 
-## Week 5: OAuth APIs & Cryptography (8, 9)
+## Week 5: APIs & Cryptography (8, 9)
 
-***Week Inspiration:*** [Twitter stories](http://radar.oreilly.com/2013/12/tweets-loud-and-quiet.html)
+OAuth APIs are way more fun but way more complicated to get set up.
+
+**Week Inspiration:** [Twitter stories](http://radar.oreilly.com/2013/12/tweets-loud-and-quiet.html)
 
 ### Monday 6/23
 
 - OAuth
+- Twitter API with [tweepy](https://github.com/tweepy/tweepy)
 - Security and cryptography 
 
 ### Wednesday 6/25
@@ -120,13 +123,13 @@ Conditionals & lists
 - Send an encrypted email message
 - Scrape data from Twitter
 
-***Resources***: [How PGP Works](http://web.archive.org/web/20140501185547/http://www.pgpi.org/doc/pgpintro/), [Mailvelope](http://www.mailvelope.com/), [Keybase](https://keybase.io/)
+**Resources**: [How PGP Works](http://web.archive.org/web/20140501185547/http://www.pgpi.org/doc/pgpintro/), [Mailvelope](http://www.mailvelope.com/), [Keybase](https://keybase.io/)
 
 ## Week 6: Matplotlib (10, 11)
 
-***Focus:*** Make visuals of your data
+**Focus:** Make visuals of your data
 
-***Resources:*** [Statistics Done Wrong](http://www.statisticsdonewrong.com/), [Demystifying Networks](http://web.archive.org/web/20140501191102/http://www.scottbot.net/HIAL/?p=6279), [Introduction to social network methods](http://www.faculty.ucr.edu/~hanneman/nettext/)
+**Resources:** [Statistics Done Wrong](http://www.statisticsdonewrong.com/), [Demystifying Networks](http://web.archive.org/web/20140501191102/http://www.scottbot.net/HIAL/?p=6279), [Introduction to social network methods](http://www.faculty.ucr.edu/~hanneman/nettext/)
 
 ### Monday 6/30
 
@@ -144,12 +147,12 @@ Conditionals & lists
 
 ## Week 7: Mapping (12, 13)
 
-***Focus:*** Making non-interactive and interactive maps (matplotlib and TileMill, respectively)
+**Focus:** Making non-interactive and interactive maps (matplotlib and TileMill, respectively)
 
 ### Monday 7/7
 
 - Shapefiles
-- Joining data (FIPS?)
+- Joining data (Join with week 4 via FIPS?)
 - Color schemes
     - diverging, sequential, qualitative
     - color blindness
@@ -161,7 +164,7 @@ Conditionals & lists
 - matplotlib
 - [TileMill](https://www.mapbox.com/tilemill/)
 
-## Week 8 (14)
+## Week 8: Physical Computing (14)
 
 ### Monday 7/14
 
@@ -169,7 +172,7 @@ Conditionals & lists
 - Sensor tech
 - Drone control
 
-***Lab:*** [Phidget](http://www.phidgets.com) music machine.
+**Lab:** [Phidget](http://www.phidgets.com) music machine.
 
 # Moved
 
@@ -179,6 +182,7 @@ Conditionals & lists
 - Cloud computing
 - Protocols
 - Debugging w/PDB in iPython 
+- Cron
 
 ***Lab:*** Traceroute. Amazon AWS. Sys admin basics. Package management, permissions, security, etc. Diagram a packet from home. Cron and Boto.  
 ***Resources***: [Take the Linux Filesystem Tour](http://web.archive.org/web/20140501190339/http://tuxradar.com/content/take-linux-filesystem-tour/)
