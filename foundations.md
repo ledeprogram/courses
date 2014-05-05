@@ -163,7 +163,7 @@ Conditionals & lists
 
 ## Week 8 (14)
 
-### Monday 7/7
+### Monday 7/14
 
 - Physical computing
 - Sensor tech
