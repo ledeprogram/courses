@@ -50,11 +50,11 @@ Conditionals & lists
 - Functions
 - Object-oriented basics
 - Style w/ PEP 8
+- Github workflow
+- Markdown
 
 ### Wednesday 6/4
 
-- Github workflow
-- Markdown
 - Lab notebooks
 - Algorithmic thinking with [Dogs of NYC data](https://www.google.com/fusiontables/data?docid=1pKcxc8kzJbBVzLu_kgzoAMzqYhZyUhtScXjB0BQ#rows:id=1)
 
@@ -106,22 +106,23 @@ Conditionals & lists
 - .gitignore for API keys
 - Project using with ACS data
 
-## Week 5: APIs & Cryptography (8, 9)
+## Week 5: AWS & Crypto (8, 9)
 
-OAuth APIs are way more fun but way more complicated to get set up.
+- AWS Server
+- Cloud computing
+- Internet infrastructure 
+- Cron
 
-**Week Inspiration:** [Twitter stories](http://radar.oreilly.com/2013/12/tweets-loud-and-quiet.html)
+**Week Inspiration:** ??? ~~[Twitter stories](http://radar.oreilly.com/2013/12/tweets-loud-and-quiet.html)~~
 
 ### Monday 6/23
 
-- OAuth
-- Twitter API with [tweepy](https://github.com/tweepy/tweepy)
+- OAuth?
 - Security and cryptography 
 
 ### Wednesday 6/25
 
 - Send an encrypted email message
-- Scrape data from Twitter
 
 **Resources**: [How PGP Works](http://web.archive.org/web/20140501185547/http://www.pgpi.org/doc/pgpintro/), [Mailvelope](http://www.mailvelope.com/), [Keybase](https://keybase.io/)
 
@@ -133,10 +134,10 @@ OAuth APIs are way more fun but way more complicated to get set up.
 
 ### Monday 6/30
 
-- Bad stats 
+- Bad stats
 - Tufte
 - Working with data
-- Data visualization 
+- Data visualization
 - Matplotlib
 
 ### Wednesday 7/2
@@ -178,13 +179,12 @@ OAuth APIs are way more fun but way more complicated to get set up.
 
 - Pandoc
 - Vim
-- Internet infrastructure 
-- Cloud computing
 - Protocols
 - Debugging w/PDB in iPython 
-- Cron
 - Exception handling
 - Character encoding
+- Scrape data from Twitter
+- Twitter API with [tweepy](https://github.com/tweepy/tweepy)
 
 ***Lab:*** Traceroute. Amazon AWS. Sys admin basics. Package management, permissions, security, etc. Diagram a packet from home. Cron and Boto.  
 ***Resources***: [Take the Linux Filesystem Tour](http://web.archive.org/web/20140501190339/http://tuxradar.com/content/take-linux-filesystem-tour/)
