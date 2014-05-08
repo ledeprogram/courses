@@ -4,8 +4,8 @@ date: 5/28/14 - 7/14/14
 time: T & Th
 affiliation: Columbia University, Lede Program
 instructors: Adam Parrish, Matthew Jones
-contact: TBA 
-location: TBA 
+contact: TBA
+location: TBA
 ---
 
 #Data and Databases
@@ -30,7 +30,7 @@ The motivation:
 
 - examples
 > "Do No Harm: Hospital Care in Las Vegas," http://www.lasvegassun.com/hospital-care/
-		http://www.lasvegassun.com/news/2010/jun/27/fascination-and-frustration-reporting-las-vegas-ho/
+>	http://www.lasvegassun.com/news/2010/jun/27/fascination-and-frustration-reporting-las-vegas-ho/
 
 The theory:
 
@@ -40,33 +40,33 @@ The theory:
 
 The practice:
 
-- *Python* 
+- *Python*
 	- data types: lists
 		- practice traversing
 		- counting from zero
 		- list comprehensions [big ask for first day]
-			- MTA data? 
+			- MTA data?
 	- importing csv [PANDAs?]
 	- importing rss [?]
-	-  control structures 
+	-  control structures
 		- for..in; while?
 
 ### 2. Structured data
 
-- NYT json data? wordnik? 
+- NYT json data? wordnik?
 	- getting API keys, etc.
 
 - Metadata and data
 	- geolocation data in photo examples
 	- mp3 example
 
-- *Python* 
+- *Python*
 	- data types: dicts
 		- practice traversing
 		- key, value
-	
+
 - JSON as simple structured data
-	- *python* 
+	- *python*
 
 - Using APIs
 	*python* URL tools
@@ -88,9 +88,9 @@ END OF WEEK ONE:
 ### 4. Proprietary, open, and inbetween
 
 - poltics of drm, etc.? (Gillespie)
-- proprietary data stores of public records 
+- proprietary data stores of public records
 
-- *Python* 
+- *Python*
 	- conditionals and binary operators
 		- explicit (if) & as indices
 		- filtering lists
@@ -111,7 +111,7 @@ END OF WEEK ONE:
 
 - Paul Edwards on climate data
 
-- critical reflection on "data and method" 
+- critical reflection on "data and method"
 	- metadata about sources and processing
 	- data provenance
 	- classic statistical questions
@@ -164,7 +164,7 @@ END OF WEEK ONE:
 ###  Documenting data journalism
 
 >see http://www.theguardian.com/news/datablog/2011/dec/09/data-journalism-reading-riots
-##Critical publicity of data journalism 
+##Critical publicity of data journalism
 
 >and the connected series
 
@@ -236,10 +236,10 @@ Fortune, Stephen. “A Brief History of Databases.” Accessed May 3, 2014. http
 
 Halevy, A., P. Norvig, and F. Pereira. “The Unreasonable Effectiveness of Data.” Intelligent Systems, IEEE 24, no. 2 (April 2009): 8–12. doi:10.1109/MIS.2009.36.
 
-danah boyd and Kate Crawford “Six Provocations for Big Data.” 
+danah boyd and Kate Crawford “Six Provocations for Big Data.”
 https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1926431_code1210838.pdf?abstractid=1926431&mirid=2.
 
-- Google flu trends 
+- Google flu trends
 
 Lazer, David M., Ryan Kennedy, Gary King, and Alessandro Vespignani. “The Parable of Google Flu: Traps in Big Data Analysis.” Science 343, no. 6176 (2014): 1203–5. doi:10.1126/science.1248506.
 
@@ -248,9 +248,3 @@ Lazer, David M., Ryan Kennedy, Gary King, and Alessandro Vespignani. “The Para
 Eugene Wu:
 https://dataiap.github.io/dataiap/
 https://github.com/mitdbg/asciiclass
-
-
-
-
-
-
