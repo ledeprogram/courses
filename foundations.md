@@ -9,7 +9,7 @@ location: TBA
 ---
 
 
-## Week 1: Intro to Terminal (1)
+## Week 1: Intro to Terminal
 
 **Focus**: Get comfortable running Python at the command line and understand that seeking out help is 90% of coding
 
@@ -33,7 +33,7 @@ location: TBA
 
 Conditionals & lists
 
-## Week 2: Python Basics (2, 3)
+## Week 2: Python Basics
 
 **Focus**: Learn to read and write basic (clean, commented, beautiful) Python.
 
@@ -58,7 +58,7 @@ Conditionals & lists
 - Lab notebooks
 - Algorithmic thinking with [Dogs of NYC data](https://www.google.com/fusiontables/data?docid=1pKcxc8kzJbBVzLu_kgzoAMzqYhZyUhtScXjB0BQ#rows:id=1)
 
-## Week 3: Object Orienteering (4, 5)
+## Week 3: Object Orienteering
 
 **Focus:** Get more comfortable with coding, install some libraries, write your own class.
 
@@ -85,7 +85,7 @@ Conditionals & lists
 
 ~~***Lab:*** Github workflow. NLTK excercises.~~
 
-## Week 4: Working with the Census and an introduction to APIs (6, 7)
+## Week 4: Working with the Census and an introduction to APIs
 
 **Focus:** Use another library, a simple key-based API, understand Census data
 
@@ -106,7 +106,7 @@ Conditionals & lists
 - .gitignore for API keys
 - Project using with ACS data
 
-## Week 5: AWS & Crypto (8, 9)
+## Week 5: AWS & Crypto
 
 - AWS Server
 - Cloud computing
@@ -126,7 +126,7 @@ Conditionals & lists
 
 **Resources**: [How PGP Works](http://web.archive.org/web/20140501185547/http://www.pgpi.org/doc/pgpintro/), [Mailvelope](http://www.mailvelope.com/), [Keybase](https://keybase.io/)
 
-## Week 6: Matplotlib (10, 11)
+## Week 6: Matplotlib
 
 **Focus:** Make visuals of your data
 
@@ -148,7 +148,7 @@ Conditionals & lists
 - Bokeh
 - Google TakeOut
 
-## Week 7: Mapping (12, 13)
+## Week 7: Mapping
 
 **Focus:** Making non-interactive and interactive maps (matplotlib and TileMill, respectively)
 
@@ -167,7 +167,7 @@ Conditionals & lists
 - matplotlib
 - [TileMill](https://www.mapbox.com/tilemill/)
 
-## Week 8: Physical Computing (14)
+## Week 8: Physical Computing
 
 ### Monday 7/14
 
@@ -180,7 +180,6 @@ Conditionals & lists
 # Moved & etc
 
 - Pandoc
-- Vim
 - Protocols
 - Debugging w/PDB in iPython 
 - Exception handling
