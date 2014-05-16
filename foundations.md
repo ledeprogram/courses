@@ -20,7 +20,7 @@ location: TBA
 - Computer architecture
 - File cleanup/organization
 - Introduction to pseudocode
-- ~~Procedural scripting with~~ Simple Bash
+- Terminal bash basics
 - Python hello world
 - Simple data types, variables, methods
 - Getting help
