@@ -130,6 +130,8 @@ Conditionals & lists
 
 **Focus:** Make visuals of your data
 
+**Week Inpiration:*** [How FiveThirtyEight Got the Nigerian Kidnappings Analysis Wrong](http://web.archive.org/web/20140516152339/https://source.opennews.org/en-US/articles/gdelt-decontextualized-data/)
+
 **Resources:** [Statistics Done Wrong](http://www.statisticsdonewrong.com/), [Demystifying Networks](http://web.archive.org/web/20140501191102/http://www.scottbot.net/HIAL/?p=6279), [Introduction to social network methods](http://www.faculty.ucr.edu/~hanneman/nettext/)
 
 ### Monday 6/30
