@@ -10,9 +10,6 @@ location: TBA
 
 #Data and Databases
 
-**SUPER DRAFTY--overly detailed in early weeks and overly schematic in late weeks**
-
-**tried to put python intros within motivation**
 
 **motivations and exemplars needed!**
 
@@ -28,15 +25,19 @@ The motivation:
 	- making data available to both humans and machines
 	- brutual honesty about making of data
 
-- examples
-> "Do No Harm: Hospital Care in Las Vegas," http://www.lasvegassun.com/hospital-care/
->	http://www.lasvegassun.com/news/2010/jun/27/fascination-and-frustration-reporting-las-vegas-ho/
+-examples
+
++ Bus Subsidies in Argentina, La Nacion: http://datajournalismhandbook.org/1.0/en/case_studies_14.html
+
++ Citibike data: http://www.citibikenyc.com/system-data
+
++ "Do No Harm: Hospital Care in Las Vegas," http://www.lasvegassun.com/hospital-care/
+	+ http://www.lasvegassun.com/news/2010/jun/27/fascination-and-frustration-reporting-las-vegas-ho/
+
 
 The theory:
 
 - Structured vs. unstructured data
-
-- varieds example: MTA data? some pdf data; crappy http tables
 
 The practice:
 
@@ -53,8 +54,13 @@ The practice:
 
 ### 2. Structured data
 
-- NYT json data? wordnik?
-	- getting API keys, etc.
+- Wickham, Hadley, Deborah Swayne, and David Poole. “Bay Area Blues: The Effect of the Housing Crisis.” Beautiful Data: The Stories Behind Elegant Data Solutions, 2009, 303–22.
+	- what are all of the different sources of structured data that they draw upon? What formats?
+
+- NYT json/xml data
+	- getting API keys
+	- http://developer.nytimes.com/docs/congress_api
+	
 
 - Metadata and data
 	- geolocation data in photo examples
@@ -72,13 +78,16 @@ The practice:
 	*python* URL tools
 
 END OF WEEK ONE:
-	some systematic api program to draw from source, put in good dict, calculation something meaningful
+	some systematic api program to draw from source, put in good dict, calculate something meaningful
 
 
 **assume familiary with unix file system by week two?**
 
 
 ### 3. Structured data: strings and regular expressions
+
+- example with structured diagnostic code or the like?
+
 
 - *python* strings and string methods
 
@@ -105,7 +114,7 @@ END OF WEEK ONE:
 ??? NOT SURE IF A SEPARATE DAY/WHAT TECH CONTENT?
 
 
-##'Raw data' is an oxymoron
+##'Raw data' is an oxymoron: making structure
 
 ###  Making structure: number munging
 
@@ -132,20 +141,30 @@ END OF WEEK ONE:
 ###  Making structure: text mining
 - example: wikileaks telegraphs, enron emails, declassified state dept telegrams, twitter
 
-- *python* strings and string methods
-
-- text mining basics
-	- tdm
-	- bag of words and its alternatives
-	- text munging [https://de.dariah.eu/tatom/preprocessing.html]
+- text mining basics [textblob]
+	
+	- text munging: textblob
 		- tokenizing, stemming
+ 	- tdm
+	- bag of words and its alternatives
  	- simple algos
- 	    - clustering, &c
+ 	    - classification (naive bayes)
+ 	    - sentiment analysis
 
 
 ###  Making structure: binary blobs
 
-- motivation: scanned document dumps?
+- motivation: scanned document dumps
+
+- Financial Times EU funding: 'openness through pdf'
+
+http://datajournalismhandbook.org/1.0/en/case_studies_1.html
+http://www.thebureauinvestigates.com/2012/05/29/eu-structural-funds-get-the-data/
+http://eufunds.ftdata.co.uk/
+
+- Dykes, Jason, and Jo Wood. “The Geographic Beauty of a Photographic Archive.” In The Map Reader, 288–96. John Wiley & Sons, Ltd, 2011. http://dx.doi.org/10.1002/9780470979587.ch38.
+- http://www.geograph.org.uk/
+
 
 - Binary formats (lossy/lossless)
 	- pdf
@@ -160,11 +179,19 @@ END OF WEEK ONE:
 ***end of week three: ???****
 
 
-
 ###  Documenting data journalism
 
+- writing self-reflexive posts of methods and limits of data
+
+- documenting process of data
+
+- critical exercise on a number of examples good and bad of documentation
+
+
+####readings
+"Presenting data to the public," http://datajournalismhandbook.org/1.0/en/delivering_data_0.html
+
 >see http://www.theguardian.com/news/datablog/2011/dec/09/data-journalism-reading-riots
-##Critical publicity of data journalism
 
 >and the connected series
 
@@ -174,17 +201,14 @@ END OF WEEK ONE:
 
 >Vis, Farida. “A Critical Reflection on Big Data: Considering APIs, Researchers and Tools as Data Makers.” First Monday 18, no. 10 (2013). http://firstmonday.org/ojs/index.php/fm/article/view/4878.
 
-- writing self-reflexive posts of methods and limits of data
-
-- critical exercise on a number of examples good and bad of documentation
-
-
+####stastical scolding
+- correlation vs. causation
+- overfitting
 
 
 
 
 ##Database Metaphors and Systems
-
 
 ### . Databases: Relational
 - relational metaphor
@@ -242,6 +266,14 @@ https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1926431_code1210838.pdf?abstrac
 - Google flu trends
 
 Lazer, David M., Ryan Kennedy, Gary King, and Alessandro Vespignani. “The Parable of Google Flu: Traps in Big Data Analysis.” Science 343, no. 6176 (2014): 1203–5. doi:10.1126/science.1248506.
+
+
+##Forgetting data, excluding data
+- “Minimization Procedures Used by the National Security Agency in Connection with Acquisitions of Foreign Intelligence Information Pursuant to Section 702 of the Foreign Intelligence Surveillance Act of 1978, as Amended,” July 28, 2009.
+
+
+
+
 
 
 ##on-line classes and tutorials worth considering
