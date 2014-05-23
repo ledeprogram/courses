@@ -8,6 +8,7 @@ contact: TBA
 location: TBA 
 ---
 
+> An introduction to the ways in which the computer and data technologies can be partners in creative practices. We will emphasize writing code over point-and-click interfaces, presenting the computer as a programmable object. Through a series of projects, students will move from exploratory sessions, to writing small programs, to sharing code with others in class. They will learn by making, and in the process master a "scripting language" like Python or Ruby. Projects will examine and extend existing technologies in the digital humanities, computational journalism, architecture, and design; and will likely deal in text and images, in human relationships as exhibited through social networks, in map-making, and in reporting.
 
 ## Week 1: Intro to Terminal
 
