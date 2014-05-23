@@ -12,7 +12,7 @@ Use the channel during class to comment on or discuss the daily proceedings.
 Stop by for office hours, work on your assignments, start and fisnish projects, or just hang out.
 
 - Happy Hour TBA
-Informal ah-hod gatherings to share drinks and ideas.
+Informal ah-hoc gatherings to share drinks and ideas.
 
 ## Bootsrap: parepare you machine before classes begin
 
