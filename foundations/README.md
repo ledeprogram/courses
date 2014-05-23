@@ -4,7 +4,7 @@ date: 5/28/14 - 7/14/14
 time: M & W 10am - 1pm 
 affiliation: Columbia University, Lede Program
 instructors: Jonathan Soma, Dennis Tenen
-location: 601b Pulitzer Hall* (for the first week, then according to [schedule](room-sched.pdf) 
+location: 601b Pulitzer Hall*
 
 ---
 
