@@ -8,7 +8,7 @@ location: 601b Pulitzer Hall*
 
 ---
 
-\* We will be meeting in room 601b for the first week or so and then according to the [room schedule](room-sched.pdf).  
+\* We will be meeting in room 601b for the first week or so and then according to the [room schedule](https://drive.google.com/file/d/0B4OAOue0b3VMNXJ1Z1loaGg4bWc/edit?usp=sharing).  
 
 > An introduction to the ways in which the computer and data technologies can be partners in creative practices. We will emphasize writing code over point-and-click interfaces, presenting the computer as a programmable object. Through a series of projects, students will move from exploratory sessions, to writing small programs, to sharing code with others in class. They will learn by making, and in the process master a "scripting language" like Python or Ruby. Projects will examine and extend existing technologies in the digital humanities, computational journalism, architecture, and design; and will likely deal in text and images, in human relationships as exhibited through social networks, in map-making, and in reporting.
 
