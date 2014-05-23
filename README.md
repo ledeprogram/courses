@@ -14,10 +14,11 @@ Stop by for office hours, work on your assignments, start and fisnish projects, 
 - Happy Hour TBA
 Informal ah-hoc gatherings to share drinks and ideas.
 
-## Bootsrap: parepare you machine before classes begin
+## Bootsrap: things to do before classes start
 
 1. Run system update on your machine
 2. Sign up for an Amazon AWS account (it is free, but you will be asked to enter your CC) 
 3. Follow the instructions on the site to install [Pandoc](http://babun.github.io/)
 4. Windows users install [Babun](http://babun.github.io/)
 5. Mac users install [TextWrangler](http://www.barebones.com/products/textwrangler/). Windows users install [Notepad++](http://notepad-plus-plus.org/)
+6. Open a GitHub account. Send your username to Charles B., your TA.
