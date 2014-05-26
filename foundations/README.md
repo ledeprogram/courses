@@ -27,13 +27,13 @@ Exploring your file system (files and folders). Binary, text, hex.
 Introduction to pseudocode  
 Python hello world:  
 
-    - print, # comments   
-    - int, str, list, dictionary, tuple  
-    - variables  
-    - basic operators  
-    - basic control structures   
-    - loops and logic  
-    - iterables
+- print, # comments   
+- int, str, list, dictionary, tuple  
+- variables  
+- basic operators  
+- basic control structures   
+- loops and logic  
+- iterables
 
 **TODO**: Lab notebooks. File cleanup. Posting to Piazza.  
 
