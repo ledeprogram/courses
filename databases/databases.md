@@ -9,11 +9,7 @@ location: TBA
 ---
 
 #Data and Databases
-
-
-**motivations and exemplars needed!**
-
-
+	
 ##Data structures and their enemies
 ### 1. Illusions of data accessibility
 
@@ -25,7 +21,7 @@ The motivation:
 	- making data available to both humans and machines
 	- brutual honesty about making of data
 
--examples
+- examples
 
 + Bus Subsidies in Argentina, La Nacion: http://datajournalismhandbook.org/1.0/en/case_studies_14.html
 
@@ -33,7 +29,6 @@ The motivation:
 
 + "Do No Harm: Hospital Care in Las Vegas," http://www.lasvegassun.com/hospital-care/
 	+ http://www.lasvegassun.com/news/2010/jun/27/fascination-and-frustration-reporting-las-vegas-ho/
-
 
 The theory:
 
@@ -59,8 +54,7 @@ The practice:
 
 - NYT json/xml data
 	- getting API keys
-	- http://developer.nytimes.com/docs/congress_api
-	
+	- http://developer.nytimes.com/docs/congress_api	
 
 - Metadata and data
 	- geolocation data in photo examples
@@ -86,8 +80,8 @@ END OF WEEK ONE:
 
 ### 3. Structured data: strings and regular expressions
 
-- example with structured diagnostic code or the like?
 
+- example with structured diagnostic code or the like?
 
 - *python* strings and string methods
 
@@ -110,13 +104,9 @@ END OF WEEK ONE:
 	- standard XML parsing libraries
 
 
-
-??? NOT SURE IF A SEPARATE DAY/WHAT TECH CONTENT?
-
-
 ##'Raw data' is an oxymoron: making structure
 
-###  Making structure: number munging
+###Making structure: number munging [mlj]
 
 - Paul Edwards on climate data
 
@@ -138,7 +128,7 @@ END OF WEEK ONE:
 *END OF WEEK TWO: able to move to and from different formats*
 
 
-###  Making structure: text mining
+###  Making structure: text mining [mlj]
 - example: wikileaks telegraphs, enron emails, declassified state dept telegrams, twitter
 
 - text mining basics [textblob]
@@ -201,12 +191,9 @@ http://eufunds.ftdata.co.uk/
 
 >Vis, Farida. “A Critical Reflection on Big Data: Considering APIs, Researchers and Tools as Data Makers.” First Monday 18, no. 10 (2013). http://firstmonday.org/ojs/index.php/fm/article/view/4878.
 
-####stastical scolding
+####statistical scolding
 - correlation vs. causation
 - overfitting
-
-
-
 
 ##Database Metaphors and Systems
 
@@ -219,6 +206,8 @@ Fortune, Stephen. “A Brief History of Databases.” Accessed May 3, 2014. http
 - basic SQL
 	- *python* interface
 	- sqlite3 shell [/}]
+
+->using SQL for queries: example: FT EU database. [put on central sql server and let query]
 
 
 ### . Databases: NoSQL and document stores
@@ -247,16 +236,9 @@ Fortune, Stephen. “A Brief History of Databases.” Accessed May 3, 2014. http
 - CRITICAL reflection of many posts of exemplary projects
 
 
-### 13. Algorithmic documentation?
-
-- automatic archives (Stanford)
-- automatic writing (ProPublica)
-
-
-
 
 ##The Critique of Pure Data
-### . Ideologies of data
+###Ideologies of data
 
 Halevy, A., P. Norvig, and F. Pereira. “The Unreasonable Effectiveness of Data.” Intelligent Systems, IEEE 24, no. 2 (April 2009): 8–12. doi:10.1109/MIS.2009.36.
 
