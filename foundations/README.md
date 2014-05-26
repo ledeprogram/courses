@@ -18,20 +18,20 @@ location: 601b Pulitzer Hall*
 
 ### Wednesday 5/28
 
-- Course philosophy
-- Programmer's mindset
-- Getting help
+Course philosophy  
+Programmer's mindset  
+Getting help  
     - Living with syntax errors
     - Docstrings
     - Googling
     - IRC backchannel
 
-- Computer architecture
-- File cleanup/organization
+Computer architecture  
+File cleanup/organization  
 
-- Terminal bash basics
-- Introduction to pseudocode
-- Python hello world
+Terminal bash basics  
+Introduction to pseudocode  
+Python hello world
     - print, # comments 
     - int, str, list, dictionary, tuple
     - variables
