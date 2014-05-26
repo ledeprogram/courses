@@ -21,8 +21,8 @@ location: 601b Pulitzer Hall*
 Course philosophy  
 Course tools: iPython notebook, bash, Piazza, IRC, GitHub  
 Programmer's mindset  
-Getting help: Living with syntax errors, docstrings, SE, IRC   
-[Terminal bash basics](https://github.com/denten/dhnotes/wiki/cli-basics): (`pwd`, `ls`, `cd`, `cat`, `man`, `cp`, `mv`, `touch`, `nano`, flags, pipes)  
+Getting help: living with syntax errors, docstrings, SE, IRC   
+[Terminal bash basics](https://github.com/denten/dhnotes/wiki/cli-basics): (`pwd`, `ls`, `cd`, `cat`, `man`, `cp`, `mv`, `touch`, `nano`, flags, pipes, `cd ~`, `cd /`)  
 Exploring your file system (files and folders). Binary, text, hex.  
 Introduction to pseudocode  
 Python hello world
@@ -32,6 +32,7 @@ Python hello world
     - basic operators  
     - basic control structures   
     - loops and logic  
+    - iterables
 
 **TODO**: Lab notebooks. File cleanup. Posting to Piazza.  
 
