@@ -18,23 +18,28 @@ location: 601b Pulitzer Hall*
 
 ### Wednesday 5/28
 
-- Programmer's mindset
 - Course philosophy
-- Computer architecture
-- File cleanup/organization
-- Introduction to pseudocode
-- Terminal bash basics
-- Python hello world
-- Simple data types, variables, methods
+- Programmer's mindset
 - Getting help
     - Living with syntax errors
     - Docstrings
     - Googling
     - IRC backchannel
 
-#### Wishlist
+- Computer architecture
+- File cleanup/organization
 
-Conditionals & lists
+- Terminal bash basics
+- Introduction to pseudocode
+- Python hello world
+    - print, # comments 
+    - int, str, list, dictionary, tuple
+    - variables
+    - basic operators
+    - basic control structures 
+    - loops and logic
+
+**TODO**: Lab notebooks. File cleanup. 
 
 ## Week 2: Python Basics
 
