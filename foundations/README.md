@@ -19,6 +19,7 @@ location: 601b Pulitzer Hall*
 ### Wednesday 5/28
 
 Course philosophy  
+Course tools: iPython notebook, bash, Piazza, IRC, GitHub  
 Programmer's mindset  
 Getting help  
     - Living with syntax errors  
