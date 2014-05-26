@@ -12,12 +12,12 @@ instructors: Adam Parrish, Matthew Jones, Dan Vegeto (TA)
 #readings
 Readings must be completed the before the beginning of class for each session. They are likely to change as our collective interests become clearer. The readings comprise, on the one hand, promient examples of data journalism, and, on the other, more reflective methodological reflections, often in more academic idioms.
 
-##session 01: tuesday, may 27th 2014
+###session 01: tuesday, may 27th 2014
 
 setting up an ec2 server
 how to use ipython
 
-##session 02: thursday, may 29th 2014
+###session 02: thursday, may 29th 2014
 
 lists and list operations
 
@@ -35,7 +35,7 @@ Reading:
 homework assignment* due 6-3: lists and list operations
 
 
-##session 03: tuesday, june 3rd 2014
+###session 03: tuesday, june 3rd 2014
 
 dictionaries
 getting results from JSON APIs
@@ -49,7 +49,7 @@ reading:
 - http://datajournalismhandbook.org/1.0/en/case_studies_12.html
 
 
-##session 04: thursday, june 5th 2014
+###session 04: thursday, june 5th 2014
 
 strings and string operations
 regular expressions
@@ -62,7 +62,7 @@ reading:
 homework assignment: quiz on using dictionaries, problem set with regular expressions
 
 
-##session 05: tuesday, june 10th 2014
+###session 05: tuesday, june 10th 2014
 
 Making structure: number munging
 tables, vectors, arrays, number munging
@@ -71,7 +71,7 @@ readings:
 - Edwards, Paul. *A Vast Machine: Computer Models, Climate Data, and the Politics of Global Warming.* Cambridge: MIT Press, 2010, ch. 10: “Making Data Global”
 
 
-##session 06: thursday, june 12th 2014
+###session 06: thursday, june 12th 2014
 Making structure: text mining
 
 - text munging: textblob, nltk
@@ -88,7 +88,7 @@ reading:
 homework assignment: *TBD*
 	
 
-##session 07: tuesday, june 17th 2014
+###session 07: tuesday, june 17th 2014
 
 Documenting data journalism
 
@@ -104,7 +104,7 @@ Readings:
 - Vis, Farida. “A Critical Reflection on Big Data: Considering APIs, Researchers and Tools as Data Makers.” *First Monday* 18, no. 10 (2013). http://firstmonday.org/ojs/index.php/fm/article/view/4878.
 
 
-##session 08: thursday june 19th 2014
+###session 08: thursday june 19th 2014
 Network Analysis
 *session subject to change*
 
@@ -117,7 +117,7 @@ Networkx, Gephi
 
 homework assignment: *TBD*
 
-##session 09: tuesday june 24th 2014
+###session 09: tuesday june 24th 2014
 
 HTTP, HTML (Beautiful Soup), XML
 
@@ -125,7 +125,7 @@ reading:
 - Liu, Alan. “Transcendental Data: Toward a Cultural History and Aesthetics of the New Encoded Discourse.” Critical Inquiry 31, no. 1 (September 2004): 49–84. doi:10.1086/427302.
 
 
-##session 10: thursday june 26th 2014
+###session 10: thursday june 26th 2014
 
 relational databases, an introduction
 
@@ -135,27 +135,27 @@ reading:
 homework assignment: scrape a site, access a SQL database
 
 
-##session 11: tuesday july 1st 2014
+###session 11: tuesday july 1st 2014
 
 mongodb, an introduction
 
-##session 12: thursday july 3rd 2014
+###session 12: thursday july 3rd 2014
 
 introduction to web APIs w/tornado
 
 assignment: make a simple web API.
 
-##session 13: tuesday july 8th 2014
+###session 13: tuesday july 8th 2014
 
 slush/overflow/lab/selected topics day
 
-##session 14
+###session 14
 thursday july 10th 2014
 
 final project presentations
 
 
-##additional resources
+###additional resources
 learn python the hard way: http://learnpythonthehardway.org/book/
 how to think like a computer scientist (python edition): http://openbookproject.net/thinkcs/python/english2e/
 
