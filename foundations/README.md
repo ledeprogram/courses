@@ -21,10 +21,10 @@ location: 601b Pulitzer Hall*
 Course philosophy  
 Programmer's mindset  
 Getting help  
-    - Living with syntax errors
-    - Docstrings
-    - Googling
-    - IRC backchannel
+    - Living with syntax errors  
+    - Docstrings  
+    - Googling  
+    - IRC backchannel  
 
 Computer architecture  
 File cleanup/organization  
@@ -32,12 +32,12 @@ File cleanup/organization
 Terminal bash basics  
 Introduction to pseudocode  
 Python hello world
-    - print, # comments 
-    - int, str, list, dictionary, tuple
-    - variables
-    - basic operators
-    - basic control structures 
-    - loops and logic
+    - print, # comments   
+    - int, str, list, dictionary, tuple  
+    - variables  
+    - basic operators  
+    - basic control structures   
+    - loops and logic  
 
 **TODO**: Lab notebooks. File cleanup. 
 
