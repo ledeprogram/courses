@@ -7,7 +7,7 @@ instructors: Adam Parrish, Matthew Jones, Dan Vegeto (TA)
 ---
 
 
-> Description: Consideration of both the scientific and social implications of counting, of turning the world into bits. Through the process of gaining fluency in the use of Python, students will spend some time thinking through representations of core "data types" like time, location, text, image, sound and relationships (or networks), and the computational "affordances" associated with each. Students will study several common metaphors for organizing and storing data – from structureless key-value stores, to document collections like MongoDB, to a single table or spreadsheet, to the "multiple tables" of a relational database. We will also discuss ideas behind publishing or sharing data, moving from HTML documents and Web 1.0 to data services and APIs in Web 2.0, to semantics in Web 3.0. These efforts will be project-driven, with students using and building modern data services with a scripting language. Their projects will underscore the reality that data are plentiful and circulate and interact in a kind of informational ecosystem. As researchers, our students will be called on both to access and to publish data products.
+description: Consideration of both the scientific and social implications of counting, of turning the world into bits. Through the process of gaining fluency in the use of Python, students will spend some time thinking through representations of core "data types" like time, location, text, image, sound and relationships (or networks), and the computational "affordances" associated with each. Students will study several common metaphors for organizing and storing data – from structureless key-value stores, to document collections like MongoDB, to a single table or spreadsheet, to the "multiple tables" of a relational database. We will also discuss ideas behind publishing or sharing data, moving from HTML documents and Web 1.0 to data services and APIs in Web 2.0, to semantics in Web 3.0. These efforts will be project-driven, with students using and building modern data services with a scripting language. Their projects will underscore the reality that data are plentiful and circulate and interact in a kind of informational ecosystem. As researchers, our students will be called on both to access and to publish data products.
 
 #readings
 Readings must be completed the before the beginning of class for each session. They are likely to change as our collective interests become clearer. The readings comprise, on the one hand, promient examples of data journalism, and, on the other, more reflective methodological reflections, often in more academic idioms.
@@ -31,8 +31,7 @@ Reading:
 
 - Lazer, David M., Ryan Kennedy, Gary King, and Alessandro Vespignani. “The Parable of Google Flu: Traps in Big Data Analysis.” Science 343, no. 6176 (2014): 1203–5. doi:10.1126/science.1248506.
 
-
-homework assignment* due 6-3: lists and list operations
+homework assignment due 6-3: lists and list operations
 
 
 ###session 03: tuesday, june 3rd 2014
@@ -149,8 +148,7 @@ assignment: make a simple web API.
 
 slush/overflow/lab/selected topics day
 
-###session 14
-thursday july 10th 2014
+###session 14: thursday july 10th 2014
 
 final project presentations
 
