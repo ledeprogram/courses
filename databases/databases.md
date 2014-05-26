@@ -32,7 +32,7 @@ Reading:
 - Lazer, David M., Ryan Kennedy, Gary King, and Alessandro Vespignani. “The Parable of Google Flu: Traps in Big Data Analysis.” Science 343, no. 6176 (2014): 1203–5. doi:10.1126/science.1248506.
 
 
-#*homework assignment* due 6-3: lists and list operations
+homework assignment* due 6-3: lists and list operations
 
 
 ##session 03: tuesday, june 3rd 2014
@@ -104,7 +104,6 @@ Readings:
 - Vis, Farida. “A Critical Reflection on Big Data: Considering APIs, Researchers and Tools as Data Makers.” *First Monday* 18, no. 10 (2013). http://firstmonday.org/ojs/index.php/fm/article/view/4878.
 
 
-
 ##session 08: thursday june 19th 2014
 Network Analysis
 *session subject to change*
@@ -112,10 +111,11 @@ Network Analysis
 Basics of social network analysis and graph data
 Networkx, Gephi
 
+-  David Easley and Jon Kleinberg., *Networks, Crowds, and Markets: Reasoning about a Highly Connected World.*, http://www.cs.cornell.edu/home/kleinber/networks-book/, ch. 2
+
 - “Connected China”, http://connectedchina.reuters.com/
 
-
-homework assignment: TBD?
+homework assignment: *TBD*
 
 ##session 09: tuesday june 24th 2014
 
@@ -134,7 +134,6 @@ reading:
 
 homework assignment: scrape a site, access a SQL database
 
-- reexamine the FT database from session 2
 
 ##session 11: tuesday july 1st 2014
 
