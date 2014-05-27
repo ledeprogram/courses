@@ -30,7 +30,7 @@ Readings must be completed before the beginning of class for each session. They 
 
 ###session 02: thursday, may 29th 2014
 
-lists and list operations
+- lists and list operations
 
 Reading: 
 - Financial Times EU funding
@@ -47,8 +47,8 @@ homework assignment due 6-3: lists and list operations
 
 ###session 03: tuesday, june 3rd 2014
 
-dictionaries
-getting results from JSON APIs
+- dictionaries
+- getting results from JSON APIs
 
 reading: 
 - Wickham, Hadley, Deborah Swayne, and David Poole. “Bay Area Blues: The Effect of the Housing Crisis.” *Beautiful Data: The Stories Behind Elegant Data Solutions,* 2009, 303–22.
@@ -61,8 +61,8 @@ reading:
 
 ###session 04: thursday, june 5th 2014
 
-strings and string operations
-regular expressions
+- strings and string operations
+- regular expressions
 
 reading:
 + Bus Subsidies in Argentina, La Nacion: http://datajournalismhandbook.org/1.0/en/case_studies_14.html
@@ -77,9 +77,9 @@ homework assignment: quiz on using dictionaries, problem set with regular expres
 ###session 05: tuesday, june 10th 2014
 
 Making structure: number munging
-basic linear algebra
-tables, arrays 
-Pandas & NumPy
+- basic linear algebra
+- tables, arrays 
+- Pandas & NumPy
 
 readings: 
 - Edwards, Paul. *A Vast Machine: Computer Models, Climate Data, and the Politics of Global Warming.* Cambridge: MIT Press, 2010, ch. 10: “Making Data Global”
@@ -123,8 +123,8 @@ Readings:
 Network Analysis
 *session subject to change*
 
-Basics of social network analysis and graph data
-Networkx, Gephi
+- Basics of social network analysis and graph data
+- Networkx, Gephi
 
 -  David Easley and Jon Kleinberg., *Networks, Crowds, and Markets: Reasoning about a Highly Connected World.*, http://www.cs.cornell.edu/home/kleinber/networks-book/, ch. 2
 
@@ -146,7 +146,7 @@ reading:
 
 ###session 10: thursday june 26th 2014
 
-relational databases, an introduction
+- relational databases, an introduction
 
 reading:
 - Fortune, Stephen. “A Brief History of Databases.” Accessed May 3, 2014. http://vvvnt.com/media/history-of-databases.
