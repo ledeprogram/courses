@@ -67,9 +67,11 @@ reading:
 reading:
 + Bus Subsidies in Argentina, La Nacion: http://datajournalismhandbook.org/1.0/en/case_studies_14.html
 
-+http://blogs.lanacion.com.ar/projects/data/vozdata/
++ http://blogs.lanacion.com.ar/projects/data/vozdata/
 
-+ Bowker, Geoffrey C., and Susan Leigh Star. *Sorting Things Out.* (MIT Press), ch 4.
++ Berg, Mark, and Geoffrey C. Bowker. “The Multiple Bodies of the Medical Record,” 1996. https://www.ics.uci.edu/~gbowker/records.html.
+
++ 
 
 homework assignment: quiz on using dictionaries, problem set with regular expressions
 
@@ -117,6 +119,9 @@ Readings:
     and the data journalist's academic reflections
 
 - Vis, Farida. “A Critical Reflection on Big Data: Considering APIs, Researchers and Tools as Data Makers.” *First Monday* 18, no. 10 (2013). http://firstmonday.org/ojs/index.php/fm/article/view/4878.
+
+Friedman, Batya, and Helen Nissenbaum. “Bias in Computer Systems.” ACM Transactions on Information Systems (TOIS) 14, no. 3 (1996): 330–47.
+
 
 
 ###session 08: thursday june 19th 2014
