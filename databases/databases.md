@@ -4,6 +4,8 @@ date: 5/28/14 - 7/14/14
 time: T & Th
 affiliation: Columbia University, Lede Program
 instructors: Adam Parrish, Matthew Jones, Dan Vegeto (TA)
+Room: Pulizer 607B
+State of Being: Ec(-2)static
 ---
 
 
@@ -11,6 +13,8 @@ description: Consideration of both the scientific and social implications of cou
 
 #readings
 Readings must be completed before the beginning of class for each session. They are likely to change as our collective interests become clearer. The readings comprise, on the one hand, promient examples of data journalism, and, on the other, more reflective methodological reflections, often in more academic idioms.
+
+#sessions
 
 ###session 01: tuesday, may 27th 2014
 
@@ -56,6 +60,8 @@ regular expressions
 reading:
 + Bus Subsidies in Argentina, La Nacion: http://datajournalismhandbook.org/1.0/en/case_studies_14.html
 
++http://blogs.lanacion.com.ar/projects/data/vozdata/
+
 + Bowker, Geoffrey C., and Susan Leigh Star. *Sorting Things Out.* (MIT Press), ch 4.
 
 homework assignment: quiz on using dictionaries, problem set with regular expressions
@@ -64,7 +70,9 @@ homework assignment: quiz on using dictionaries, problem set with regular expres
 ###session 05: tuesday, june 10th 2014
 
 Making structure: number munging
-tables, vectors, arrays, number munging
+basic linear algebra
+tables, arrays 
+Pandas & NumPy
 
 readings: 
 - Edwards, Paul. *A Vast Machine: Computer Models, Climate Data, and the Politics of Global Warming.* Cambridge: MIT Press, 2010, ch. 10: “Making Data Global”
@@ -77,7 +85,8 @@ Making structure: text mining
 		- tokenizing, stemming
  	- tdm
 	- bag of words and its alternatives
- 	- simple algorithmss
+ 	- algorithms (clustering, LSA)
+ 	- sentiment analysis
 
 reading: 
 - Ramsay, Stephen. *Reading Machines toward an Algorithmic Criticism.* Urbana : University of Illinois Press, 2011, ch. 3
@@ -114,6 +123,10 @@ Networkx, Gephi
 
 - “Connected China”, http://connectedchina.reuters.com/
 
+- http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0025995
+
+- TED talk: https://www.ted.com/talks/james_b_glattfelder_who_controls_the_world
+
 homework assignment: *TBD*
 
 ###session 09: tuesday june 24th 2014
@@ -133,10 +146,12 @@ reading:
 
 homework assignment: scrape a site, access a SQL database
 
-
 ###session 11: tuesday july 1st 2014
 
 mongodb, an introduction
+
+reading: 
+Friedman, Batya, and Helen Nissenbaum. “Bias in Computer Systems.” *ACM Transactions on Information Systems (TOIS)* 14, no. 3 (1996): 330–47.
 
 ###session 12: thursday july 3rd 2014
 
@@ -154,11 +169,17 @@ final project presentations
 
 
 ###additional resources
+##python
 learn python the hard way: http://learnpythonthehardway.org/book/
 how to think like a computer scientist (python edition): http://openbookproject.net/thinkcs/python/english2e/
 
+##data wrangling
 https://dataiap.github.io/dataiap/
 https://github.com/mitdbg/asciiclass
+
+##data journalism examples and awardees
+http://datajournalismhandbook.org/1.0/en/index.html
+http://www.globaleditorsnetwork.org/programmes/data-journalism-awards/
 
 
 
