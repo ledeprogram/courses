@@ -4,7 +4,7 @@ date: 5/28/14 - 7/14/14
 time: T & Th
 affiliation: Columbia University, Lede Program
 instructors: Adam Parrish, Matthew Jones, Dan Vegeto (TA)
-Room: Pulizer 607B
+Room: Pulitzer 607B
 State of Being: Ec(-2)static
 ---
 
