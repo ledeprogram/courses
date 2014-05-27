@@ -14,6 +14,12 @@ description: Consideration of both the scientific and social implications of cou
 #readings
 Readings must be completed before the beginning of class for each session. They are likely to change as our collective interests become clearer. The readings comprise, on the one hand, promient examples of data journalism, and, on the other, more reflective methodological reflections, often in more academic idioms.
 
+#grading
+- 35% attendance and participation (incl. reading discussions)
+- 35% final project
+- 30% homework assignments (5% each)
+
+
 #sessions
 
 ###session 01: tuesday, may 27th 2014
