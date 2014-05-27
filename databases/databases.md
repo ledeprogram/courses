@@ -18,8 +18,9 @@ Readings must be completed before the beginning of class for each session. They 
 
 ###session 01: tuesday, may 27th 2014
 
-setting up an ec2 server
-how to use ipython
+- setting up an ec2 server
+
+- how to use ipython
 
 ###session 02: thursday, may 29th 2014
 
