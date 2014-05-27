@@ -172,14 +172,19 @@ final project presentations
 ###additional resources
 ##python
 learn python the hard way: http://learnpythonthehardway.org/book/
+
 how to think like a computer scientist (python edition): http://openbookproject.net/thinkcs/python/english2e/
 
 ##data wrangling
+
 https://dataiap.github.io/dataiap/
+
 https://github.com/mitdbg/asciiclass
 
 ##data journalism examples and awardees
+
 http://datajournalismhandbook.org/1.0/en/index.html
+
 http://www.globaleditorsnetwork.org/programmes/data-journalism-awards/
 
 
