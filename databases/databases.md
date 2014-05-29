@@ -30,7 +30,7 @@ Readings must be completed before the beginning of class for each session. They 
 
 ###session 02: thursday, may 29th 2014
 
-- lists and list operations
+- lists and list operations. [Notes here](http://nbviewer.ipython.org/github/ledeprogram/courses/blob/master/databases/01%20Lists.ipynb).
 
 Reading: 
 - Financial Times EU funding
@@ -42,7 +42,7 @@ Reading:
 
 - Lazer, David M., Ryan Kennedy, Gary King, and Alessandro Vespignani. “The Parable of Google Flu: Traps in Big Data Analysis.” Science 343, no. 6176 (2014): 1203–5. doi:10.1126/science.1248506.
 
-homework assignment due 6-3: lists and list operations
+homework assignment due 6-3: [Lists and list operations](http://nbviewer.ipython.org/github/ledeprogram/courses/blob/master/databases/Data%20and%20Databases%20Homework%20Assignment%201.ipynb).
 
 
 ###session 03: tuesday, june 3rd 2014
