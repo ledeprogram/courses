@@ -71,7 +71,6 @@ reading:
 
 + Berg, Mark, and Geoffrey C. Bowker. “The Multiple Bodies of the Medical Record,” 1996. https://www.ics.uci.edu/~gbowker/records.html.
 
-+ 
 
 homework assignment: quiz on using dictionaries, problem set with regular expressions
 
