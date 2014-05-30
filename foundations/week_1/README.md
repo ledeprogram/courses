@@ -26,6 +26,10 @@ People are really into the [Zen of Python](http://legacy.python.org/dev/peps/pep
 
 ## Writing Python
 
+#### Rule 1: NO FEAR
+
+Programming is all about Googling error messages, reading code that doesn't make sense, and crossing your fingers that you didn't forget a parenthesis. **Every once in a while you type things, too.** No matter what, though, the first step to being able to rock it is to not be *too* intimidated. Just think of it as a foreign language that doesn't have to be pronounced! 
+
 #### Learning Python outside of class
 
 You all asked me about this a ton! [Learn Python the Hard Way](http://learnpythonthehardway.org) is the number one best (cheapskates can scroll until you see the *free to read online* link), but you can also check out the much-maligned-by-me [Codecademy course](http://www.codecademy.com/tracks/python).
