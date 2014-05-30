@@ -2,6 +2,10 @@
 
 First we did **introductions!** I'm of course Soma, and most easily found on Twitter at [@dangerscarf](https://twitter.com/dangerscarf) if you have questions about any of this. Longer inquiries can head on over to [jonathan.soma@gmail.com](jonathan.soma@gmail.com).
 
+## IRC: Internet Relay Chat
+
+A chat room for secretly whispering during class. To log in you can download [Colloquy](http://colloquy.info) or Macs or [mIRC](http://www.mirc.com) for Windows machines. The room to join is **#ledeprogram** on **chat.freenode.net**.
+
 ## The Tiniest Overview of Programming languages
 
 **Programming languages** are the words and symbols that make computers Do Stuff. In the end they can all more or less do the exact same sorts of things, but some have more parenthesis or support for language processing or [aren't based on English](http://en.wikipedia.org/wiki/Ezhil_(programming_language)) or all sorts of things.
