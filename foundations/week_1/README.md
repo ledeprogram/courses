@@ -26,6 +26,10 @@ A chat room for secretly whispering during class. To log in you can download [Co
 
 We saw a lot of examples in class, checking out code that was [unreadable &amp; uncommented](unreadable-uncommented.py), [unreadable &amp; commented](unreadable-commented.py), [readable &amp; uncommented](readable-uncommented.py), and finally [readable &amp; commented](readable-commented.py).
 
+Ignore the parts you don't know, and speak the ones you do know out loud. `for filename in python_filenames:` doesn't *really* mean anything in English but you can get the gist of it. It's just a foreign language - you probably don't know what *aisukurimu* means in Japanese, but if you [listen to it and think a little](http://www.forvo.com/word/aisukurimu/) it'll click.
+
+If you end up with `python_filenames = glob.glob('*.ipynb')`, maybe you don't know what `glob.glob` means, but if someone's been naming their variables well you know what it ends up making for you: a bunch of python filenames.
+
 People are really into the [Zen of Python](http://legacy.python.org/dev/peps/pep-0020/) as a series of edicts about how to write Python, but it might just be [too zen to be of any use](http://stackoverflow.com/questions/4506563/what-is-the-pythonic-way-of-programming#comment4932944_4506587). Just keep your code readable and add a lot of comments - that way you'll know what you were doing when you read your code weeks later!
 
 ## Writing Python
@@ -54,9 +58,29 @@ We learned about using &lt;shift&gt;+&lt;tab&gt; to bring up  [docstrings](http:
 
 We also brushed up against methods and functions. Functions were roughly defined as `len` in `len(name)` and methods as the `upper` part of `name.upper()`. We learned you can pass arguments or parameters to them, like when we sent `"a"` to a method with `"Soma".count("a")`.
 
-You can find most of that code right on over in [Hello world.ipynb](Hello world.ipynb).
+**[Control structures](https://docs.python.org/2/tutorial/controlflow.html)** showed their faces as **if** statements.
 
-**Lists** came up near the end, where we had `[5, 2, 7]` and tried to figure out how to count all those numbers up. We also talked about how to think about keeping running totals and writing **pseudocode**, which is sort of what the comments below are.
+```python
+if cell['cell_type'] == "code":
+  print "I found a code cell"
+elif cell['cell_type'] == "markdown":
+  print "I found a markdown cell"
+else:
+  print "This was neither a code cell nor a markdown cell"
+```
+
+**[Lists](https://developers.google.com/edu/python/lists)** came up near the end, where we had `[5, 2, 7]` and tried to figure out how to count all those numbers up. We also talked about how to think about keeping running totals and writing **pseudocode**, which is sort of what the comments below are.
+
+You can go through each element of a list using `for x in y:` - that's one of many types of **loop**. You indent everything that you'd like to do with that element, like so:
+
+```python
+for filename in filenames:
+  # Indent what you're doing with your filename! Python is all about indentation.
+  print filename
+```
+
+You can find most of that code right on over in [Hello world.ipynb](http://nbviewer.ipython.org/github/ledeprogram/courses/blob/master/foundations/week_1/Hello%20world.ipynb), and some more is just below.
+
 
 ```python
 # Open the file
