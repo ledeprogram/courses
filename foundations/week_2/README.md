@@ -69,7 +69,86 @@ with open('dogs.csv', 'rb') as csvfile:
          print row
 ```
 
-....more is coming!
+Great! Looking good. Now we want to see how many dogs are in the sample. We need to do a few things - you'll want to add your code in under my comments. I'll add in the actual code after Wednesday!
+
+```python
+import csv
+with open('dogs.csv', 'rb') as csvfile:
+    # Start off with 0 dogs
+    
+    dogcsv = csv.reader(csvfile, delimiter=',',)
+    for row in dogcsv:
+        # Increase the counting by 1
+        
+        print row
+    # Print the number of dogs we came across
+    
+```
+
+Why all the indenting? Indenting shows that some blocks of code (the indented part) belongs to something above it. Like when you're making a nested list, like this...
+
+- Canines:
+  - Dog:
+    - Afghan Hound
+    - Pomeranian
+    - Golden Retriever
+  - Wolf
+- Felines:
+  - Lion
+  - Tiger
+  - Cat
+
+Indenting is very important in Python! You'll probably get errors if you mess up the indenting. For example...
+
+```python
+if 2 > 3:
+  print 'I can do math!'
+  print '2 is greater than 3'
+```
+
+If you run that in IPython, you won't get any output. But if you do this...
+
+```python
+if 2 > 3:
+  print 'I can do math!'
+print '2 is greater than 3'
+```
+
+It'll output `2 is greater than 3`! But not because `2 > 3` is `True`, but because Python doesn't consider `print '2 is greater than 3'` to be inside of the `if 2 > 3` block. Oh yeah, and things that are indented together are generally called **block**.
+
+#### Getting columns from the row
+
+This was the part where I became spectacularly inept at explaining how loops work. You might want to try out my IPython notebook about [looping through a CSV](http://nbviewer.ipython.org/github/ledeprogram/courses/blob/master/foundations/week_2/Looping%20through%20a%20CSV.ipynb) to learn more.
+
+So we wanted to grab the dog names. 
+
+```python
+import csv
+with open('dogs.csv', 'rb') as csvfile:
+     dogcsv = csv.reader(csvfile, delimiter=',',)
+     for row in dogcsv:
+         print row[0]
+```
+
+`row[0]` is getting **the 0th element of the row**. I think that's the best way to remember what [n] does - remember it's **not** the 0th row. What's the first element of the row? If you look at the csv, it's the dog's name. So the above code should print out the dog's name.
+
+#### Common patterns
+
+Counting the number of anything
+
+```
+len(list_of_things)
+```
+
+```
+# Start off with 0
+count = 0
+for element in list_of_things:
+    # Add one to increment count 
+    count = count + 1
+# Display count
+print count
+```
 
 ### Links
 
