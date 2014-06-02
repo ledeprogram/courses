@@ -14,7 +14,7 @@ You can find the **complete dogs.csv** at `http://jonathansoma.com/lede/dogs.csv
 
 1. How many dogs are registered in New York City? *Hint: if you check out the IPython notebook above, it talks about how to convert the csv.reader variable into a list, which might give you an easy way to do it*
 2. How many dogs are registered in Brooklyn? Staten Island? Queens? Manhattan? Bronx?
-3. How many dogs are named Max in [Bed Stuy](http://www.city-data.com/neighborhood/Bedford-Stuyvesant-Brooklyn-NY.html)?
-4. How many dogs have the color [brindle](http://en.wikipedia.org/wiki/Brindle) as their first or second color?
-5. How many dogs are named Max in the [Lower East Side](http://www.city-data.com/neighborhood/Lower-East-Side-New-York-NY.html)?
+3. How many dogs are named Max in the [Lower East Side](http://www.city-data.com/neighborhood/Lower-East-Side-New-York-NY.html)?
+4. How many dogs are named Max in [Bed Stuy](http://www.city-data.com/neighborhood/Bedford-Stuyvesant-Brooklyn-NY.html)?
+5. How many dogs have the color [brindle](http://en.wikipedia.org/wiki/Brindle) as their first or second color?
 6. Ask the user for their name (you're gonna have to Google how to get user input in python!). Then find out how many dogs in New York have that name.
