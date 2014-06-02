@@ -134,6 +134,13 @@ with open('dogs.csv', 'rb') as csvfile:
 
 #### Common patterns
 
+Looping through things
+
+```
+For element in list_of_things:
+  # Do something with that element
+```
+
 Counting the number of anything
 
 ```
