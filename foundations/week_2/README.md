@@ -140,6 +140,8 @@ Counting the number of anything
 len(list_of_things)
 ```
 
+If it's a list, or if it isn't (or you need to be more detailed) try this out
+
 ```
 # Start off with 0
 count = 0
