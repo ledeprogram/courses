@@ -23,3 +23,4 @@ Informal ah-hoc gatherings to share drinks and ideas.
 5. Mac users install [TextWrangler](http://www.barebones.com/products/textwrangler/). Windows users install [Notepad++](http://notepad-plus-plus.org/)
 6. Markdown editors: Mac users install [MOU](http://mouapp.com/). On Windows go with [Markdown Pad](http://markdownpad.com/).
 7. Open a GitHub account. Send your username to Charles B., your TA.
+8. Install [Git](http://git-scm.com/book/en/Getting-Started-Installing-Git). Follow the instructions for your OS.

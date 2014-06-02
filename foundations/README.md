@@ -36,9 +36,9 @@ Python hello world:
 
 ## Week 2: Terminal Basics 
 
-**Focus**: Learn to read and write basic (clean, commented, beautiful) Python.
+**Focus**: Learn to read and write basic (clean, commented, beautiful) Python.  
 
-**Week Inspiration:** [Dogs of NYC](http://project.wnyc.org/dogs-of-nyc/)
+**Week Inspiration:** [Dogs of NYC](http://project.wnyc.org/dogs-of-nyc/)  
 
 ### Monday 6/2
 
@@ -48,19 +48,20 @@ Python hello world:
 - Dictionaries (csv.reader vs. csv.DictReader)
 - for...in
 - Functions
-- Object-oriented basics
 - Style w/ PEP 8
 - Programmer's mindset  
 - Getting help: living with syntax errors, docstrings, SE, IRC   
 - [Terminal bash basics](https://github.com/denten/dhnotes/wiki/cli-basics): (`pwd`, `ls`, `cd`, `cat`, `man`, `cp`, `mv`, `touch`, `nano`, flags, pipes, `cd ~`, `cd /`)  
-- Exploring your file system (files and folders). Binary, text, hex.- Github workflow
-- Markdown
+- Exploring your file system (files and folders). Binary, text, hex.- Github workflow  
+- Markdown  
 
 **Resources:** [Sustainable Authorship in Plain Text](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
 
 ### Wednesday 6/4
 
-- Lab notebooks
+- Object-oriented basics
+- Lab notebooks  
+
 ## Week 3: Object Orienteering
 
 **Focus:** Get more comfortable with coding, install some libraries, write your own class.
