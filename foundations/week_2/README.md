@@ -39,13 +39,15 @@ dogs = open("dogs.csv","rb")
 
 But then we Googled [how to open a csv using python](https://www.google.com/search?client=safari&rls=en&q=how+to+open+a+csv+using+python&ie=UTF-8&oe=UTF-8) and came up with something from [the Python documentation](https://docs.python.org/2/library/csv.html).
 
-  >>> import csv
-  >>> with open('eggs.csv', 'rb') as csvfile:
-  ...     spamreader = csv.reader(csvfile, delimiter=' ', quotechar='|')
-  ...     for row in spamreader:
-  ...         print ', '.join(row)
-  Spam, Spam, Spam, Spam, Spam, Baked Beans
-  Spam, Lovely Spam, Wonderful Spam
+```
+>>> import csv
+>>> with open('eggs.csv', 'rb') as csvfile:
+...     spamreader = csv.reader(csvfile, delimiter=' ', quotechar='|')
+...     for row in spamreader:
+...         print ', '.join(row)
+Spam, Spam, Spam, Spam, Spam, Baked Beans
+Spam, Lovely Spam, Wonderful Spam
+```
 
 Lots of garbage was hanging out in there! The last two lines were the output of the example, and the `>>>` and `...` are just some "this is code" junk. So we're left with this...
 
