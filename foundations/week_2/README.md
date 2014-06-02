@@ -64,7 +64,7 @@ We needed to make it make sense with our code, so we changed `eggs.csv` to `dogs
 ```python
 import csv
 with open('dogs.csv', 'rb') as csvfile:
-     dogcsv = csv.reader(csvfile, delimiter=',',)
+     dogcsv = csv.reader(csvfile, delimiter=',')
      for row in dogcsv:
          print row
 ```
@@ -76,7 +76,7 @@ import csv
 with open('dogs.csv', 'rb') as csvfile:
     # Start off with 0 dogs
     
-    dogcsv = csv.reader(csvfile, delimiter=',',)
+    dogcsv = csv.reader(csvfile, delimiter=',')
     for row in dogcsv:
         # Increase the counting by 1
         
@@ -125,7 +125,7 @@ So we wanted to grab the dog names.
 ```python
 import csv
 with open('dogs.csv', 'rb') as csvfile:
-     dogcsv = csv.reader(csvfile, delimiter=',',)
+     dogcsv = csv.reader(csvfile, delimiter=',')
      for row in dogcsv:
          print row[0]
 ```
