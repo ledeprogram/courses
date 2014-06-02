@@ -18,9 +18,14 @@ Informal ah-hoc gatherings to share drinks and ideas.
 
 1. Run system update on your machine
 2. Sign up for an Amazon AWS account (it is free, but you will be asked to enter your CC) 
-3. Follow the instructions on the site to install [Pandoc](http://babun.github.io/)
-4. Windows users install [Babun](http://babun.github.io/)
-5. Mac users install [TextWrangler](http://www.barebones.com/products/textwrangler/). Windows users install [Notepad++](http://notepad-plus-plus.org/)
-6. Markdown editors: Mac users install [MOU](http://mouapp.com/). On Windows go with [Markdown Pad](http://markdownpad.com/).
-7. Open a GitHub account. Send your username to Charles B., your TA.
-8. Install [Git](http://git-scm.com/book/en/Getting-Started-Installing-Git). Follow the instructions for your OS.
+3. **Windows** users ONLY install [Babun](http://babun.github.io/)
+4. Mac users install [TextWrangler](http://www.barebones.com/products/textwrangler/). Windows users install [Notepad++](http://notepad-plus-plus.org/)
+5. Markdown editors: Mac users install [MOU](http://mouapp.com/). On Windows go with [Markdown Pad](http://markdownpad.com/).
+6. Open a GitHub account. Send your username to Charles B., your TA.
+7. Install [Git](http://git-scm.com/book/en/Getting-Started-Installing-Git). Follow the instructions for your OS.
+8. Install [Pip](http://pip.readthedocs.org/en/latest/installing.html)
+9. Install [iPython](http://ipython.org/ipython-doc/stable/install/install.html)
+10. Follow the instructions on the site to install [Pandoc](http://babun.github.io/)
+
+
+Come to the lab and/or post to Piazza if you are having problems.
