@@ -12,7 +12,7 @@ location: 601b Pulitzer Hall*
 
 > An introduction to the ways in which the computer and data technologies can be partners in creative practices. We will emphasize writing code over point-and-click interfaces, presenting the computer as a programmable object. Through a series of projects, students will move from exploratory sessions, to writing small programs, to sharing code with others in class. They will learn by making, and in the process master a "scripting language" like Python or Ruby. Projects will examine and extend existing technologies in the digital humanities, computational journalism, architecture, and design; and will likely deal in text and images, in human relationships as exhibited through social networks, in map-making, and in reporting.
 
-## Week 1: Intro to Terminal
+## Week 1: Intro to Python 
 
 **Focus**: Get comfortable running Python at the command line and understand that seeking out help is 90% of coding
 
@@ -20,10 +20,7 @@ location: 601b Pulitzer Hall*
 
 Course philosophy  
 Course tools: iPython notebook, bash, Piazza, IRC, GitHub  
-Programmer's mindset  
-Getting help: living with syntax errors, docstrings, SE, IRC   
-[Terminal bash basics](https://github.com/denten/dhnotes/wiki/cli-basics): (`pwd`, `ls`, `cd`, `cat`, `man`, `cp`, `mv`, `touch`, `nano`, flags, pipes, `cd ~`, `cd /`)  
-Exploring your file system (files and folders). Binary, text, hex.  
+  
 Introduction to pseudocode  
 Python hello world:  
 
@@ -37,30 +34,33 @@ Python hello world:
 
 **TODO**: Lab notebooks. File cleanup. Posting to Piazza.  
 
-## Week 2: Python Basics
+## Week 2: Terminal Basics 
 
-**Focus**: Learn to read and write basic (clean, commented, beautiful) Python.
+**Focus**: Learn to read and write basic (clean, commented, beautiful) Python.  
 
-**Week Inspiration:** [Dogs of NYC](http://project.wnyc.org/dogs-of-nyc/)
-
-**Resources:** [Sustainable Authorship in Plain Text](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
+**Week Inspiration:** [Dogs of NYC](http://project.wnyc.org/dogs-of-nyc/)  
 
 ### Monday 6/2
 
-- More pseudocode
+- Algorithmic thinking with [Dogs of NYC data](https://www.google.com/fusiontables/data?docid=1pKcxc8kzJbBVzLu_kgzoAMzqYhZyUhtScXjB0BQ#rows:id=1)
+
 - Writing readable code 
 - Dictionaries (csv.reader vs. csv.DictReader)
 - for...in
 - Functions
-- Object-oriented basics
 - Style w/ PEP 8
-- Github workflow
-- Markdown
+- Programmer's mindset  
+- Getting help: living with syntax errors, docstrings, SE, IRC   
+- [Terminal bash basics](https://github.com/denten/dhnotes/wiki/cli-basics): (`pwd`, `ls`, `cd`, `cat`, `man`, `cp`, `mv`, `touch`, `nano`, flags, pipes, `cd ~`, `cd /`)  
+- Exploring your file system (files and folders). Binary, text, hex.- Github workflow  
+- Markdown  
+
+**Resources:** [Sustainable Authorship in Plain Text](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
 
 ### Wednesday 6/4
 
-- Lab notebooks
-- Algorithmic thinking with [Dogs of NYC data](https://www.google.com/fusiontables/data?docid=1pKcxc8kzJbBVzLu_kgzoAMzqYhZyUhtScXjB0BQ#rows:id=1)
+- Object-oriented basics
+- Lab notebooks  
 
 ## Week 3: Object Orienteering
 
