@@ -10,7 +10,7 @@ I put together an IPython notebook about [looping through a CSV](http://nbviewer
 
 ### Homework
 
-You can find the **complete dogs.csv** at `http://jonathansoma.com/lede/dogs.csv`. Using that file, find out...
+You can find the **complete dogs.csv** at `http://jonathansoma.com/lede/dogs.csv`. Using a new IPython notebook, find out...
 
 1. How many dogs are registered in New York City? *Hint: if you check out the IPython notebook above, it talks about how to convert the csv.reader variable into a list, which might give you an easy way to do it*
 2. How many dogs are registered in Brooklyn? Staten Island? Queens? Manhattan? Bronx?
@@ -18,3 +18,7 @@ You can find the **complete dogs.csv** at `http://jonathansoma.com/lede/dogs.csv
 4. How many dogs are named Max in [Bed Stuy](http://www.city-data.com/neighborhood/Bedford-Stuyvesant-Brooklyn-NY.html)?
 5. How many dogs have the color [brindle](http://en.wikipedia.org/wiki/Brindle) as their first or second color?
 6. Ask the user for their name (you're gonna have to Google how to get user input in python!). Then find out how many dogs in New York have that name.
+
+Remember to add in comments about where you found answers and what you're trying to do during each step!
+
+When you've done what you can (...everything, right?), save the IPython notebook by going to `File > Download as...` and click `IPython Notebook`. A `.ipynb` will be downloaded to your computer. E-mail that file as an attachment to `jonathan.soma@gmail.com`.
