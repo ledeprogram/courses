@@ -134,7 +134,15 @@ What's the difference? Well, the first one looks kind of standard. Just things i
 
 Just by looking at it, we can tell the second one is using a **block**, thanks to the indentation and the way the first line ends in `:`. Since it's indented, we should assume that something from the top part applies to the indented part.
 
-But what is it? Well, we're doing something with a variable called `csvfile` that didn't exist before, and it's in the top `with` part, so let's make a wild guess that the `csvfile` variable was created **just for the indented block**. Every time you want to use `csvfile`, you'll need your code to be indented. For example, this wouldn't work:
+But what is it? Well, we're doing something with a variable called `csvfile` that didn't exist before, and it's in the top `with` part, so let's make a wild guess that the `csvfile` variable was created **just for the indented block**. Every time you'd want to use `csvfile`, you'd need your code to be indented.
+
+For example, think about the difference between these two:
+
+```python
+with open('dogs.csv', 'rb') as csvfile:
+    print 'hello'
+    dogcsv = csv.reader(csvfile, delimiter=',') 
+```
 
 ```python
 with open('dogs.csv', 'rb') as csvfile:
@@ -142,7 +150,7 @@ with open('dogs.csv', 'rb') as csvfile:
 dogcsv = csv.reader(csvfile, delimiter=',') 
 ```
 
-Because outside of that indented part, `csvfile` doesn't mean anything! It'd be like if we changed our list above from
+They'll both print `hello`, but the second one won't successfully create `dogcsv` from `csvfile`. Outside of that indented block, `csvfile` doesn't mean anything! It'd be like if we changed our list above from...
 
 - Canines:
   - Dog:
@@ -151,7 +159,7 @@ Because outside of that indented part, `csvfile` doesn't mean anything! It'd be 
     - Golden Retriever
   - Wolf
 
-on over to to
+...on over to...
 
 - Canines:
   - Dog:
@@ -160,7 +168,7 @@ on over to to
   - Golden Retriever
   - Wolf
 
-The golden retriver belongs under dogs! So, in summary: there are a million ways to do things (and they might all be confusingly similar), and indenting is important.
+It's no good, because "Golden Retriver" belongs under "Dogs"! So, in summary: there are a million ways to do things (and they might all be confusingly similar), and indenting is important.
 
 #### Getting columns from the row
 
