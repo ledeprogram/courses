@@ -47,8 +47,7 @@ homework assignment due 6-3: [Lists and list operations](http://nbviewer.ipython
 
 ###session 03: tuesday, june 3rd 2014
 
-- dictionaries
-- getting results from JSON APIs
+- dictionaries, getting results from JSON APIs. [Notes here](http://nbviewer.ipython.org/github/ledeprogram/courses/blob/master/databases/02%20Dictionaries%20and%20Web%20APIs.ipynb).
 
 reading: 
 - Wickham, Hadley, Deborah Swayne, and David Poole. “Bay Area Blues: The Effect of the Housing Crisis.” *Beautiful Data: The Stories Behind Elegant Data Solutions,* 2009, 303–22.
