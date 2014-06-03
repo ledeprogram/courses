@@ -182,20 +182,20 @@ with open('dogs.csv', 'rb') as csvfile:
 
 Looping through things
 
-```
-For element in list_of_things:
+```python
+for element in list_of_things:
   # Do something with that element
 ```
 
 Counting the number of anything
 
-```
+```python
 len(list_of_things)
 ```
 
-If it's a list, or if it isn't (or you need to be more detailed) try this out
+You can also do this for list-ish things (like `csv.reader`)
 
-```
+```python
 # Start off with 0
 count = 0
 for element in list_of_things:
