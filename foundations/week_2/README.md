@@ -116,6 +116,52 @@ print '2 is greater than 3'
 
 It'll output `2 is greater than 3`! But not because `2 > 3` is `True`, but because Python doesn't consider `print '2 is greater than 3'` to be inside of the `if 2 > 3` block. Oh yeah, and things that are indented together are generally called **block**.
 
+#### Aside: Things being done different ways
+
+It looks like we accidentally came across two ways of opening a CSV file:
+
+```python
+csvfile = open("dogs.csv","rb")
+dogcsv = csv.reader(csvfile, delimiter=',')
+```
+
+```python
+with open('dogs.csv', 'rb') as csvfile:
+    dogcsv = csv.reader(csvfile, delimiter=',')
+```
+
+What's the difference? Well, the first one looks kind of standard. Just things in a row, assigning variables, la la la. The second one involves indenting, and this new `with ... as ...:` structure.
+
+Just by looking at it, we can tell the second one is using a **block**, thanks to the indentation and the way the first line ends in `:`. Since it's indented, we should assume that something from the top part applies to the indented part.
+
+But what is it? Well, we're doing something with a variable called `csvfile` that didn't exist before, and it's in the top `with` part, so let's make a wild guess that the `csvfile` variable was created **just for the indented block**. Every time you want to use `csvfile`, you'll need your code to be indented. For example, this wouldn't work:
+
+```python
+with open('dogs.csv', 'rb') as csvfile:
+    print 'hello'
+dogcsv = csv.reader(csvfile, delimiter=',') 
+```
+
+Because outside of that indented part, `csvfile` doesn't mean anything! It'd be like if we changed our list above from
+
+- Canines:
+  - Dog:
+    - Afghan Hound
+    - Pomeranian
+    - Golden Retriever
+  - Wolf
+
+on over to to
+
+- Canines:
+  - Dog:
+    - Afghan Hound
+    - Pomeranian
+  - Golden Retriever
+  - Wolf
+
+The golden retriver belongs under dogs! So, in summary: there are a million ways to do things (and they might all be confusingly similar), and indenting is important.
+
 #### Getting columns from the row
 
 This was the part where I became spectacularly inept at explaining how loops work. You might want to try out my IPython notebook about [looping through a CSV](http://nbviewer.ipython.org/github/ledeprogram/courses/blob/master/foundations/week_2/Looping%20through%20a%20CSV.ipynb) to learn more.
