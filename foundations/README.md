@@ -57,10 +57,11 @@ Python hello world:
 
 - text and data workflows
 - language interpreters
+- taking control of IDE
+- Lab notebooks
 - code and data
 - Markdown
 - Pandoc
-- Lab notebooks
 - Version control
 - Github workflow
 - finish going through the Dogs code
