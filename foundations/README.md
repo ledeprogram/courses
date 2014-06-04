@@ -61,8 +61,8 @@ Python hello world:
 - Markdown
 - Pandoc
 - Lab notebooks
-- Github workflow
 - Version control
+- Github workflow
 - finish going through the Dogs code
 
 **Resources:** [Sustainable Authorship in Plain Text](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
