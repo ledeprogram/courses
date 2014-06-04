@@ -233,3 +233,12 @@ You can find the **complete dogs.csv** at `http://jonathansoma.com/lede/dogs.csv
 Remember to add in comments about where you found answers and what you're trying to do during each step!
 
 When you've done what you can (...everything, right?), save the IPython notebook by going to `File > Download as...` and click `IPython Notebook`. A `.ipynb` will be downloaded to your computer. E-mail that file as an attachment to `jonathan.soma@gmail.com`.
+
+## Wednesday, June 4, 2014
+
+**Preemptive notes:** Run this to get some sample dog homework responses on your IPython Notebook servers
+
+```python
+import urllib
+urllib.urlretrieve("https://raw.githubusercontent.com/ledeprogram/courses/master/foundations/week_2/dog-homework-responses.ipynb", "Sample Dog Homework Responses.ipynb")
+```
