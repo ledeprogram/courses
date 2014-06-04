@@ -48,52 +48,55 @@ Python hello world:
 - Dictionaries (csv.reader vs. csv.DictReader)
 - for...in
 - Functions
-- Style w/ PEP 8
-- Programmer's mindset  
-- Getting help: living with syntax errors, docstrings, SE, IRC   
+- Programmer's mindset
+- Getting help: living with syntax errors, docstrings, SE, IRC 
 - [Terminal bash basics](https://github.com/denten/dhnotes/wiki/cli-basics): (`pwd`, `ls`, `cd`, `cat`, `man`, `cp`, `mv`, `touch`, `nano`, flags, pipes, `cd ~`, `cd /`)  
-- Exploring your file system (files and folders). Binary, text, hex.- Github workflow  
-- Markdown  
-
-**Resources:** [Sustainable Authorship in Plain Text](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
+- Exploring your file system (files and folders). Binary, text, hex.
 
 ### Wednesday 6/4
 
-- Object-oriented basics
-- Lab notebooks  
+- Markdown
+- Pandoc
+- Lab notebooks
+- Github workflow
+- Version control
+- finish going through the Dogs code
 
-## Week 3: Object Orienteering
+**Resources:** [Sustainable Authorship in Plain Text](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
 
-**Focus:** Get more comfortable with coding, install some libraries, write your own class.
+## Week 3: Working with Text 
 
-**Week Inspiration:** [Quakebot](http://www.slate.com/blogs/future_tense/2014/03/17/quakebot_los_angeles_times_robot_journalist_writes_article_on_la_earthquake.html)
+**Focus:** Get more comfortable with coding, install some libraries, work with plain text.
 
-**Resources**: [Idiomatic Python](http://web.archive.org/web/20140501190202/http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html)
+**Resources**: [Idiomatic Python](http://web.archive.org/web/20140501190202/http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html). [Raw Text w/ NLTK](http://www.nltk.org/book/ch03.html).
 
 ### Monday: 6/9
 
 - Reading other peoples' code
-- Installing & using libraries ([gspread](https://github.com/burnash/gspread)?)
-- Writing your own classes
-- ~~Version control~~
-- ~~Data types~~
-- ~~Control structures~~
-- ~~From text to data~~
+- Writing your own methods and classes
+- passing data
+- dictionary, tuple 
+- Installing & using libraries (NLTK) 
+- PIP and PEP
 
 ### Wednesday 6/11
 
+- Intro to NLTK
+- from text to data 
+- unicode
+- string, token, stem, corpus, vocabulary, lemma
+- regex
 - Write a story generator
     - Class with methods, attributes
     - Outputs sentence based on input
     - Can be expanded/contracted based on skill level
 
-~~***Lab:*** Github workflow. NLTK excercises.~~
 
 ## Week 4: Working with the Census and an introduction to APIs
 
 **Focus:** Use another library, a simple key-based API, understand Census data
 
-**Week Inspiration:** [Almost every story ever uses ACS data](http://articles.latimes.com/keyword/american-community-survey)
+**Week Inspiration:** [Almost every story ever uses ACS data](http://articles.latimes.com/keyword/american-community-survey). [Quakebot](http://www.slate.com/blogs/future_tense/2014/03/17/quakebot_los_angeles_times_robot_journalist_writes_article_on_la_earthquake.html)
 
 ### Monday 6/16
 
@@ -108,29 +111,30 @@ Python hello world:
 ### Wednesday 6/18
 
 - .gitignore for API keys
-- Project using with ACS data
+- Working with Twitter API 
 
 ## Week 5: AWS & Crypto
 
-- AWS Server
-- Cloud computing
-- Internet infrastructure 
-- Cron
-
-**Week Inspiration:** ??? ~~[Twitter stories](http://radar.oreilly.com/2013/12/tweets-loud-and-quiet.html)~~
+*Week Inspiration:** ??? ~~[Twitter stories](http://radar.oreilly.com/2013/12/tweets-loud-and-quiet.html)~~
 
 ### Monday 6/23
 
-- OAuth?
-- Security and cryptography 
+- AWS Server
+- Cloud computing
+- ssh / scp
+- Internet infrastructure 
+- Cron
+- tor
 
 ### Wednesday 6/25
 
 - Send an encrypted email message
+- Security and cryptography 
+- what is bitcoin?
 
 **Resources**: [How PGP Works](http://web.archive.org/web/20140501185547/http://www.pgpi.org/doc/pgpintro/), [Mailvelope](http://www.mailvelope.com/), [Keybase](https://keybase.io/)
 
-## Week 6: Matplotlib
+## Week 6: Data Visualization 
 
 **Focus:** Make visuals of your data
 
@@ -145,6 +149,7 @@ Python hello world:
 - Working with data
 - Data visualization
 - Matplotlib
+- EDA
 
 ### Wednesday 7/2
 
