@@ -236,9 +236,72 @@ When you've done what you can (...everything, right?), save the IPython notebook
 
 ## Wednesday, June 4, 2014
 
-**Preemptive notes:** Run this to get some sample dog homework responses on your IPython Notebook servers
+#### Homework!
+
+For your homework, write up some lab notes in Markdown! I'd recommend taking your old notes and converting them to Markdown, just so we can end up keeping them all in the same place.
+
+Read below for more!
+
+#### Dog Homework Stuff
+
+**Preemptive notes:** Run this to get some sample dog homework responses on your IPython Notebook servers. You can read this code to understand things other people tried, or just gasp at the fact that there are one million ways to do even the most sinmple thing.
 
 ```python
 import urllib
 urllib.urlretrieve("https://raw.githubusercontent.com/ledeprogram/courses/master/foundations/week_2/dog-homework-responses.ipynb", "Sample Dog Homework Responses.ipynb")
 ```
+
+Make a new IPython project, past the above into the first cell, run it, then go back to the root of your IPython server - there should now be a new project called `Sample Dog Homework Responses`.
+
+I'll be publishing an annotated version of that code eventually, but it should be good enough for now.
+
+### Lab notes
+
+You see what I'm doing here? These are lab notes. *You* can write lab notes! You *will* write lab notes!
+
+See those aggressive italics? That's **Markdown**. That's what you'll be writing your lab notes in.
+
+#### Markdown
+
+Markdown is a compromise between writing in a terrible, inaccessible file format *cough*Word*cough*, and writing in plain-jane no-frills text. By using asterisks, pound symbols and underscores you can transform your text into ~*_SOMETHING INCREDIBLE_*~!!!!!
+
+(**Big not-so-secret note:** This is all written in Markdown! As I'm writing it, it [looks just like this](https://raw.githubusercontent.com/ledeprogram/courses/master/foundations/week_2/README.md).)
+
+To learn Markdown syntax, while you can check out Daring Fireball's [tiny-fonted guide](http://daringfireball.net/projects/markdown/syntax), I find the [Mastering Markdown GitHub Guide](https://guides.github.com/features/mastering-markdown/) or [this cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) way more accessible.
+
+Honestly, though, at first you'll probably want to make sure you're typing it out right as you go along. It'll be like that [side-by-side thing Dennis used during class](http://dillinger.io), but it'll be one that can save files to your own computer. Mac users should try out [Mou](http://mouapp.com) and Windows users can check out [MarkdownPad](http://markdownpad.com). Once you're a complete kingpin you can just write it straight in your plain text editor.
+
+You save Markdown files just the same as you'd save any other file - just use the extension **.md** if it asks you for one, just like Word files are **.docx**. The only difference is if you're editing them plain (try opening them in TextWrangler or NotePad++), you can't see all the formatting. You'll need to pop them into Mou or Dillinger or the like to be able to see what it looks like displayed.
+
+(**Prophecy of Next Week:** We're going to upload your notes to GitHub, where it will hide the code you've written and only display beautiful, beautiful text.)
+
+#### What are lab notes?
+
+Lab notes cover everything you've done during a project, kind of like what I've done above. They should probably include the following:
+
+- Your thought process
+- Things that worked
+- Things you tried that didn't work
+- Things you thought or felt or threw keyboards about
+- Especially helpful sites
+- A chonological walkthrough of what you were up to
+- Snippets of code
+- I'm honestly just trying to make this list really long so you know that I really do mean everything.
+
+If you keep good lab notes as you're going along, you'll be able to step back in time to see what your mindset was. Us people who already know how to program are mostly *complete garbage* at teaching you to program, because *we already understand everything*. The best possible teacher you have is *yourself*, especially the version of yourself that takes notes about everything as you go along.
+
+Important phrases you should be typing are **I was trying to X, but then Y happened**, **I was wondering how to X, so I found this page/code**, **we learned X but I was wondering about how to do Y**. And, you know, everything and anything else. Think of it like the most secret personal diary of struggles that you've ever had, except it's about *programming* and we're going to try to con you into making it public.
+
+You can keep your lab notes in a single big long file if you want, but week-by-week might be best. Otherwise it'll be a big long stream! No pressure, though. Do what works.
+
+#### What are we doing with them?
+
+**First**, lab notes are awesome for Future You. You can go back when you're strugging and read them and find out when you did something earlier on that worked for you. Code snippets from the past are *invaluable*.
+
+**Second**, lab notes are awesome for other people. We're going to (eventually) be putting them up on [GitHub](https://github.com), which is (more or less) a big ol' super-social code-sharing site. You can make them private if you really want, but think of the WORLD!
+
+**Third**, when you explain something, you learn it better - it's a variation on [Rubber Duck Debugging](http://en.wikipedia.org/wiki/Rubber_duck_debugging).
+
+#### Markdown notes vs. notes in IPython
+
+Yes, yes, you can type Markdown in IPython cells. When we want to share it or keep it or move it around, though, you'll want it to be portable. You'll see more next week!
