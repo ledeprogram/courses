@@ -25,7 +25,7 @@ Informal ah-hoc gatherings to share drinks and ideas.
 7. Install [Git](http://git-scm.com/book/en/Getting-Started-Installing-Git). Follow the instructions for your OS.
 8. Install [Pip](http://pip.readthedocs.org/en/latest/installing.html)
 9. Install [iPython](http://ipython.org/ipython-doc/stable/install/install.html)
-10. Follow the instructions on the site to install [Pandoc](http://babun.github.io/)
+10. Follow the instructions on the site to install [Pandoc](http://johnmacfarlane.net/pandoc/installing.html)
 
 
 Come to the lab and/or post to Piazza if you are having problems.
