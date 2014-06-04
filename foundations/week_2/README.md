@@ -238,7 +238,7 @@ When you've done what you can (...everything, right?), save the IPython notebook
 
 #### Homework!
 
-For your homework, write up some lab notes in Markdown! I'd recommend taking your old notes and converting them to Markdown, just so we can end up keeping them all in the same place.
+For your homework, write up some lab notes in Markdown! I'd recommend taking your old notes and converting them to Markdown, just so we can end up keeping them all in the same place. Then, if you're feeling cool and fun, read through the code we imported into your IPython Notebook and make notes about what you've learned.
 
 Read below for more!
 
