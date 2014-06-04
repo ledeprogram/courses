@@ -7,3 +7,5 @@ You can either use command line tools to seek it out, or else try to find it on 
 Once you have found the file, try to read and parse it. How do you think this unfamiliar bit of code works?
 
 ####Due on Friday, June 6.
+
+For next class: google "Markdown" and explore its presence, history, and uses. There are many free Markdown editors (Mou, Haroopad, etc) that you might like to try out. This is the format you will use to write in this class, so just spend some time getting familiar with Markdown!
