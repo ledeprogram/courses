@@ -240,6 +240,8 @@ When you've done what you can (...everything, right?), save the IPython notebook
 
 For your homework, write up some lab notes in Markdown! I'd recommend taking your old notes and converting them to Markdown, just so we can end up keeping them all in the same place. Then, if you're feeling cool and fun, read through the code we imported into your IPython Notebook and make notes about what you've learned.
 
+(PS You don't need to reproduce your whole IPython notebook in the lab notebook! Just your thought process, code snippets, and anything else your Future Self will find useful. You can shove a bunch of your code and comments in there and annotate it all, but the ol' cut-and-paste ain't gonna cut it.)
+
 Read below for more!
 
 #### Dog Homework Stuff
