@@ -55,6 +55,9 @@ Python hello world:
 
 ### Wednesday 6/4
 
+- text and data workflows
+- language interpreters
+- code and data
 - Markdown
 - Pandoc
 - Lab notebooks
