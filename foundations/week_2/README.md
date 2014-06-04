@@ -267,7 +267,7 @@ See those aggressive italics? That's **Markdown**. That's what you'll be writing
 
 Markdown is a compromise between writing in a terrible, inaccessible file format *cough*Word*cough*, and writing in plain-jane no-frills text. By using asterisks, pound symbols and underscores you can transform your text into ~*_SOMETHING INCREDIBLE_*~!!!!!
 
-(**Big not-so-secret note:** This is all written in Markdown! As I'm writing it, it [looks just like this](https://raw.githubusercontent.com/ledeprogram/courses/master/foundations/week_2/README.md).)
+(**Big not-so-secret note:** This is all written in Markdown! As I'm writing it, it [looks just like this](https://raw.githubusercontent.com/ledeprogram/courses/master/foundations/week_2/README.md) - might be useful to check it out to see how I format a thing or two.)
 
 To learn Markdown syntax, while you can check out Daring Fireball's [tiny-fonted guide](http://daringfireball.net/projects/markdown/syntax), I find the [Mastering Markdown GitHub Guide](https://guides.github.com/features/mastering-markdown/) or [this cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) way more accessible.
 
