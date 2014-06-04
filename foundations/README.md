@@ -55,6 +55,11 @@ Python hello world:
 
 ### Wednesday 6/4
 
+- more on the Programmer's mindset
+    - divide and conquer
+    - be lazy
+    - no black boxes
+    - python specific stuff
 - text and data workflows
 - language interpreters
 - taking control of IDE
