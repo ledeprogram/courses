@@ -60,8 +60,7 @@ reading:
 
 ###session 04: thursday, june 5th 2014
 
-- strings and string operations
-- regular expressions
+- strings and string operations; regular expressions. [Notes here](http://nbviewer.ipython.org/github/ledeprogram/courses/blob/master/databases/03%20Strings%20and%20regular%20expressions.ipynb).
 
 reading:
 + Bus Subsidies in Argentina, La Nacion: http://datajournalismhandbook.org/1.0/en/case_studies_14.html
@@ -71,7 +70,7 @@ reading:
 + Berg, Mark, and Geoffrey C. Bowker. “The Multiple Bodies of the Medical Record,” 1996. https://www.ics.uci.edu/~gbowker/records.html.
 
 
-homework assignment: quiz on using dictionaries, problem set with regular expressions
+homework assignment due 6-10: [Dictionaries, web APIs, strings, regular expressions](http://nbviewer.ipython.org/github/ledeprogram/courses/blob/master/databases/Data%20and%20Databases%20Homework%20Assignment%202.ipynb).
 
 
 ###session 05: tuesday, june 10th 2014
