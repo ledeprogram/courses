@@ -141,7 +141,7 @@ Python hello world:
 - Security and cryptography 
 - what is bitcoin?
 
-**Resources**: [How PGP Works](http://web.archive.org/web/20140501185547/http://www.pgpi.org/doc/pgpintro/), [Mailvelope](http://www.mailvelope.com/), [Keybase](https://keybase.io/)
+**Resources**: [How PGP Works](http://web.archive.org/web/20140501185547/http://www.pgpi.org/doc/pgpintro/), [Mailvelope](http://www.mailvelope.com/), [Keybase](https://keybase.io/), [https://emailselfdefense.fsf.org/]
 
 ## Week 6: Data Visualization 
 
