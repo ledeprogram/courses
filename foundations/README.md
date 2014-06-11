@@ -73,33 +73,19 @@ Python hello world:
 
 **Resources:** [Sustainable Authorship in Plain Text](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
 
-## Week 3: Working with Text 
+## Week 3: Functions and GitHub
 
-**Focus:** Get more comfortable with coding, install some libraries, work with plain text.
-
-**Resources**: [Idiomatic Python](http://web.archive.org/web/20140501190202/http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html). [Raw Text w/ NLTK](http://www.nltk.org/book/ch03.html).
+-**Week Inspiration:** [Quakebot](http://www.slate.com/blogs/future_tense/2014/03/17/quakebot_los_angeles_times_robot_journalist_writes_article_on_la_earthquake.html)
 
 ### Monday: 6/9
 
-- Reading other peoples' code
-- Writing your own methods and classes
-- passing data
-- dictionary, tuple 
-- Installing & using libraries (NLTK) 
-- PIP and PEP
+- Installing GitHub, pushing and pulling
+- Writing your own functions
 
 ### Wednesday 6/11
 
-- Intro to NLTK
-- from text to data 
-- unicode
-- string, token, stem, corpus, vocabulary, lemma
-- regex
-- Write a story generator
-    - Class with methods, attributes
-    - Outputs sentence based on input
-    - Can be expanded/contracted based on skill level
-
+- Physical deconstruction (or construction!) of computing concepts
+- More on functions, implementing baby Quakebot
 
 ## Week 4: Working with the Census and an introduction to APIs
 
