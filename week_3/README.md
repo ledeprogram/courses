@@ -4,6 +4,34 @@
 
 Covered: Working with [GitHub](https://github.com), [functions](http://learnpythonthehardway.org/book/ex18.html)
 
+### Notes: GitHub
+
+GitHub is a social coding platform, made up of *repositories* that store code (and anything else). You can collaboratively work on projects, submit changes to other peoples' projects, and open up bug reports. You can check out [my Tabletop.js project](https://github.com/jsoma/tabletop) for a good example!
+
+*git* itself is a *version control system*, a way of keeping track of changes and versions instead of just leaving all of your code on your computer. That way when you accidentally delete something or break your code you can step back into an older version! 
+
+These versions are all based on *commits*, which are series of changes. If I add a in couple new files and change some code, then I'll make a commit to say "this is a new version." Or maybe I just change one line and decide to commit!
+
+GitHub doesn't know about your commits until you push, though. Otherwise they just live on your computer!
+
+Useful git commands after you've created a new repository, (stolen from [Dennis](https://github.com/denten/dhnotes/wiki/github-workflow))
+
+`git init` will tell git to start watching the current directory
+`git add foo.txt` will add a new file into your respository. You can also do `git add .` to add all new files in.
+`git commit -m "my first commit notes"` will create your first commit for you. You'll want to use a descriptive message, and make sure you've got both your beginning and end quotes.
+`git remote add origin git@github.com:username/reponame` teaches your local repository that there's another repository on github it will talk to in the future. You'll only need to do this one once. 
+`git push -u origin master` sends your changes on over to GitHub. Refresh your repository page and you'll see them right there!
+
+My usual workflow once a repository has been created is to add all new files, create a new commit, and push it all up.
+
+```
+git add .
+git commit -a -m "Here is a new commit"
+git push
+```
+
+After you run `git push -u origin master` the first time you'll be able to use plain `git push` afterward, and git will know you mean to push it up to GitHub.
+
 ### Notes: Functions
 
 When I wake up in the morning, I don't go downstairs and take out an egg and turn on the stove and crack the egg in a pan and wait while it cooks and get out a plate and get out a fork and take the egg out of the pan and turn off the stove and put the egg on my plate and put the egg in my mouth and chew it and swallow and repeat until the egg is gone. I go downstairs and I **eat breakfast**! 
