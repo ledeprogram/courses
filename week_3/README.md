@@ -144,3 +144,30 @@ def add(a, b):
 
 print add(2, 3) + add(3, 4)
 ```
+
+# Week 3
+
+## Wednesday June 11, 2014
+
+We're working with [this USGS dataset](http://earthquake.usgs.gov/earthquakes/feed/v1.0/csv.php), but instead of starting off with the entire CSV we're just going to cut and paste the following to give us one sample earthquake.
+
+```python
+earthquake = {
+  'rms': '1.85', 
+  'updated': '2014-06-11T05:22:21.596Z', 
+  'type': 'earthquake', 
+  'magType': 'mwp', 
+  'longitude': '-136.6561', 
+  'gap': '48', 
+  'depth': '10', 
+  'dmin': '0.811', 
+  'mag': '5.7', 
+  'time': '2014-06-04T11:58:58.200Z', 
+  'latitude': '59.0001', 
+  'place': '73km WSW of Haines, Alaska', 
+  'net': 'us', 
+  'nst': '', 
+  'id': 'usc000rauc'}
+```
+
+What do all those fields mean? I'm sure you can deconstruct many of them, but the rest you can read about on the [USGS page](http://earthquake.usgs.gov/earthquakes/feed/v1.0/csv.php).
