@@ -87,6 +87,8 @@ Python hello world:
 - Physical deconstruction (or construction!) of computing concepts
 - More on functions, implementing baby Quakebot
 
+Homework: [Earthquakes](https://github.com/ledeprogram/courses/blob/master/foundations/week_3/eq_homework.py)
+
 ## Week 4: Working with the Census and an introduction to APIs
 
 **Focus:** Use another library, a simple key-based API, understand Census data
