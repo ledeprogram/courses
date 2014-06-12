@@ -77,6 +77,8 @@ def earthquake_depth(depth):
 # happened by
 # 
 # Use regular expressions to extract the location from the argument location_string
+# *or* research the 'split' function and see if it can be of use if you pass
+# it a certain special separator
 
 def earthquake_location(location_string):
     return "Haines, Alaska"
