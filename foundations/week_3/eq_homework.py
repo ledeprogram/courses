@@ -72,7 +72,7 @@ def earthquake_depth(depth):
     return "shallow"
     
     
-# PROBLEM 4:
+# PROBLEM 3:
 # Let's make the print statement reflect the location the earthquake
 # happened by
 # 
@@ -82,7 +82,7 @@ def earthquake_location(location_string):
     return "Haines, Alaska"
 
 
-# PROBLEM 5:
+# PROBLEM 4:
 # Let's make the print statement reflect the distance between the earthquake
 # and the city
 #
@@ -96,7 +96,7 @@ def earthquake_location(location_string):
 def earthquake_distance(location_string):
     return "near"
 
-# PROBLEM 6 & 7:
+# PROBLEM 5 & 6:
 #
 # Don't worry about these two functions yet.
 #
