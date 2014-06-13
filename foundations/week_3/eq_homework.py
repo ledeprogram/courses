@@ -35,7 +35,7 @@ earthquake = {
   
 # We're going to break it into pieces and see if we can make a nice little version of Quakebot.
 
-# If there was a small earthquake, it might say this
+# If there was an earthquake, it might say this
 #
 #   There was a big earthquake Monday morning a ways away from Haines, Alaska
 #
