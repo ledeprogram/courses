@@ -120,20 +120,20 @@ print "There was a " + earthquake_size(1.1) + \
 print "There was a " + earthquake_size(8.7) + \
         ", " + earthquake_depth('98.22') + \
         " earthquake " + earthquake_day('2014-06-04T11:58:58.200Z') + \
-        " " + earthquake_day('2014-06-04T11:58:58.200Z') + \
+        " " + earthquake_time('2014-06-04T11:58:58.200Z') + \
         " " + earthquake_distance("238km N of Tobelo, Indonesia") + \
         " " + earthquake_location("238km N of Tobelo, Indonesia")
 
 print "There was a " + earthquake_size(3.3) + \
         ", " + earthquake_depth('344.32') + \
         " earthquake " + earthquake_day('2014-06-04T11:58:58.200Z') + \
-        " " + earthquake_day('2014-06-04T11:58:58.200Z') + \
+        " " + earthquake_time('2014-06-04T11:58:58.200Z') + \
         " " + earthquake_distance("10km NE of Medford, Oklahoma") + \
         " " + earthquake_location("10km NE of Medford, Oklahoma")
 
 print "There was a " + earthquake_size(6.1) + \
         ", " + earthquake_depth(5.289) + \
         " earthquake " + earthquake_day('2014-06-04T11:58:58.200Z') + \
-        " " + earthquake_day('2014-06-04T11:58:58.200Z') + \
+        " " + earthquake_time('2014-06-04T11:58:58.200Z') + \
         " " + earthquake_distance("91km NE of Miches, Dominican Republic") + \
         " " + earthquake_location("91km NE of Miches, Dominican Republic")
