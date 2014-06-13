@@ -110,18 +110,18 @@ Homework: [Earthquakes](https://github.com/ledeprogram/courses/blob/master/found
 - .gitignore for API keys
 - Working with Twitter API 
 
-## Week 5: AWS & Crypto
-
-*Week Inspiration:** ??? ~~[Twitter stories](http://radar.oreilly.com/2013/12/tweets-loud-and-quiet.html)~~
+## Week 5: Internets
 
 ### Monday 6/23
 
-- AWS Server
+- How does the internet work?
+- TCP/IP, UDP, ICP
+- ping, traceroute, wget
 - Cloud computing
-- ssh / scp
-- Internet infrastructure 
-- Cron
-- tor
+- Moving files: ssh / scp
+- AWS
+
+**Read**: UDP vs. TCP by Glenn Fiedler, Selections from TCP/IP Illustrated by W.Richard Stevens.
 
 ### Wednesday 6/25
 
