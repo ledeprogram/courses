@@ -4,6 +4,8 @@ First, [a couple maps](http://project.wnyc.org/median-income-nation/) [from WNYC
 
 If you have Census questions, someone else probably already asked it! Try out the [Census Bureau FAQ's](https://ask.census.gov) for some answers.
 
+**Also:** You can see the IPython Notebook I was writing in during class at [http://nbviewer.ipython.org/github/ledeprogram/courses/blob/master/foundations/week_4/Census%20Stuff.ipynb](http://nbviewer.ipython.org/github/ledeprogram/courses/blob/master/foundations/week_4/Census%20Stuff.ipynb)
+
 ## Different Surveys
 
 It isn't just **one big CENSUS!!!** It's one big Census and a [million other censuses](https://www.census.gov/programs-surveys/are-you-in-a-survey/survey-list.html). Let's review a few of them.
