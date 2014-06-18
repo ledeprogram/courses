@@ -166,7 +166,7 @@ https://www.nhgis.org
 
 Visiting https://www.census.gov/data/developers/data-sets/acs-survey-5-year-data.html you see how you can make an API call directly. Let's look at that.
 
-http://api.census.gov/data/2012/acs5/profile?get=NAME,DP02_0001PE&for=state:*&key=64b41a2cc2325ea98cef7597c1075802e3b8c7c2
+http://api.census.gov/data/2012/acs5/profile?get=NAME,DP02_0001PE&for=state:*&key=PUT_KEY_HERE
 
 It looks like dogs.csv, kind of, with that header row and everything. Do we... cut and paste it into Python? Instead, let's find a module that does the hard work for us.
 
