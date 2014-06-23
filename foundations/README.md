@@ -117,7 +117,9 @@ Homework: [Earthquakes](https://github.com/ledeprogram/courses/blob/master/found
 - superpowers: code, terminal, server, network
 - communication theory: sender, message, transmission, noise, channel, reception, receiver  
 - Inventing the internet
-- How does it work? Protocols, connection, packet switching, datagram
+- How does it work? 
+- Protocols
+- connection, packet switching, datagram
 - mac, dns, ip address
 - ping, traceroute
 - Cloud computing w/ aws
