@@ -114,17 +114,19 @@ Homework: [Earthquakes](https://github.com/ledeprogram/courses/blob/master/found
 
 ### Monday 6/23
 
+- Communication theory: sender, message, transmission, noise, channel, reception, receiver  
 - How does the internet work?
-- TCP/IP, UDP, ICP
-- ping, traceroute, wget
-- Cloud computing
-- Moving files: ssh / scp
-- AWS
+- ping, traceroute
+- protocol: tcp/ip
+- Cloud computing w/ aws
+- Moving files: `ssh`, `scp`, `rsync`
 
 ### Wednesday 6/25
 
+- pretty good privacy (PGP)
+- public and private keys
+- 
 - Send an encrypted email message
-- Security and cryptography 
 - what is bitcoin?
 
 **Resources**: [How PGP Works](http://web.archive.org/web/20140501185547/http://www.pgpi.org/doc/pgpintro/), [Mailvelope](http://www.mailvelope.com/), [Keybase](https://keybase.io/), <https://emailselfdefense.fsf.org/>, [Chapter 1](https://courseworks.columbia.edu/access/content/group/JOURJ4001_001_2014_2/tcp-ip-illustrated-second.pdf) from TCP/IP Illustrated by W.Richard Stevens, Second Edition.
