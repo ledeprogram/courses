@@ -124,7 +124,7 @@ Homework: [Earthquakes](https://github.com/ledeprogram/courses/blob/master/found
 - ping, traceroute
 - Cloud computing w/ aws
 - ports, firewall
-- Moving files: `ssh`, `scp`, `rsync`
+- Moving files: `ssh`, `scp`, `rsync`, `wget`  
 
 ### Wednesday 6/25
 
