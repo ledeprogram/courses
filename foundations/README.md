@@ -110,7 +110,7 @@ Homework: [Earthquakes](https://github.com/ledeprogram/courses/blob/master/found
 - .gitignore for API keys
 - Working with Twitter API 
 
-## Week 5: Internets
+## Week 5: Networking
 
 ### Monday 6/23
 
@@ -121,15 +121,13 @@ Homework: [Earthquakes](https://github.com/ledeprogram/courses/blob/master/found
 - Moving files: ssh / scp
 - AWS
 
-**Read**: UDP vs. TCP by Glenn Fiedler, Selections from TCP/IP Illustrated by W.Richard Stevens.
-
 ### Wednesday 6/25
 
 - Send an encrypted email message
 - Security and cryptography 
 - what is bitcoin?
 
-**Resources**: [How PGP Works](http://web.archive.org/web/20140501185547/http://www.pgpi.org/doc/pgpintro/), [Mailvelope](http://www.mailvelope.com/), [Keybase](https://keybase.io/), [https://emailselfdefense.fsf.org/]
+**Resources**: [How PGP Works](http://web.archive.org/web/20140501185547/http://www.pgpi.org/doc/pgpintro/), [Mailvelope](http://www.mailvelope.com/), [Keybase](https://keybase.io/), <https://emailselfdefense.fsf.org/>, [Chapter 1](https://courseworks.columbia.edu/access/content/group/JOURJ4001_001_2014_2/tcp-ip-illustrated-second.pdf) from TCP/IP Illustrated by W.Richard Stevens, Second Edition.
 
 ## Week 6: Data Visualization 
 
@@ -183,15 +181,4 @@ Homework: [Earthquakes](https://github.com/ledeprogram/courses/blob/master/found
 
 **Lab:** [Phidget](http://www.phidgets.com) music machine.
 
-# Moved & etc
-
-- Pandoc
-- Protocols
-- Debugging w/PDB in iPython 
-- Exception handling
-- Character encoding
-- Scrape data from Twitter
-- Twitter API with [tweepy](https://github.com/tweepy/tweepy)
-
-***Lab:*** Traceroute. Amazon AWS. Sys admin basics. Package management, permissions, security, etc. Diagram a packet from home. Cron and Boto.  
 ***Resources***: [Take the Linux Filesystem Tour](http://web.archive.org/web/20140501190339/http://tuxradar.com/content/take-linux-filesystem-tour/)
