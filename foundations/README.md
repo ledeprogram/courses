@@ -117,11 +117,11 @@ Homework: [Earthquakes](https://github.com/ledeprogram/courses/blob/master/found
 - superpowers: code, terminal, server, network
 - communication theory: sender, message, transmission, noise, channel, reception, receiver  
 - Inventing the internet
+- ping, traceroute
 - connection, packet switching, datagram
-- Protocols: ip, tcp, http
+- Protocols: [physical](http://www.linfo.org/physical_layer.html) (wi-fi, bluetooth), [data](http://www.linfo.org/data_link_layer.html) (bits into packets), [network](http://www.linfo.org/network_layer.html) (ip), [transport](http://www.linfo.org/transport_layer.html) (tcp, udp), [session](http://www.linfo.org/session_layer.html), [presentation](http://www.linfo.org/presentation_layer.html) (ascii, midi, mpeg), [application](http://www.linfo.org/application_layer.html) (http)
 - mac, dns, ip address
 - ports, firewall
-- ping, traceroute
 - Cloud computing w/ aws
 - Moving files: `ssh`, `scp`, `rsync`, `wget`  
 
