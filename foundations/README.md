@@ -117,13 +117,12 @@ Homework: [Earthquakes](https://github.com/ledeprogram/courses/blob/master/found
 - superpowers: code, terminal, server, network
 - communication theory: sender, message, transmission, noise, channel, reception, receiver  
 - Inventing the internet
-- How does it work? 
-- Protocols
 - connection, packet switching, datagram
+- Protocols: ip, tcp, http
 - mac, dns, ip address
+- ports, firewall
 - ping, traceroute
 - Cloud computing w/ aws
-- ports, firewall
 - Moving files: `ssh`, `scp`, `rsync`, `wget`  
 
 ### Wednesday 6/25
