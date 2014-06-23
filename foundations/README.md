@@ -114,11 +114,14 @@ Homework: [Earthquakes](https://github.com/ledeprogram/courses/blob/master/found
 
 ### Monday 6/23
 
-- Communication theory: sender, message, transmission, noise, channel, reception, receiver  
-- How does the internet work?
+- superpowers: code, terminal, server, network
+- ommunication theory: sender, message, transmission, noise, channel, reception, receiver  
+- Inventing the internet
+- How does it work? Protocols, connection, packet switching, datagram
+- mac, dns, ip address
 - ping, traceroute
-- protocol: tcp/ip
 - Cloud computing w/ aws
+- ports, firewall
 - Moving files: `ssh`, `scp`, `rsync`
 
 ### Wednesday 6/25
@@ -126,6 +129,7 @@ Homework: [Earthquakes](https://github.com/ledeprogram/courses/blob/master/found
 - pretty good privacy (PGP)
 - public and private keys
 - Send an encrypted email message
+- tor, vpn, ssh tunnels
 - bitcoin
 
 **Resources**: [How PGP Works](http://web.archive.org/web/20140501185547/http://www.pgpi.org/doc/pgpintro/), [Mailvelope](http://www.mailvelope.com/), [Keybase](https://keybase.io/), <https://emailselfdefense.fsf.org/>, [Chapter 1](https://courseworks.columbia.edu/access/content/group/JOURJ4001_001_2014_2/tcp-ip-illustrated-second.pdf) from TCP/IP Illustrated by W.Richard Stevens, Second Edition.
