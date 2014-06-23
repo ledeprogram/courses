@@ -125,9 +125,8 @@ Homework: [Earthquakes](https://github.com/ledeprogram/courses/blob/master/found
 
 - pretty good privacy (PGP)
 - public and private keys
-- 
 - Send an encrypted email message
-- what is bitcoin?
+- bitcoin
 
 **Resources**: [How PGP Works](http://web.archive.org/web/20140501185547/http://www.pgpi.org/doc/pgpintro/), [Mailvelope](http://www.mailvelope.com/), [Keybase](https://keybase.io/), <https://emailselfdefense.fsf.org/>, [Chapter 1](https://courseworks.columbia.edu/access/content/group/JOURJ4001_001_2014_2/tcp-ip-illustrated-second.pdf) from TCP/IP Illustrated by W.Richard Stevens, Second Edition.
 
