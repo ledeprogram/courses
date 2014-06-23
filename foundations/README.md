@@ -95,7 +95,7 @@ Homework: [Earthquakes](https://github.com/ledeprogram/courses/blob/master/found
 
 **Week Inspiration:** [Almost every story ever uses ACS data](http://articles.latimes.com/keyword/american-community-survey). [Quakebot](http://www.slate.com/blogs/future_tense/2014/03/17/quakebot_los_angeles_times_robot_journalist_writes_article_on_la_earthquake.html)
 
-### Monday 6/16
+### Monday 6/16 + Wednesday 6/18
 
 - APIs
 - The [census package](https://github.com/sunlightlabs/census) from Sunlight Labs
@@ -104,11 +104,6 @@ Homework: [Earthquakes](https://github.com/ledeprogram/courses/blob/master/found
     - Blocks, tracts
     - MSAs
     - [etc](https://www.census.gov/geo/reference/)
-
-### Wednesday 6/18
-
-- .gitignore for API keys
-- Working with Twitter API 
 
 ## Week 5: Networking
 
