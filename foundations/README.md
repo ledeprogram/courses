@@ -115,7 +115,7 @@ Homework: [Earthquakes](https://github.com/ledeprogram/courses/blob/master/found
 ### Monday 6/23
 
 - superpowers: code, terminal, server, network
-- ommunication theory: sender, message, transmission, noise, channel, reception, receiver  
+- communication theory: sender, message, transmission, noise, channel, reception, receiver  
 - Inventing the internet
 - How does it work? Protocols, connection, packet switching, datagram
 - mac, dns, ip address
