@@ -100,9 +100,8 @@ reading:
 - “Sapping Attention: Stopwords to the Wise.” Accessed May 25, 2014. http://sappingattention.blogspot.com/2011/04/stopwords-to-wise.html.
 
 homework assignment: *TBD*
-	
 
-###session 07: tuesday, june 17th 2014
+###session 07: monday, june 16th 2014
 
 Documenting data journalism
 
@@ -119,28 +118,13 @@ Readings:
 
 Friedman, Batya, and Helen Nissenbaum. “Bias in Computer Systems.” ACM Transactions on Information Systems (TOIS) 14, no. 3 (1996): 330–47.
 
+###session 08: tuesday, june 17th 2014
 
-
-###session 08: thursday june 19th 2014
-Network Analysis
-*session subject to change*
-
-- Basics of social network analysis and graph data
-- Networkx, Gephi
-
--  David Easley and Jon Kleinberg., *Networks, Crowds, and Markets: Reasoning about a Highly Connected World.*, http://www.cs.cornell.edu/home/kleinber/networks-book/, ch. 2
-
-- “Connected China”, http://connectedchina.reuters.com/
-
-- http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0025995
-
-- TED talk: https://www.ted.com/talks/james_b_glattfelder_who_controls_the_world
-
-homework assignment: *TBD*
+(overflow/catch-up day for previous sessions)
 
 ###session 09: tuesday june 24th 2014
 
-HTTP, HTML (Beautiful Soup), XML
+HTTP, HTML (Beautiful Soup), XML. [Notes here](http://nbviewer.ipython.org/github/ledeprogram/courses/blob/master/databases/09%20XML%2C%20HTML%2C%20Beautiful%20Soup.ipynb).
 
 reading:
 - Liu, Alan. “Transcendental Data: Toward a Cultural History and Aesthetics of the New Encoded Discourse.” Critical Inquiry 31, no. 1 (September 2004): 49–84. doi:10.1086/427302.
@@ -155,22 +139,27 @@ reading:
 
 homework assignment: scrape a site, access a SQL database
 
+
 ###session 11: tuesday july 1st 2014
 
 mongodb, an introduction
 
-reading: 
-Friedman, Batya, and Helen Nissenbaum. “Bias in Computer Systems.” *ACM Transactions on Information Systems (TOIS)* 14, no. 3 (1996): 330–47.
 
 ###session 12: thursday july 3rd 2014
 
 introduction to web APIs w/tornado
 
+reading:
+- Bucher, Taina. "[Objects of intense feeling: The case of the Twitter API.](http://computationalculture.net/article/objects-of-intense-feeling-the-case-of-the-twitter-api)"
+- Thorp, Jer. "[Art and the API.](http://blog.blprnt.com/blog/blprnt/art-and-the-api)"
+
 assignment: make a simple web API.
+
 
 ###session 13: tuesday july 8th 2014
 
 slush/overflow/lab/selected topics day
+
 
 ###session 14: thursday july 10th 2014
 
@@ -195,5 +184,13 @@ http://datajournalismhandbook.org/1.0/en/index.html
 
 http://www.globaleditorsnetwork.org/programmes/data-journalism-awards/
 
+##additional readings cut from syllabus
 
+David Easley and Jon Kleinberg., *Networks, Crowds, and Markets: Reasoning about a Highly Connected World.*, http://www.cs.cornell.edu/home/kleinber/networks-book/, ch. 2
+
+“Connected China”, http://connectedchina.reuters.com/
+
+http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0025995
+
+TED talk: https://www.ted.com/talks/james_b_glattfelder_who_controls_the_world
 
