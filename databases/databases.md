@@ -139,7 +139,7 @@ reading:
 reading:
 - Fortune, Stephen. “A Brief History of Databases.” Accessed May 3, 2014. http://vvvnt.com/media/history-of-databases.
 
-homework assignment: scrape a site, access a SQL database
+Homework assignment, due July 1st: [Scraping with Beautiful Soup](http://nbviewer.ipython.org/github/ledeprogram/courses/blob/master/databases/Data%20and%20Databases%20Homework%20Assignment%205.ipynb).
 
 
 ###session 11: tuesday july 1st 2014
