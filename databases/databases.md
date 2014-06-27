@@ -126,7 +126,7 @@ Friedman, Batya, and Helen Nissenbaum. “Bias in Computer Systems.” ACM Trans
 
 HTTP, HTML (Beautiful Soup), XML. [Notes here](http://nbviewer.ipython.org/github/ledeprogram/courses/blob/master/databases/09%20XML%2C%20HTML%2C%20Beautiful%20Soup.ipynb).
 
-- [Notes as delivered](http://nbviewer.ipython.org/github/ledeprogram/courses/blob/master/databases/Notes%202014-06-23.ipynb).
+- [Notes as delivered](http://nbviewer.ipython.org/github/ledeprogram/courses/blob/master/databases/Notes%202014-06-23.ipynb) (revised June 26th).
 
 reading:
 - Liu, Alan. “Transcendental Data: Toward a Cultural History and Aesthetics of the New Encoded Discourse.” Critical Inquiry 31, no. 1 (September 2004): 49–84. doi:10.1086/427302.
@@ -134,7 +134,9 @@ reading:
 
 ###session 10: thursday june 26th 2014
 
-- relational databases, an introduction
+- more Beautiful Soup, reviewing Python basics.
+- [Notes as delivered](http://nbviewer.ipython.org/github/ledeprogram/courses/blob/master/databases/Notes%202014-06-23.ipynb) (revised June 26th).
+- [Scraping menupages example in full](http://nbviewer.ipython.org/github/ledeprogram/courses/blob/master/databases/scraping%20menupages.ipynb)
 
 reading:
 - Fortune, Stephen. “A Brief History of Databases.” Accessed May 3, 2014. http://vvvnt.com/media/history-of-databases.
