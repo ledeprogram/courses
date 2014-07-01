@@ -146,7 +146,7 @@ Homework assignment, due July 1st: [Scraping with Beautiful Soup](http://nbviewe
 
 ###session 11: tuesday july 1st 2014
 
-mongodb, an introduction
+mongodb, an introduction. [Notes here](http://nbviewer.ipython.org/github/ledeprogram/courses/blob/master/databases/10%20MongoDB.ipynb).
 
 
 ###session 12: thursday july 3rd 2014
