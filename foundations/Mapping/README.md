@@ -1,5 +1,7 @@
 # Mapping!
 
+While there's plenty of mapping you can do in Python [using matplotlib](http://matplotlib.org), sometimes it's easier to use a different tool. We'll be using Google Fusion Tables, which is part of [Google Drive](https://drive.google.com).
+
 ## Mapping Geocodeable Data
 
 [mapping geocodable data.md](mapping geocodable data.md)
