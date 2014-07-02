@@ -10,7 +10,7 @@ Despite the fact that it's very useful, it's also very easy to make. Using a [sh
 
 ## Downloading a Shapefile
 
-You'll want to get your shapefile from [ohouston.org](http://data.ohouston.org/ro/dataset/hurricane-risk-area/resource/ad0e925e-4791-4d0b-9df7-2411aeb60a97).
+You'll want to get your shapefile from [ohouston.org](http://data.ohouston.org/ro/dataset/hurricane-risk-area/resource/ad0e925e-4791-4d0b-9df7-2411aeb60a97). If that link doesn't work, you can download [houston-evac.zip](houston-evac.zip).
 
 We talked about Shapefiles a little bit during the census class, but the basic gist is that they're a collection of files that describe some sort of geography. They can illustrate everything from points to polygons and are widely used in the computers-mapping-stuff (GIS) world. When shapefiles are available about your data, be happy.
 
