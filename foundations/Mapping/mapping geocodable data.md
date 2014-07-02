@@ -39,13 +39,15 @@ The first thing that comes up is this **Geocode** popup. **Geocoding** is the pr
 
 Okay, pretty poorly. So it goes. You'll note it says **Map of name** - Google thinks that the name column holds the address data, instead of the **address** column. Sounds like a problem to me, let's change it! Go back to **Rows 1** to see your data.
 
+### Changing the mapped field and Geocoding
+
 Next to the **address column** you have a little dropdown - select it, then **Change...**, then change the **Type** field to be **Location**.
 
 You'll note that the **address** column is now highlighted with yellow. Google Fusion Tables highlights every field it believes can be geocoded. Now let's click back to **Map of name** to make some more changes.
 
 Under the **Location** field next to the map, change it to **address**. Google will geocode your addresses and then do some more mapping.
 
-Sigh, for some reason Google thinks Tum & Yum is just south of Dayon, Ohio! You might have noticed a **% ambiguous** as Google was geocoding the columns - Google isn't exactly sure *which** 917 Columbus Ave we were looking at, so it made a wild guess. A wrong wild guess! We need to give it a **hint** to know which one we're looking for.
+Sigh, for some reason Google thinks Tum & Yum is just south of Dayon, Ohio! You might have noticed a **% ambiguous** as Google was geocoding the columns - Google isn't exactly sure *which* 917 Columbus Ave we were looking at, so it made a wild guess. A wrong wild guess! We need to give it a **hint** to know which one we're looking for.
 
 From the **File** dropdown, select **Geocode...**. Change the **Location column** to be **address**, and then we'll want to set a **Location hint**. This helps Google know what general area we're talking about - **New York, NY** should work great.
 
