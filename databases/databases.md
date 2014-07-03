@@ -157,8 +157,7 @@ reading:
 - Bucher, Taina. "[Objects of intense feeling: The case of the Twitter API.](http://computationalculture.net/article/objects-of-intense-feeling-the-case-of-the-twitter-api)"
 - Thorp, Jer. "[Art and the API.](http://blog.blprnt.com/blog/blprnt/art-and-the-api)"
 
-assignment: make a simple web API.
-
+homework assignment due july 8th: [MongoDB and Tornado](http://nbviewer.ipython.org/github/ledeprogram/courses/blob/master/databases/Data%20and%20Databases%20Homework%20Assignment%206.ipynb).
 
 ###session 13: tuesday july 8th 2014
 
