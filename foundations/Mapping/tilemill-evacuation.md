@@ -219,7 +219,7 @@ Once it's done uploading, click **View**. Tada! It's on the internet! ...Kind of
 
 When we made that map, we didn't actually make a *whole map*, we just made a *layer*. A "real" map takes a basemap and overlays layers on top of it, kind of like in TileMill.
 
-To set up an actual map we'll want to go to [https://www.mapbox.com/][https://www.mapbox.com/]. Sign in with your account.
+To set up an actual map we'll want to go to [https://www.mapbox.com/](https://www.mapbox.com/). Sign in with your account.
 
 Click **Projects** and then **+ Create Project**.
 
@@ -231,7 +231,7 @@ Click **Data**. If you didn't feel like being a cool shapefiles-friendly develop
 
 Click **+ Add Layers** and select your Hurricane Map.
 
-INCREDIBLE. **WE ARE AMAZING, FREAKING LOOK AT THAT.**
+INCREDIBLE. **WE ARE AMAZING, *FREAKING LOOK AT THAT.***
 
 *Note: If you wanted to add other layers, you can do that, too! They all just go on top of one another, which is why opacity can be important.*
 
