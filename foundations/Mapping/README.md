@@ -12,7 +12,11 @@ While there's plenty of mapping you can do in Python [using matplotlib](http://m
 
 ## Mapping Merged Data
 
-[mapping merged data.md](mapping merged data.md) (incomplete!)
+[mapping merged data.md](mapping merged data.md)
+
+## Hurricane Evacuation Map using TileMill
+
+[tilemill-evacuation.md](tilemill-evacuation.md)
 
 ## Homework
 
