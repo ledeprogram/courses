@@ -119,7 +119,19 @@ Save your file and you'll see the result. Looks like it's already water! That's 
 
 How do we make it disappear? There might be other ways, but I always make it **completely transparent**. Change that `polygon-fill` line to `polygon-opacity: 0;` and see if it works!
 
-Okay, now to deal with **Zone 1**. It'll probably be just a little higher than **Zone 0**, so it should be the most dangerous. Let's try making it red.
+```css
+#nyhez {
+  line-color:#594;
+  line-width:1;
+  polygon-opacity:0.65;
+  polygon-fill:#FEF199;
+  [Zone = '0'] {
+    polygon-opacity: 0;
+  }
+}
+```
+
+Okay, cool. Now to deal with **Zone 1**. It's probably just a little higher than **Zone 0**, so it should be the most dangerous. Let's try making it red (`#ff0000`).
 
 ```css
 #nyhez {
@@ -133,9 +145,6 @@ Okay, now to deal with **Zone 1**. It'll probably be just a little higher than *
   [Zone = '1'] {
     polygon-fill: #ff0000;
   }
-  [Zone = '2'] {
-    polygon-fill: #ff3300;
-  }
 }
 ```
 
@@ -145,9 +154,9 @@ Save it, look at it, rejoice. Add styles for the remaining zones!
 
 **The Big Question**: Zones are 0, 1, 2, 3, 4, 5, 6, and X. What's X? Is it useful? What styles are you going to apply to it?
 
-If you're looking for inspiration, some nice colors might be `#e75624`, `#f28523`, `#fbed30`, `#b9d431`, `#7ec34a`, `#129e7a`.
+If you're looking for inspiration, some nice colors that we *may* have borrowed from [WNYC's map](http://project.wnyc.org/news-maps/hurricane-zones/hurricane-zones.html) might be `#e75624`, `#f28523`, `#fbed30`, `#b9d431`, `#7ec34a`, `#129e7a`.
 
-Now, get rid of some of those lines to clean up the borders a bit.
+Now, get rid of some of those lines to clean up the borders a bit!
 
 ### Adding a Reference Layer
 
