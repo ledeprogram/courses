@@ -16,7 +16,7 @@ That picture isn't actually the census tracts, it's the census blocks - for some
 
 ### Part II: The Census Data
 
-The Census API was being real ornery, so I headed on over to the [American FactFinder](http://factfinder2.census.gov/faces/nav/jsf/pages/searchresults.xhtml?refresh=t) and did a little refining to get the data for the census tracts in all of New York (we'll only use some of them!).
+The Census API was being real ornery, so I headed on over to the [American FactFinder](http://factfinder2.census.gov/faces/nav/jsf/pages/searchresults.xhtml?refresh=t) and did a little refining to get the data for the census tracts in all of New York State (we'll only use some of them!).
 
 ![](images/refine-factfinder.png)
 
@@ -42,7 +42,7 @@ If you'd like to see what they mean, open up `ACS_12_5YR_B19013_metadata.csv` fo
 |---|---|
 |GEO.id|Id||GEO.id2|Id2||GEO.display-label|Geography||HD01_VD01|Estimate; Median household income in the past 12 months (in 2012 inflation-adjusted dollars)||HD02_VD01|Margin of Error; Median household income in the past 12 months (in 2012 inflation-adjusted dollars)|
 
-Okay, not too effective, but you can tell `GEO.id` and `GEO.id2` both include some sort of FIPS codes. 36 is NYC, at least.
+Okay, not too effective, but you can tell `GEO.id` and `GEO.id2` both include some sort of FIPS codes since they all start with `36`. Seems like New York State to me!
 
 Now open up `nyct2010.shp` in QGIS. If you'd like to see your shapefile, right-click its name and select `Zoom to Layer Extent`.
 
