@@ -22,6 +22,10 @@ While there's plenty of mapping you can do in Python [using matplotlib](http://m
 
 [tilemill-yelp.md](tilemill-yelp.md)
 
+## Merging Datasets in QGIS (Complex)
+
+[merging-qgis-complex/](merging-qgis-complex/README.md)
+
 ## Homework
 
 July 2 (Wednesday): [Google Fusion Tables homework.md](Google Fusion Tables homework)
