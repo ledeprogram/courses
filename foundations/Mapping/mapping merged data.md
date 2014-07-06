@@ -16,7 +16,7 @@ It's the same data you used with the census, it's just in CSV form. Looks someth
 |08|Colorado|57685|
 |09|Connecticut|69243|
 
-You can find it at [census-median-income.csv](census-median-income.csv)
+You can find it at [census-state-median-income.csv](census-state-median-income.csv)
 
 ### Map your data
 
@@ -44,7 +44,7 @@ import unicodecsv
 c = Census("YOUR_KEY_HERE")
 state_data = c.acs.state(('NAME', 'B19013_001E'), '*')
 
-census_file = open('census-median-income.csv', 'wb')
+census_file = open('census-state-median-income.csv', 'wb')
 fieldnames = state_data[0].keys()
 writer = unicodecsv.DictWriter(census_file, fieldnames=fieldnames)
 headers = dict((n,n) for n in fieldnames)
