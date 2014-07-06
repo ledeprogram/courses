@@ -20,7 +20,7 @@ While there's plenty of mapping you can do in Python [using matplotlib](http://m
 
 ## Geocoding & Displaying Columbia Restaurants using Google + TileMill
 
-[tilemill-yelp.md](tilemill-evacuation.md)
+[tilemill-yelp.md](tilemill-yelp.md)
 
 ## Homework
 
