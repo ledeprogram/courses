@@ -30,7 +30,7 @@ Download that. When it asks you about download options, select **Data and annota
 
 If you're lazy, I have the data zipped up [right here](2012-acs-median-income-nyc.zip). The data is in `ACS_12_5YR_B19013.csv`.
 
-### Part III: Examining the Data
+## Examining the Data
 
 Now we need to figure out how we're going to merge these bad boys. When you open up the CSV you'll see it only has a few fields...
 
