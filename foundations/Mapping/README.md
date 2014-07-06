@@ -18,6 +18,10 @@ While there's plenty of mapping you can do in Python [using matplotlib](http://m
 
 [tilemill-evacuation.md](tilemill-evacuation.md)
 
+## Geocoding & Displaying Columbia Restaurants using Google + TileMill
+
+[tilemill-yelp.md](tilemill-evacuation.md)
+
 ## Homework
 
 July 2 (Wednesday): [Google Fusion Tables homework.md](Google Fusion Tables homework)
