@@ -1,6 +1,9 @@
 # Mapping!
 
-While there's plenty of mapping you can do in Python [using matplotlib](http://matplotlib.org), sometimes it's easier to use a different tool. We'll be using Google Fusion Tables, which is part of [Google Drive](https://drive.google.com).
+While there's plenty of mapping you can do in Python [using matplotlib](http://matplotlib.org), sometimes it's easier to use a different tool. We'll be using 
+
+1. Google Fusion Tables, which is part of [Google Drive](https://drive.google.com).
+2. [TileMill](https://www.mapbox.com/tilemill/) + [QGIS](http://www.qgis.org), which take a little bit more effort but have slightly amazing results
 
 ## Mapping Geocodeable Data
 
