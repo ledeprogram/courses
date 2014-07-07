@@ -1,6 +1,6 @@
-## Mapping Geocodeable Data
+## Mapping Merged Data
 
-**AKA mapping some restaurants**
+**AKA mapping state median income**
 
 ### Meet your data
 

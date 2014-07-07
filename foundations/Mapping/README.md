@@ -22,7 +22,15 @@ While there's plenty of mapping you can do in Python [using matplotlib](http://m
 
 [tilemill-yelp.md](tilemill-yelp.md)
 
+## Merging Datasets in QGIS (Simple)
+
+Merging a state shapefile with per-state median income levels
+
+[merging-qgis-simple/](merging-qgis-simple/README.md)
+
 ## Merging Datasets in QGIS (Complex)
+
+Merging an uncomfortably strange NYC census tract shapefile with per-tract median income levels.
 
 [merging-qgis-complex/](merging-qgis-complex/README.md)
 
