@@ -4,7 +4,7 @@
 
 ## Restaurant Data
 
-Yelp has [an API](http://www.yelp.com/developers/getting_started) which I used to grab a bushel of reviews. Using the [yelpapi][https://github.com/gfairchild/yelpapi] module, I ran [yelp-pull.py][yelp-pull.py] and ended up with almost 6000 results. That's a *few too many* to geocode during class, so let's stick with the subset in [yelp-lunch-morningside-heights.csv](yelp-lunch-morningside-heights.csv).
+Yelp has [an API](http://www.yelp.com/developers/getting_started) which I used to grab a bushel of reviews. Using the [yelpapi](https://github.com/gfairchild/yelpapi) module, I ran [yelp-pull.py](yelp-pull.py) and ended up with almost 6000 results. That's a *few too many* to geocode during class, so let's stick with the subset in [yelp-lunch-morningside-heights.csv](yelp-lunch-morningside-heights.csv).
 
 It looks something like this
 
