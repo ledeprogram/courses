@@ -40,3 +40,5 @@ Merging an uncomfortably strange NYC census tract shapefile with per-tract media
 ## Homework
 
 July 2 (Wednesday): [google-fusion-tables/Google Fusion Tables homework](google-fusion-tables/Google Fusion Tables homework.md)
+
+July 7 (Monday): [tilemill-homework/](tilemill-homework/)
