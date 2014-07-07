@@ -266,11 +266,9 @@ First, you could send people right to it. That's the `Share` link. Easy! For exa
 
 Next, you can embed it in a web page, just like, say, a YouTube video. That's where you take the `iframe` code. This works great for WordPress installs and the like. My embed code is
 
-```html
-<iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/jsoma.imjpp25d/attribution,zoompan,zoomwheel,geocoder,share.html?access_token=pk.eyJ1IjoianNvbWEiLCJhIjoibFJmYl9JWSJ9.AUm8d76cbOvVEn2mMeG_ZA'></iframe>
-```
+    <iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/jsoma.imjpp25d/attribution,zoompan,zoomwheel,geocoder,share.html?access_token=pk.eyJ1IjoianNvbWEiLCJhIjoibFJmYl9JWSJ9.AUm8d76cbOvVEn2mMeG_ZA'></iframe>
 
-> **Note:** You can see an example by taking that code and saving it as a `.html` file. Open that file in a web browser and tada!
+**Note:** You can see an example by taking that code and saving it as a `.html` file. Open that file in a web browser and tada!
 
 Lastly, you have your Map ID. If you're really into making maps you'll eventually want to learn JavaScript and a library like [Leaflet.js](http://leafletjs.com) or [MapBox.js](https://www.mapbox.com/mapbox.js) (which is built on top of Leaflet). These tools allow you to do all sorts of magic involving layering different maps and adding different levels of interactivity.
 

@@ -4,23 +4,23 @@ While there's plenty of mapping you can do in Python [using matplotlib](http://m
 
 ## Mapping Geocodeable Data
 
-[mapping geocodable data.md](mapping geocodable data.md)
+[google-fusion-tables/mapping geocodable data.md](google-fusion-tables/mapping geocodable data.md)
 
 ## Mapping Shapefiles
 
-[mapping shapefiles.md](mapping shapefiles.md)
+[google-fusion-tables/mapping shapefiles.md](google-fusion-tables/mapping shapefiles.md)
 
 ## Mapping Merged Data
 
-[mapping merged data.md](mapping merged data.md)
+[google-fusion-tables/mapping merged data.md](google-fusion-tables/mapping merged data.md)
 
 ## Hurricane Evacuation Map using TileMill
 
-[tilemill-evacuation.md](tilemill-evacuation.md)
+[tilemill/tilemill-evacuation.md](tilemill/tilemill-evacuation.md)
 
 ## Geocoding & Displaying Columbia Restaurants using Google + TileMill
 
-[tilemill-yelp.md](tilemill-yelp.md)
+[tilemill/tilemill-yelp.md](tilemill/tilemill-yelp.md)
 
 ## Merging Datasets in QGIS (Simple)
 
@@ -36,4 +36,4 @@ Merging an uncomfortably strange NYC census tract shapefile with per-tract media
 
 ## Homework
 
-July 2 (Wednesday): [Google Fusion Tables homework.md](Google Fusion Tables homework)
+July 2 (Wednesday): [google-fusion-tables/Google Fusion Tables homework](google-fusion-tables/Google Fusion Tables homework.md)
