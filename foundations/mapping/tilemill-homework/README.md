@@ -13,6 +13,10 @@
 
 > **Note:** You'll get a lot of files with your MapPLUTO download - the shapefile you're concerned with is the MNMapPLUTO.shp file.
 
+## Evacuation Homework
+
+Visit the NYC OpenData site and download the Hurricane Evacuation Centers dataset. Style it in TileMill (including hovers with addresses), upload it to MapBox, and add it to your existing hurricane evacuation centers map.
+
 ## Street Tree Homework
 
 Rumor has it Manhattan has a lot of trees. But what are they all? Let's map it!
