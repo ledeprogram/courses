@@ -2,11 +2,11 @@
 
 **AKA mapping state median income like a pro**
 
-## The Data
+# The Data
 
-Whenever your'e mapping data, you have two pieces of info: the mappable half and the data half. Sometimes they come together (hurricane shapefile) or sometimes they come apart (shapefile + csv). In the latter case, you have to merge them.
+When you're mapping data, you'll have two pieces of info: the part that goes on the map, and the data associated with the part that goes on the map. Sometimes they come together (e.g. the hurricane shapefile contained evac zone data) or sometimes they come apart (state shapefile + csv of median incomes). In the latter case, you have to merge them.
 
-### The state-based income csv
+### The data half: the state-based income csv
 
 Just like we did with Google Fusion Tables, it's the same data you used with the census (just in CSV form). Looks something like this:
 
@@ -16,19 +16,18 @@ Just like we did with Google Fusion Tables, it's the same data you used with the
 |02|Alaska|69014|
 |04|Arizona|50752|
 |05|Arkansas|40149|
-|06|California|61632|
-|08|Colorado|57685|
-|09|Connecticut|69243|
 
 You can find it at [census-state-median-income.csv](census-state-median-income.csv), and the code I used to pull it is at the bottom of the page
 
-### The shapefile
+### The appable half: The shapefile
 
-Now we're going to need the geographic part of the equation - the state outlines. When we were using Google Fusion Tables we found a KML file Google uploaded, which would work just fine, but let's get some more experience using shapefiles instead.
+Now we're going to need the geographic part of the equation - the state outlines. When we were using Google Fusion Tables we found a KML file Google uploaded (slash a Fusion table of states), which would work just fine, but let's get some more experience using shapefiles instead.
 
-Googling "state shapefile" gives you plenty of options, but the [Census bureau result](https://www.census.gov/geo/maps-data/data/cbf/cbf_state.html) seems like a good choice. It gives you options with different levels of resolutions - 1:500k, 1:5mil or 1:20mil. Since we aren't really uploading these around anywhere, let's get the best resolution: [500k](http://www2.census.gov/geo/tiger/GENZ2010/gz_2010_us_040_00_500k.zip).
+Googling "state shapefile" gives you plenty of options, but the [Census bureau result](https://www.census.gov/geo/maps-data/data/cbf/cbf_state.html) seems like a good choice. It gives you options with different levels of resolutions - 1:500k, 1:5mil or 1:20mil. Since filesize doesn't matter to us, let's get the best resolution: [500k](http://www2.census.gov/geo/tiger/GENZ2010/gz_2010_us_040_00_500k.zip).
 
-### Inspecting your data
+## Inspecting your data
+
+Now we need to figure out how we're going to merge these together.
 
 First, open up your median income CSV. What fields do you have?
 
@@ -38,15 +37,15 @@ First, open up your median income CSV. What fields do you have?
 |02|Alaska|69014|
 |04|Arizona|50752|
 
-Looks like a FIPS code, a state name and an income field. Let's open up the shapefile and see if we'll be able to join on any of those fields.
+Looks like a **FIPS code**, a **state name** and an **income field**.
 
-If your browser didn't automatically unzip the file, do so now. Inside you'll see plenty of files, including a `.shp` file. Double-click and it should automatically open up in QGIS.
+Now let's open up the shapefile and see if we'll be able to join on any of those fields. If your browser didn't automatically unzip the file, do so now. Inside you'll see plenty of files, including a `.shp` file. Double-click and it should automatically open up in QGIS.
 
 ![](images/opened-shapefile.png)
 
-Beautiful! In QGIS each shapefile makes up a **layer** in a project, and you'll end up being able to set them one on top of the other or do operations between them (sharing columns, counting points-in-a-polygon, etc).
+Beautiful! You'll see the shapefile fall into a list on the left-hand side of the screen. In QGIS each shapefile makes up a **layer** in a project, and you'll end up being able to set them one on top of the other or do operations between them (sharing columns, counting points-in-a-polygon, etc). For now, though, we're just working with one.
 
-In order to see what fields the shapefile has inside of it, you'll need to right-click the layer's name - `gz_2010_us_040_00_50k` - and select `Open Attribute Table`
+In order to see what fields the shapefile has inside of it, you'll need to right-click the layer's name - `gz_2010_us_040_00_50k` - and select `Open Attribute Table`.
 
 ![](images/open-attribute-table.png)
 
@@ -54,33 +53,35 @@ It'll give you a big long list of fields, just like a spreadsheet! It's tough to
 
 ![](images/attribute-table.png)
 
-Looks like we've got a FIPS code *and* a state name - we could join on either! How convenient.
+Looks like we've got a **FIPS code** and a **state name** - we could join on either! How convenient.
 
-## Merging the Data
+# Merging the Data
 
 Merging data in QGIS is similar to merging data in Google Fusion Tables, but a tiny bit more work. I'd say it's well worth it in the end, though, since you get to pop your data into TileMill.
 
-### Importing the CSV
+## Importing the CSV
 
 First, you'll need to add the CSV to your QGIS project. You can do this by either clicking the menu item that looks like a line with dots on it, or going to `Layer > Add Vector Layer`
 
-![](images/attribute-table.png)
+![](images/add-layer.png)
 
-You might think because it's a CSV you'd use the comma-looking button down on the bottom left. **YOU DON'T.** I don't know why, but it just plain doesn't work.
+You might think because it's a CSV you'd use the comma-looking button down on the bottom left. **YOU DON'T.** Not unless (generally speaking) you're importing a CSV with latitude and longitude. **Data CSVs always get added as Vector Layers.**
 
 Once `census-state-median-income` appears over by `gz_2010_us_040_00_50k` you're ready to merge.
 
 ![](images/ready-to-merge.png)
 
-### Merging
+## Merging
 
-OKAY. Let's do this.
+**OKAY.** *Let's do this.*
 
 First, right-click the shapefile layer (`gz_2010_us_040_00_50k`) and select `Properties`
 
 ![](images/select-properties.png)
 
 Next select the `Join` tab on the left and click the plus symbol to add a new join.
+
+![](images/make-join.png)
 
 **Join layer** is the layer you're going to be joining to. That'll be the csv - `census-state-median-income`.
 
@@ -90,9 +91,7 @@ Next select the `Join` tab on the left and click the plus symbol to add a new jo
 
 Then click `OK`.
 
-![](images/make-join.png)
-
-### Checking the merge
+## Checking the merge
 
 Now you've gotta make sure it went through okay! You'll do that by checking out the **attributes table**. Open it up again by right-clicking the shapefile layer, and selecting `Open Attribute Table`.
 
@@ -100,11 +99,13 @@ Now you've gotta make sure it went through okay! You'll do that by checking out 
 
 Sometimes you'll have to scroll far to the right, but in this case it's pretty clear: the join was successful, and you have your median income in a column. But now let's make sure it's the right **data type** - you want to make sure it's a number, not a string!
 
-Exit out of the attributes table and right-click the layer name, selecting `Properties`. Click `Fields` on the left hand side and groan loudly: the income is a String!
+Exit out of the attributes table and right-click the layer name, selecting `Properties`. Click `Fields` on the left hand side and groan loudly: **income is a String!**
 
 ![](images/sad-string.png)
 
-### Changing the column type
+This would cause big problems later on when we'll want to add styles relative to the income values: you can't do `>` or `<` comparisons on a string, of course!
+
+## Changing the column type
 
 Now we'll need to create a whole new field that converts the income field string to an integer. We'll use the **Field Calculator** for this.
 
@@ -140,7 +141,7 @@ Feel free to open up the attributes table again just to double-check what you di
 
 ![](images/income-attributes.png)
 
-### Exporting from QGIS
+## Exporting from QGIS
 
 The *thing* you're in with all of these files is a big ol' QGIS project. Can't import that into TileMill! You need to just export the **shapefile.**
 
@@ -150,7 +151,7 @@ Right-click the shapefile and select `Save As...`. Don't change anything on the 
 
 Once you've successfully exported it, you're ready to take it into TileMill. If you'd like to save the QGIS project to come back to later, you can do that, too, but otherwise feel free to discard it.
 
-## Importing into TileMill
+# Importing into TileMill
 
 Create a new project in TileMill (`Project` tab, `+ New Project`), giving it a filename of something like `states-median-income`, and a name like `Median income across states`
 
@@ -182,7 +183,9 @@ And now you're all set! Big ups.
 
 I've included the joined shapefile [right here](merged-income-state.zip) (not the colored version from TileMill, just the shapefile that I imported).
 
-## Census Data Code
+---
+
+### Census Data Code
 
 How I pulled the census data
 
