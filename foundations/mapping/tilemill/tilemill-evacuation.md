@@ -1,5 +1,7 @@
 Now that we've seen how easy to use Google Fusion Tables is, let's take a look at a tool that lets us put a little more design power in our hands: [Tilemill](https://www.mapbox.com/tilemill/). We'll be using it in conjunction with [MapBox](https://www.mapbox.com), which allows you to host maps.
 
+We all love [WNYC's hurricane evacuation zone map](http://project.wnyc.org/news-maps/hurricane-zones/hurricane-zones.html), so let's give a spin to reproducing it in TileMill.
+
 # What's TileMill good for?
 
 TileMill is stellar at *displaying* data, but not good for *dealing with data*. You'll need to spend some time massaging your information - joining shapefiles, calculating columns, all of that - in something like [QGIS](QGIS.md) before it's ready for TileMill. Once it's ready though, TileMill makes the design process a breeze!
