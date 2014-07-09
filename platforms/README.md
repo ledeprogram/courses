@@ -26,12 +26,14 @@ Cathy talks about the class, the final projects, and does some exploratory stati
 TBD
 
 **In Studio:**
+
 A more in-depth discussion at some of the statistics and NLP questions that came up in class.
 
 ##July 17
 
 **In Class:**
-Emanuel Derman guest lectures.
+
+Emanuel Derman guest lectures on modeling and models
 
 ***Reading:*** TBA
 
@@ -54,6 +56,8 @@ Emanuel Derman guest lectures.
 
 **In Class:**
 
+Matthew Connelly guest lectures on the declassification engine
+
 ***Reading:*** TBA
 
 ***Homework:*** TBA
@@ -66,6 +70,8 @@ Emanuel Derman guest lectures.
 
 **In Class:**
 
+Mark Hansen guest lectures on Data Journalism
+
 ***Reading:*** TBA
 
 ***Homework:*** TBA
@@ -76,6 +82,8 @@ Emanuel Derman guest lectures.
 ##July 31
 
 **In Class:**
+
+Scott Klein of ProPublica guest lectures on running a data journalism group
 
 ***Reading:*** TBA
 
@@ -88,6 +96,8 @@ Emanuel Derman guest lectures.
 ##August 5
 
 **In Class:**
+
+danah boyd guest lectures on teen privacy and big data
 
 ***Reading:*** TBA
 
@@ -122,6 +132,8 @@ Emanuel Derman guest lectures.
 
 **In Class:**
 
+Suresh Naidu guest lectures on speech patterns in politics
+
 ***Reading:*** TBA
 
 ***Homework:*** TBA
@@ -132,6 +144,8 @@ Emanuel Derman guest lectures.
 ##August 19
 
 **In Class:**
+
+Agustin Armendariz guest lectures on opiate use at the VA
 
 ***Reading:*** TBA
 
@@ -144,6 +158,8 @@ Emanuel Derman guest lectures.
 
 **In Class:**
 
+Jeff Larson from ProPublica guest lectures on reverse engineering political ad models
+
 ***Reading:*** TBA
 
 ***Homework:*** TBA
@@ -154,6 +170,8 @@ Emanuel Derman guest lectures.
 ##August 26
 
 **In Class:**
+
+Maxine Rockoff and Lisa Radcliffe guest lecture on health data
 
 ***Reading:*** TBA
 
