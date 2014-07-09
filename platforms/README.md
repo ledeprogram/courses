@@ -2,7 +2,7 @@
 instructor: Cathy O'Neil 
 ta: Josh Vekhter
 time: TR 10am-1pm. July 15-Sept 2.
-location: TBA
+location: For July 15 & 17 Baker Studio, then for the rest of July 6th floor of J-School, then for August in the Brown Institute
 
 ---
 
