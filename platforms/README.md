@@ -24,7 +24,8 @@ Cathy talks about the class, the final projects, and does some exploratory stati
 4. [A technical criticism by John Grohol](http://psychcentral.com/blog/discuss/59624/)
 
 ***Homework:***
-TBD
+
+Think of what your final project will be about and start looking for data.
 
 **In Studio:**
 
@@ -36,7 +37,7 @@ A more in-depth discussion at some of the statistics and NLP questions that came
 
 Emanuel Derman guest lectures on modeling and models
 
-Josh talks about anonymization (part 1)
+Cathy: Financial time series
 
 ***Reading:*** TBA
 
@@ -44,14 +45,15 @@ Josh talks about anonymization (part 1)
 
 **In Studio:**
 
-tentative: RSA
+More advanced topics in financial modeling
 
 ##July 22
 
 **In Class:**
 
-Cathy: distributions, bias, and experiments.
-Josh: anonymization (part 2)
+Cathy: distributions, bias, lying with graphs, and experiments.
+
+Josh: anonymization (part 1)
 
 ***Reading:*** How to Lie with Statistics, Cartoon Guide to Statistics
 
@@ -68,13 +70,15 @@ Deeper dive into statistics
 
 Matthew Connelly guest lectures on the declassification engine
 
+Josh talks about anonymization (part 2)
+
 ***Reading:*** TBA
 
 ***Homework:*** TBA
 
 **In Studio:**
 
-
+RSA
 
 ##July 29
 
@@ -101,7 +105,7 @@ Scott Klein of ProPublica guest lectures on running a data journalism group
 
 **In Studio:**
 
-
+SQL
 
 ##August 5
 
@@ -130,6 +134,7 @@ An exploration into black boxes, uncertainty, and robustness
 
 **In Studio:**
 
+Calculus review (part 1)
 
 ##August 12
 
@@ -153,6 +158,7 @@ Reproducibility and expectations around data models.
 
 **In Studio:**
 
+Calculus review (part 2)
 
 ##August 14
 
