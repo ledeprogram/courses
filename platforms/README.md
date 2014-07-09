@@ -135,7 +135,19 @@ An exploration into black boxes, uncertainty, and robustness
 
 **In Class:**
 
-***Reading:*** TBA
+Reproducibility and expectations around data models.
+
+***Reading:*** 
+
+1.[Growth in a Time of Debt](http://www.nber.org/papers/w15639)
+
+2.[Does High Public Debt Consistently Stifle Economic Growth? A Critique of Reinhart and Rogoff](http://www.peri.umass.edu/236/hash/31e2ff374b6377b2ddec04deaa6388b1/publication/566/)
+
+3.[THE REINHART AND ROGOFF CONTROVERSY: a summing up](http://www.newyorker.com/online/blogs/johncassidy/2013/04/the-rogoff-and-reinhart-controversy-a-summing-up.html)
+
+4.[Piketty findings undercut by errors](http://www.ft.com/intl/cms/s/2/e1f343ca-e281-11e3-89fd-00144feabdc0.html#axzz36z1j8zqJ)
+
+5.[Piketty response to FT data concerns](http://blogs.ft.com/money-supply/2014/05/23/piketty-response-to-ft-data-concerns/)
 
 ***Homework:*** TBA
 
