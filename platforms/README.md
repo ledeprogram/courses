@@ -172,6 +172,7 @@ Suresh Naidu guest lectures on speech patterns in politics
 
 **In Studio:**
 
+Linear Algebra (part 1)
 
 ##August 19
 
@@ -185,6 +186,7 @@ Agustin Armendariz guest lectures on opiate use at the VA
 
 **In Studio:**
 
+Linear Algebra (part 2)
 
 ##August 21
 
