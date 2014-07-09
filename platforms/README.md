@@ -1,8 +1,9 @@
 ---
-instructor: Cathy O'Neil 
-ta: Josh Vekhter
-time: TR 10am-1pm. July 15-Sept 2.
-location: For July 15 & 17 Baker Studio, then for the rest of July 6th floor of J-School, then for August in the Brown Institute
+Instructor: Cathy O'Neil 
+TA: Josh Vekhter
+Time: TR 10am-1pm 
+Dates: July 15-Sept 2
+Locations: For July 15 & 17 Baker Studio, then for the rest of July 6th floor of J-School, then for August in the Brown Institute
 
 ---
 
