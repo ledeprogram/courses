@@ -35,21 +35,30 @@ A more in-depth discussion at some of the statistics and NLP questions that came
 
 Emanuel Derman guest lectures on modeling and models
 
+Josh talks about anonymization (part 1)
+
 ***Reading:*** TBA
 
 ***Homework:*** TBA
 
 **In Studio:**
+
+tentative: RSA
 
 ##July 22
 
 **In Class:**
 
-***Reading:*** TBA
+Cathy: distributions, bias, and experiments.
+Josh: anonymization (part 2)
+
+***Reading:*** How to Lie with Statistics, Cartoon Guide to Statistics
 
 ***Homework:*** TBA
 
 **In Studio:**
+
+Deeper dive into statistics
 
 
 ##July 24
@@ -110,7 +119,11 @@ danah boyd guest lectures on teen privacy and big data
 
 **In Class:**
 
-***Reading:*** TBA
+An exploration into black boxes, uncertainty, and robustness
+
+***Reading:*** 
+
+[Nick Diakopoulos's Tow Report](http://towcenter.org/wp-content/uploads/2014/02/78524_Tow-Center-Report-WEB-1.pdf)
 
 ***Homework:*** TBA
 
