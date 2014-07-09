@@ -134,6 +134,7 @@ An exploration into black boxes, uncertainty, and robustness
 
 **In Studio:**
 
+Calculus review (part 1)
 
 ##August 12
 
@@ -157,6 +158,7 @@ Reproducibility and expectations around data models.
 
 **In Studio:**
 
+Calculus review (part 2)
 
 ##August 14
 
