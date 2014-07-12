@@ -29,7 +29,7 @@ Think of what your final project will be about and start looking for data.
 
 **In Studio:**
 
-A more in-depth discussion at some of the statistics and NLP questions that came up in class.
+Q&A about the second semester in the CS department with Adam Cannon and Sophie Chou.
 
 ##July 17
 
