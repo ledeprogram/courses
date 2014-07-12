@@ -41,6 +41,10 @@ Cathy: Financial time series. iPython notebook [here.](https://github.com/mathba
 
 ***Reading:*** 
 
+1. [Metaphors, Models, and Theories](http://mathbabe.org/2014/07/11/the-lede-program-students-are-rocking-it/chapter-2-metaphors-models-theories/)
+2. [The Absolute](http://mathbabe.org/2014/07/11/the-lede-program-students-are-rocking-it/chapter-3-the-absolute/)
+3. [The Sublime](http://mathbabe.org/2014/07/11/the-lede-program-students-are-rocking-it/chapter-4-the-sublime/)
+
 ***Homework:*** TBA
 
 **In Studio:**
