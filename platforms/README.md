@@ -37,15 +37,15 @@ A more in-depth discussion at some of the statistics and NLP questions that came
 
 Emanuel Derman guest lectures on modeling and models
 
-Cathy: Financial time series
+Cathy: Financial time series. iPython notebook [here.](https://github.com/mathbabe/Lede-Program/blob/master/Financial%20Time%20Series.ipynb)
 
-***Reading:*** TBA
+***Reading:*** 
 
 ***Homework:*** TBA
 
 **In Studio:**
 
-More advanced topics in financial modeling
+SQL
 
 ##July 22
 
