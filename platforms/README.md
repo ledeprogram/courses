@@ -14,7 +14,7 @@ This course begins with the idea that computing tools are the products of human 
 
 ##July 15
 **In Class:**
-Cathy talks about the class, the final projects, and does some exploratory statistics inspired by the Facebook
+Cathy talks about the class, the final projects, and does some exploratory statistics inspired by the Facebook. [Here's an ipython notebook](https://github.com/mathbabe/Lede-Program/blob/master/basic%20stats%20worksheet%201.ipynb) we will work with in class.
 
 ***Reading:*** 
 
