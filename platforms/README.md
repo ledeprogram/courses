@@ -108,8 +108,6 @@ Scott Klein of ProPublica guest lectures on running a data journalism group
 
 **In Studio:**
 
-SQL
-
 ##August 5
 
 **In Class:**
