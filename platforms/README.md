@@ -22,6 +22,7 @@ Cathy talks about the class, the final projects, and does some exploratory stati
 2. [The Facebook Emotions study](http://www.pnas.org/content/111/24/8788.full)
 3. [Zeynep Tufecki's response](https://medium.com/message/engineering-the-public-289c91390225)
 4. [A technical criticism by John Grohol](http://psychcentral.com/blog/discuss/59624/)
+5. [Response from the Social Computing Community] (https://medium.com/@msbernst/the-destructive-silence-of-social-computing-researchers-9155cdff659)
 
 ***Homework:***
 
