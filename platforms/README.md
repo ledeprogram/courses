@@ -14,7 +14,7 @@ This course begins with the idea that computing tools are the products of human 
 
 ##July 15
 **In Class:**
-Cathy talks about the class, the final projects, and does some exploratory statistics inspired by the Facebook. [Here's an ipython notebook](https://github.com/mathbabe/Lede-Program/blob/master/basic%20stats%20worksheet%201.ipynb) we will work with in class.
+Cathy talks about the class, the final projects, and does some exploratory statistics inspired by the Facebook. [Here's an ipython notebook](https://github.com/ledeprogram/courses/blob/master/platforms/basic%20stats%20worksheet%201.ipynb) we will work with in class.
 
 ***Reading:*** 
 
@@ -37,7 +37,7 @@ Q&A about the second semester in the CS department with Adam Cannon and Sophie C
 
 Emanuel Derman guest lectures on modeling and models
 
-Cathy: Financial time series. iPython notebook [here.](https://github.com/mathbabe/Lede-Program/blob/master/Financial%20Time%20Series.ipynb)
+Cathy: Financial time series. iPython notebook [here.](https://github.com/ledeprogram/courses/blob/master/platforms/Financial%20Time%20Series.ipynb)
 
 ***Reading:*** 
 
