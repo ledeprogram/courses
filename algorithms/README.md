@@ -63,7 +63,7 @@ Course tools: [scikit-learn](http://scikit-learn.org/stable/), [pandas](http://p
     + what assumptions are made?
 - rhetorical literacy: try something else!
     + random forests
-    + decision trees
+    + decision trees, e.g., in [ProPublica](http://www.propublica.org/)'s [message machine](http://www.propublica.org/nerds/item/how-propublicas-message-machine-reverse-engineers-political-microtargeting)
     + SVMs
     + explore [scikit-learn](http://scikit-learn.org/stable/)'s [classification algorithms](http://scikit-learn.org/stable/supervised_learning.html#supervised-learning)
 
