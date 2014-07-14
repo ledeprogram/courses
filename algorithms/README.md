@@ -167,3 +167,7 @@ Course tools: [scikit-learn](http://scikit-learn.org/stable/), [pandas](http://p
 ##data journalism examples and awardees
 ##additional readings cut from syllabus
 -->
+
+### Readings
+
+- [Reading Machines](http://www.press.uillinois.edu/books/catalog/75tms2pw9780252036415.html), Stephen Ramsay, 2011
