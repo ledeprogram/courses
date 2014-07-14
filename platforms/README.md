@@ -219,9 +219,13 @@ Maxine Rockoff and Lisa Radcliffe guest lecture on health data
 
 **In Class:**
 
-***Reading:*** TBA
+Alexander Howard guest lectures.
 
-***Homework:*** TBA
+***Reading:*** 
+
+[Alex's Tow Report](http://towcenter.org/blog/the-art-and-science-of-data-driven-journalism/)
+
+***Homework:*** 
 
 **In Studio:**
 
