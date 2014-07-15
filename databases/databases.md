@@ -42,7 +42,7 @@ Reading:
 
 - Lazer, David M., Ryan Kennedy, Gary King, and Alessandro Vespignani. “The Parable of Google Flu: Traps in Big Data Analysis.” Science 343, no. 6176 (2014): 1203–5. doi:10.1126/science.1248506.
 
-homework assignment due 6-3: [Lists and list operations](http://nbviewer.ipython.org/github/ledeprogram/courses/blob/master/databases/Data%20and%20Databases%20Homework%20Assignment%201.ipynb).
+homework assignment due 6-3: [Lists and list operations](http://nbviewer.ipython.org/github/ledeprogram/courses/blob/master/databases/Data%20and%20Databases%20Homework%20Assignment%201.ipynb) ([answer key](http://nbviewer.ipython.org/github/ledeprogram/courses/blob/master/databases/Data%20and%20Databases%20Homework%20Assignment%201%20with%20answers.ipynb)).
 
 
 ###session 03: tuesday, june 3rd 2014
@@ -70,7 +70,7 @@ reading:
 + Berg, Mark, and Geoffrey C. Bowker. “The Multiple Bodies of the Medical Record,” 1996. https://www.ics.uci.edu/~gbowker/records.html.
 
 
-homework assignment due 6-10: [Dictionaries, web APIs, strings, regular expressions](http://nbviewer.ipython.org/github/ledeprogram/courses/blob/master/databases/Data%20and%20Databases%20Homework%20Assignment%202.ipynb).
+homework assignment due 6-10: [Dictionaries, web APIs, strings, regular expressions](http://nbviewer.ipython.org/github/ledeprogram/courses/blob/master/databases/Data%20and%20Databases%20Homework%20Assignment%202.ipynb) ([answer key](http://nbviewer.ipython.org/github/ledeprogram/courses/blob/master/databases/Data%20and%20Databases%20Homework%20Assignment%202%20with%20answers.ipynb)).
 
 
 ###session 05: tuesday, june 10th 2014
@@ -141,7 +141,7 @@ reading:
 reading:
 - Fortune, Stephen. “A Brief History of Databases.” Accessed May 3, 2014. http://vvvnt.com/media/history-of-databases.
 
-Homework assignment, due July 1st: [Scraping with Beautiful Soup](http://nbviewer.ipython.org/github/ledeprogram/courses/blob/master/databases/Data%20and%20Databases%20Homework%20Assignment%205.ipynb).
+Homework assignment, due July 1st: [Scraping with Beautiful Soup](http://nbviewer.ipython.org/github/ledeprogram/courses/blob/master/databases/Data%20and%20Databases%20Homework%20Assignment%205.ipynb) ([answer key](http://nbviewer.ipython.org/github/ledeprogram/courses/blob/master/databases/Data%20and%20Databases%20Homework%20Assignment%205%20with%20answers.ipynb)).
 
 
 ###session 11: tuesday july 1st 2014
@@ -157,7 +157,7 @@ reading:
 - Bucher, Taina. "[Objects of intense feeling: The case of the Twitter API.](http://computationalculture.net/article/objects-of-intense-feeling-the-case-of-the-twitter-api)"
 - Thorp, Jer. "[Art and the API.](http://blog.blprnt.com/blog/blprnt/art-and-the-api)"
 
-homework assignment due july 8th: [MongoDB and Tornado](http://nbviewer.ipython.org/github/ledeprogram/courses/blob/master/databases/Data%20and%20Databases%20Homework%20Assignment%206.ipynb).
+homework assignment due july 8th: [MongoDB and Tornado](http://nbviewer.ipython.org/github/ledeprogram/courses/blob/master/databases/Data%20and%20Databases%20Homework%20Assignment%206.ipynb) ([answer key](http://nbviewer.ipython.org/github/ledeprogram/courses/blob/master/databases/Data%20and%20Databases%20Homework%20Assignment%206%20with%20answers.ipynb)).
 
 ###session 13: tuesday july 8th 2014
 
