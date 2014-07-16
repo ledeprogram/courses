@@ -58,7 +58,7 @@ Cathy: distributions, bias, lying with graphs, and experiments.
 
 Josh: anonymization (part 1)
 
-***Reading:*** How to Lie with Statistics, Cartoon Guide to Statistics
+***Reading:*** How to Lie with Statistics (as much as you can), Cartoon Guide to Statistics (take a look)
 
 ***Homework:*** TBA
 
