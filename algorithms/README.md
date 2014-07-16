@@ -22,12 +22,32 @@ for the class, as our primary interest is in producing technology-enabled journa
 
 ## Week 1: Intro to Algorithms
 
-- Multiliteracies, questioning algorithms
 - What is an algorithm?
-    + learning
-        - degression on AI and AAI
-    + search (cf. Nick's paper)
-    + optimization
+    + Algorithms in computer science (searching, sorting, clustering)
+    + Algorithms in real life
+- Algorithmic thinking
+    + Step after step
+    + Reductions/Black boxes
+- Multiliteracies
+    + Functional literacy
+    + Rhetorical literacy
+    + Critical literacy
+- Summary of projects
+    + Documentation
+    + Agile vs Waterfall
+- Analysis of algorithm
+    + Computationally (Functionally)
+        - Correctness, Termination, Time, Space
+        - Generality
+    + Critically (Nick Diakopoulos)
+        - Prioritization
+        - Classification
+        - Association
+        - Filtering
+- Examples of algorithms in journalism
+    + QuakeBot
+    + Narrative Science/Automated Insights
+    + Projects from last class
 
 ### Wednesday 7/16 
 
