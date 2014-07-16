@@ -49,6 +49,14 @@ for the class, as our primary interest is in producing technology-enabled journa
     + Narrative Science/Automated Insights
     + Projects from last class
 
+#### Day One Links
+
+- [ISO 3103](http://en.wikipedia.org/wiki/ISO_3103) ([2](http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=8250))
+- [Royal Society of Chemistry](http://www.rsc.org/pdf/pressoffice/2003/tea.pdf)
+- [Orwell](http://www.booksatoz.com/witsend/tea/orwell.htm)
+- [Automated Insights](http://nymag.com/daily/intelligencer/2014/07/why-robot-journalism-is-great-for-journalists.html) ([2](http://qz.com/228218/the-aps-newest-business-reporter-is-an-algorithm/))
+- [Algorithmic Accountability Reporting](http://towcenter.org/wp-content/uploads/2014/02/78524_Tow-Center-Report-WEB-1.pdf) by Nick Diakopoulos
+
 ### Wednesday 7/16 
 
 - Introduction to first in-class project: building a democrat detector
