@@ -14,7 +14,7 @@ This course begins with the idea that computing tools are the products of human 
 
 ##July 15
 **In Class:**
-Cathy talks about the class, the final projects, and does some exploratory statistics inspired by the Facebook. [Here's an ipython notebook](https://github.com/mathbabe/Lede-Program/blob/master/basic%20stats%20worksheet%201.ipynb) we will work with in class.
+Cathy talks about the class, the final projects, and does some exploratory statistics inspired by the Facebook. [Here's an ipython notebook](https://github.com/ledeprogram/courses/blob/master/platforms/basic%20stats%20worksheet%201.ipynb) we will work with in class.
 
 ***Reading:*** 
 
@@ -22,6 +22,7 @@ Cathy talks about the class, the final projects, and does some exploratory stati
 2. [The Facebook Emotions study](http://www.pnas.org/content/111/24/8788.full)
 3. [Zeynep Tufecki's response](https://medium.com/message/engineering-the-public-289c91390225)
 4. [A technical criticism by John Grohol](http://psychcentral.com/blog/discuss/59624/)
+5. [Response from the Social Computing Community] (https://medium.com/@msbernst/the-destructive-silence-of-social-computing-researchers-9155cdff659)
 
 ***Homework:***
 
@@ -37,7 +38,7 @@ Q&A about the second semester in the CS department with Adam Cannon and Sophie C
 
 Emanuel Derman guest lectures on modeling and models
 
-Cathy: Financial time series. iPython notebook [here.](https://github.com/mathbabe/Lede-Program/blob/master/Financial%20Time%20Series.ipynb)
+Cathy: Financial time series. iPython notebook [here.](https://github.com/ledeprogram/courses/blob/master/platforms/Financial%20Time%20Series.ipynb)
 
 ***Reading:*** 
 
@@ -57,7 +58,7 @@ Cathy: distributions, bias, lying with graphs, and experiments.
 
 Josh: anonymization (part 1)
 
-***Reading:*** How to Lie with Statistics, Cartoon Guide to Statistics
+***Reading:*** How to Lie with Statistics (as much as you can), Cartoon Guide to Statistics (take a look)
 
 ***Homework:*** TBA
 
@@ -107,8 +108,6 @@ Scott Klein of ProPublica guest lectures on running a data journalism group
 
 **In Studio:**
 
-SQL
-
 ##August 5
 
 **In Class:**
@@ -126,11 +125,9 @@ danah boyd guest lectures on teen privacy and big data
 
 **In Class:**
 
-An exploration into black boxes, uncertainty, and robustness
+Julie Steele guest lectures
 
 ***Reading:*** 
-
-[Nick Diakopoulos's Tow Report](http://towcenter.org/wp-content/uploads/2014/02/78524_Tow-Center-Report-WEB-1.pdf)
 
 ***Homework:*** TBA
 
@@ -142,19 +139,10 @@ Calculus review (part 1)
 
 **In Class:**
 
-Reproducibility and expectations around data models.
+John Keefe guest lectures
 
 ***Reading:*** 
 
-1.[Growth in a Time of Debt](http://www.nber.org/papers/w15639)
-
-2.[Does High Public Debt Consistently Stifle Economic Growth? A Critique of Reinhart and Rogoff](http://www.peri.umass.edu/236/hash/31e2ff374b6377b2ddec04deaa6388b1/publication/566/)
-
-3.[THE REINHART AND ROGOFF CONTROVERSY: a summing up](http://www.newyorker.com/online/blogs/johncassidy/2013/04/the-rogoff-and-reinhart-controversy-a-summing-up.html)
-
-4.[Piketty findings undercut by errors](http://www.ft.com/intl/cms/s/2/e1f343ca-e281-11e3-89fd-00144feabdc0.html#axzz36z1j8zqJ)
-
-5.[Piketty response to FT data concerns](http://blogs.ft.com/money-supply/2014/05/23/piketty-response-to-ft-data-concerns/)
 
 ***Homework:*** TBA
 
@@ -220,9 +208,13 @@ Maxine Rockoff and Lisa Radcliffe guest lecture on health data
 
 **In Class:**
 
-***Reading:*** TBA
+Alexander Howard guest lectures.
 
-***Homework:*** TBA
+***Reading:*** 
+
+[Alex's Tow Report](http://towcenter.org/blog/the-art-and-science-of-data-driven-journalism/)
+
+***Homework:*** 
 
 **In Studio:**
 
@@ -230,7 +222,21 @@ Maxine Rockoff and Lisa Radcliffe guest lecture on health data
 
 **In Class:**
 
-***Reading:*** TBA
+An exploration into black boxes, uncertainty, and robustness
+
+***Reading:*** 
+
+1.[Nick Diakopoulos's Tow Report](http://towcenter.org/wp-content/uploads/2014/02/78524_Tow-Center-Report-WEB-1.pdf)
+
+1.[Growth in a Time of Debt](http://www.nber.org/papers/w15639)
+
+2.[Does High Public Debt Consistently Stifle Economic Growth? A Critique of Reinhart and Rogoff](http://www.peri.umass.edu/236/hash/31e2ff374b6377b2ddec04deaa6388b1/publication/566/)
+
+3.[THE REINHART AND ROGOFF CONTROVERSY: a summing up](http://www.newyorker.com/online/blogs/johncassidy/2013/04/the-rogoff-and-reinhart-controversy-a-summing-up.html)
+
+4.[Piketty findings undercut by errors](http://www.ft.com/intl/cms/s/2/e1f343ca-e281-11e3-89fd-00144feabdc0.html#axzz36z1j8zqJ)
+
+5.[Piketty response to FT data concerns](http://blogs.ft.com/money-supply/2014/05/23/piketty-response-to-ft-data-concerns/)
 
 ***Homework:*** TBA
 
