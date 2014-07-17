@@ -22,12 +22,40 @@ for the class, as our primary interest is in producing technology-enabled journa
 
 ## Week 1: Intro to Algorithms
 
-- Multiliteracies, questioning algorithms
 - What is an algorithm?
-    + learning
-        - degression on AI and AAI
-    + search (cf. Nick's paper)
-    + optimization
+    + Algorithms in computer science (searching, sorting, clustering)
+    + Algorithms in real life
+- Algorithmic thinking
+    + Step after step
+    + Reductions/Black boxes
+- Multiliteracies
+    + Functional literacy
+    + Rhetorical literacy
+    + Critical literacy
+- Summary of projects
+    + Documentation
+    + Agile vs Waterfall
+- Analysis of algorithm
+    + Computationally (Functionally)
+        - Correctness, Termination, Time, Space
+        - Generality
+    + Critically (Nick Diakopoulos)
+        - Prioritization
+        - Classification
+        - Association
+        - Filtering
+- Examples of algorithms in journalism
+    + QuakeBot
+    + Narrative Science/Automated Insights
+    + Projects from last class
+
+#### Day One Links
+
+- [ISO 3103](http://en.wikipedia.org/wiki/ISO_3103) ([2](http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=8250))
+- [Royal Society of Chemistry](http://www.rsc.org/pdf/pressoffice/2003/tea.pdf)
+- [Orwell](http://www.booksatoz.com/witsend/tea/orwell.htm)
+- [Automated Insights](http://nymag.com/daily/intelligencer/2014/07/why-robot-journalism-is-great-for-journalists.html) ([2](http://qz.com/228218/the-aps-newest-business-reporter-is-an-algorithm/))
+- [Algorithmic Accountability Reporting](http://towcenter.org/wp-content/uploads/2014/02/78524_Tow-Center-Report-WEB-1.pdf) by Nick Diakopoulos
 
 ### Wednesday 7/16 
 
