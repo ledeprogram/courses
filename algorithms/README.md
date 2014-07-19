@@ -75,6 +75,11 @@ Course tools: [scikit-learn](http://scikit-learn.org/stable/), [pandas](http://p
 
 - Algorithms for prediction
 
+#### Fun data to play with
+
+- [govtrack](https://www.govtrack.us/developers)
+- [US github](https://github.com/unitedstates/congress/wiki/Bills)
+
 ### Wednesday 7/23
 
 - k-nearest neighbors (predicting from examples)
