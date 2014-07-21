@@ -62,8 +62,6 @@ Then, Josh talks about anonymization (part 1)
 
 ***Reading:*** How to Lie with Statistics (as much as you can), Cartoon Guide to Statistics (take a look)
 
-***Homework:*** TBA
-
 **In Studio:**
 
 Deeper dive into statistics:
@@ -162,6 +160,7 @@ Calculus review (part 2)
 
 **In Class:**
 
+Cathy goes over important points from How To Lie With Statistics and The Cartoon Guide To Statistics
 
 ***Reading:*** TBA
 
