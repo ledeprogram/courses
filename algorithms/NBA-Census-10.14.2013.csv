@@ -1,0 +1,529 @@
+Name,Age,Team,POS,#,2013 $,Ht (In.),WT,EXP,1st Year,DOB,School,City,"State (Province, Territory, Etc..)",Country,Race,HS Only
+"Gee, Alonzo",26,Cavaliers,F,33,"$3,250,000",78,219,4,2009,5/29/1987,Alabama,"Riviera Beach, FL",Florida,US,Black,No
+"Wallace, Gerald",31,Celtics,F,45,"$10,105,855",79,220,12,2001,7/23/1982,Alabama,"Sylacauga, AL",Alabama,US,Black,No
+"Williams, Mo",30,Trail Blazers,G,25,"$2,652,000",73,195,10,2003,12/19/1982,Alabama,"Jackson, MS",Mississippi,US,Black,No
+"Gladness, Mickell",27,Magic,C,40,"$762,195",83,220,2,2011,7/26/1986,Alabama A&M,"Birmingham, AL",Alabama,US,Black,No
+"Jefferson, Richard",33,Jazz,F,44,"$11,046,000",79,230,12,2001,6/21/1980,Arizona,"Los Angeles, CA",California,US,Black,No
+"Hill, Solomon",22,Pacers,F,9,"$1,246,680",79,220,0,2013,3/18/1991,Arizona,"Los Angeles, CA",California,US,Black,No
+"Budinger, Chase",25,Timberwolves,F,10,"$5,000,000",79,218,4,2009,5/22/1988,Arizona,"Encinitas, CA",California,US,White,No
+"Williams, Derrick",22,Timberwolves,F,7,"$5,016,960",80,241,2,2011,5/25/1991,Arizona,"La Mirada, CA",California,US,Black,No
+"Hill, Jordan",26,Lakers,F/C,27,"$3,563,600",82,235,1,2012,7/27/1987,Arizona,"Newberry, SC",South Carolina,US,Black,No
+"Frye, Channing",30,Suns,F/C,8,"$6,500,000",83,245,8,2005,5/17/1983,Arizona,"White Plains, NY",New York,US,Black,No
+"Bayless, Jerryd",25,Grizzlies,G,7,"$3,135,000",75,200,5,2008,8/20/1988,Arizona,"Phoenix, AZ",Arizona,US,Black,No
+"Terry, Jason",36,Nets,G,31,"$5,625,313",74,180,14,1999,9/15/1977,Arizona,"Seattle, WA",Washington,US,Black,No
+"Fogg, Kyle",23,Nuggets,G,6,n/a,75,183,0,2013,1/27/1990,Arizona,"Brea, CA",California,US,Black,No
+"Iguodala, Andre",29,Warriors,G/F,9,"$12,868,632",78,207,9,2004,1/28/1984,Arizona,"Springfield, IL",Illinois,US,Black,No
+"Boateng, Eric",27,Lakers,C,12,n/a,82,257,17,1996,11/20/1985,Arizona State,"London, ENG",n/a,England,Black,No
+"Diogu, Ike",29,Knicks,F/C,50,"$792,377",80,255,8,2005,11/9/1983,Arizona State,"Buffalo, NY",New York,US,Black,No
+"Ayres, Jeff",26,Spurs,F/C,11,"$1,750,000",81,250,4,2009,4/29/1987,Arizona State,"Ontario, CA",California,US,Black,No
+"Harden, James",24,Rockets,G,13,"$13,701,250",77,220,4,2009,8/26/1989,Arizona State,"Los Angeles, CA",California,US,Black,No
+"Felix, Carrick",23,Cavaliers,G/F,30,"$510,000",78,210,0,2013,8/17/1990,Arizona State,"Goodyear, AZ",Arizona,US,Black,No
+"Pargo, Jannero",33,Bobcats,G,5,"$884,293",73,185,11,2002,10/22/1979,Arkansas,"Chicago, IL",Illinois,US,Black,No
+"Beverley, Patrick",25,Rockets,G,2,"$788,872",73,185,5,2008,7/12/1988,Arkansas,"Chicago, IL",Illinois,US,Black,No
+"Johnson, Joe",32,Nets,G/F,7,"$21,466,718",79,240,12,2001,6/29/1981,Arkansas,"Little Rock, AR",Arkansas,US,Black,No
+"Brewer, Ronnie",28,Rockets,G/F,10,"$1,186,459",79,235,7,2006,3/20/1985,Arkansas,"Portland, OR",Oregon,US,Black,No
+"Fisher, Derek",39,Thunder,G,6,"$884,293",73,210,17,1996,8/9/1974,Arkansas-Little Rock,"Little Rock, AR",Arkansas,US,Black,No
+"Miller, Quincy",20,Nuggets,F,30,"$788,872",81,210,1,2012,11/18/1992,Baylor,"North Carolina, IL",Illinois,US,Black,No
+"Acy, Quincy",23,Raptors,F,4,"$788,872",79,225,1,2012,10/6/1990,Baylor,"Tyler, TX",Texas,US,Black,No
+"Jones, Perry",22,Thunder,F,3,"$1,082,520",83,235,1,2012,9/24/1991,Baylor,"Winnsboro, LA",Louisiana,US,Black,No
+"Udoh, Ekpe",26,Bucks,F/C,5,"$4,469,548",82,245,3,2010,5/20/1987,Baylor,"Edmond, OK",Oklahoma,US,Black,No
+"Clark, Ian",22,Jazz,G,21,"$490,180",75,175,0,2013,3/7/1991,Belmont,"Memphis, TN",Tennessee,US,Black,No
+"Andersen, Chris",35,Heat,F/C,11,"$1,399,507",82,228,12,2001,7/7/1978,Blinn College,"Long Beach, CA",California,US,White,No
+"Jackson, Reggie",23,Thunder,G,15,"$1,260,360",75,208,2,2011,4/16/1990,Boston College,Pordenone,n/a,Italy,Black,No
+"Dudley, Jared",28,Clippers,G/F,9,"$4,250,000",79,225,6,2007,7/10/1985,Boston College,"San Diego, CA",California,US,Black,No
+"O'Bryant, Patrick",27,Bobcats,C,18,n/a,84,250,7,2006,6/20/1986,Bradley,"Oskaloosa, IA",Iowa,US,Black,No
+"Davies, Brandon",22,Clippers,F,23,n/a,81,235,0,2013,7/25/1991,Brigham Young,"Provo, UT",Utah,US,Black,No
+"Fredette, Jimmer",24,Kings,G,7,"$2,439,840",74,195,2,2011,2/25/1989,Brigham Young,"Glens Falls, NY",New York,US,White,No
+"Mack, Shelvin",23,Hawks,G,8,"$884,293",75,215,2,2011,4/22/1990,Butler,"Lexington, KY",Kentucky,US,Black,No
+"Hayward, Gordon",23,Jazz,G/F,20,"$3,452,183",80,215,3,2010,3/23/1990,Butler,"Indianapolis, IN",Indiana,US,White,No
+"Anderson, Ryan",25,Pelicans,F,33,"$8,308,500",82,240,5,2008,5/6/1988,California,"Sacramento, CA",California,US,White,No
+"Crabbe, Allen",21,Trail Blazers,G,23,"$825,000",78,210,0,2013,4/4/1992,California,"Los Angeles, CA",California,US,Black,No
+"Griffin, Eric",23,Heat,F,17,"$490,180",80,197,0,2013,5/26/1990,Campbell,"Orlando, FL",Florida,US,Black,No
+"Taylor, Jermaine",26,Cavaliers,G,8,"$780,871",77,20,4,2009,12/8/1986,Central Florida,"Tavares, FL",Florida,US,Black,No
+"Kaman, Chris",31,Lakers,C,9,"$3,183,000",84,265,4,2009,4/28/1982,Central Michigan,"Grand Rapids, MI",Michigan,US,White,No
+"Martin, Kenyon",35,Knicks,F,3,"$884,293",81,225,13,2000,12/30/1977,Cincinnati,"Saginaw, MI",Michigan,US,Black,No
+"Maxiell, Jason",30,Magic,F,54,"$1,500,000",79,260,8,2005,2/18/1983,Cincinnati,"Chicago, IL",Illinois,US,Black,No
+"Stephenson, Lance",23,Pacers,G,1,"$1,005,000",77,228,3,2010,9/5/1990,Cincinnati,"New York City, NY",New York,US,Black,No
+"Booker, Trevor",25,Wizards,F,35,"$2,350,820",80,240,3,2010,11/25/1987,Clemson,"Newberry, SC",South Carolina,US,Black,No
+"Cole, Norris",25,Heat,G,30,"$1,129,200",74,175,2,2011,10/13/1988,Cleveland State,"Dayton, OH",Ohio,US,Black,No
+"Perkins, Kendrick",28,Thunder,C,5,"$8,727,437",82,270,10,2003,11/10/1984,Clifton J. Ozen HS (TX),"Nederland, TX",Texas,US,Black,Yes
+"Copeland, Chris",29,Pacers,F,22,"$300,000",80,225,1,2012,3/17/1984,Colorado,"Orange, NJ",New Jersey,US,Black,No
+"Burks, Alec",22,Jazz,G,10,"$2,202,000",78,205,2,2011,7/20/1991,Colorado,"Grandview, MO",Missouri,US,Black,No
+"Billups, Chauncey",37,Pistons,G,1,"$2,500,000",75,210,16,1997,9/25/1976,Colorado,"Denver, CO",Colorado,US,Black,No
+"Roberson, André",21,Thunder,G/F,21,"$740,560",79,210,0,2013,12/4/1991,Colorado,"San Antonio, TX",Texas,US,Black,No
+"Smith, Jason",27,Pelicans,F/C,14,"$2,500,000",84,240,6,2007,3/2/1986,Colorado State,"Greeley, CO",Colorado,US,White,No
+"Gordon, Ben",30,Bobcats,G,8,"$13,200,000",75,200,9,2004,4/4/1983,Connecticut,"London, ENG",n/a,England,Black,No
+"Thabeet, Hasheem",26,Thunder,C,34,"$1,200,000",87,263,4,2009,2/16/1987,Connecticut,Dar es Salaam,n/a,Tanzania,Black,No
+"Drummond, Andre",20,Pistons,C,0,"$2,465,400",82,270,1,2012,10/8/1993,Connecticut,"Mount Vernon, NY",New York,US,Black,No
+"Adrien, Jeff",27,Bobcats,F,4,"$916,099",79,243,3,2010,2/10/1986,Connecticut,"Brookline, MA",Massachussetts,US,Black,No
+"Butler, Caron",33,Bucks,F,3,"$8,000,000",79,228,11,2002,3/13/1980,Connecticut,"Racine, WI",Wisconsin,US,Black,No
+"Villanueva, Charlie",29,Pistons,F,31,"$8,580,000",83,232,8,2005,8/24/1984,Connecticut,"New York City, NY",New York,US,Hispanic,No
+"Gay, Rudy",27,Raptors,F,22,"$17,888,932",80,230,7,2006,8/17/1986,Connecticut,"Baltimore, MD",Maryland,US,Black,No
+"Armstrong, Hilton",28,Pacers,F/C,29,n/a,83,235,7,2006,11/23/1984,Connecticut,"Peekskill, NY",New York,US,Black,No
+"Okafor, Emeka",31,Wizards,F/C,50,"$14,487,500",82,255,9,2004,9/28/1982,Connecticut,"Houston, TX",Texas,US,Black,No
+"Walker, Kemba",23,Bobcats,G,15,"$2,568,360",73,184,2,2011,5/8/1990,Connecticut,"New York City, NY",New York,US,Black,No
+"Allen, Ray",38,Heat,G,34,"$3,229,050",77,205,17,1996,7/20/1975,Connecticut,"Merced, CA",California,US,Black,No
+"Price, A.J.",27,Timberwolves,G,22,n/a,74,185,4,2009,10/7/1986,Connecticut,"Orange, NJ",New Jersey,Us,Black,No
+"Lamb, Jeremy",21,Thunder,G/F,11,"$2,111,160",77,180,1,2012,5/30/1992,Connecticut,"Norcross, GA",Georgia,US,Black,No
+"Tolliver, Anthony",28,Bobcats,F,43,"$884,293",80,240,5,2008,6/1/1985,Creighton,"Springfield, MO",Missouri,US,Black,No
+"Korver, Kyle",32,Hawks,G/F,26,"$6,760,563",79,212,10,2003,3/17/1981,Creighton,"Lakewood, CA",California,US,White,No
+"Stoudemire, Amar'e ",30,Knicks,F/C,1,"$21,679,893",83,245,11,2002,11/16/1982,Cypress Creek HS (FL),"Lake Wales, FL",Florida,US,Black,Yes
+"Curry, Stephen",25,Warriors,G,30,"$9,887,640",75,185,4,2009,3/14/1988,Davidson,"Akron, OH",Ohio,US,Mixed,No
+"Wright, Chris",25,Raptors,F,--,"$473,604",81,226,2,2011,9/30/1988,Dayton,"Trotwood, OH",Ohio,US,Black,No
+"Roberts, Brian",27,Pelicans,G,22,"$788,872",73,173,1,2012,12/3/1985,Dayton,"Toledo, OH",Ohio,US,Black,No
+"Koshwal, Mac",25,76ers,F/C,16,n/a,82,255,0,2013,10/19/1987,DePaul,n/a,n/a,Sudan,Black,No
+"Chandler, Wilson",26,Nuggets,F,21,"$6,344,164",80,225,6,2007,5/10/1987,DePaul,"Benton Harbor, MI",Michigan,US,Black,No
+"Green, Willie",32,Clippers,G,34,"$1,399,507",75,201,10,2003,7/28/1981,Detroit,"Detroit, MI",Michigan,US,Black,No
+"McCallum, Ray",22,Kings,G,3,"$524,616",75,190,0,2013,6/12/1991,Detroit,"Detroit, MI",Michigan,US,Black,No
+"Chandler, Tyson",31,Knicks,C,6,"$14,100,538",85,240,12,2001,10/2/1982,Dominguez HS (CA),"Hanford, CA",California,US,Black,Yes
+"Irving, Kyrie",21,Cavaliers,G,2,"$5,607,240",75,191,2,2011,3/23/1992,Duke,Melbourne,Victoria,Australia,Black,No
+"Boozer, Carlos",31,Bulls,F,5,"$15,300,000",81,266,11,2002,11/20/1981,Duke,"Aschaffenburg, BY",Bavaria,Germany,Black,No
+"Deng, Luol",28,Bulls,F,9,"$14,275,000",81,220,9,2004,4/16/1985,Duke,"Wau, South Sudan",n/a,Sudan,Black,No
+"Battier, Shane",35,Heat,F,31,"$3,270,000",80,225,12,2001,9/9/1978,Duke,"Birmingham, MI",Michigan,US,Mixed,No
+"Kelly, Ryan",22,Lakers,F,4,"$490,180",83,230,4,2009,4/9/1991,Duke,"Carmel, NY",New York,US,White,No
+"Thomas, Lance",25,Pelicans,F,42,"$884,293",80,225,2,2011,4/24/1988,Duke,"New York City, NY",New York,US,Black,No
+"Maggette, Corey",33,Spurs,F,--,n/a,78,225,14,1999,11/12/1979,Duke,"Melrose Park, IL",Illinois,US,Black,No
+"McRoberts, Josh",26,Bobcats,F/C,11,"$2,652,000",82,240,6,2007,2/28/1987,Duke,"Indianapolis, IN",Indiana,US,White,No
+"Brand, Elton",34,Hawks,F/C,42,"$4,000,000",81,254,14,1999,3/11/1979,Duke,"Cortlandt Manor, NY",New York,US,Black,No
+"Plumlee, Mason",23,Nets,F/C,1,"$1,298,640",82,235,0,2013,3/5/1990,Duke,"Fort Wayne, IN",Indiana,US,White,No
+"Plumlee, Miles",25,Suns,F/C,22,"$1,121,520",83,255,1,2012,9/1/1988,Duke,"Fort Wayne, IN",Indiana,US,White,No
+"Redick, J. J.",29,Clippers,G,4,"$6,500,000",76,190,7,2006,6/24/1984,Duke,"Cookeville, TN",Tennessee,US,White,No
+"Rivers, Austin",21,Pelicans,G,25,"$2,339,040",76,200,1,2012,8/1/1992,Duke,"Santa Monica, CA",California,US,Mixed,No
+"Curry, Seth",23,Warriors,G,3,"$490,180",74,185,0,2013,8/23/1990,Duke,"Charlotte, NC",North Carolina,US,Black,No
+"Henderson, Gerald",25,Bobcats,G/F,9,"$6,000,000",77,215,4,2009,12/9/1987,Duke,"Caldwell, NJ",New Jersey,US,Black,No
+"Dunleavy, Mike",33,Bulls,G/F,34,"$3,183,000",81,230,11,2002,9/15/1980,Duke,"Fort Worth, TX",Texas,US,White,No
+"Singler, Kyle",25,Pistons,G/F,25,"$1,045,000",80,230,1,2012,5/4/1988,Duke,"Medford, OR",Oregon,US,White,No
+"James, Mike",38,Bulls,G,8,n/a,74,188,15,1998,6/23/1975,Duquesne,"Copiague, NY",New York,US,Black,No
+"Stuckey, Rodney",27,Pistons,G,3,"$8,500,000",77,205,6,2007,4/21/1986,Eastern Washington,"Seattle, WA",Washington,US,Black,No
+"O'Neal, Jermaine",35,Warriors,C,7,"$2,000,000",83,255,17,1996,10/13/1978,Eau Claire HS (SC),"Columbia, SC",South Carolina,US,Black,Yes
+"Lewis, Rashard",34,Heat,F,9,"$1,399,507",82,230,15,1998,8/8/1979,Elsik HS (TX),"Pineville, LA",Louisiana,US,Black,Yes
+"Garnett, Kevin",37,Nets,F/C,2,"$12,433,735",83,253,18,1995,5/19/1976,Farragut HS (IL),"Greenville, SC",South Carolina,US,Black,Yes
+"Horford, Al",27,Hawks,F/C,15,"$12,000,000",82,250,6,2007,6/3/1986,Florida,Puerto Plata,n/a,Dominican Republic,Black,No
+"Murphy, Erik",22,Bulls,F,31,"$490,180",82,230,0,2013,10/26/1990,Florida,"Lyon, FR",n/a,France,White,No
+"Noah, Joakim",28,Bulls,C,13,"$11,100,000",83,232,6,2007,2/25/1985,Florida,"New York City, NY",New York,US,Mixed,No
+"Parsons, Chandler",24,Rockets,F,25,"$326,500",81,227,2,2011,10/25/1988,Florida,"Casselberry, FL",Florida,US,White,No
+"Haslem, Udonis",33,Heat,F/C,40,"$4,340,000",80,235,11,2002,6/9/1980,Florida,"Miami, FL",Florida,US,Black,No
+"Bonner, Matt",33,Spurs,F/C,15,"$3,945,000",82,235,9,2004,4/5/1980,Florida,"Concord, NH",New Hampshire,US,White,No
+"Speights, Marreese",26,Warriors,F/C,5,"$3,500,000",82,255,5,2008,8/4/1987,Florida,"St. Petersburg, FL",Florida,US,Black,No
+"Lee, David",30,Warriors,F/C,10,"$13,878,000",81,240,8,2005,4/29/1983,Florida,"St. Louis, MO",Missouri,US,White,No
+"Calathes, Nick",24,Grizzlies,G,12,"$490,180",78,214,4,2009,2/7/1989,Florida,"Casselberry, FL",Florida,US,White,No
+"Beal, Bradley",20,Wizards,G,3,"$4,319,280",77,207,1,2012,6/28/1993,Florida,"St. Louis, MO",Missouri,US,Black,No
+"Miller, Mike",33,Grizzlies,G/F,13,"$884,293",80,210,13,2000,2/19/1980,Florida,"Mitchell, SD",South Dakota,US,White,No
+"Brewer, Corey",27,Timberwolves,G/F,13,"$5,000,000",81,188,6,2007,3/5/1986,Florida,"Portland, TN",Tennessee,US,Black,No
+"James, Bernard",28,Mavericks,C,5,"$788,872",82,240,1,2012,2/7/1985,Florida State,"Savannah, GA",Georgia,US,Black,No
+"Singleton, Chris",23,Wizards,F,31,"$1,618,680",80,230,2,2011,11/21/1989,Florida State,"Canton, GA",Georgia,US,Black,No
+"Douglas, Toney",27,Warriors,G,0,"$1,600,000",74,185,4,2009,3/16/1986,Florida State,"Tampa, FL",Florida,US,Black,No
+"McGuire, Dominic",27,Jazz,F,8,"$68,902",81,235,6,2007,10/20/1985,Fresno State,"San Diego, CA",California,US,Black,No
+"Ely, Melvin",35,Grizzlies,F/C,--,"$854,389",82,261,3,2010,5/2/1978,Fresno State,"Harvey, IL",Illinois,US,Black,No
+"Smith, Greg",22,Rockets,F/C,4,"$884,293",82,250,2,2011,1/8/1991,Fresno State,"Vallejo, CA",California,US,Black,No
+"George, Paul",23,Pacers,G/F,24,"$3,282,003",80,221,3,2010,5/2/1990,Fresno State,"Palmdale, CA",California,US,Black,No
+"Mensah-Bonsu, Pops",30,Wizards,F,44,"$2,016,000",81,235,7,2006,9/7/1983,George Washington,Tottenham,London,England,Black,No
+"Sims, Henry",23,Cavaliers,C,14,"$27,859",82,245,1,2012,3/27/1990,Georgetown,"Baltimore, MD",Maryland,US,Black,No
+"Hibbert, Roy",26,Pacers,C,55,"$14,283,844",86,280,5,2008,12/11/1986,Georgetown,"New York City, NY",New York,US,Black,No
+"Green, Jeff",27,Celtics,F,8,"$8,700,000",81,235,6,2007,8/28/1986,Georgetown,"Cheverly, MD",Maryland,US,Black,No
+"Porter, Otto",20,Wizards,F,22,"$4,278,000",80,198,0,2013,6/3/1993,Georgetown,"St. Louis, MO",Missouri,US,Black,No
+"Monroe, Greg",23,Pistons,F/C,10,"$4,086,454",83,250,3,2010,6/4/1990,Georgetown,"Gretna, LA",Louisiana,US,Black,No
+"Thompson, Hollis",22,76ers,G/F,31,"$473,604",80,206,0,2013,4/3/1991,Georgetown,"Los Angeles, CA",California,US,Black,No
+"Caldwell-Pope, Kentavious",20,Pistons,G,5,"$2,653,080",77,205,0,2013,2/18/1993,Georgia,"Thomaston, GA",Georgia,US,Black,No
+"Wilkins, Damien",33,Hawks,G/F,2,"$884,293",78,225,9,2004,1/11/1980,Georgia,"Washington, NC",North Carolina,US,Black,No
+"Young, Thaddeus",25,76ers,F,21,"$8,850,000",80,230,6,2007,6/21/1988,Georgia Tech,"New Orleans, LA",Louisiana,US,Black,No
+"Lawal, Gani",24,76ers,F,40,"$788,872",81,234,3,2010,11/7/1988,Georgia Tech,"College Park, CA",California,US,Black,No
+"Bosh, Chris",29,Heat,F/C,1,"$19,067,500",83,235,10,2003,3/24/1984,Georgia Tech,"Dallas, TX",Texas,US,Black,No
+"Favors, Derrick",22,Jazz,F/C,15,"$6,008,196",82,263,3,2010,7/15/1991,Georgia Tech,"Atlanta, GA",Georgia,US,Black,No
+"Jack, Jarrett",29,Cavaliers,G,12,"$6,300,000",75,197,8,2005,10/28/1983,Georgia Tech,"Fort Washington, MD",Maryland,US,Black,No
+"Morrow, Anthony",28,Pelicans,G,3,"$1,027,424",77,210,5,2008,9/27/1985,Georgia Tech,"Charlotte, NC",North Carolina,US,Black,No
+"Bynum, Will",30,Pistons,G,12,"$2,790,343",72,185,8,2005,1/4/1983,Georgia Tech,"Chicago, IL",Illinois,US,Black,No
+"Shumpert, Iman",23,Knicks,G/F,21,"$1,703,760",77,220,2,2011,6/26/1990,Georgia Tech,"Oak Park, IL",Illinois,US,Black,No
+"Rice, Glen",22,Wizards,G/F,14,"$490,180",78,206,1,2012,1/1/1991,Georgia Tech,"Miami, FL",Florida,US,Black,No
+"Brown, Kwame",31,76ers,C,54,"$2,945,901",83,290,12,2001,3/10/1982,Glynn Adademy (GA),"Charleston, SC",South Carolina,US,Black,Yes
+"Olynyk, Kelly",22,Celtics,F/C,41,"$1,986,360",84,238,0,2013,4/19/1991,Gonzaga,"Toronto, ON",Ontario,Canada,White,No
+"Harris, Elias",24,Lakers,F,2,"$490,180",80,239,4,2009,7/6/1989,Gonzaga,"Speyer, RP",Rhineland-Palatinate,Germany,Black,No
+"Turiaf, Ronny",30,Timberwolves,C,32,"$1,500,000",82,249,8,2005,1/13/1983,Gonzaga,Le Robert,n/a,Martinique,Black,No
+"Sacre, Robert",24,Lakers,C,50,"$788,872",84,260,6,2007,6/6/1989,Gonzaga,"Baton Rouge, LA",Louisiana,US,Mixed,No
+"Daye, Austin",25,Raptors,F,5,"$947,907",83,200,4,2009,6/5/1988,Gonzaga,"Irvine, CA",California,US,Mixed,No
+"Green, Gerald",27,Suns,G/F,14,"$3,500,000",80,210,8,2005,1/26/1986,Gulf Shores Academy,"Houston, TX",Texas,US,Black,No
+"Lin, Jeremy",25,Rockets,G,7,"$8,374,646",75,200,3,2010,8/23/1988,Harvard,"Los Angeles, CA",California,US,Asian,No
+"Cousin, Marcus",26,Spurs,C,55,"$788,872",83,255,2,2011,12/18/1986,Houston,"Baltimore, MD",Maryland,US,Black,No
+"Leonard, Meyers",21,Trail Blazers,C,11,"$2,222,160",85,245,1,2012,2/27/1992,Illinois,"Robinson, IIL",Illinois,US,White,No
+"Cook, Brian",32,Jazz,F,44,"$854,389",81,234,10,2003,12/4/1980,Illinois,"Lincoln, IL",Illinois,US,Black,No
+"Williams, Deron",29,Nets,G,8,"$18,466,130",75,209,8,2005,6/26/1984,Illinois,"Parkersburg, WV",West Virginia,US,Black,No
+"White, DJ",27,Bulls,F,6,"$1,027,424",81,250,5,2008,8/31/1986,Indiana,"Tuscaloosa, AL",Alabama,US,Black,No
+"Zeller, Cody",21,Bobcats,F/C,40,"$3,857,040",84,240,0,2013,10/5/1992,Indiana,"Washington, IN",Indiana,US,White,No
+"Oladipo, Victor",21,Magic,G,5,"$4,763,760",76,215,0,2013,5/4/1992,Indiana,"Upper Marlboro, MD",Maryland,US,Black,No
+"Gordon, Eric",24,Pelicans,G,10,"$14,283,844",76,215,5,2008,12/25/1988,Indiana,"Indianapolis, IN",Indiana,US,Black,No
+"Machado, Scott",23,Jazz,G,30,"$788,872",73,205,1,2012,6/8/1990,Iona,"New York City, NY",New York,US,Black,No
+"Evans, Reggie",33,Nets,F,30,"$1,695,635",80,245,11,2002,5/18/1980,Iowa,"Pensacola, FL",Florida,US,Black,No
+"White, Royce",22,76ers,F,30,"$1,719,480",80,260,1,2012,4/10/1991,Iowa State,"Minneapolis, MN",Minnesota,US,Black,No
+"Garrett, Diante",24,Thunder,G,7,n/a,76,190,1,2012,11/3/1988,Iowa State,"Milwaukee, WI",Wisconsin,US,Black,No
+"Hill, George",27,Pacers,G,3,"$8,000,000",74,190,5,2008,5/4/1986,IUPUI,"Indianapolis, IN",Indiana,US,Black,No
+"Henry, Xavier",22,Lakers,G,7,"$884,293",78,220,3,2010,3/15/1991,Kansas,"Ghent, BG",n/a,Belgium,Black,No
+"Aldrich, Cole",24,Knicks,C,45,"$884,293",83,245,3,2010,10/31/1988,Kansas,"Burnsville, MN",Minnesota,US,White,No
+"Withey, Jeff",23,Pelicans,C,5,"$490,180",84,235,0,2013,3/7/1990,Kansas,"San Diego, CA",California,US,White,No
+"Pierce, Paul",36,Nets,F,34,"$15,333,334",79,235,15,1998,10/13/1977,Kansas,"Oakland, CA",California,US,Black,No
+"Arthur, Darrell",25,Nuggets,F,0,"$3,231,683",81,235,5,2008,3/25/1988,Kansas,"Dallas, TX",Texas,US,Black,No
+"Jackson, Darnell",27,Pacers,F,2,"$854,389",81,253,5,2008,11/7/1985,Kansas,"Oklahoma City, OK",Oklahoma,US,Black,No
+"Morris, Markieff",24,Suns,F,11,"$2,091,840",82,245,2,2011,9/2/1989,Kansas,"Philadelphia, PA",Pennsylvania,US,Black,No
+"Morris, Marcus",24,Suns,F,15,"$1,987,320",81,235,2,2011,9/2/1989,Kansas,"Philadelphia, PA",Pennsylvania,US,Black,No
+"Robinson, Thomas",22,Trail Blazers,F,41,"$3,526,440",82,237,1,2012,3/17/1991,Kansas,"Washington, DC",DC,US,Black,No
+"Collison, Nick",32,Thunder,F/C,4,"$2,585,668",82,255,10,2003,10/26/1980,Kansas,"Orange City, IA",Iowa,US,White,No
+"Hinrich, Kirk",32,Bulls,G,12,"$4,059,000",76,190,10,2003,1/2/1981,Kansas,"Sioux City, IA",Iowa,US,White,No
+"Chalmers, Mario",27,Heat,G,15,"$4,000,000",74,190,5,2008,5/19/1986,Kansas,"Anchorage, AK",Alaska,US,Black,No
+"McLemore, Ben",20,Kings,G,16,"$2,895,960",77,195,0,2013,2/11/1993,Kansas,"St. Louis, MO",Missouri,US,Black,No
+"Taylor, Tyshawn",23,Nets,G,10,"$788,872",75,185,1,2012,4/12/1990,Kansas,"Hoboken, NJ",New Jersey,US,Black,No
+"Rush, Brandon",28,Jazz,G/F,25,"$4,000,000",78,210,5,2008,7/7/1985,Kansas,"Kansas City, MO",Missouri,US,Black,No
+"Beasley, Michael",24,Heat,F,8,"$884,293",82,235,5,2008,1/9/1989,Kansas State,"Prince George's Count, MD",Maryland,US,Black,No
+"McGruder, Rodney",22,Thunder,G,8,n/a,76,205,0,2013,7/29/1991,Kansas State,"Landover, MD",Maryland,US,Black,No
+"Noel, Nerlens",19,76ers,C,4,"$3,171,320",83,228,0,2013,4/10/1994,Kentucky,"Malden, MA",Massachussetts,US,Black,No
+"Mohammed, Nazr",36,Bulls,C,48,"$884,293",82,250,15,1998,9/5/1977,Kentucky,"Chicago, IL",Illinois,US,Black,No
+"Cousins, DeMarcus",23,Kings,C,15,"$4,916,974",83,270,3,2010,8/13/1990,Kentucky,"Mobile, AL",Alabama,US,Black,No
+"Harrellson, Josh",24,Pistons,C,55,"$884,293",82,275,2,2011,2/12/1989,Kentucky,"Saint Charles, MO",Missouri,US,White,No
+"Kidd-Gilchrist, Michael",20,Bobcats,F,14,"$4,809,840",79,232,1,2012,9/26/1993,Kentucky,"Philadelphia, PA",Pennsylvania,US,Black,No
+"Prince, Tayshaun",33,Grizzlies,F,21,"$7,235,955",81,215,11,2002,2/28/1980,Kentucky,"Compton, CA",California,US,Black,No
+"Miller, Darius",23,Pelicans,F,2,"$788,872",80,225,1,2012,3/21/1990,Kentucky,"Maysville, KY",Kentucky,US,Black,No
+"Jones, Terrence",21,Rockets,F,6,"$1,551,840",81,252,1,2012,1/9/1992,Kentucky,"Portland, OR",Oregon,US,Black,No
+"Hayes, Chuck",30,Kings,F/C,42,"$5,722,500",78,250,7,2006,6/11/1983,Kentucky,"San Leando, CA",California,US,Black,No
+"Patterson, Patrick",24,Kings,F/C,9,"$315,302",81,235,3,2010,3/14/1989,Kentucky,"Washington, DC",DC,US,Black,No
+"Davis, Anthony",20,Pelicans,F/C,23,"$5,375,760",82,220,1,2012,3/1/1993,Kentucky,"Chicago, IL",Illinois,US,Black,No
+"Knight, Brandon",21,Bucks,G,11,"$2,793,960",75,189,2,2011,12/2/1991,Kentucky,"Miami, FL",Florida,US,Black,No
+"Teague, Marquis",20,Bulls,G,25,"$1,074,720",74,190,1,2012,2/28/1993,Kentucky,"Indianapolis, IN",Indiana,US,Black,No
+"Rondo, Rajon",27,Celtics,G,9,"$11,954,545",73,186,7,2006,2/22/1986,Kentucky,"Louisville, KY",Kentucky,US,Black,No
+"Meeks, Jodie",26,Lakers,G,20,"$1,550,000",76,208,1,2012,8/21/1987,Kentucky,"Nashville, TN",Tennessee,US,Black,No
+"Lamb, Doron",21,Magic,G,1,"$788,872",76,210,1,2012,11/6/1991,Kentucky,"New York City, NY",New York,US,Black,No
+"Bledsoe, Eric",23,Suns,G,2,"$2,626,474",73,195,3,2010,12/9/1989,Kentucky,"Birmingham, AL",Alabama,US,Black,No
+"Goodwin, Archie",19,Suns,G,20,"$1,064,400",77,198,0,2013,8/17/1994,Kentucky,"Little Rock, AR",Arkansas,US,Black,No
+"Wall, John",23,Wizards,G,2,"$7,459,925",76,195,3,2010,9/6/1990,Kentucky,"Raleigh, NC",North Carolina,US,Black,No
+"Bogans, Keith",33,Celtics,G/F,4,"$5,058,198",77,215,10,2003,5/12/1980,Kentucky,"Washington, DC",DC,US,Black,No
+"Butler, Rasual",34,Pacers,G/F,8,"$854,389",81,215,11,2002,5/23/1979,La Salle,"Philadelphia, PA",Pennsylvania,US,Black,No
+"Ellis, Monta",27,Mavericks,G,11,"$8,000,000",75,185,8,2005,10/26/1985,Lanier HS (MS),"Jackson, MS",Mississippi,US,Black,Yes
+"McCollum, C. J.",22,Trail Blazers,G,3,"$2,316,720",76,200,0,2013,9/19/1991,Lehigh,"Canton, OH",Ohio,US,Black,No
+"Millsap, Paul",28,Hawks,F,4,"$9,500,000",80,253,7,2006,2/10/1985,Louisiana Tech,"Monroe, LA",Louisiana,US,Black,No
+"García, Francisco",32,Rockets,G/F,32,"$1,265,977",79,195,8,2005,12/31/1980,Louisville,Santo Domingo,n/a,Dominican Republic,Hispanic,No
+"Dieng, Gorgui",23,Timberwolves,C,5,"$1,352,640",83,245,0,2013,1/18/1990,Louisville,Kebemer,n/a,Senegal,Black,No
+"Clark, Earl",25,Cavaliers,F,6,"$4,250,000",82,225,4,2009,1/17/1988,Louisville,"Plainfield, NJ",New Jersey,US,Black,No
+"Smith, Chris",26,Knicks,G,0,"$490,180",74,200,0,2013,10/13/1987,Louisville,"Millston, NJ",New Jersey,US,Black,No
+"Siva, Peyton",22,Pistons,G,34,"$490,180",72,185,0,2013,10/24/1990,Louisville,"Seattle, WA",Washington,US,Hispanic,No
+"Bryant, Kobe",35,Lakers,G,24,"$30,453,805",78,205,7,2006,8/23/1978,Lower Merion HS (PA),"Philadelphia, PA",Pennsylvania,US,Black,Yes
+"Randolph, Anthony",24,Nuggets,F/C,15,"$1,750,000",83,225,5,2008,7/15/1989,LSU,"Wurzburg, BA",Bavaria,Germany,Black,No
+"Hamilton, Justin",23,Heat,C,7,"$490,180",84,155,0,2013,4/1/1990,LSU,"Newport Beach, CA",California,US,Black,No
+"Bass, Brandon",28,Celtics,F,30,"$6,450,000",80,250,8,2005,4/30/1985,LSU,"Baton Rouge, LA",Louisiana,US,Black,No
+"Davis, Glen",27,Magic,F/C,11,"$6,400,000",81,289,6,2007,1/1/1986,LSU,"Baton Rouge, LA",Louisiana,US,Black,No
+"Johnson, Chris",28,Timberwolves,F/C,3,"$916,099",83,210,2,2011,7/15/1985,LSU,"Washington, DC",DC,US,Black,No
+"Thornton, Marcus",26,Kings,G,23,"$8,050,000",76,205,4,2009,6/5/1987,LSU,"Baton Rouge, LA",Louisiana,US,Black,No
+"Temple, Garrett",27,Wizards,G,17,"$884,293",78,195,3,2010,5/8/1986,LSU,"Baton Rouge, LA",Louisiana,US,Black,No
+"Crowder, Jae",23,Mavericks,F,9,"$788,872",78,235,1,2012,4/6/1990,Marquette,"Vila Rica, Georgia",Georgia,US,Black,No
+"Novak, Steve",30,Raptors,F,16,"$3,750,000",82,235,7,2006,6/13/1983,Marquette,"Libertyville, IL",Illinois,US,White,No
+"Blue, Vander",21,76ers,G,17,n/a,76,200,0,2013,7/22/1992,Marquette,"Milwaukee, WI",Wisconsin,US,Black,No
+"Wade, Dwyane",31,Heat,G,3,"$18,673,000",76,220,10,2003,1/17/1982,Marquette,"Chicago, IL",Illinois,US,Black,No
+"Lockett, Trent",22,Kings,G,20,"$490,180",77,210,0,2013,12/10/1990,Marquette,"Golden Valley, MN",Minnesota,US,Black,No
+"Johnson-Odom, Darius",24,Lakers,G,6,"$473,604",74,215,0,2013,9/28/1989,Marquette,"Raleigh, NC",North Carolina,US,Black,No
+"Buycks, Dwight",24,Raptors,G,13,"$700,000",75,190,0,2013,3/6/1989,Marquette,"Milwaukee, WI",Wisconsin,US,Black,No
+"Butler, Jimmy",24,Bulls,G/F,21,"$1,112,880",79,220,2,2011,9/14/1989,Marquette,"Houston, TX",Texas,US,Black,No
+"Hayward, Lazar",26,Pelicans,G/F,15,"$542,788",78,225,3,2010,11/26/1986,Marquette,"Buffalo, NY",New York,US,Black,No
+"Matthews, Wesley",27,Trail Blazers,G/F,2,"$6,875,480",77,220,4,2009,10/14/1986,Marquette,"San Antonio, TX",Texas,US,Black,No
+"Len, Alex",20,Suns,C,21,"$3,492,720",85,255,0,2013,6/16/1993,Maryland,Antratsy,n/a,Ukraine,White,No
+"Blake, Steve",33,Lakers,G,5,"$4,000,000",75,172,10,2003,2/26/1980,Maryland,"Hollywood, FL",Florida,US,White,No
+"Vásquez, Greivis",26,Kings,G,10,"$2,150,188",78,211,3,2010,1/16/1987,Maryland,"Caracas, VZ",n/a,Venezuela,Hispanic,No
+"Gaffney, Tony",28,Grizzlies,F,--,n/a,80,205,0,2013,11/14/1984,Massachusetts,"Boston, MA",Massachussetts,US,White,No
+"Camby, Marcus",39,Rockets,F/C,21,"$884,293",83,240,17,1996,3/22/1974,Massachusetts,"Hartford, CT",Connecticut,US,Black,No
+"Williams, Shawne",27,Lakers,F,3,"$884,293",81,230,7,2006,2/16/1986,Memphis,"Memphis, TN",Tennessee,US,Black,No
+"Rose, Derrick",25,Bulls,G,1,"$17,632,688",75,190,5,2008,10/4/1988,Memphis,"Chicago, IL",Illinois,US,Black,No
+"Williams, Elliot",24,Cavaliers,G,4,n/a,77,180,3,2010,6/20/1989,Memphis,"Memphis, TN",Tennessee,US,Black,No
+"Evans, Tyreke",24,Pelicans,G,1,"$11,796,247",78,220,4,2009,9/19/1989,Memphis,"Chester, PA",Pennsylvania,US,Black,No
+"Barton, Will",22,Trail Blazers,G,5,"$788,872",78,175,1,2012,1/6/1991,Memphis,"Baltimore, MD",Maryland,US,Black,No
+"Thomas, Adonis",20,Hawks,G/F,16,n/a,79,240,0,2013,3/25/1993,Memphis,"Memphis, TN",Tennessee,US,Black,No
+"Douglas-Roberts, Chris",26,Knicks,G/F,14,"$582,995",79,210,5,2008,1/8/1987,Memphis,"Detroit, MI",Michigan,US,Black,No
+"Kadji, Kenny",25,Cavaliers,F,35,n/a,82,242,0,2013,5/19/1988,Miami (FL),"Bradenton, FL",Florida,US,Black,No
+"Jones, DeQuan",23,Kings,F,0,n/a,80,230,1,2012,6/20/1990,Miami (FL),"Stone Mountain, GA",Georgia,US,Black,No
+"Larkin, Shane",21,Mavericks,G,3,"$1,536,960",71,176,0,2013,10/2/1992,Miami (FL),"Cincinnati, OH",Ohio,US,Black,No
+"Jones, James",33,Heat,G/F,22,"$1,500,000",80,215,10,2003,10/4/1980,Miami (FL),"Miami, FL",Florida,US,Black,No
+"Salmons, John",33,Kings,G/F,5,"$7,583,000",78,207,11,2002,12/12/1979,Miami (FL),"Philadelphia, PA",Pennsylvania,US,Black,No
+"Morris, Darius",22,76ers,G,7,"$1,046,269",76,195,2,2011,1/3/1991,Michigan,"Los Angeles, CA",California,US,Black,No
+"Crawford, Jamal",33,Clippers,G,11,"$5,225,000",77,200,13,2000,3/20/1980,Michigan,"Seattle, WA",Washington,US,Black,No
+"Burke, Trey",20,Jazz,G,3,"$2,438,760",73,185,0,2013,11/12/1992,Michigan,"Columbus, OH",Ohio,US,Black,No
+"Hardaway, Tim, Jr.",21,Knicks,G,5,"$1,196,760",78,205,0,2013,3/16/1992,Michigan,"Miami, FL",Florida,US,Black,No
+"Harris, Manny",24,Magic,G,3,"$252,016",77,185,3,2010,9/21/1989,Michigan,"Detroit, MI",Michigan,US,Black,No
+"Randolph, Zach",32,Grizzlies,F,50,"$18,238,333",81,260,12,2001,7/16/1981,Michigan State,"Marion, IN",Indiana,US,Black,No
+"Green, Draymond",23,Warriors,F,23,"$875,000",79,230,1,2012,3/4/1990,Michigan State,"Saginaw, MI",Michigan,US,Black,No
+"Brown, Shannon",27,Suns,G,26,"$3,500,000",76,210,7,2006,11/29/1985,Michigan State,"Maywood, IL",Illinois,US,Black,No
+"Richardson, Jason",32,76ers,G/F,23,"$6,204,250",78,225,12,2001,1/20/1981,Michigan State,"Saginaw, MI",Michigan,US,Black,No
+"Anderson, Alan",30,Nets,G/F,6,"$947,907",78,220,8,2005,10/16/1982,Michigan State,"Minneapolis, MN",Minnesota,US,Black,No
+"Dawson, Eric",29,Hawks,F,25,n/a,79,255,1,2012,7/7/1984,Midwestern State,"San Antonio, TX",Texas,US,Black,No
+"Humphries, Kris",28,Celtics,F,43,"$12,000,000",81,235,9,2004,2/6/1985,Minnesota,"Minneapolis, MN",Minnesota,US,Mixed,No
+"Williams, Rodney",22,76ers,G/F,33,n/a,79,205,0,2013,7/23/1991,Minnesota,"Decatur, GA",Georgia,US,Black,No
+"Becton-Buckner, Reginald",22,Nuggets,F,23,n/a,82,257,0,2013,5/13/1991,Mississippi,"Memphis, TN",Tennessee,US,Black,No
+"Moultrie, Arnett",22,76ers,F,5,"$1,089,240",82,240,1,2012,11/18/1990,Mississippi State,"New York City, NY",New York,US,Black,No
+"Varnado, Jarvis",25,Heat,F/C,24,"$788,872",81,230,3,2010,3/1/1988,Mississippi State,"Fairfax, VA",Virginia,US,Black,No
+"Bost, Dee",24,Trail Blazers,G,4,n/a,74,176,0,2013,10/12/1989,Mississippi State,"Charlotte, NC",North Carolina,US,Black,No
+"Carroll, DeMarre",27,Hawks,F,5,"$2,557,545",80,212,4,2009,7/27/1986,Missouri,"Birmingham, AL",Alabama,US,Black,No
+"Pressey, Phil",22,Celtics,G,26,"$490,180",71,175,0,2013,2/17/1991,Missouri,"Dallas, TX",Texas,US,Black,No
+"Faried, Kenneth",23,Nuggets,F,35,"$1,367,640",80,228,2,2011,11/18/1989,Morehead State,"Newark, NJ",New Jersey,US,Black,No
+"Canaan, Isaiah",22,Rockets,G,1,"$570,515",72,188,0,2013,5/2/1991,Murray State,"Biloxi, MS",Mississippi,US,Black,No
+"Morais, Carlos",27,Raptors,G,--,n/a,76,200,0,2013,10/16/1985,n/a,Luanda,n/a,Angola,Black,No
+"Scola, Luis",33,Pacers,F,4,"$4,508,504",81,245,6,2007,4/30/1980,n/a,Buenos Aires,n/a,Argentina,Hispanic,No
+"Prigioni, Pablo",36,Knicks,G,9,"$1,591,350",75,185,1,2012,5/17/1977,n/a,"Rio Tercero, CD",Cordoba,Argentina,Hispanic,No
+"Ginóbili, Manu",36,Spurs,G,20,"$7,500,000",78,205,11,2002,7/28/1977,n/a,"Bahia Blanca, BA",Buenos Aires,Argentina,Hispanic,No
+"Delfino, Carlos",28,Bucks,G/F,10,"$3,250,000",78,230,9,2004,8/29/1985,n/a,Santa Fe,n/a,Argentina,Hispanic,No
+"Parker, Tony",31,Spurs,G,9,"$12,500,000",74,185,12,2001,5/17/1982,n/a,"Bruges, BE",n/a,Belgium,White,No
+"Teletovi?, Mirza",28,Nets,F,33,"$3,229,050",81,255,6,2007,9/17/1985,n/a,"Mostar, BA",n/a,Bosnia,White,No
+"Splitter, Tiago",28,Spurs,C,22,"$10,000,000",83,240,3,2010,1/1/1985,n/a,"Joinville, SC",Santa Catarina,Brazil,White,No
+"Varejão, Anderson",31,Cavaliers,F/C,17,"$9,036,364",83,260,15,1998,9/28/1982,n/a,"Santa Teresa, ES",Espirito Santo,Brazil,Hispanic,No
+"Faverani, Vítor",25,Celtics,F/C,38,"$200,000",83,260,0,2013,5/5/1988,n/a,"Porto Alegre, RS",Rio Grand Do Sul,Brazil,Hispanic,No
+Nenê,31,Wizards,F/C,42,"$885,120",83,250,14,1999,9/13/1982,n/a,"Sao Carlos, Sao Paulo",Sao Paulo,Brazil,Black,No
+"Biyombo, Bismack",21,Bobcats,F/C,0,"$3,049,920",81,245,2,2011,8/28/1992,n/a,"Lubumbashi, Congo",n/a,Congo,Black,No
+"Ibaka, Serge",24,Thunder,F/C,9,"$12,350,000",82,235,4,2009,9/18/1989,n/a,Brazzaville,n/a,Congo,Black,No
+"Veselý, Jan",23,Wizards,F,24,"$3,340,920",83,240,6,2007,4/24/1990,n/a,"Ostrava, CZ",n/a,Czechoslovakia,White,No
+"Freeland, Joel",26,Trail Blazers,F/C,19,"$2,897,976",82,225,1,2012,2/7/1987,n/a,Farnham,Surrey,England,White,No
+"Gobert, Rudy",21,Jazz,C,27,"$1,078,800",85,235,0,2013,6/26/1992,n/a,Saint-Quentin,Aisne,France,Mixed,No
+"Mahinmi, Ian",26,Pacers,C,28,"$400,000",83,230,6,2007,11/5/1986,n/a,"Rouen, Upper Normandy",Upper Normandy,France,Black,No
+"Diaw, Boris",31,Spurs,F/C,33,"$4,702,500",80,235,10,2003,4/16/1982,n/a,"Cormeilles-en-Parisis, FR",n/a,France,Black,No
+"Fournier, Evan",20,Nuggets,G,94,"$1,422,720",78,200,1,2012,10/29/1992,n/a,"Saint-Maurice, FR",n/a,France,White,No
+"De Colo, Nando",26,Spurs,G,25,"$1,463,000",77,200,1,2012,6/23/1987,n/a,"Sainte-Catherin-les-Arras, FR",n/a,France,White,No
+"Batum, Nicolas",24,Trail Blazers,G/F,88,"$11,295,250",80,200,5,2008,12/14/1988,n/a,"Lisieux, FR",n/a,France,Black,No
+"Shengelia, Tornike",22,Nets,F,20,"$788,872",81,240,1,2012,10/5/1991,n/a,"Tbillisi, GA",n/a,Georgia,White,No
+"Pachulia, Zaza",29,Bucks,F/C,27,"$5,200,000",83,275,14,1999,10/2/1984,n/a,"Tbillisi, GA",n/a,Georgia,White,No
+"Nowitzki, Dirk",35,Mavericks,F,41,"$22,721,381",84,245,15,1998,6/19/1978,n/a,"Wurzburg, BA",Bavaria,Germany,White,No
+"Ohlbrecht, Tim",25,76ers,F/C,20,"$788,872",83,240,0,2013,8/30/1988,n/a,"Wuppertal, NRW",North Rhine-Westphalia,Germany,White,No
+"Schröder, Dennis",20,Hawks,G,17,"$1,348,200",73,165,0,2013,9/15/1993,n/a,"Braunschweig, LS",Lower Saxony,Germany,Black,No
+"Antetokounmpo, Giannis",18,Bucks,G/F,34,"$1,792,560",81,205,1,2012,12/16/1994,n/a,Athens,n/a,Greece,Black,No
+"Seraphin, Kevin",23,Wizards,F/C,13,"$2,761,114",81,275,3,2010,12/7/1989,n/a,Cayenne,n/a,Guiana,Black,No
+"Casspi, Omri",25,Rockets,F,18,"$947,907",81,225,8,2005,6/22/1988,n/a,Holon,n/a,Israel,White,No
+"Gallinari, Danilo",25,Nuggets,F,8,"$10,146,925",82,225,5,2008,8/8/1988,n/a,"Sant'Angelo, LD",Lodigiano,Italy,White,No
+"Datome, Luigi",25,Pistons,F,13,"$1,750,000",80,215,10,2003,11/27/1987,n/a,"Montebelluna, VE",Veneto,Italy,White,No
+"Belinelli, Marco",27,Spurs,G,3,"$2,750,000",77,195,6,2007,3/25/1986,n/a,San Giovanni,Bologna,Italy,White,No
+"Valan?i?nas, Jonas",21,Raptors,C,17,"$3,526,440",83,231,5,2008,5/6/1992,n/a,"Utena, LT",n/a,Lithuania,White,No
+"Motiej?nas, Donatas",23,Rockets,F/C,20,"$1,422,720",84,222,1,2012,9/20/1990,n/a,Kaunas,n/a,Lithuania,White,No
+"Anti?, Pero",31,Hawks,F/C,6,"$1,200,000",83,260,0,2013,7/29/1982,n/a,Skopje,n/a,Macedonia,White,No
+"Gortat, Marcin",29,Suns,C,4,"$7,727,280",83,240,6,2007,2/17/1984,n/a,Lodz,n/a,Poland,White,No
+"Bargnani, Andrea",28,Knicks,F/C,77,"$11,862,500",84,250,11,2002,8/26/1985,n/a,"Rome, LZ",Lazio,Rome,White,No
+"Biedri?š, Andris",27,Jazz,C,11,"$9,000,000",84,242,9,2004,4/2/1986,n/a,Riga,n/a,Russia,White,No
+"Mozgov, Timofey",27,Nuggets,C,25,"$4,400,000",85,250,3,2010,7/16/1986,n/a,St. Petersburg,n/a,Russia,White,No
+"Kirilenko, Andrei",32,Nets,F,47,"$3,183,000",81,235,16,1997,2/18/1981,n/a,"Izhevsk, UR",Udmert Republic,Russia,White,No
+"Shved, Alexey",24,Timberwolves,G,1,"$3,066,667",78,182,1,2012,12/16/1988,n/a,"Belgorod, RU",n/a,Russia,White,No
+"Karasev, Sergey",19,Cavaliers,G/F,10,"$1,467,840",79,203,0,2013,10/26/1993,n/a,Saint Petersburg,n/a,Russia,,No
+"Raduljica, Miroslav",25,Bucks,C,9,"$1,500,000",84,250,0,2013,1/5/1988,n/a,Belgrade,n/a,Serbia,White,No
+"Udrih, Beno",31,Knicks,G,18,"$884,293",75,210,9,2004,7/5/1982,n/a,Celje,Styria,Slovenia,White,No
+"Gasol, Marc",28,Grizzlies,C,33,"$14,860,524",85,265,5,2008,1/29/1985,n/a,Barcelona,n/a,Spain,Hispanic,No
+"Claver, Víctor",25,Trail Blazers,F,18,"$1,330,000",81,224,1,2012,8/30/1988,n/a,"Valenica, SP",n/a,Spain,White,No
+"Gasol, Pau",33,Lakers,F/C,16,"$19,285,850",84,250,3,2010,7/6/1980,n/a,"Barcelona, Spain",n/a,Spain,Hispanic,No
+"Calderón, José",32,Mavericks,G,8,"$6,791,570",75,211,8,2005,9/28/1981,n/a,"Villaneuva de la Serena, BD",Badajoz,Spain,Hispanic,No
+"Rubio, Ricky",22,Timberwolves,G,9,"$3,678,358",76,180,2,2011,10/21/1990,n/a,"El Masnou, BA",Barcelona,Spain,Hispanic,No
+"Jerebko, Jonas",26,Pistons,F,33,"$4,500,000",82,231,4,2009,3/2/1987,n/a,"Kinna, Mark",Mark,Sweden,White,No
+"Kanter, Enes",21,Jazz,C,0,"$4,505,280",83,248,2,2011,5/20/1992,n/a,Zurich,n/a,Switzerland,White,No
+"Sefolosha, Thabo",29,Thunder,G/F,25,"$3,900,000",79,215,7,2006,5/2/1984,n/a,"Vevey, VA",Vaud,Switzerland,Black,No
+"A??k, Ömer",27,Rockets,C,3,"$8,374,646",84,255,3,2010,7/4/1986,n/a,Bursa,n/a,Turkey,White,No
+"Türko?lu, Hedo",34,Magic,F,15,"$12,000,000",82,220,17,1996,3/19/1979,n/a,"Gasiosmanpasa, IS",Istanbul,Turkey,White,No
+"?lyasova, Ersan",26,Bucks,F,7,"$7,900,000",82,235,7,2006,5/15/1987,n/a,Eskisehir,Eskisehir,Turky,White,No
+"Kravtsov, Viacheslav",26,Suns,C,55,"$1,500,000",83,254,1,2012,8/25/1987,n/a,"Odessa, UK",n/a,Ukraine,White,No
+"Pekovi?, Nikola",27,Timberwolves,C,14,"$12,000,000",83,290,3,2010,1/3/1986,n/a,Bijelo Polje,n/a,Yugoslavia,White,No
+"Kuzmi?, Ognjen",23,Warriors,C,1,"$490,180",85,231,0,2013,5/16/1990,n/a,Doboj,n/a,Yugoslavia,White,No
+"Dubljevic, Bojan",21,Timberwolves,F/C,--,n/a,81,235,1,2012,10/24/1991,n/a,Niksic,n/a,Yugoslavia,White,No
+"Dragi?, Goran",27,Suns,G,1,"$7,500,000",75,190,5,2008,5/6/1986,n/a,Ljubljana,n/a,Yugoslavia,White,No
+"Nedovi?, Nemanja",22,Warriors,G,8,"$1,056,720",75,192,0,2013,6/16/1991,n/a,Nova Varos,n/a,Yugoslavia,White,No
+"McGee, JaVale",25,Nuggets,C,34,"$10,750,000",84,252,5,2008,1/19/1988,Nevada,"Flint, MI",Michigan,US,Black,No
+"Sessions, Ramon",27,Bobcats,G,7,"$5,000,000",75,190,6,2007,4/11/1986,Nevada,"Myrtle Beach, SC",South Carolina,US,Black,No
+"Snell, Tony",20,Bulls,F,20,"$1,409,040",79,200,0,2013,11/10/1992,New Mexico,"Los Angeles, CA",California,US,Black,No
+"Granger, Danny",30,Pacers,F,33,"$14,021,788",80,228,8,2005,4/20/1983,New Mexico,"New Orleans, LA",Louisiana,US,Black,No
+"O'Quinn, Kyle",23,Magic,F,2,"$788,872",82,240,1,2012,3/26/1990,Norfolk State,"New York City, NY",New York,US,Black,No
+"Haywood, Brendan",33,Bobcats,C,33,"$2,050,000",84,263,12,2001,11/27/1979,North Carolina,"New York City, NY",New York,US,Black,No
+"Henson, John",22,Bucks,F,31,"$1,905,360",83,220,1,2012,12/28/1990,North Carolina,"Greensboro, NC",North Carolina,US,Black,No
+"Jamison, Antawn",37,Clippers,F,33,"$884,293",81,235,15,1998,6/12/1976,North Carolina,"Shreveport, LA",Louisiana,US,Black,No
+"Davis, Ed",24,Grizzlies,F,32,"$3,153,860",82,232,11,2002,6/5/1989,North Carolina,"Washington, DC",DC,US,Black,No
+"Williams, Marvin",27,Jazz,F,2,"$7,500,000",81,237,8,2005,6/19/1986,North Carolina,"Bremerton, WA",Washington,US,Black,No
+"Barnes, Harrison",21,Warriors,F,40,"$2,923,920",80,210,1,2012,5/30/1992,North Carolina,"Ames, IA",Iowa,US,Black,No
+"Zeller, Tyler",23,Cavaliers,F/C,40,"$1,633,440",84,250,1,2012,1/17/1990,North Carolina,"Visalia, CA",California,US,White,No
+"Wright, Brandan",26,Mavericks,F/C,34,"$5,000,000",82,210,6,2007,10/5/1987,North Carolina,"Nashville, TN",Tennessee,US,Black,No
+"Hansbrough, Tyler",27,Raptors,F/C,50,"$3,183,000",81,250,4,2009,11/3/1985,North Carolina,"Columbia, MO",Missouri,US,White,No
+"Felton, Raymond",29,Knicks,G,2,"$3,637,073",73,205,8,2005,6/26/1984,North Carolina,"Marion, SC",South Carolina,US,Black,No
+"Ellington, Wayne",25,Mavericks,G,21,"$2,652,000",76,200,4,2009,11/29/1987,North Carolina,"Wynnewood, PA",Pennsylvania,US,Black,No
+"Lawson, Ty",25,Nuggets,G,3,"$10,786,517",71,195,4,2009,11/3/1987,North Carolina,"Clinton, MD",Maryland,US,Black,No
+"Marshall, Kendall",22,Suns,G,12,"$2,005,560",76,195,1,2012,8/19/1991,North Carolina,"Dumfries, VA",Virginia,US,Black,No
+"Bullock, Reggie",22,Clippers,G/F,25,"$1,149,000",79,205,0,2013,3/16/1991,North Carolina,"Kinston, NC",North Carolina,US,Black,No
+"Carter, Vince",36,Mavericks,G/F,25,"$3,180,000",78,220,15,1998,1/26/1977,North Carolina,"Daytona Beach, FL",Florida,US,Black,No
+"Green, Danny",26,Spurs,G/F,4,"$3,762,500",78,210,4,2009,6/22/1987,North Carolina,"North Babylon, NY",New York,US,Black,No
+"Leslie, C. J.",22,Knicks,F,25,"$490,180",81,205,0,2013,6/25/1991,North Carolina State,"Holly Springs, NC",North Carolina,US,Black,No
+"Powell, Josh",30,Knicks,F,20,"$854,389",81,240,8,2005,1/25/1983,North Carolina State,"Charleston, SC",South Carolina,US,Black,No
+"Howell, Richard",23,Trail Blazers,F,21,"$490,180",80,257,0,2013,9/26/1990,North Carolina State,"Marietta, GA",Georgia,US,Black,No
+"Hickson, J. J.",25,Nuggets,F/C,7,"$5,150,000",81,242,5,2008,9/4/1988,North Carolina State,"Atlanta, GA",Georgia,US,Black,No
+"Brown, Lorenzo",23,Timberwolves,G,--,n/a,77,186,0,2013,8/26/1990,North Carolina State,"Roswell, GA",Georgia,US,Black,No
+"Mitchell, Tony",21,Pistons,F,9,"$500,000",80,235,0,2013,4/7/1992,North Texas,"Milwaukee, WI",Wisconsin,US,Black,No
+"Barea, José Juan",29,Timberwolves,G,11,"$4,687,000",72,175,7,2006,6/26/1984,Northeastern,Mayaguez,n/a,Puerto Rico,Hispanic,No
+"Silas, Xavier",25,Wizards,G,5,"$762,195",77,205,1,2012,1/22/1988,Northern Illinois,"San Antonio, TX",Texas,US,Black,No
+"Diop, DeSagana",31,Cavaliers,C,5,n/a,84,280,12,2001,1/30/1982,Oak Hill Academy (VA),Dakar,n/a,Senegal,Black,Yes
+"Smith, Josh",27,Pistons,F,6,"$13,500,000",81,225,9,2004,12/5/1985,Oak Hill Academy (VA),"College Park, GA",Georgia,US,Black,Yes
+"Jennings, Brandon",24,Pistons,G,7,"$7,655,503",73,169,4,2009,9/23/1989,Oak Hill Academy (VA),"Lakewood, CA",California,US,Black,Yes
+"Koufos, Kosta",24,Grizzlies,C,41,"$3,000,000",84,265,5,2008,2/24/1989,Ohio State,"Canton, OH",Ohio,US,White,No
+"Oden, Greg",25,Heat,C,20,"$884,293",84,273,6,2007,1/22/1988,Ohio State,"Buffalo, NY",New York,US,Black,No
+"Sullinger, Jared",21,Celtics,F,7,"$1,365,720",81,260,1,2012,3/4/1992,Ohio State,"Columbus, OH",Ohio,US,Black,No
+"Mullens, Byron",24,Clippers,F/C,0,"$947,907",84,275,4,2009,2/14/1989,Ohio State,"Canal Winchester, OH",Ohio,US,White,No
+"Conley, Mike",26,Grizzlies,G,11,"$8,600,001",73,185,6,2007,10/11/1987,Ohio State,"Fayetteville, AR",Arkansas,US,Black,No
+"Turner, Evan",24,76ers,G/F,12,"$6,679,867",79,216,3,2010,10/27/1988,Ohio State,"Chicago, IL",Illinois,US,Black,No
+"Lighty, David",25,Hawks,G/F,20,n/a,77,220,0,2013,5/27/1988,Ohio State,"Cleveland, OH",Ohio,US,Black,No
+"Osby, Romero",23,Magic,F,24,n/a,80,240,0,2013,5/7/1990,Oklahoma,"Frankfurt, HE",Hesse,Germany,Black,No
+"Griffin, Blake",24,Clippers,F,32,"$16,441,500",82,251,4,2009,3/16/1989,Oklahoma,"Oklahoma City, OK",Oklahoma,US,Mixed,No
+"Anderson, James",24,76ers,G,9,"$916,099",78,210,3,2010,3/25/1989,Oklahoma State,"El Dorado, AR",Arkansas,US,Black,No
+"Lucas III, John",30,Jazz,G,5,"$1,600,000",71,165,8,2005,11/21/1982,Oklahoma State,"Washington, DC",DC,US,Black,No
+"Graham, Stephen",31,Bucks,G/F,23,"$1,106,941",78,215,8,2005,6/11/1982,Oklahoma State,"Wilmington, DE",Delaware,US,Black,No
+"Allen, Tony",31,Grizzlies,G/F,9,"$4,494,383",76,213,9,2004,1/11/1982,Oklahoma State,"Chicago, IL",Illinois,US,Black,No
+"Bazemore, Kent",24,Warriors,G,20,"$788,872",77,201,1,2012,7/1/1989,Old Dominion,"Kelford, NC",North Carolina,US,Black,No
+"Singler, E. J.",23,Trail Blazers,F,33,n/a,78,215,0,2013,6/6/1990,Oregon,"Medford, OR",Oregon,US,White,No
+"Ridnour, Luke",32,Bucks,G,13,"$4,320,000",74,175,10,2003,2/13/1981,Oregon,"Coeur d'Alene, ID",Indiana,US,White,No
+"Brooks, Aaron",28,Rockets,G,0,"$884,293",72,161,6,2007,1/14/1985,Oregon,"Seattle, WA",Washington,US,Black,No
+"Cunningham, Jared",22,Hawks,G,7,"$1,208,400",76,195,1,2012,5/22/1991,Oregon State,"Oakland, CA",California,US,Black,No
+"Livingston, Shaun",28,Nets,G,14,"$884,293",79,175,9,2004,9/11/1985,Peoria Central HS (IL),"Peoria, IL",Illinois,US,Black,Yes
+"Adams, Steven",20,Thunder,C,12,"$2,090,880",84,250,0,2013,7/28/1993,Pittsburgh,Rotorua,n/a,New Zealand,White,No
+"Gray, Aaron",28,Raptors,C,34,"$2,690,875",84,270,6,2007,12/7/1984,Pittsburgh,"Los Angeles, CA",California,US,White,No
+"Blair, DeJuan",24,Mavericks,F/C,45,"$884,293",79,270,4,2009,4/22/1989,Pittsburgh,"Pittsburgh, PA",Pennsylvania,US,Black,No
+"Jefferson, Al",28,Bobcats,F/C,25,"$13,500,000",82,289,9,2004,1/4/1985,Prentiss HS (MS),"Monticello, MS",Mississippi,US,Black,Yes
+"Gomes, Ryan",31,Thunder,F,8,"$884,293",79,245,8,2005,9/1/1982,Providence,"Waterbury, CT",Connecticut,US,Black,No
+"Brooks, MarShon",24,Celtics,G/F,12,"$1,210,080",77,200,2,2011,1/26/1989,Providence,"Long Branch, NJ",New Jersey,US,Black,No
+"Landry, Carl",30,Kings,F,24,"$6,500,000",81,248,6,2007,9/19/1983,Purdue,"Milwaukee, WI",Wisconsin,US,Black,No
+"Moore, E'Twaun",24,Magic,G,55,"$884,293",76,191,2,2011,2/25/1989,Purdue,"East Chicago, IN",Indiana,US,Black,No
+"Hummel, Robbie",24,Timberwolves,G/F,--,n/a,80,215,0,2013,3/8/1989,Purdue,"Valparaiso, IN",Indiana,US,White,No
+"Harris, Mike",30,Jazz,F,33,"$854,389",78,235,8,2005,6/15/1983,Rice,"Hillsboro, TX",Texas,US,Black,No
+"Thompson, Jason",27,Kings,F/C,34,"$5,643,750",83,250,5,2008,7/21/1986,Rider,"Mount Laurel Township, NJ",New Jersey,US,Black,No
+"Jeffers, Othyus",28,Timberwolves,G/F,--,"$35,868",77,210,3,2010,8/15/1985,Robert Morris,"Chicago, IL",Illinois,US,Black,No
+"N'Diaye, Hamady",26,Kings,C,55,"$762,195",84,235,3,2010,1/12/1987,Rutgers,Dakar,n/a,Senegal,Black,No
+"Jones, Dwayne",30,Jazz,F/C,42,"$1,106,942",83,250,7,2006,6/9/1983,Saint Joseph's,"Morgantown, WV",West Virginia,US,Black,No
+"Nelson, Jameer",31,Magic,G,14,"$8,600,000",72,190,9,2004,2/9/1982,Saint Joseph's,"Chester, PA",Pennsylvania,US,Black,No
+"Reed, Willie",23,Grizzlies,F/C,3,"$788,872",81,220,0,2013,5/16/1990,Saint Louis,"Kansas City, MO",Missouri,US,Black,No
+"Mills, Patrick",25,Spurs,G,8,"$1,133,950",72,185,4,2009,8/11/1988,St. Mary's (CA),Canberra,New South Wales,Australia,Black,No
+"McConnell, Mickey",24,Mavericks,G,32,"$490,180",72,189,2,2011,4/14/1989,St. Mary's (CA),"Mesa, AZ",Arizona,US,White,No
+"Tyler, Jeremy ",22,Knicks,F/C,4,"$884,293",82,250,2,2011,6/21/1991,San Diego HS (CA),"San Diego, CA",California,US,Black,Yes
+"Franklin, Jamaal",22,Grizzlies,G,22,"$535,000",77,191,0,2013,7/21/1991,San Diego State,"Moreno Valley, CA",California,US,Black,No
+"Leonard, Kawhi",22,Spurs,G/F,2,"$1,887,840",79,225,2,2011,6/29/1991,San Diego State,"Riverside, CA",California,US,Black,No
+"Nash, Steve",39,Lakers,G,10,"$9,300,500",75,178,7,2006,2/7/1974,Santa Clara,"Johannesburg, SA",n/a,South Africa,White,No
+"Webster, Martell",26,Wizards,G/F,9,"$5,150,000",79,230,7,2006,12/4/1986,Seattle Preparatory (WA),"Edmonds, WA",Washington,US,Black,Yes
+"Dalembert, Samuel",32,Mavericks,C,1,"$3,700,748",83,250,12,2001,5/10/1981,Seton Hall,"Port-au-Prince, HT",n/a,Haiti,Black,No
+"Miles, C. J.",26,Cavaliers,G/F,0,"$2,225,000",78,222,8,2005,3/18/1987,Skyline HS (TX),"Dallas, TX",Texas,US,Black,Yes
+"Balkman, Renaldo",29,Mavericks,F,13,"$1,675,000",80,225,7,2006,7/14/1984,South Carolina,"New York City, NY",New York,US,Black,No
+"Westbrook, Charlie",24,Heat,G,12,n/a,76,196,0,2013,8/21/1989,South Dakota,"Milwaukee, WI",Wisconsin,US,Black,No
+"Wolters, Nate",22,Bucks,G,6,"$500,000",76,190,0,2013,5/15/1991,South Dakota State,"St. Cloud, MN",Minnesota,US,White,No
+"Jones, Solomon",29,Magic,F/C,22,"$792,377",82,245,7,2006,7/16/1984,South Florida,"Eustis, FL",Florida,US,Black,No
+"Williams, Louis",26,Hawks,G,3,"$5,225,000",73,175,8,2005,10/27/1986,South Gwinnett HS (GA),"Memphis, TN",Tennessee,US,Black,Yes
+"Wright, Dorell",27,Trail Blazers,F,1,"$3,000,000",81,205,9,2004,12/2/1985,South Kent Prep (CT),"Los Angeles, CA",California,US,Black,Yes
+"Blatche, Andray",27,Nets,F/C,0,"$1,375,604",83,260,8,2005,8/22/1986,South Kent Prep (CT),"Syracuse, NY",New York,US,Black,Yes
+"Ledo, Ricky",21,Mavericks,G,7,"$544,000",79,195,0,2013,9/10/1992,South Kent Prep (CT),"Providence, RI",Rhode Island,US,Black,Yes
+"Vu?evi?, Nikola",22,Magic,C,9,"$1,793,520",84,240,2,2011,10/24/1990,Southern Califoria,"Morges, VA",Vaud,Switzerland,White,No
+"Dedmon, Dewayne",24,Warriors,C,--,n/a,84,255,0,2013,8/12/1989,Southern California,"Lancaster, CA",California,US,Black,No
+"Gibson, Taj",28,Bulls,F,22,"$7,550,000",81,225,4,2009,6/24/1985,Southern California,"New York City, NY",New York,US,Black,No
+"Mayo, O. J.",25,Bucks,G,0,"$8,000,000",76,210,5,2008,11/5/1987,Southern California,"Huntington, WV",West Virginia,US,Black,No
+"Young, Nick",28,Lakers,G/F,0,"$1,106,942",79,210,6,2007,6/1/1985,Southern California,"Los Angeles, CA",California,US,Black,No
+"DeRozan, DeMar ",24,Raptors,G/F,10,"$9,500,000",79,216,4,2009,8/7/1989,Southern California,"Compton, CA",California,US,Black,No
+"Smith, J. R.",28,Knicks,G,8,"$5,565,000",78,220,9,2004,9/9/1985,St. Benedict's Prep (NJ),"Freehold Borough, NJ",New Jersey,US,Black,Yes
+"Nicholson, Andrew",23,Magic,F,44,"$1,482,000",81,250,1,2012,12/8/1989,St. Bonaventure,"Mississauga, ON",Ontario,Canada,Black,No
+"Lee, Michael",27,Cavaliers,F,20,n/a,81,215,0,2013,6/5/1986,St. Bonaventure,"Tallahassee, FL",Florida,US,Black,No
+"World Peace, Metta",33,Knicks,F,51,"$1,591,650",79,260,14,1999,11/13/1979,St. John's,"New York City, NY",New York,US,Black,No
+"Harkless, Maurice",20,Magic,F,21,"$1,809,840",81,210,1,2012,5/11/1993,St. John's,"New York City, NY",New York,US,Black,No
+"Kennedy, D. J.",23,Mavericks,G/F,12,"$788,872",78,215,2,2011,11/5/1989,St. John's,"Pittsburgh, PA",Pennsylvania,US,Black,No
+"Bynum, Andrew",25,Cavaliers,C,21,"$12,250,000",84,285,8,2005,10/27/1987,St. Joseph HS (NJ),"Plainsboro, NJ",New Jersey,US,Black,Yes
+"Dellavedova, Matthew",23,Cavaliers,G,9,n/a,76,190,0,2013,9/8/1990,St. Mary's (CA),Maryborough,Victoria,Australia,White,No
+"Harrington, Al",33,Wizards,F,7,"$884,293",81,245,15,1998,2/17/1980,St. Patrick (NJ),"Orange, NJ",New Jersey,US,Black,Yes
+"James, LeBron",28,Heat,F,6,"$19,067,500",80,250,10,2003,12/30/1984,St. Vincent–St. Mary HS (OH),"Akron, OH",Ohio,US,Black,Yes
+"Lopez, Brook",25,Nets,C,11,"$14,693,906",84,265,5,2008,4/1/1988,Stanford,"Los Angeles, CA",California,US,Mixed,No
+"Lopez, Robin",25,Trail Blazers,C,42,"$5,904,261",84,255,5,2008,4/8/1988,Stanford,"Los Angeles, CA",California,US,Mixed,No
+"Childress, Josh",30,Wizards,F,8,"$854,389",80,210,9,2004,6/20/1983,Stanford,"Harbor City, CA",California,US,Black,No
+"Fields, Landry",25,Raptors,G/F,2,"$6,250,000",79,215,3,2010,6/27/1988,Stanford,"Long Beach, CA",California,US,Mixed,No
+"Outlaw, Travis",29,Kings,F,25,"$300,000",81,207,10,2003,9/18/1984,Starkville HS (MS),"Stakville, MS",Mississippi,US,Black,Yes
+"Howard, Dwight",27,Rockets,C,12,"$20,513,178",83,265,9,2004,12/8/1985,SW Atlanta Academy (GA),"Atlanta, GA",Georgia,US,Black,Yes
+"Melo, Fab",23,Mavericks,C,51,"$788,872",84,255,1,2012,1/20/1990,Syracuse,"Juiz de For a, MG",Minas Gerais,Brazil,Black,No
+"Joseph, Kris",24,Magic,F,32,"$788,872",79,210,1,2012,12/17/1988,Syracuse,"Montreal, QB",Quebec,Canada,Black,No
+"Southerland, James",23,Bobcats,F,31,"$490,180",80,215,0,2013,4/28/1990,Syracuse,"New York City, NY",New York,US,Black,No
+"Anthony, Carmelo",29,Knicks,F,7,"$21,388,953",80,235,10,2003,5/29/1984,Syracuse,"New York City, NY",New York,US,Black,No
+"Onuaku, Arinze",26,Pelicans,F/C,21,"$490,180",81,275,0,2013,7/13/1987,Syracuse,"Lanham, MD",Maryland,US,Black,No
+"Carter-Williams, Michael",22,76ers,G,1,"$2,200,920",78,185,0,2013,10/12/1991,Syracuse,"Hamilton, MA",Massachussetts,US,Black,No
+"Waiters, Dion",21,Cavaliers,G,3,"$3,894,240",76,215,1,2012,12/1/1991,Syracuse,"Philadelphia, PA",Pennsylvania,US,Black,No
+"Johnson, Wesley",26,Lakers,G/F,11,"$884,293",79,215,10,2003,7/11/1987,Syracuse,"Corsicana, TX",Texas,US,Black,No
+"Allen, Lavoy",24,76ers,F/C,50,"$3,060,000",81,255,2,2011,2/4/1989,Temple,"Trenton, NJ",New Jersey,US,Black,No
+"Wyatt, Khalif",22,76ers,G,11,n/a,76,205,0,2013,6/10/1991,Temple,"Norristown, PA",Pennsylvania,US,Black,No
+"Christmas, Dionte",27,Suns,G,25,"$473,604",77,205,0,2013,9/15/1986,Temple,"Philadelphia, PA",Pennsylvania,US,Black,No
+"Harris, Tobias",21,Magic,F,12,"$1,545,840",81,226,2,2011,7/15/1992,Tennessee,"Islip, NY",New York,US,Black,No
+"Watson, C. J.",29,Pacers,G,32,"$2,016,000",74,175,7,2006,4/17/1984,Tennessee,"Las Vegas, NV",Nevada,US,Black,No
+"Covington, Robert",22,Rockets,F,33,"$490,180",81,215,0,2013,12/14/1990,Tennessee St.,"Bellwood, IL",Illinois,US,Black,No
+"Hudson, Lester",29,Jazz,G,6,"$48,232",75,190,4,2009,8/7/1984,Tennessee-Martin,"Memphis, TN",Tennessee,US,Black,No
+"Thompson, Tristan",22,Cavaliers,F,13,"$4,062,000",81,227,2,2011,3/13/1991,Texas,"Brampton, ON",Ontario,Canada,Black,No
+"Joseph, Cory",22,Spurs,G,5,"$1,120,920",75,185,2,2011,8/20/1991,Texas,"Toronto, ON",Ontario,Canada,Black,No
+"Pittman, Dexter",25,Bulls,C,45,"$854,389",83,285,3,2010,3/2/1988,Texas,"Rosenberg, TX",Texas,US,Black,No
+"James, Damion",26,Nuggets,F,5,"$68,902",83,230,3,2010,10/7/1987,Texas,"Hobbs, NM",New Mexico,US,Black,No
+"Tucker, P. J.",28,Suns,F,17,"$884,293",78,224,7,2006,5/5/1985,Texas,"Raleigh, NC",North Carolina,US,Black,No
+"Durant, Kevin",25,Thunder,F,35,"$17,932,627",81,235,6,2007,9/29/1988,Texas,"Washington, DC",DC,US,Black,No
+"Aldridge, LaMarcus",28,Trail Blazers,F/C,12,"$14,878,000",83,240,7,2006,7/19/1985,Texas,"Dallas, TX",Texas,US,Black,No
+"Bradley, Avery",22,Celtics,G,0,"$2,511,432",74,180,3,2010,11/26/1990,Texas,"Tacoma, WA",Washington,US,Black,No
+"Ivey, Royal",31,Hawks,G,10,"$884,293",76,215,9,2004,12/20/1981,Texas,"Harlem, NY",New York,US,Black,No
+"Augustin, D. J.",25,Raptors,G,14,"$1,267,000",72,183,5,2008,11/10/1987,Texas,"New Orleans, LA",Louisiana,US,Black,No
+"Hamilton, Jordan",23,Nuggets,G/F,1,"$1,169,880",79,220,2,2011,6/10/1990,Texas,"Los Angeles, CA",California,US,Black,No
+"Jordan, DeAndre",25,Clippers,C,6,"$10,986,550",83,265,5,2008,7/21/1988,Texas A&M,"Houston, TX",Texas,US,Black,No
+"Middleton, Khris",21,Bucks,F,22,"$788,872",80,217,1,2012,12/8/1991,Texas A&M,"Charleston, SC",South Carolina,US,Black,No
+"Sloan, Donald",25,Pacers,G,15,"$884,293",75,205,2,2011,1/15/1988,Texas A&M,"Shreveport, LA",Louisiana,US,Black,No
+"Stone, Julyan",24,Raptors,G,--,n/a,78,200,2,2011,12/7/1988,Texas-El Paso,"Alexandria, VA",Virginia,US,Black,No
+"Neal, Gary",29,Bucks,G,12,"$3,250,000",76,210,6,2007,10/3/1984,Towson,"Baltimore, MD",Maryland,US,Black,No
+"Johnson, Orlando",24,Pacers,G,11,"$788,872",77,220,1,2012,3/11/1989,UC Santa Barbara,"Monterey, CA",California,US,Black,No
+"Nunnally, James",23,Suns,G/F,23,n/a,79,205,0,2013,7/14/1990,UC Santa Barbara,"Stockton, CA",California,US,Black,No
+"Mbah a Moute, Luc",27,Kings,F,33,"$4,588,384",80,230,5,2008,9/9/1986,UCLA,"Yaounde, CM",n/a,Cameroon,Black,No
+"Gadzuric, Dan",35,Lakers,C,15,n/a,83,240,0,2013,2/2/1978,UCLA,The Hague,South Holland,Netherlands,White,No
+"Hollins, Ryan",29,Clippers,C,15,"$884,293",84,240,7,2006,10/10/1984,UCLA,"Pasadena, CA",California,US,Black,No
+"Barnes, Matt",33,Clippers,F,22,"$3,250,000",79,226,9,2004,3/9/1980,UCLA,"Santa Clara,  CA",California,US,Mixed,No
+"Love, Kevin",25,Timberwolves,F/C,42,"$14,693,906",82,260,5,2008,9/7/1988,UCLA,"Santa Monica, CA",California,US,White,No
+"Collison, Darren",26,Clippers,G,2,"$1,900,000",72,175,4,2009,8/23/1987,UCLA,"Rancho Cucamonga, CA",California,US,Black,No
+"Drew, Larry",23,Heat,G,0,n/a,74,180,0,2013,3/5/1990,UCLA,"Encino, CA",California,US,Black,No
+"Farmar, Jordan",26,Lakers,G,1,"$884,293",74,180,12,2001,11/30/1986,UCLA,"Los Angeles, CA",California,US,Mixed,No
+"Holiday, Jrue",23,Pelicans,G,11,"$9,713,484",76,205,4,2009,6/12/1990,UCLA,"Chatsworth, CA",California,US,Black,No
+"Lee, Malcolm",23,Suns,G,30,"$884,293",77,200,2,2011,5/22/1990,UCLA,"Riverside, CA",California,US,Black,No
+"Westbrook, Russell",24,Thunder,G,0,"$14,693,906",75,187,5,2008,11/12/1988,UCLA,"Long Beach, CA",California,US,Black,No
+"Watson, Earl",34,Trail Blazers,G,17,"$884,293",73,199,12,2001,6/12/1979,UCLA,"Kansas City, KA",Kansas,US,Black,No
+"Afflalo, Arron",27,Magic,G/F,4,"$7,750,000",77,215,6,2007,10/15/1985,UCLA,"Los Angeles, CA",California,US,Black,No
+"Muhammad, Shabazz",20,Timberwolves,G/F,15,"$1,887,120",78,225,0,2013,11/13/1992,UCLA,"Long Beach, CA",California,US,Black,No
+"Ariza, Trevor",28,Wizards,G/F,1,"$7,727,280",80,210,9,2004,6/30/1985,UCLA,"Miami, FL",Florida,US,Black,No
+"Anthony, Joel",31,Heat,C,50,"$3,800,000",81,245,6,2007,8/9/1982,UNLV,"Montreal, QB",Quebec,Canada,Black,No
+"Bennett, Anthony",20,Cavaliers,F,15,"$5,324,280",80,240,0,2013,3/14/1993,UNLV,"Toronto, ON",Ontario,Canada,Black,No
+"Amundson, Lou",30,Clippers,F,17,"$185,955",81,225,6,2007,12/7/1982,UNLV,"Ventura, CA",California,US,White,No
+"Marion, Shawn",35,Mavericks,F,0,"$9,316,796",79,228,14,1999,5/7/1978,UNLV,"Waukegan, IL",Illinois,US,Black,No
+"Ayón, Gustavo",28,Hawks,F/C,14,"$1,500,000",82,250,2,2011,4/1/1985,UPAEP (MEX),Tepic,n/a,Mexico,Hispanic,No
+"Bogut, Andrew",28,Warriors,C,12,"$14,000,000",84,260,8,2005,11/28/1984,Utah,"Melbourne, VI",Victoria,Australia,White,No
+"Miller, Andre",37,Nuggets,G,24,"$5,000,000",74,200,14,1999,3/19/1976,Utah,"Los Angeles, CA",California,US,Black,No
+"Price, Ronnie",30,Magic,G,10,"$1,146,337",74,190,8,2005,6/21/1983,Utah Valley,"Friendswood, Texas",Texas,US,Black,No
+"Howard, Ron",31,Pacers,G/F,19,n/a,77,200,0,2013,1/14/1982,Valparaiso,"Chicago, IL",Illinois,US,Black,No
+"Ezeli, Festus",23,Warriors,C,31,"$1,066,920",83,255,1,2012,10/21/1989,Vanderbilt,"Benin City, NI",n/a,Nigeria,Black,No
+"Taylor, Jeffery",24,Bobcats,G/F,44,"$788,872",79,225,1,2012,5/23/1989,Vanderbilt,"Norrkoping, OS",Ostergotland,Sweden,Black,No
+"Jenkins, John",22,Hawks,G,12,"$1,258,800",76,215,1,2012,3/6/1991,Vanderbilt,"Hendersonville, TN",Tennessee,US,Black,No
+"Cunningham, Dante",26,Timberwolves,F,33,"$2,180,000",80,230,4,2009,4/22/1987,Villanova,"Clinton, MD",Maryland,US,Black,No
+"Wayns, Maalik",22,Clippers,G,5,"$788,872",73,195,1,2012,5/2/1991,Villanova,"Philadelphia, PA",Pennsylvania,US,Black,No
+"Foye, Randy",30,Nuggets,G,4,"$3,000,000",76,213,7,2006,9/24/1983,Villanova,"Newark, NJ",New Jersey,US,Black,No
+"Lowry, Kyle",27,Raptors,G,7,"$6,210,000",72,205,7,2006,3/25/1986,Villanova,"Philadelphia, PA",Pennsylvania,US,Black,No
+"Scott, Mike",25,Hawks,F,32,"$788,872",80,237,1,2012,7/16/1988,Virginia,"Chesapeake, VA",Virginia,US,Black,No
+"Mason, Jr., Roger",33,Heat,G,21,"$854,389",77,205,11,2002,9/10/1980,Virginia,"Washington, DC",DC,US,Black,No
+"Sanders, Larry",24,Bucks,F/C,8,"$3,053,368",83,235,3,2010,11/21/1988,Virginia Commonwealth,"Fort Pierce, FL",Florida,US,Black,No
+"Daniels, Troy",22,Bobcats,G,30,n/a,76,200,0,2013,7/15/1991,Virginia Commonwealth,"Roanoke, VA",Virginia,US,Black,No
+"Maynor, Eric",26,Wizards,G,6,"$13,000,000",75,175,4,2009,6/11/1987,Virginia Commonwealth,"Raeford, NC",North Carolina,US,Black,No
+"Williams, Reggie",27,Rockets,G/F,55,"$947,907",78,205,3,2010,9/14/1986,Virginia Military,"Prince George, VA",Virginia,US,Black,No
+"Johnson, James",26,Hawks,F,13,n/a,81,248,4,2009,2/20/1987,Wake Forest,"Cheyene, WY",Wyoming,US,Black,No
+"Aminu, Al-Farouq",23,Pelicans,F,0,"$3,749,602",81,215,3,2010,9/21/1990,Wake Forest,"Atlanta, GA",Georgia,US,Black,No
+"Paul, Chris",28,Clippers,G,3,"$18,668,431",72,175,8,2005,5/6/1985,Wake Forest,"Forsyth County, NC",North Carolina,US,Black,No
+"Teague, Jeff",25,Hawks,G,0,"$8,000,000",74,181,4,2009,6/10/1988,Wake Forest,"Indianapolis, IN",Indiana,US,Black,No
+"Smith, Ish",25,Suns,G,30,"$951,463",72,175,3,2010,7/5/1988,Wake Forest,"Charlotte, NC",North Carolina,US,Black,No
+"Duncan, Tim",37,Spurs,F/C,21,"$10,361,446",83,255,16,1997,4/25/1976,Wake Forest,"Christiansted, VI",Virgin Islands,Virgin Islands,Black,No
+"Hawes, Spencer",25,76ers,C,0,"$6,500,000",85,245,6,2007,4/28/1988,Washington,"Seattle, WA",Washington,US,White,No
+"Wroten, Tony",20,76ers,G,8,"$1,160,040",78,205,1,2012,4/13/1993,Washington,"Renton, WA",Washington,US,Black,No
+"Gaddy, Abdul",21,Bobcats,G,10,n/a,75,185,0,2013,1/26/1992,Washington,"Tacoma, WA",Washington,US,Black,No
+"Thomas, Isaiah",24,Kings,G,22,"$884,293",69,185,2,2011,2/7/1989,Washington,"Tacoma, WA",Washington,US,Black,No
+"Robinson, Nate",29,Nuggets,G,10,"$2,016,000",69,180,8,2005,5/31/1984,Washington,"Seattle, WA",Washington,US,Black,No
+"Ross, Terrence",22,Raptors,G,31,"$2,678,640",78,195,1,2012,2/5/1991,Washington,"Portland, OR",Oregon,US,Black,No
+"Pondexter, Quincy",25,Grizzlies,G/F,20,"$225,479",78,225,3,2010,3/10/1988,Washington,"Fresno, CA",California,US,Black,No
+"Holiday, Justin",24,Jazz,G/F,22,"$788,872",78,185,0,2013,4/5/1989,Washington,"Mission Hills, CA",California,US,Black,No
+"Baynes, Aron",26,Spurs,F/C,16,"$788,872",82,260,0,2013,12/9/1986,Washington State,"Gisborne, NZ",n/a,New Zealand,White,No
+"Thompson, Klay",23,Warriors,G/F,11,"$2,317,920",79,205,2,2011,2/8/1990,Washington State,"Los Angeles, CA",California,US,Mixed,No
+"Lillard, Damian",23,Trail Blazers,G,0,"$3,202,920",75,195,1,2012,7/15/1990,Weber State,"Oakland, CA",California,US,Black,No
+"Alexander, Joe",26,Warriors,F,25,"$854,389",80,230,5,2008,12/26/1986,West Virginia,"Kaohsiung, TA",n/a,Taiwan,White,No
+"Fischer, D'or",32,Wizards,C,21,n/a,83,255,0,2013,10/12/1981,West Virginia,"Philadelphia, PA",Pennsylvania,US,Black,No
+"Ebanks, Devin",23,Mavericks,F,37,"$884,293",81,215,3,2010,10/28/1989,West Virginia,"New York City, NY",New York,US,Black,No
+"Johnson, Amir",26,Raptors,F/C,15,"$6,500,000",81,210,8,2005,5/1/1987,Westchester HS (CA),"Los Angeles, CA",California,US,Black,Yes
+"Martin, Kevin",30,Timberwolves,G,23,"$6,500,000",79,185,9,2004,2/1/1983,Western Carolina,"Zanesville, OH",Ohio,US,Mixed,No
+"Evans, Jeremy",25,Jazz,F,40,"$1,660,257",81,194,3,2010,10/24/1987,Western Kentucky,"Crossett, AR",Arkansas,US,Black,No
+"Lee, Courtney",28,Celtics,G/F,11,"$5,225,000",77,200,5,2008,10/3/1985,Western Kentucky,"Indianapolis, IN",Indiana,US,Black,No
+"Mekel, Gal",25,Mavericks,G,33,"$490,180",75,191,5,2008,3/4/1988,Wichita State,Petah Tikva,n/a,Israel,White,No
+"Murry, Toure'",23,Knicks,G/F,23,"$490,180",77,195,0,2013,11/8/1989,Wichita State,"Houston, TX",Texas,US,Black,No
+"Stiemsma, Greg",28,Pelicans,C,34,"$2,676,000",83,260,2,2011,9/26/1985,Wisconsin,"Randolph, WI",Wisconsin,US,White,No
+"Leuer, Jon",24,Grizzlies,F,30,"$900,000",82,228,2,2011,5/14/1989,Wisconsin,"Long Lake, MN",Minnesota,US,White,No
+"Landry, Marcus",27,Lakers,F,14,"$788,872",79,225,17,1996,11/1/1985,Wisconsin,"Milwaukee, WI",Wisconsin,US,Black,No
+"Harris, Devin",30,Mavericks,G,20,"$854,389",75,192,9,2004,2/27/1983,Wisconsin,"Milwaukee, WI",Wisconsin,US,Black,No
+"West, David",33,Pacers,F,21,"$12,000,000",81,250,10,2003,8/29/1980,Xavier,"Teaneck, NJ",New Jersey,US,Black,No
+"Crawford, Jordan",24,Celtics,G,27,"$2,162,419",76,195,3,2010,10/23/1988,Xavier,"Detroit, MI",Michigan,US,Black,No
