@@ -48,7 +48,7 @@ mining), from the digital humanities (document clustering,
 natural language processing) and computational social science. 
 We will also draw readings from design and the arts -- Given 
 the expanding role of computation in creative practices, books 
-like Form+Code by Reas and MacWilliams become useful references.
+like [Form+Code by Reas and MacWilliams](http://www.amazon.com/Form-Code-Design-Architecture-Briefs/dp/1568989377) (Ed: in [Processing](http://formandcode.com/code-examples/)) become useful references.
 
 ## Approximate topic outline:
 
