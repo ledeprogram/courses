@@ -54,9 +54,11 @@ SQL
 
 **In Class:**
 
-Cathy: distributions, bias, lying with graphs, and experiments.
+First, Suresh Naidu guest lectures on speech patterns in economics.
 
-Josh: anonymization (part 1)
+Next, some students give their pitches.
+
+Then, Josh talks about anonymization (part 1)
 
 ***Reading:*** How to Lie with Statistics (as much as you can), Cartoon Guide to Statistics (take a look)
 
@@ -64,7 +66,13 @@ Josh: anonymization (part 1)
 
 **In Studio:**
 
-Deeper dive into statistics
+Deeper dive into statistics:
+
+1. Notation of statistics
+1. Statistical significance
+2. The concept of independent events 
+3. Computing some probabilities
+3. Bayes's Theorem
 
 
 ##July 24
@@ -154,7 +162,6 @@ Calculus review (part 2)
 
 **In Class:**
 
-Suresh Naidu guest lectures on speech patterns in politics
 
 ***Reading:*** TBA
 
