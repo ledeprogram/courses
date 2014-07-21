@@ -73,12 +73,34 @@ Course tools: [scikit-learn](http://scikit-learn.org/stable/), [pandas](http://p
 
 ### Monday 7/21
 
-- Algorithms for prediction
+#### overview/concepts:
+
+- algorithms that learn from data to model the world
+( i.e., machine learning)
+- the role of optimization in those algos 
+- representation (e.g., documents) 
+- examples: reading aloud the [authorship nifty assignment](http://nifty.stanford.edu/2013/craig-authorship-detection/)
+- another example: bag of words
+
+#### math:
+- introduce naive Bayes 
+- introduce probability and Bayes rule 
+- go through naive Bayes 
+- show how it's a graphical model (pictures, organizing stories in your head, a chance to talk about complexity)
+
+#### extensions:
+
+- say but don't show how you could do this with priors and for multiclass
+- talk about other classification algorithms
+- how do decide what algorithm or priors are "best"? 
+- digression on meaning of modeling and desiderata of models 
 
 #### Fun data to play with
 
 - [govtrack](https://www.govtrack.us/developers)
 - [US github](https://github.com/unitedstates/congress/wiki/Bills)
+
+-**Week Inspiration:** [what is Bayes theorem](http://www.scientificamerican.com/article/what-is-bayess-theorem-an/)
 
 ### Wednesday 7/23
 
@@ -88,11 +110,11 @@ Course tools: [scikit-learn](http://scikit-learn.org/stable/), [pandas](http://p
 
 ### Monday: 7/28
 
-- 'Naive Bayes' and bayes rule
-- 'being bayesian'
+- back to 'Naive Bayes' and Bayes rule
+- 'being Bayesian'
 - critical literacy
     + why this classifier? what else is possible?
-    + computaional complexity: what is realistic?
+    + computational complexity: what is realistic?
     + what assumptions are made?
 - rhetorical literacy: try something else!
     + random forests
