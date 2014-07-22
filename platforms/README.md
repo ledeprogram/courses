@@ -81,13 +81,14 @@ Matthew Connelly guest lectures on the declassification engine
 
 Josh talks about anonymization (part 2)
 
-***Reading:*** TBA
+***Reading:*** 
 
-***Homework:*** TBA
+[Diplomatic History After the Big Bang 
+Using Computational Methods to Explore the Infinite Archive.](http://mathbabe.files.wordpress.com/2014/07/allen-and-connelly-on-explaining-computational-methods-4-15-14.pdf)
 
 **In Studio:**
 
-RSA
+Cathy talks about the encryption method called RSA.
 
 ##July 29
 
