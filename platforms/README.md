@@ -36,7 +36,7 @@ Q&A about the second semester in the CS department with Adam Cannon and Sophie C
 
 **In Class:**
 
-Emanuel Derman guest lectures on modeling and models
+Emanuel Derman guest lectures on modeling and models. His notes are [here.](http://mathbabe.files.wordpress.com/2014/07/oneil-derman.pdf)
 
 Cathy: Financial time series. iPython notebook [here.](https://github.com/ledeprogram/courses/blob/master/platforms/Financial%20Time%20Series.ipynb)
 
