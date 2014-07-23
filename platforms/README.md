@@ -36,7 +36,7 @@ Q&A about the second semester in the CS department with Adam Cannon and Sophie C
 
 **In Class:**
 
-Emanuel Derman guest lectures on modeling and models
+Emanuel Derman guest lectures on modeling and models. His notes are [here.](http://mathbabe.files.wordpress.com/2014/07/oneil-derman.pdf)
 
 Cathy: Financial time series. iPython notebook [here.](https://github.com/ledeprogram/courses/blob/master/platforms/Financial%20Time%20Series.ipynb)
 
@@ -54,17 +54,23 @@ SQL
 
 **In Class:**
 
-Cathy: distributions, bias, lying with graphs, and experiments.
+First, Suresh Naidu guest lectures on speech patterns in economics.
 
-Josh: anonymization (part 1)
+Next, some students give their pitches.
+
+Then, Josh talks about anonymization (part 1)
 
 ***Reading:*** How to Lie with Statistics (as much as you can), Cartoon Guide to Statistics (take a look)
 
-***Homework:*** TBA
-
 **In Studio:**
 
-Deeper dive into statistics
+Deeper dive into statistics:
+
+1. Notation of statistics
+1. Statistical significance
+2. The concept of independent events 
+3. Computing some probabilities
+3. Bayes's Theorem
 
 
 ##July 24
@@ -75,13 +81,14 @@ Matthew Connelly guest lectures on the declassification engine
 
 Josh talks about anonymization (part 2)
 
-***Reading:*** TBA
+***Reading:*** 
 
-***Homework:*** TBA
+[Diplomatic History After the Big Bang 
+Using Computational Methods to Explore the Infinite Archive.](http://mathbabe.files.wordpress.com/2014/07/allen-and-connelly-on-explaining-computational-methods-4-15-14.pdf)
 
 **In Studio:**
 
-RSA
+Cathy talks about the encryption method called RSA.
 
 ##July 29
 
@@ -154,7 +161,7 @@ Calculus review (part 2)
 
 **In Class:**
 
-Suresh Naidu guest lectures on speech patterns in politics
+Cathy goes over important points from How To Lie With Statistics and The Cartoon Guide To Statistics
 
 ***Reading:*** TBA
 
