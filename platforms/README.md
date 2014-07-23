@@ -88,7 +88,7 @@ Using Computational Methods to Explore the Infinite Archive.](http://mathbabe.fi
 
 **In Studio:**
 
-Cathy talks about the encryption method called RSA.
+Cathy talks about the encryption method called RSA. She also talks about CS classes in the Fall.
 
 ##July 29
 
