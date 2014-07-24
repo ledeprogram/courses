@@ -109,7 +109,7 @@ Mark Hansen guest lectures on Data Journalism
 
 **In Class:**
 
-Scott Klein of ProPublica guest lectures on running a data journalism group
+Cathy goes over important points from How To Lie With Statistics and The Cartoon Guide To Statistics
 
 ***Reading:*** TBA
 
@@ -163,7 +163,7 @@ Calculus review (part 2)
 
 **In Class:**
 
-Cathy goes over important points from How To Lie With Statistics and The Cartoon Guide To Statistics
+Scott Klein of ProPublica guest lectures on running a data journalism group
 
 ***Reading:*** TBA
 
