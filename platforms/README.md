@@ -85,6 +85,7 @@ Josh talks about anonymization (part 2)
 
 [Diplomatic History After the Big Bang 
 Using Computational Methods to Explore the Infinite Archive.](http://mathbabe.files.wordpress.com/2014/07/allen-and-connelly-on-explaining-computational-methods-4-15-14.pdf)
+[A Taxonomy of Privacy](https://www.law.upenn.edu/journals/lawreview/articles/volume154/issue3/Solove154U.Pa.L.Rev.477(2006).pdf)
 
 **In Studio:**
 
