@@ -88,7 +88,9 @@ Josh talks about anonymization (part 2)
 
 **In Studio:**
 
-Cathy talks about the encryption method called RSA. She also talks about CS classes in the Fall.
+Cathy talks about the encryption method called RSA. [RSA worksheet available here.](https://github.com/ledeprogram/courses/blob/master/platforms/RSA%20worksheet.ipynb) View it online [here.](http://nbviewer.ipython.org/github/ledeprogram/courses/blob/master/platforms/RSA%20worksheet.ipynb)
+
+She also talks about CS classes in the Fall.
 
 ##July 29
 
@@ -107,7 +109,7 @@ Mark Hansen guest lectures on Data Journalism
 
 **In Class:**
 
-Scott Klein of ProPublica guest lectures on running a data journalism group
+Cathy goes over important points from How To Lie With Statistics and The Cartoon Guide To Statistics
 
 ***Reading:*** TBA
 
@@ -161,7 +163,7 @@ Calculus review (part 2)
 
 **In Class:**
 
-Cathy goes over important points from How To Lie With Statistics and The Cartoon Guide To Statistics
+Scott Klein of ProPublica guest lectures on running a data journalism group
 
 ***Reading:*** TBA
 
