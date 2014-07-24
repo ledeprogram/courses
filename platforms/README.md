@@ -88,7 +88,9 @@ Josh talks about anonymization (part 2)
 
 **In Studio:**
 
-Cathy talks about the encryption method called RSA. She also talks about CS classes in the Fall.
+Cathy talks about the encryption method called RSA. [RSA worksheet available here.](https://github.com/ledeprogram/courses/blob/master/platforms/RSA%20worksheet.ipynb) 
+
+She also talks about CS classes in the Fall.
 
 ##July 29
 
