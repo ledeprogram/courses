@@ -109,13 +109,15 @@ Mark Hansen guest lectures on Data Journalism
 
 **In Class:**
 
-Cathy goes over important points from How To Lie With Statistics and The Cartoon Guide To Statistics
+Cathy goes over important points from How To Lie With Statistics and The Cartoon Guide To Statistics, and then we talk about Eploratory Data Analysis and try it out on some project data.
 
-***Reading:*** TBA
+***Homework:*** 
 
-***Homework:*** TBA
+Bring in your project data!
 
 **In Studio:**
+
+More help with EDA on your projects.
 
 ##August 5
 
