@@ -102,7 +102,7 @@ Mark Hansen guest lectures on Data Journalism
 
 1. [Read this by Johanna Drucker](http://news.genius.com/Johanna-drucker-from-a-to-screen-annotated)
 1. Then [*skim* metafont paper](http://mathbabe.files.wordpress.com/2014/07/s0273-0979-1979-14598-1.pdf).
-2. Read [this from Leterror])http://letterror.com/writing/toolspace/)
+2. Read [this from Leterror](http://letterror.com/writing/toolspace/)
 3. And [this from MoMA](http://www.moma.org/collection/object.php?object_id=139326)
 3. Then [watch a little Bret Victor...](http://vimeo.com/71278954)
 4. And if you have time, finish with [a short essay by Kate Hayles](http://faculty.winthrop.edu/kosterj/writ510/readings/hayles.pdf)
