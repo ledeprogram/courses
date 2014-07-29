@@ -109,6 +109,8 @@ Mark Hansen guest lectures on Data Journalism
 
 **In Studio:**
 
+Let's talk about your projects. Come with questions. We can also talk about classes next semester for Lede-24 students.
+
 
 ##July 31
 
