@@ -132,7 +132,9 @@ More help with EDA on your projects.
 
 danah boyd guest lectures on teen privacy and big data
 
-***Reading:*** TBA
+***Reading:*** 
+
+Read at least the introduction [of this.](http://www.danah.org/books/ItsComplicated.pdf)
 
 ***Homework:*** TBA
 
