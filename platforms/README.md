@@ -118,6 +118,8 @@ Let's talk about your projects. Come with questions. We can also talk about clas
 
 Cathy goes over important points from How To Lie With Statistics and The Cartoon Guide To Statistics, and then we talk about Eploratory Data Analysis and try it out on some project data.
 
+We'll explore [this](http://nbviewer.ipython.org/github/cs109/content/blob/master/lec_04_wrangling.ipynb) and [this](http://danielfrg.com/blog/2013/03/07/kaggle-bulldozers-basic-cleaning/).
+
 ***Homework:*** 
 
 Bring in your project data!
