@@ -120,6 +120,9 @@ Cathy goes over important points from How To Lie With Statistics and The Cartoon
 
 We'll explore [this](http://nbviewer.ipython.org/github/cs109/content/blob/master/lec_04_wrangling.ipynb) and [this](http://danielfrg.com/blog/2013/03/07/kaggle-bulldozers-basic-cleaning/).
 
+***Reading:***
+1. [Read this illustrated guide to logical fallacies](https://bookofbadarguments.com/?view=allpages)
+
 ***Homework:*** 
 
 Bring in your project data!
