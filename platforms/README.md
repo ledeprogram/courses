@@ -98,24 +98,39 @@ She also talks about CS classes in the Fall.
 
 Mark Hansen guest lectures on Data Journalism
 
-***Reading:*** TBA
+***Reading:*** 
 
-***Homework:*** TBA
+1. [Read this by Johanna Drucker](http://news.genius.com/Johanna-drucker-from-a-to-screen-annotated)
+1. Then [*skim* metafont paper](http://mathbabe.files.wordpress.com/2014/07/s0273-0979-1979-14598-1.pdf).
+2. Read [this from Leterror](http://letterror.com/writing/toolspace/)
+3. And [this from MoMA](http://www.moma.org/collection/object.php?object_id=139326)
+3. Then [watch a little Bret Victor...](http://vimeo.com/71278954)
+4. And if you have time, finish with [a short essay by Kate Hayles](http://faculty.winthrop.edu/kosterj/writ510/readings/hayles.pdf)
 
 **In Studio:**
+
+Let's talk about your projects. Come with questions. We can also talk about classes next semester for Lede-24 students.
 
 
 ##July 31
 
 **In Class:**
 
-Cathy goes over important points from How To Lie With Statistics and The Cartoon Guide To Statistics
+Cathy goes over important points from How To Lie With Statistics and The Cartoon Guide To Statistics, and then we talk about Eploratory Data Analysis and try it out on some project data.
 
-***Reading:*** TBA
+We'll explore [this](http://nbviewer.ipython.org/github/cs109/content/blob/master/lec_04_wrangling.ipynb) and [this](http://danielfrg.com/blog/2013/03/07/kaggle-bulldozers-basic-cleaning/).
 
-***Homework:*** TBA
+***Reading:***
+
+1. [Read this illustrated guide to logical fallacies](https://bookofbadarguments.com/?view=allpages)
+
+***Homework:*** 
+
+Bring in your project data!
 
 **In Studio:**
+
+More help with EDA on your projects.
 
 ##August 5
 
@@ -123,7 +138,9 @@ Cathy goes over important points from How To Lie With Statistics and The Cartoon
 
 danah boyd guest lectures on teen privacy and big data
 
-***Reading:*** TBA
+***Reading:*** 
+
+Read at least the introduction [of this.](http://www.danah.org/books/ItsComplicated.pdf)
 
 ***Homework:*** TBA
 
