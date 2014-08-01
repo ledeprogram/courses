@@ -138,7 +138,9 @@ More help with EDA on your projects.
 
 **In Class:**
 
-danah boyd guest lectures on teen privacy and big data
+danah boyd guest lectures on teen privacy and big data.
+
+After that we will talk about project milestones and requirements and [a template for project presentation](http://prezi.com/7tclc2uwpmet/?utm_campaign=share&utm_medium=copy&rc=ex0share).
 
 ***Reading:*** 
 
