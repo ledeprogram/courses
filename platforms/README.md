@@ -155,9 +155,14 @@ Read at least the introduction [of this.](http://www.danah.org/books/ItsComplica
 
 **In Class:**
 
-Julie Steele guest lectures
+Julie Steele guest lectures: How Tools Inform Our Design
 
 ***Reading:*** 
+
+1. ["The Default Choice, So Hard to Resist"](http://www.nytimes.com/2011/10/16/technology/default-choices-are-hard-to-resist-online-or-not.html) by Steve Lohr. The New York Times: October 15, 2011.
+2. ["I Hate Learning New Things"](http://www.talyarkoni.org/blog/2009/10/07/i-hate-learning-new-things/) by Tal Yarkoni. October 7, 2009.
+3. ["The PHP Singularity"](http://blog.codinghorror.com/the-php-singularity/) by Jeff Atwood. Coding Horror (blog): June 29, 2012.
+
 
 ***Homework:*** TBA
 
