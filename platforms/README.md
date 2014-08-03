@@ -144,7 +144,7 @@ After that we will talk about project milestones and requirements and [a templat
 
 ***Reading:*** 
 
-Read at least the introduction [of this.](http://www.danah.org/books/ItsComplicated.pdf)
+Read at least the introduction [of danah's book, It's Complicated.](http://www.danah.org/books/ItsComplicated.pdf)
 
 ***Homework:*** TBA
 
