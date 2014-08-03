@@ -120,6 +120,8 @@ Cathy goes over important points from How To Lie With Statistics and The Cartoon
 
 We'll explore [this](http://nbviewer.ipython.org/github/cs109/content/blob/master/lec_04_wrangling.ipynb) and [this](http://danielfrg.com/blog/2013/03/07/kaggle-bulldozers-basic-cleaning/).
 
+And [this](http://nbviewer.ipython.org/github/ledeprogram/courses/blob/master/platforms/EDA%20on%20ultimate%20data.ipynb)
+
 ***Reading:***
 
 1. [Read this illustrated guide to logical fallacies](https://bookofbadarguments.com/?view=allpages)
@@ -136,11 +138,13 @@ More help with EDA on your projects.
 
 **In Class:**
 
-danah boyd guest lectures on teen privacy and big data
+danah boyd guest lectures on teen privacy and big data.
+
+After that we will talk about project milestones and requirements and [a template for project presentation](http://prezi.com/7tclc2uwpmet/?utm_campaign=share&utm_medium=copy&rc=ex0share).
 
 ***Reading:*** 
 
-Read at least the introduction [of this.](http://www.danah.org/books/ItsComplicated.pdf)
+Read at least the introduction [of danah's book, It's Complicated.](http://www.danah.org/books/ItsComplicated.pdf)
 
 ***Homework:*** TBA
 
@@ -151,9 +155,14 @@ Read at least the introduction [of this.](http://www.danah.org/books/ItsComplica
 
 **In Class:**
 
-Julie Steele guest lectures
+Julie Steele guest lectures: How Tools Inform Our Design
 
 ***Reading:*** 
+
+1. ["The Default Choice, So Hard to Resist"](http://www.nytimes.com/2011/10/16/technology/default-choices-are-hard-to-resist-online-or-not.html) by Steve Lohr. The New York Times: October 15, 2011.
+2. ["I Hate Learning New Things"](http://www.talyarkoni.org/blog/2009/10/07/i-hate-learning-new-things/) by Tal Yarkoni. October 7, 2009.
+3. ["The PHP Singularity"](http://blog.codinghorror.com/the-php-singularity/) by Jeff Atwood. Coding Horror (blog): June 29, 2012.
+
 
 ***Homework:*** TBA
 
