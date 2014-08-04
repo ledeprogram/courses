@@ -76,6 +76,19 @@ Course tools: [scikit-learn](http://scikit-learn.org/stable/), [pandas](http://p
 
 **Focus**: modeling: predictive and interpretable
 
+- tools:
+    - scikit-learn
+    - nltk
+    - pandas
+- data journalism and reproducibility
+    - [upshot on github](https://github.com/TheUpshot)
+        - e.g., [rangel charity](https://github.com/TheUpshot/RangelCharity)
+        - e.g., [world cup](https://github.com/TheUpshot/world-cup-study)
+        - reminder: same [bostock](https://github.com/mbostock) as in d3
+        - also producing tools, e.g., [statement](https://github.com/TheUpshot/statement/blob/master/README.md) for getting congressional press statements
+- why open source? [many eyes](http://en.wikipedia.org/wiki/Linus's_Law#By_Eric_Raymond)
+- [overfitting](http://scikit-learn.org/stable/auto_examples/plot_underfitting_overfitting.html)
+
 -**Week Inspiration:** [Nifty project on authorship detection](http://nifty.stanford.edu/2013/craig-authorship-detection/)
 
 ### Monday 7/21
@@ -140,9 +153,12 @@ Course tools: [scikit-learn](http://scikit-learn.org/stable/), [pandas](http://p
 **Focus:** Exploratory data analysis, iterative algorithms (and therefore fast-vs-accurate)
 
 ### Monday 8/4 
-- k-means 
+- [bayes, naively](https://docs.google.com/spreadsheets/d/1Df09QfiAz217b9Z78UqPFan6cuIuK3UdApVPuEaFKhQ/edit#gid=0)
+- re-orient: supervised+unsupervised
+- k-means & '[GMM](http://scikit-learn.org/stable/modules/mixture.html)'
+- [example k-means](http://scikit-learn.org/0.11/_downloads/document_clustering.py)
 - project: find the tea party
-    - cluster docs using back of words + kmeans
+    - cluster docs using bag of words + kmeans
     - functional literacy: fast-vs-accurate tradeoff
     - critical literacy: why 2 clusters?
     - rhetorical: what did you learn?
@@ -211,6 +227,7 @@ Course tools: [scikit-learn](http://scikit-learn.org/stable/), [pandas](http://p
 - [their tutorial on scikit-learn](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)
 - [1-page algorithm *cheat sheet*](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 - [(longer) user guide](http://scikit-learn.org/stable/user_guide.html)
+- [many examples](http://scikit-learn.org/0.11/auto_examples/index.html)
 
 ### a book
 - [a book](http://www.packtpub.com/mastering-machine-learning-with-scikit-learn/book)
@@ -233,3 +250,7 @@ Course tools: [scikit-learn](http://scikit-learn.org/stable/), [pandas](http://p
 ### Readings
 
 - [Reading Machines](http://www.press.uillinois.edu/books/catalog/75tms2pw9780252036415.html), Stephen Ramsay, 2011
+
+### Python
+
+- [warning on upgrades](http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html)
