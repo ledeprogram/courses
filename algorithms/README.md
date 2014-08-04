@@ -36,6 +36,10 @@ for the class, as our primary interest is in producing technology-enabled journa
 
 ---
 
+>  "every piece of digital technology embeds within it a model of the world, and acts as an argument for that model." --mark hansen
+
+---
+
 ## Week 1: Intro to Algorithms
 
 - What is an algorithm?
@@ -203,6 +207,8 @@ Course tools: [scikit-learn](http://scikit-learn.org/stable/), [pandas](http://p
     - critical literacy: what distance are you using on words?
     - rhetorical: is there a tea party cluster?
     - rhetorical: try something else in scikit-learn from among their [clustering algorithms](http://scikit-learn.org/stable/modules/clustering.html#clustering)
+
+-**Week Inspiration:** [Krugman busts out probability](http://krugman.blogs.nytimes.com/2014/08/02/anti-intellectualism-that-dares-not-speak-its-name/) 
 
 ### Wednesday 8/6 
 - generative clustering (clustering as inference)
