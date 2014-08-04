@@ -146,10 +146,9 @@ After that we will talk about project milestones and requirements and [a templat
 
 Read at least the introduction [of danah's book, It's Complicated.](http://www.danah.org/books/ItsComplicated.pdf)
 
-***Homework:*** TBA
-
 **In Studio:**
 
+Let's talk about your projects and how they're going!
 
 ##August 7
 
@@ -162,9 +161,6 @@ Julie Steele guest lectures: How Tools Inform Our Design
 1. ["The Default Choice, So Hard to Resist"](http://www.nytimes.com/2011/10/16/technology/default-choices-are-hard-to-resist-online-or-not.html) by Steve Lohr. The New York Times: October 15, 2011.
 2. ["I Hate Learning New Things"](http://www.talyarkoni.org/blog/2009/10/07/i-hate-learning-new-things/) by Tal Yarkoni. October 7, 2009.
 3. ["The PHP Singularity"](http://blog.codinghorror.com/the-php-singularity/) by Jeff Atwood. Coding Horror (blog): June 29, 2012.
-
-
-***Homework:*** TBA
 
 **In Studio:**
 
