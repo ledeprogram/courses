@@ -1,9 +1,3 @@
-### Data sets
-
-- NBA Census: https://raw.githubusercontent.com/ledeprogram/courses/master/algorithms/NBA-Census-10.14.2013.csv
-- Iris data: https://raw.githubusercontent.com/ledeprogram/courses/master/algorithms/data/iris.csv
-- Authorship data: https://raw.githubusercontent.com/ledeprogram/courses/master/algorithms/data/books/book-data.csv
-- Mystery books: [1](https://raw.githubusercontent.com/ledeprogram/courses/master/algorithms/data/books/mystery1.txt) [2](https://raw.githubusercontent.com/ledeprogram/courses/master/algorithms/data/books/mystery2.txt) [3](https://raw.githubusercontent.com/ledeprogram/courses/master/algorithms/data/books/mystery3.txt) [4](https://raw.githubusercontent.com/ledeprogram/courses/master/algorithms/data/books/mystery4.txt) [5](https://raw.githubusercontent.com/ledeprogram/courses/master/algorithms/data/books/mystery5.txt) 
 
 ---
 title: Algorithms
@@ -11,11 +5,26 @@ date: 7/14/14-9/3/14
 time: M & W 10am - 1pm 
 affiliation: Columbia University, Lede Program
 instructors: Jonathan Soma, Chris Wiggins
-location: 607c Pulitzer Hall*
+location: 607c Pulitzer Hall \*
 
 ---
 
-\* [room schedule](https://drive.google.com/file/d/0B4OAOue0b3VMNXJ1Z1loaGg4bWc/edit?usp=sharing).  
+\* [old room schedule](https://drive.google.com/file/d/0B4OAOue0b3VMNXJ1Z1loaGg4bWc/edit?usp=sharing).  
+
+new room schedule:
+
+- M Aug 4: 318 Hamilton
+- W Aug 6: 318 Hamilton
+- M Aug 11: 318 Hamilton
+- W Aug 13: 318 Hamilton
+- M Aug 18: 607B (j-school)
+- W Aug 20: 607B (j-school)
+- M Aug 25: 607B (j-school)
+- W Aug 27: 607B (j-school)
+- M Sept 1: Labor Day
+- W Sept 3: 607B
+
+---
 
 > [Multiliteracies in algorithms](http://compositionforum.com/issue/14.2/rev-selber.php): functional literacy, critical literacy, and rhetorical literacy.
 Within critical literacy, a strong emphasis will be knowing what is possible. For algorithms, this
@@ -74,7 +83,7 @@ Course tools: [scikit-learn](http://scikit-learn.org/stable/), [pandas](http://p
   
 ## Week 2: Supervised learning
 
-**Focus**: modeling: predictive and interpretable
+**Focus**: modeling: [predictive and interpretable](http://www.stat.uchicago.edu/~lekheng/courses/191f09/breiman.pdf)
 
 - tools:
     - scikit-learn
@@ -88,6 +97,18 @@ Course tools: [scikit-learn](http://scikit-learn.org/stable/), [pandas](http://p
         - also producing tools, e.g., [statement](https://github.com/TheUpshot/statement/blob/master/README.md) for getting congressional press statements
 - why open source? [many eyes](http://en.wikipedia.org/wiki/Linus's_Law#By_Eric_Raymond)
 - [overfitting](http://scikit-learn.org/stable/auto_examples/plot_underfitting_overfitting.html)
+- discussion of [nifty](http://nifty.stanford.edu) projects
+    - [sentiment analysis](http://en.wikipedia.org/wiki/Sentiment_analysis): it's a thing
+    - [example](http://www.crimsonhexagon.com/) of a sentiment analysis as a service company
+    - [example](http://www.hedometer.org/) of a sentiment analysis research project
+- more on naive bayes
+    - [example](https://github.com/jhofman/ddm/blob/master/2012/lecture_03/enron_naive_bayes.sh) of naive bayes in [bash](http://en.wikipedia.org/wiki/Bash_(Unix_shell)) script on [enron](http://en.wikipedia.org/wiki/Enron) email [dataset](http://nlp.cs.aueb.gr/software_and_datasets/Enron-Spam/index.html)
+    - [example](http://awk.info/?doc/tools/nbc.html) of naive bayes in [awk](http://en.wikipedia.org/wiki/AWK)
+    - this is not how spam works, though [some people think it is](http://www.paulgraham.com/spam.html)
+- importance of probability
+    - [prosecutor's fallacy](http://en.wikipedia.org/wiki/Prosecutor's_fallacy)
+    - [bayes in oj simpson trial](http://opinionator.blogs.nytimes.com/2010/04/25/chances-are/)
+    - [box on iterative understanding](http://www.tandfonline.com/doi/pdf/10.1080/01621459.1976.10480949)
 
 -**Week Inspiration:** [Nifty project on authorship detection](http://nifty.stanford.edu/2013/craig-authorship-detection/)
 
@@ -136,11 +157,27 @@ Course tools: [scikit-learn](http://scikit-learn.org/stable/), [pandas](http://p
     + why this classifier? what else is possible?
     + computational complexity: what is realistic?
     + what assumptions are made?
+    + what is "good" modeling -- see [Leo](http://www.stat.uchicago.edu/~lekheng/courses/191f09/breiman.pdf)
 - rhetorical literacy: try something else!
     + random forests
-    + decision trees, e.g., in [ProPublica](http://www.propublica.org/)'s [message machine](http://www.propublica.org/nerds/item/how-propublicas-message-machine-reverse-engineers-political-microtargeting)
+    + decision trees, 
+        - e.g., in [ProPublica](http://www.propublica.org/)'s [message machine](http://www.propublica.org/nerds/item/how-propublicas-message-machine-reverse-engineers-political-microtargeting)
+        - [iris image](http://www.ibm.com/developerworks/library/ba-predictive-analytics2/fig06.gif) as simple decision tree
     + SVMs
     + explore [scikit-learn](http://scikit-learn.org/stable/)'s [classification algorithms](http://scikit-learn.org/stable/supervised_learning.html#supervised-learning)
+- introduction to unsupervised learning
+    + normalization via [standard score](http://en.wikipedia.org/wiki/Standard_score)
+    + preprocessing at [command line](http://shop.oreilly.com/product/0636920032823.do)
+- more on data journalism
+    + [NYT LIRR example](http://www.nytimes.com/2012/09/13/nyregion/more-lirr-retirees-arrested-on-fraud-charges.html), 2012
+    + [Lucia de berk](http://www.badscience.net/2010/04/lucia-de-berk-a-martyr-to-stupidity/)
+    + [forensic bioinformatics](http://www.nytimes.com/2011/07/08/health/research/08genes.html)
+- supervised learning
+    + [kmeans](https://www.youtube.com/watch?v=gSt4_kcZPxE) movie
+- useful resources to learn more
+    + [free book](http://web.stanford.edu/~hastie/local.ftp/Springer/OLD/ESLII_print4.pdf) "triplets" aka ESL
+    + [map](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html) of algorithms, including k-means, GMM; kNN, NB, decision trees
+
 
 **Possibly useful:** [Bayes Rule](http://www.scientificamerican.com/article/what-is-bayess-theorem-an/)
 
@@ -165,7 +202,7 @@ Course tools: [scikit-learn](http://scikit-learn.org/stable/), [pandas](http://p
     - critical literacy: what about 3 clusters?
     - critical literacy: what distance are you using on words?
     - rhetorical: is there a tea party cluster?
-    - rhetorical: try something else in scikit-learn [clustering algorithms](http://scikit-learn.org/stable/modules/clustering.html#clustering)
+    - rhetorical: try something else in scikit-learn from among their [clustering algorithms](http://scikit-learn.org/stable/modules/clustering.html#clustering)
 
 ### Wednesday 8/6 
 - generative clustering (clustering as inference)
@@ -254,3 +291,10 @@ Course tools: [scikit-learn](http://scikit-learn.org/stable/), [pandas](http://p
 ### Python
 
 - [warning on upgrades](http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html)
+
+### Data sets
+
+- NBA Census: https://raw.githubusercontent.com/ledeprogram/courses/master/algorithms/NBA-Census-10.14.2013.csv
+- Iris data: https://raw.githubusercontent.com/ledeprogram/courses/master/algorithms/data/iris.csv
+- Authorship data: https://raw.githubusercontent.com/ledeprogram/courses/master/algorithms/data/books/book-data.csv
+- Mystery books: [1](https://raw.githubusercontent.com/ledeprogram/courses/master/algorithms/data/books/mystery1.txt) [2](https://raw.githubusercontent.com/ledeprogram/courses/master/algorithms/data/books/mystery2.txt) [3](https://raw.githubusercontent.com/ledeprogram/courses/master/algorithms/data/books/mystery3.txt) [4](https://raw.githubusercontent.com/ledeprogram/courses/master/algorithms/data/books/mystery4.txt) [5](https://raw.githubusercontent.com/ledeprogram/courses/master/algorithms/data/books/mystery5.txt) 
