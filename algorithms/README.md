@@ -90,21 +90,23 @@ Course tools: [scikit-learn](http://scikit-learn.org/stable/), [pandas](http://p
 **Focus**: modeling: [predictive and interpretable](http://www.stat.uchicago.edu/~lekheng/courses/191f09/breiman.pdf)
 
 - tools:
-    - scikit-learn
-    - nltk
-    - pandas
+    - [scikit-learn](http://scikit-learn.org/stable/)
+    - [nltk](http://www.nltk.org/)
+    - [pandas](http://pandas.pydata.org/)
 - data journalism and reproducibility
     - [upshot on github](https://github.com/TheUpshot)
         - e.g., [rangel charity](https://github.com/TheUpshot/RangelCharity)
         - e.g., [world cup](https://github.com/TheUpshot/world-cup-study)
         - reminder: same [bostock](https://github.com/mbostock) as in d3
         - also producing tools, e.g., [statement](https://github.com/TheUpshot/statement/blob/master/README.md) for getting congressional press statements
-- why open source? [many eyes](http://en.wikipedia.org/wiki/Linus's_Law#By_Eric_Raymond)
-- [overfitting](http://scikit-learn.org/stable/auto_examples/plot_underfitting_overfitting.html)
+- why open source? 
+    + [many eyes](http://en.wikipedia.org/wiki/Linus's_Law#By_Eric_Raymond)
+    + BUT this doesn't mean no bugs. cf., [heartbleed](http://mashable.com/2014/04/14/heartbleed-open-source/)
+- [overfitting](http://scikit-learn.org/stable/auto_examples/plot_underfitting_overfitting.html) (cf., Einstein's ["Everything should be made as simple as possible, but not simpler."](  http://quoteinvestigator.com/2011/05/13/einstein-simple/#more-2363)
 - discussion of [nifty](http://nifty.stanford.edu) projects
     - [sentiment analysis](http://en.wikipedia.org/wiki/Sentiment_analysis): it's a thing
     - [example](http://www.crimsonhexagon.com/) of a sentiment analysis as a service company
-    - [example](http://www.hedometer.org/) of a sentiment analysis research project
+    - [hedometer](http://www.hedonometer.org/index.html): example of a sentiment analysis research project
 - more on naive bayes
     - [example](https://github.com/jhofman/ddm/blob/master/2012/lecture_03/enron_naive_bayes.sh) of naive bayes in [bash](http://en.wikipedia.org/wiki/Bash_(Unix_shell)) script on [enron](http://en.wikipedia.org/wiki/Enron) email [dataset](http://nlp.cs.aueb.gr/software_and_datasets/Enron-Spam/index.html)
     - [example](http://awk.info/?doc/tools/nbc.html) of naive bayes in [awk](http://en.wikipedia.org/wiki/AWK)
@@ -161,7 +163,7 @@ Course tools: [scikit-learn](http://scikit-learn.org/stable/), [pandas](http://p
     + why this classifier? what else is possible?
     + computational complexity: what is realistic?
     + what assumptions are made?
-    + what is "good" modeling -- see [Leo](http://www.stat.uchicago.edu/~lekheng/courses/191f09/breiman.pdf)
+    + what is "good" modeling -- see [Leo](http://www.stat.uchicago.edu/~lekheng/courses/191f09/breiman.pdf) (an allusion to CP Snow's [the two cultures]( http://en.wikipedia.org/wiki/The_Two_Cultures)
 - rhetorical literacy: try something else!
     + random forests
     + decision trees, 
@@ -194,19 +196,79 @@ Course tools: [scikit-learn](http://scikit-learn.org/stable/), [pandas](http://p
 **Focus:** Exploratory data analysis, iterative algorithms (and therefore fast-vs-accurate)
 
 ### Monday 8/4 
+
+opening questions:
+
++ how can journalists be disciplined while facing deadlines?
+    - hard with deadlines; cf., "[The Goat Must Be Fed](http://www.goatmustbefed.com/): Why digital tools are missing in most newsrooms", by the Duke Reporters' Lab, May 2014 
+    - hard even for professional developers; cf., [commit logs from last night](http://commitlogsfromlastnight.com/ )
+    - growing awareness is already leading to novel field, and novel curricula. cf., the [software carpentry]( http://software-carpentry.org/ ) movement.
+    - note that you ignore good software carpentry at your peril. cf., ["
+  How to lose $172,222 a second for 45 minutes"]( http://pythonsweetness.tumblr.com/post/64740079543/how-to-lose-172-222-a-second-for-45-minutes )
++ should the relationship between journalist and story end when story is published?  (cf., "[The leaked New York Times innovation report](http://www.niemanlab.org/2014/05/the-leaked-new-york-times-innovation-report-is-one-of-the-key-documents-of-this-media-age/) is one of the key documents of this media age", Joshua Benton, Neiman Journalism Lab )
+    - see also this [summary/table of contents](https://gist.github.com/chrishwiggins/3e47cbcd46a697694ba9)
+    - [example](https://twitter.com/NickKristof) of journalist engaging audience
+    - [example](
+http://www.nytimes.com/interactive/2014/health/paying-till-it-hurts.html
+) of journalist turning relations
+with readers into new stories
+
+
+new matters:
+
 - [bayes, naively](https://docs.google.com/spreadsheets/d/1Df09QfiAz217b9Z78UqPFan6cuIuK3UdApVPuEaFKhQ/edit#gid=0)
-- re-orient: supervised+unsupervised
-- k-means & '[GMM](http://scikit-learn.org/stable/modules/mixture.html)'
-- [example k-means](http://scikit-learn.org/0.11/_downloads/document_clustering.py)
-- project: find the tea party
-    - cluster docs using bag of words + kmeans
-    - functional literacy: fast-vs-accurate tradeoff
-    - critical literacy: why 2 clusters?
-    - rhetorical: what did you learn?
-    - critical literacy: what about 3 clusters?
-    - critical literacy: what distance are you using on words?
-    - rhetorical: is there a tea party cluster?
-    - rhetorical: try something else in scikit-learn from among their [clustering algorithms](http://scikit-learn.org/stable/modules/clustering.html#clustering)
+- (supervised) regression and (over-)fitting
+    + [explanation](http://scikit-learn.org/stable/auto_examples/plot_underfitting_overfitting.html)
+    + [code](http://scikit-learn.org/stable/_downloads/plot_underfitting_overfitting.py)
+
+- document clustering in kmeans
+    + [code]( http://scikit-learn.org/0.11/_downloads/document_clustering.py)
+    + note: uses [TFIDF](http://en.wikipedia.org/wiki/Tf%E2%80%93idf)
+    + related example in kmeans: [digits](
+http://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_digits.html#example-cluster-plot-kmeans-digits-py
+)
+
+- 'GMM' (Gaussian/Normal/Bell curve mixture modeling)
+    + [explanation](http://scikit-learn.org/stable/modules/mixture.html)
+    + [image](http://cl.ly/image/22172E3d3o3o)
+of 
+[pseudocode](
+http://en.wikipedia.org/wiki/Pseudocode)
+from 
+[ESL](
+http://web.stanford.edu/~hastie/local.ftp/Springer/OLD/ESLII_print4.pdf)
+    + demo 
+        - [explanation](http://scikit-learn.org/stable/auto_examples/mixture/plot_gmm_pdf.html#example-mixture-plot-gmm-pdf-py)
+        - [code](http://scikit-learn.org/stable/_downloads/plot_gmm_pdf.py)
+    + [actual code for GMM](https://github.com/scikit-learn/scikit-learn/blob/master/sklearn/mixture/gmm.py)
+- dimensionality reduction via
+[PCA](http://web.media.mit.edu/~tristan/phd/dissertation/figures/PCA.jpg)
+- try something else in scikit-learn from among their [clustering algorithms](http://scikit-learn.org/stable/modules/clustering.html#clustering)! Try changing number of clusters! Go play!
+
+thoughts on UNIX and algorithms in your life:
+
+- [too many aliases]( http://mathbabe.org/2013/04/15/interview-with-chris-wiggins-dont-send-me-another-shortcut-alias/), mathbabe post
+- example: code to introduce people to each other
+    + [original code](  https://github.com/chrishwiggins/orly/blob/master/ii
+)
+    + [pull request](  https://github.com/chrishwiggins/orly/commit/954025d9e31a4625023cc77c16f25a592e229bff
+)
+    + [improvied code](  https://github.com/chrishwiggins/orly/blob/master/iii
+)
+- [example](https://gist.githubusercontent.com/chrishwiggins/3d76528e99434a4ddd4e/raw/f9a7c377e14c1a620ec34db04f6507ed61f44744/a.rb) 
+of pipes for word counting
+- [killall](http://en.wikipedia.org/wiki/Killall) is useful
+- some example [aliases](
+http://en.wikipedia.org/wiki/Alias_(command))
+    + [gugc](
+https://github.com/chrishwiggins/mise/blob/1a5a3e557bd38fbb11c7771ffe3725104c4815d8/sh/aliases-public.sh#L63)
+ for better git discipline
+    + [repo](
+https://github.com/chrishwiggins/mise/blob/1a5a3e557bd38fbb11c7771ffe3725104c4815d8/sh/aliases-public.sh#L89)
+ for better repository discipline
+    + [mypy](
+https://github.com/chrishwiggins/mise/blob/1a5a3e557bd38fbb11c7771ffe3725104c4815d8/sh/aliases-public.sh#L193
+) for dealing with multiple python installs
 
 -**Week Inspiration:** [Krugman busts out probability](http://krugman.blogs.nytimes.com/2014/08/02/anti-intellectualism-that-dares-not-speak-its-name/) 
 

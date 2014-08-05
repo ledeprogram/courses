@@ -19,7 +19,7 @@ n_samples = 300
 # np.random.seed(0)
 
 # generate spherical data centered on (20, 20)
-shifted_gaussian = np.random.randn(n_samples, 2) + np.array([20, 20])
+shifted_gaussian = np.random.randn(n_samples, 2) + np.array([5, 5])
 
 # generate zero centered stretched Gaussian data
 C = np.array([[0., -0.7], [3.5, .7]])
@@ -29,7 +29,7 @@ stretched_gaussian = np.dot(np.random.randn(n_samples, 2), C)
 X_train = np.vstack([shifted_gaussian, stretched_gaussian])
 
 # fit a Gaussian Mixture Model with two components
-clf = mixture.GMM(n_components=2, covariance_type='full')
+clf = mixture.GMM(n_components=3, covariance_type='full')
 clf.fit(X_train)
 
 # display predicted scores by the model as a contour plot
