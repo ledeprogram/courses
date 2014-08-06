@@ -161,8 +161,8 @@ Julie Steele guest lectures: How Tools Inform Our Design
 1. ["The Default Choice, So Hard to Resist"](http://www.nytimes.com/2011/10/16/technology/default-choices-are-hard-to-resist-online-or-not.html) by Steve Lohr. The New York Times: October 15, 2011.
 2. ["I Hate Learning New Things"](http://www.talyarkoni.org/blog/2009/10/07/i-hate-learning-new-things/) by Tal Yarkoni. October 7, 2009.
 3. ["The PHP Singularity"](http://blog.codinghorror.com/the-php-singularity/) by Jeff Atwood. Coding Horror (blog): June 29, 2012.
-5. ["Up and Down the Ladder of Abstraction"](http://worrydream.com/#!2/LadderOfAbstraction) by Bret Victor. October 2011.
-4. ["Winchester Mystery House"](https://en.wikipedia.org/wiki/Winchester_Mystery_House) - An unplanned house
+4. ["Up and Down the Ladder of Abstraction"](http://worrydream.com/#!2/LadderOfAbstraction) by Bret Victor. October 2011.
+5. ["Winchester Mystery House"](https://en.wikipedia.org/wiki/Winchester_Mystery_House) - An unplanned house
 
 **In Studio:**
 
