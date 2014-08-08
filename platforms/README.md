@@ -3,9 +3,18 @@ Instructor: Cathy O'Neil
 TA: Josh Vekhter
 Time: TR 10am-1pm 
 Dates: July 15-Sept 2
-Locations: For July 15 & 17 Baker Studio, then for the rest of July 6th floor of J-School, then for August in the Brown Institute
-
 ---
+
+#Locations for the remainder of the summer:
+
+1. Aug 12: 607B (j-school)
+1. Aug 14: 607B (j-school)
+1. Aug 19: 609 Hamilton
+1. Aug 21: 609 Hamilton
+1. Aug 26; 607B (j-school)
+1. Aug 28: 609 Hamilton
+1. Sept 2: 607B (j-school)  *this class runs 1-6pm, to showcase your final projects
+
 
 #Course Description:
 This course begins with the idea that computing tools are the products of human ingenuity and effort. They are never neutral and carry with them the biases of their designers and their design process. "Platform studies" is a new term used to describe investigations into these relationships between computing technologies and the creative or research products that they help to generate. How you understand how data, code, and algorithms affect creative practices can be an effective first step toward critical thinking about technology. This will not be purely theoretical, however, and specific case studies, technologies, and project work will make the ideas concrete.
