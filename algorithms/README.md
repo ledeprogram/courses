@@ -273,7 +273,10 @@ https://github.com/chrishwiggins/mise/blob/1a5a3e557bd38fbb11c7771ffe3725104c481
 -**Week Inspiration:** [Krugman busts out probability](http://krugman.blogs.nytimes.com/2014/08/02/anti-intellectualism-that-dares-not-speak-its-name/) 
 
 ### Wednesday 8/6 
-- generative clustering (clustering as inference)
+
+- Python test
+- KMeans coding - [in-class version](http://nbviewer.ipython.org/github/ledeprogram/courses/blob/master/algorithms/05%20Kmeans!%20from%20class.ipynb), [my version](http://nbviewer.ipython.org/github/ledeprogram/courses/blob/master/algorithms/05%20NBA%20K-Means%20(my%20notes).ipynb)
+- [Homework](https://raw.githubusercontent.com/ledeprogram/courses/master/algorithms/Homework%20-%2005%20KMeans.ipynb)
 
 ## Week 5: Nifty projects: 
 
