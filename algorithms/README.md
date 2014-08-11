@@ -299,6 +299,10 @@ https://github.com/chrishwiggins/mise/blob/1a5a3e557bd38fbb11c7771ffe3725104c481
 - [Google one-grams](http://nifty.stanford.edu/2014/hug-google-books-dataset/)
     + [solutions and test scripts](https://github.com/ledeprogram/courses/tree/master/algorithms/nifty-onegram)
     + now go nuts! be free!
+- Related: Zipf's law: why?
+    - [in word counts](http://norvig.com/mayzner.html) (from [Peter Norvig](http://en.wikipedia.org/wiki/Peter_Norvig))
+    - [in neuroscience](http://esciencecommons.blogspot.com/2014/08/physicists-eye-neural-fly-data-find.html) 
+    - [in general](http://arxiv.org/pdf/cond-mat/0412004.pdf)
 
 ### Wednesday 8/13
 
