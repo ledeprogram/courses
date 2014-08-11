@@ -34,7 +34,7 @@ from one_gram_plotter import *
 # </mise-en-place>
 
 # example1 (testing read_entire_wfile)
-word_data = read_entire_wfile("very_short.csv")
+word_data = read_entire_wfile("very_short.tsv")
 print(word_data)
 print("----------------------------")
 print(word_data["request"])
@@ -43,27 +43,27 @@ print(word_data["request"])
 
 # example2, 
 ## import one_gram_reader
-word_data = one_gram_reader.read_entire_wfile("very_short.csv")
+word_data = one_gram_reader.read_entire_wfile("very_short.tsv")
 print(total_occurrences(word_data, "wandered"))    
 print(total_occurrences(word_data, "quetzalcoatl"))
 
 # example3
 ## import one_gram_reader
-word_data = one_gram_reader.read_entire_wfile("very_short.csv")
+word_data = one_gram_reader.read_entire_wfile("very_short.tsv")
 print(word_data)
 print(count_letters(word_data))
 
 # example4
 ## import one_gram_reader
-word_data = one_gram_reader.read_entire_wfile("very_short.csv")
+word_data = one_gram_reader.read_entire_wfile("very_short.tsv")
 bar_plot_of_letter_frequencies(word_data)
 
 ### Task 2: Plotting aggregate word counts
 
 # example5
 ## import one_gram_reader
-# had to rename datafile to words_that_start_with_q.csv
-word_data = one_gram_reader.read_entire_wfile("words_that_start_with_q.csv")
+# had to rename datafile to words_that_start_with_q.tsv
+word_data = one_gram_reader.read_entire_wfile("words_that_start_with_q.tsv")
 plot_aggregate_counts(word_data, ["quest", "questions"])
 
 ### Task 3: Plotting average word lengths vs. time
@@ -71,18 +71,18 @@ plot_aggregate_counts(word_data, ["quest", "questions"])
 # example6
 # import one_gram_reader
 # had to fix spelling of occurrence
-word_data = one_gram_reader.read_entire_wfile("very_short.csv")
+word_data = one_gram_reader.read_entire_wfile("very_short.tsv")
 print(word_data)
 print(get_occurrences_in_year(word_data, "wandered", 2007))
 
 # example7
 ## import one_gram_reader
-word_data = one_gram_reader.read_entire_wfile("very_short.csv")
+word_data = one_gram_reader.read_entire_wfile("very_short.tsv")
 print(word_data)
 print(get_average_word_length(word_data, 2006))
 
 # example8
 ## import one_gram_reader
-# had to fix inconsistency on words_that_start_with_q.csv vs words_that_start_with_letter_q.csv
-word_data = one_gram_reader.read_entire_wfile("words_that_start_with_q.csv")
+# had to fix inconsistency on words_that_start_with_q.tsv vs words_that_start_with_letter_q.csv
+word_data = one_gram_reader.read_entire_wfile("words_that_start_with_q.tsv")
 plot_average_word_length(word_data, [1860, 1880])

@@ -34,7 +34,7 @@ from one_gram_plotter import *
 # </mise-en-place>
 
 # example1 
-years, counts = read_wfile("request", [2005, 2007], "very_short.csv")
+years, counts = read_wfile("request", [2005, 2007], "very_short.tsv")
 print(years)
 print(counts)
 
@@ -45,7 +45,7 @@ print(total_counts[1525])
 
 # example3
 ## import one_gram_reader
-years, counts = one_gram_reader.read_wfile("request", [2000, 2010], "very_short.csv")
+years, counts = one_gram_reader.read_wfile("request", [2000, 2010], "very_short.tsv")
 total = one_gram_reader.read_total_counts("total_counts.csv")    
 print(years)
 first_observed_year = years[0]
