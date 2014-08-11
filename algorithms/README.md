@@ -297,6 +297,8 @@ https://github.com/chrishwiggins/mise/blob/1a5a3e557bd38fbb11c7771ffe3725104c481
 ### Monday 8/11
 
 - [Google one-grams](http://nifty.stanford.edu/2014/hug-google-books-dataset/)
+    + [solutions and test scripts](https://github.com/ledeprogram/courses/tree/master/algorithms/nifty-onegram)
+    + now go nuts! be free!
 
 ### Wednesday 8/13
 
