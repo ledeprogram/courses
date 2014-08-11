@@ -13,16 +13,26 @@ location: 607c Pulitzer Hall \*
 
 new room schedule:
 
-- M Aug 4: 318 Hamilton
-- W Aug 6: 318 Hamilton
-- M Aug 11: 318 Hamilton
-- W Aug 13: 318 Hamilton
+- M Aug 11: 609 Hamilton
+- T Aug 12: 607B (j-school)
+- W Aug 13: 609 Hamilton
+- R Aug 14: 607B (j-school)
+  
 - M Aug 18: 607B (j-school)
+- T Aug 19: 609 Hamilton
 - W Aug 20: 607B (j-school)
+- R Aug 21: 609 Hamilton
+  
 - M Aug 25: 607B (j-school)
+- T Aug 26; 607B (j-school)
 - W Aug 27: 607B (j-school)
+- R Aug 28: 609 Hamilton
+ 
 - M Sept 1: Labor Day
-- W Sept 3: 607B
+- T Sept 2: 607B (j-school)  *this class runs 1-6pm, to showcase your final projects*
+- W Sept 3: 607B (j-school)
+
+
 
 ---
 
