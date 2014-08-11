@@ -1,11 +1,26 @@
 
+- title: algorithms
+- date: 7/14/14-9/3/14
+- time: M & W 10am - 1pm 
+- affiliation: Columbia University, Lede Program
+- instructors: Jonathan Soma, Chris Wiggins
+- location: 607c Pulitzer Hall \*
+
 ---
-title: Algorithms
-date: 7/14/14-9/3/14
-time: M & W 10am - 1pm 
-affiliation: Columbia University, Lede Program
-instructors: Jonathan Soma, Chris Wiggins
-location: 607c Pulitzer Hall \*
+
+ 
+> [Multiliteracies in algorithms](http://compositionforum.com/issue/14.2/rev-selber.php): functional literacy, critical literacy, and rhetorical literacy.
+Within critical literacy, a strong emphasis will be knowing what is possible. For algorithms, this
+usually means *computational complexity* -- the study of how the time needed to perform an algorithm
+grows as the problem size (e.g., the number of data) grows. For algorithms dealing with data, we will study how
+this leads to a balance between *fast* and *accurate*. Within functional literacy, we will be building on
+Python's tools for learning from data, including [scikit-learn](http://scikit-learn.org/stable/). Rhetorical literacy will be the anchor
+for the class, as our primary interest is in producing technology-enabled journalism.
+
+---
+
+>  "every piece of digital technology embeds within it a model of the world, and acts as an argument for that model." --mark hansen
+
 
 ---
 
@@ -36,19 +51,8 @@ new room schedule:
 
 ---
 
-> [Multiliteracies in algorithms](http://compositionforum.com/issue/14.2/rev-selber.php): functional literacy, critical literacy, and rhetorical literacy.
-Within critical literacy, a strong emphasis will be knowing what is possible. For algorithms, this
-usually means *computational complexity* -- the study of how the time needed to perform an algorithm
-grows as the problem size (e.g., the number of data) grows. For algorithms dealing with data, we will study how
-this leads to a balance between *fast* and *accurate*. Within functional literacy, we will be building on
-Python's tools for learning from data, including [scikit-learn](http://scikit-learn.org/stable/). Rhetorical literacy will be the anchor
-for the class, as our primary interest is in producing technology-enabled journalism.
+# Schedule and notes:
 
----
-
->  "every piece of digital technology embeds within it a model of the world, and acts as an argument for that model." --mark hansen
-
----
 
 ## Week 1: Intro to Algorithms
 
