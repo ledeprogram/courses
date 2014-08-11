@@ -46,6 +46,7 @@ def bar_plot_of_letter_frequencies(word_data):
     plt.figure(1) 
     plt.clf()     
     plt.bar(xval, counts) 
+    # label the axes
     plt.xlabel('Letter') 
     plt.ylabel('Total count') 
  
@@ -65,6 +66,7 @@ def bar_plot_of_letter_frequencies(word_data):
  
  
 #Returns the normalized count 
+#(normalize by total_count=total[years[i in range len(counts)]])
 def normalize_counts(years, counts, total):      
     normalized_counts = [] 
  
@@ -230,5 +232,3 @@ def plot_average_word_length(word_data, year_range):
  
     plt.draw() 
     plt.show() 
-         
-        
