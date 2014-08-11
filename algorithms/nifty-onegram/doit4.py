@@ -1,6 +1,6 @@
 # examples taken from http://joshh.ug/SRPC/assignments/assignment4.html
 # datafiles taken from http://joshh.ug/SRPC/assignments/datafiles3.zip
-# (but without all_words.csv ; big and not needed below)
+# (but without all_words.tsv ; big and not needed below)
 # with a few typo's fixed, as indicated below
 
 # <mise-en-place>

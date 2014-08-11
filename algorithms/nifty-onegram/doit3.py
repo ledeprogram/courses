@@ -1,6 +1,6 @@
 # examples taken from http://joshh.ug/SRPC/assignments/assignment3.html
 # datafiles taken from http://joshh.ug/SRPC/assignments/datafiles3.zip
-# for this one (but not #4) we need all_words.csv
+# for this one (but not #4) we need all_words.tsv
 # with a few typo's fixed, as indicated below
 
 # <mise-en-place>
@@ -57,8 +57,8 @@ print(normalized_counts[0])                                #equal to 646179 / 14
 
 # example4
 ## SLOW:
-## plot_words(["horse", "fish", "dog"], [1800, 2000], "all_words.csv", "total_counts.csv")
+## plot_words(["horse", "fish", "dog"], [1800, 2000], "all_words.tsv", "total_counts.csv")
 
 # example5
-plot_words(["horse", "fish"], [1800, 2000], "all_words.csv", "total_counts.csv")
+plot_words(["horse", "fish"], [1800, 2000], "all_words.tsv", "total_counts.csv")
 
