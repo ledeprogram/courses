@@ -1,31 +1,14 @@
 
----
-title: Algorithms
-date: 7/14/14-9/3/14
-time: M & W 10am - 1pm 
-affiliation: Columbia University, Lede Program
-instructors: Jonathan Soma, Chris Wiggins
-location: 607c Pulitzer Hall \*
+- title: algorithms
+- date: 7/14/14-9/3/14
+- time: M & W 10am - 1pm 
+- affiliation: Columbia University, Lede Program
+- instructors: Jonathan Soma, Chris Wiggins
+- location: 607c Pulitzer Hall \*
 
 ---
 
-\* [old room schedule](https://drive.google.com/file/d/0B4OAOue0b3VMNXJ1Z1loaGg4bWc/edit?usp=sharing).  
-
-new room schedule:
-
-- M Aug 4: 318 Hamilton
-- W Aug 6: 318 Hamilton
-- M Aug 11: 318 Hamilton
-- W Aug 13: 318 Hamilton
-- M Aug 18: 607B (j-school)
-- W Aug 20: 607B (j-school)
-- M Aug 25: 607B (j-school)
-- W Aug 27: 607B (j-school)
-- M Sept 1: Labor Day
-- W Sept 3: 607B
-
----
-
+ 
 > [Multiliteracies in algorithms](http://compositionforum.com/issue/14.2/rev-selber.php): functional literacy, critical literacy, and rhetorical literacy.
 Within critical literacy, a strong emphasis will be knowing what is possible. For algorithms, this
 usually means *computational complexity* -- the study of how the time needed to perform an algorithm
@@ -38,7 +21,38 @@ for the class, as our primary interest is in producing technology-enabled journa
 
 >  "every piece of digital technology embeds within it a model of the world, and acts as an argument for that model." --mark hansen
 
+
 ---
+
+\* [old room schedule](https://drive.google.com/file/d/0B4OAOue0b3VMNXJ1Z1loaGg4bWc/edit?usp=sharing).  
+
+new room schedule:
+
+- M Aug 11: 609 Hamilton
+- T Aug 12: 607B (j-school)
+- W Aug 13: 609 Hamilton
+- R Aug 14: 607B (j-school)
+  
+- M Aug 18: 607B (j-school)
+- T Aug 19: 609 Hamilton
+- W Aug 20: 607B (j-school)
+- R Aug 21: 609 Hamilton
+  
+- M Aug 25: 607B (j-school)
+- T Aug 26; 607B (j-school)
+- W Aug 27: 607B (j-school)
+- R Aug 28: 609 Hamilton
+ 
+- M Sept 1: Labor Day
+- T Sept 2: 607B (j-school)  *this class runs 1-6pm, to showcase your final projects*
+- W Sept 3: 607B (j-school)
+
+
+
+---
+
+# Schedule and notes:
+
 
 ## Week 1: Intro to Algorithms
 
@@ -273,13 +287,22 @@ https://github.com/chrishwiggins/mise/blob/1a5a3e557bd38fbb11c7771ffe3725104c481
 -**Week Inspiration:** [Krugman busts out probability](http://krugman.blogs.nytimes.com/2014/08/02/anti-intellectualism-that-dares-not-speak-its-name/) 
 
 ### Wednesday 8/6 
-- generative clustering (clustering as inference)
+
+- Python test
+- KMeans coding - [in-class version](http://nbviewer.ipython.org/github/ledeprogram/courses/blob/master/algorithms/05%20Kmeans!%20from%20class.ipynb), [my version](http://nbviewer.ipython.org/github/ledeprogram/courses/blob/master/algorithms/05%20NBA%20K-Means%20(my%20notes).ipynb)
+- [Homework](https://raw.githubusercontent.com/ledeprogram/courses/master/algorithms/Homework%20-%2005%20KMeans.ipynb)
 
 ## Week 5: Nifty projects: 
 
 ### Monday 8/11
 
 - [Google one-grams](http://nifty.stanford.edu/2014/hug-google-books-dataset/)
+    + [solutions and test scripts](https://github.com/ledeprogram/courses/tree/master/algorithms/nifty-onegram)
+    + now go nuts! be free!
+- Related: Zipf's law: why?
+    - [in word counts](http://norvig.com/mayzner.html) (from [Peter Norvig](http://en.wikipedia.org/wiki/Peter_Norvig))
+    - [in neuroscience](http://esciencecommons.blogspot.com/2014/08/physicists-eye-neural-fly-data-find.html) 
+    - [in general](http://arxiv.org/pdf/cond-mat/0412004.pdf)
 
 ### Wednesday 8/13
 
