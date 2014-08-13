@@ -60,5 +60,5 @@ print(normalized_counts[0])                                #equal to 646179 / 14
 ## plot_words(["horse", "fish", "dog"], [1800, 2000], "all_words.tsv", "total_counts.csv")
 
 # example5
-plot_words(["horse", "fish"], [1800, 2000], "all_words.tsv", "total_counts.csv")
+plot_words(["horse", "fish", "pain", "joy"], [1800, 2000], "all_words.tsv", "total_counts.csv")
 

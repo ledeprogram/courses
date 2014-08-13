@@ -165,8 +165,6 @@ Let's talk about your projects and how they're going!
 
 Julie Steele guest lectures: How Tools Inform Our Design
 
-Josh talks using Bokeh to make your pictures prettier.
-
 ***Reading:*** 
 
 1. ["The Default Choice, So Hard to Resist"](http://www.nytimes.com/2011/10/16/technology/default-choices-are-hard-to-resist-online-or-not.html) by Steve Lohr. The New York Times: October 15, 2011.
@@ -184,6 +182,8 @@ Calculus review (part 1)
 **In Class:**
 
 John Keefe guest lectures
+
+Josh talks about using Bokeh to make [pictures prettier](http://nbviewer.ipython.org/github/ledeprogram/courses/blob/master/platforms/bokeh/basics.ipynb).
 
 ***Reading:*** 
 
