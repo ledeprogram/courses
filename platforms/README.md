@@ -185,11 +185,6 @@ John Keefe guest lectures
 
 Josh talks about using Bokeh to make [pictures prettier](http://nbviewer.ipython.org/github/ledeprogram/courses/blob/master/platforms/bokeh/basics.ipynb).
 
-***Reading:*** 
-
-
-***Homework:*** TBA
-
 **In Studio:**
 
 Calculus review (part 2)
@@ -199,10 +194,6 @@ Calculus review (part 2)
 **In Class:**
 
 Scott Klein of ProPublica guest lectures on running a data journalism group
-
-***Reading:*** TBA
-
-***Homework:*** TBA
 
 **In Studio:**
 
