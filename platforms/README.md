@@ -220,7 +220,7 @@ Linear Algebra (part 1)
 4. [Chart for visualizing positional data](http://circos.ca/)
 
 ***Homework:*** 
-1. [An Exersize in Distinguishing Colors](http://www.xrite.com/custom_page.aspx?pageid=77&lang=en)
+1. [An Exercize in Distinguishing Colors](http://www.xrite.com/custom_page.aspx?pageid=77&lang=en)
 
 
 **In Studio:**
