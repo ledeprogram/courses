@@ -206,12 +206,14 @@ Linear Algebra (part 1)
 [Luis](http://luisdaniel.com/), [Sophie](http://sophiechou.com/), and [Josh](http://foolzone.com/) talk about vector graphics and the internet.
 
 ***Reading:*** 
+
 1. [Computerized Picasso](http://jeremykun.com/2013/05/11/bezier-curves-and-picasso/)
 2. [Algorithms Visualized](http://bost.ocks.org/mike/algorithms/)
 3. [Using Animations to Convey Information](http://vis.berkeley.edu/papers/animated_transitions/)
 4. [Using Color to Convey Information](http://earthobservatory.nasa.gov/blogs/elegantfigures/2013/08/05/subtleties-of-color-part-1-of-6/)
 
-Optional
+***Optional:***
+
 1. [More Color resources](http://visualisingdata.com/index.php/2013/08/tools-and-resources-for-working-with-colour/)
 2. [Mike Bostock on process for creating visualizations](http://bost.ocks.org/mike/example/#2)
 3. [Chart for visualizing networks](http://egweb.bcgsc.ca/)
