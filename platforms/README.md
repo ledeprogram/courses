@@ -233,7 +233,7 @@ Linear Algebra (part 2)
 
 **In Class:**
 
-Jeff Larson from ProPublica guest lectures on reverse engineering political ad models and then we have a FIELD TRIP TO PROPUBLIC!!!!
+Jeff Larson from ProPublica guest lectures on reverse engineering political ad models and then we have a FIELD TRIP TO PROPUBLICA!!!!
 
 **In Studio:**
 
