@@ -233,14 +233,11 @@ Linear Algebra (part 2)
 
 **In Class:**
 
-Jeff Larson from ProPublica guest lectures on reverse engineering political ad models
-
-***Reading:*** TBA
-
-***Homework:*** TBA
+Jeff Larson from ProPublica guest lectures on reverse engineering political ad models and then we have a FIELD TRIP TO PROPUBLIC!!!!
 
 **In Studio:**
 
+Let's talk about projects.
 
 ##August 26
 
@@ -248,12 +245,12 @@ Jeff Larson from ProPublica guest lectures on reverse engineering political ad m
 
 Maxine Rockoff and Lisa Radcliffe guest lecture on health data
 
-***Reading:*** TBA
+***Reading:*** Read [this](http://www.shortliffe.net/textbooks.html) about biomedical informatics, an excerpt from a book written by Edward H. Shortliffe and Marsden S. Blois.
 
-***Homework:*** TBA
 
 **In Studio:**
 
+Let's talk about presentations.
 
 ##August 28
 
@@ -265,15 +262,17 @@ Alexander Howard guest lectures.
 
 [Alex's Tow Report](http://towcenter.org/blog/the-art-and-science-of-data-driven-journalism/)
 
-***Homework:*** 
-
 **In Studio:**
+
+Cathy reviews presentations.
 
 ##September 2
 
 **In Class:**
 
-An exploration into black boxes, uncertainty, and robustness
+CLASS PRESENTATIONS!!
+
+1-5pm, Room 607B, followed by a final party at Cathy's house.
 
 ***Reading:*** 
 
@@ -289,6 +288,3 @@ An exploration into black boxes, uncertainty, and robustness
 
 5.[Piketty response to FT data concerns](http://blogs.ft.com/money-supply/2014/05/23/piketty-response-to-ft-data-concerns/)
 
-***Homework:*** TBA
-
-**In Studio:**
