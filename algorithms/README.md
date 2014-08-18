@@ -314,6 +314,41 @@ https://github.com/chrishwiggins/mise/blob/1a5a3e557bd38fbb11c7771ffe3725104c481
 
 ### Monday 8/18
 
+- Input, Output, Precision, Determinism, Finiteness, Correctness, Generality
+- Prioritization, Classification, Association, Filtering
+
+**Quakebot:** [on Source](https://source.opennews.org/en-US/articles/how-break-news-while-you-sleep/), [on Slate](http://www.slate.com/blogs/future_tense/2014/03/17/quakebot_los_angeles_times_robot_journalist_writes_article_on_la_earthquake.html)
+
+#### Storytelling
+
+What is a story? What's *in* a story?
+
+- Generative vs. descriptive
+- [Plotto](http://www.brainpickings.org/index.php/2012/01/06/plotto/), the Master Book of All Plots ([2](http://www.npr.org/2012/02/19/146941343/plotto-an-algebra-book-for-fiction-writing)) - preconditions, postconditions
+- [Aarne-Thompson Classification System](http://en.wikipedia.org/wiki/Aarne–Thompson_classification_system)
+- **Vladimir Propp**: [Plot Elements](http://changingminds.org/disciplines/storytelling/plots/propp/propp.htm), [Dramatis Personae](http://changingminds.org/disciplines/storytelling/characters/propp_personae.htm)
+- **Claude Lévi-Strauss**: [Structuralism](http://www.webpages.uidaho.edu/~sflores/KlagesLevi-Strauss.html), [The Structural Study of Myth](http://www.soc.ucsb.edu/faculty/mohr/classes/soc4/summer_08/pages/Resources/Readings/Levi-Strauss.pdf)
+
+[Cinderella tales](http://www.pitt.edu/~dash/type0510a.html), examples: [1](http://www.pitt.edu/~dash/type0510a.html#jacobs), [2](http://www.pitt.edu/~dash/type0510a.html#saddleslut), [3](http://www.pitt.edu/~dash/type0510a.html#grimm)
+
+#### [Narrative Science](http://www.narrativescience.com) (and [Automated Insights](http://blog.automatedinsights.com/post/71645583008/our-year-in-review))
+
+- [Narrative Science on Forbes](http://www.forbes.com/sites/narrativescience/), examples: [1](http://www.forbes.com/sites/narrativescience/2014/08/12/earnings-expected-to-increase-for-agilent-technologies/), [2](http://www.forbes.com/sites/narrativescience/2014/08/12/perrigo-profit-expected-to-slip/), [3](http://www.forbes.com/sites/narrativescience/2014/08/12/profit-expected-to-dip-for-autodesk-2/), [4](http://www.forbes.com/sites/narrativescience/2014/08/15/earnings-increase-expected-for-tjx-companies/)
+- [The Future of Journalism?](http://www.cjr.org/behind_the_news/the_future_of_journalism.php?page=all) (CJR)
+- [Can an Algorithm Write a Better News Story Than a Human Reporter?](http://www.wired.com/2012/04/can-an-algorithm-write-a-better-news-story-than-a-human-reporter/)
+- [Notes on Narrative Science and Automated Insights](http://blog.ouseful.info/2013/05/22/notes-on-narrative-science-and-automated-insight/)
+
+What's your angle? Trands, correlations, inflection points
+
+#### Propublica's [Opportunity Gap](http://projects.propublica.org/schools/)
+
+Writeup: [How To Edit 52,000 Stories at Once](http://www.propublica.org/nerds/item/how-to-edit-52000-stories-at-once)
+
+- **Stuyvesant High**: [ProPublica](http://projects.propublica.org/schools/schools/362058002877), [Big Apple Ed](http://www.bigappleed.com/schools/107-stuyvesant-high-school), [Open House Packet](http://stuy.enschool.org/pdf/Complete_Open_House_Packet.pdf), [IB Times](http://www.ibtimes.com/stuyvesant-high-asian-american-domination-elite-schools-triggers-resentment-soul-searching-1563568), [NY Post](http://nypost.com/2014/07/19/why-nycs-push-to-change-school-admissions-will-punish-poor-asians/)
+- **Brooklyn Tech**: [ProPublica](http://projects.propublica.org/schools/schools/362058001928), [Big Apple Ed](http://www.bigappleed.com/schools/676-brooklyn-technical-high-school), [Technology Analysis](http://schools.nyc.gov/nr/rdonlyres/f520ac97-18fc-4876-ae9c-2a2592e428a8/0/brooklyntech_v3.pdf)
+- **William Cullen Bryant**: [ProPublica](http://projects.propublica.org/schools/schools/362058002887), [Big Apple Ed](http://www.bigappleed.com/schools/1376-william-cullen-bryant-high-school), [Wikipedia](http://en.wikipedia.org/wiki/William_Cullen_Bryant_High_School)
+- **Harvey Milk**: [ProPublica](http://projects.propublica.org/schools/schools/362058005522), [Big Apple Ed](http://www.bigappleed.com/schools/124-harvey-milk-high-school)
+
 ### Wednesday 8/20
 
 ## Week 7: Networks and graphs
