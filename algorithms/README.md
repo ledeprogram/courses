@@ -328,8 +328,11 @@ What is a story? What's *in* a story?
 - [Aarne-Thompson Classification System](http://en.wikipedia.org/wiki/Aarne–Thompson_classification_system)
 - **Vladimir Propp**: [Plot Elements](http://changingminds.org/disciplines/storytelling/plots/propp/propp.htm), [Dramatis Personae](http://changingminds.org/disciplines/storytelling/characters/propp_personae.htm)
 - **Claude Lévi-Strauss**: [Structuralism](http://www.webpages.uidaho.edu/~sflores/KlagesLevi-Strauss.html), [The Structural Study of Myth](http://www.soc.ucsb.edu/faculty/mohr/classes/soc4/summer_08/pages/Resources/Readings/Levi-Strauss.pdf)
+- <a href="http://en.wikipedia.org/wiki/Conflict_(narrative)">Conflict</a>
 
 [Cinderella tales](http://www.pitt.edu/~dash/type0510a.html), examples: [1](http://www.pitt.edu/~dash/type0510a.html#jacobs), [2](http://www.pitt.edu/~dash/type0510a.html#saddleslut), [3](http://www.pitt.edu/~dash/type0510a.html#grimm)
+
+NYT: [Mike Brown's autopsy](http://www.nytimes.com/2014/08/18/us/michael-brown-autopsy-shows-he-was-shot-at-least-6-times.html), [PWC fined](http://dealbook.nytimes.com/2014/08/17/pwc-faces-penalty-and-sidelining-of-regulatory-consulting-unit/), [Germany + the American Old West](http://www.nytimes.com/2014/08/18/world/europe/germanys-fascination-with-american-old-west-native-american-scalps-human-remains.html), [Palin and Oil](http://www.nytimes.com/2014/08/18/us/politics/sarah-palins-attack-on-sean-parnells-oil-plan-creates-odd-wedge-for-alaskan-voters.html), [Iraq retakes dam](http://www.nytimes.com/2014/08/19/world/middleeast/iraq-mosul-dam.html)
 
 #### [Narrative Science](http://www.narrativescience.com) (and [Automated Insights](http://blog.automatedinsights.com/post/71645583008/our-year-in-review))
 
