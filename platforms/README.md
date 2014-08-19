@@ -245,7 +245,7 @@ Let's talk about projects.
 
 Maxine Rockoff and Lisa Radcliffe guest lecture on health data
 
-***Reading:*** 
+***Required Reading:*** 
 
 1. Read [this](http://www.shortliffe.net/textbooks.html) about biomedical informatics, an excerpt from a book written by Edward H. Shortliffe and Marsden S. Blois.
 2. [Here's Look at You: How your personal information is being tracked and used](http://www.chcf.org/~/media/MEDIA%20LIBRARY%20Files/PDF/H/PDF%20HeresLookingPersonalHealthInfo.pdf)
@@ -253,6 +253,15 @@ Maxine Rockoff and Lisa Radcliffe guest lecture on health data
 4. [Community Health says data stolen in cyber attack from China](http://www.reuters.com/article/2014/08/18/us-community-health-cybersecurity-idUSKBN0GI16N20140818)
 5. [Documents Reveal Gaps In City Welfare Data](http://www.citylimits.org/news/articles/4278/documents-reveal-gaps-in-city-welfare-data#.U_Mg1IBdX3U)
 
+***Optional Resources:***
+
+Since 2009, HIPAA covered entities have been required to report data breaches involving 500 or more individuals (note the CT breach would not even count). Spend a moment using HHS’s on-line reporting tool to search the 5 years of unbelievable data. This is an interactive page; choose your report criteria by clicking the boxes and then export or review your output [on-line.](http://www.hhs.gov/ocr/privacy/hipaa/administrative/breachnotificationrule/breachtool.html)
+
+[Useful overview](http://www.hhs.gov/ocr/privacy/hipaa/understanding/summary/index.html) access point for HHS information regarding HIPAA privacy requirements, including who and what are covered. 
+
+One of the prickliest issues with health and human services data sharing is who owns what and how true integration can be achieved in a complex environment. Governance often becomes the sticking point. APHSA has put together some very basic and useful steps in establishing Governance for [these sorts of data sharing systems.](http://www.aphsa.org/content/dam/aphsa/pdfs/NWI/Governance-Guidance.pdf)
+
+Finally, for fun you might want to see how Maxine Rockoff and her colleagues put data together by hand 35 years ago, taking days to do what can today be done (better) in a flash. "Positive Programming": The Use of Data in Planning for the Rural Health Initiative" by Rockoff, Gorin and Kleinman, available [here](http://wp.me/a1CO0X-2jW).
 
 **In Studio:**
 
