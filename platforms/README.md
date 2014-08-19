@@ -245,7 +245,13 @@ Let's talk about projects.
 
 Maxine Rockoff and Lisa Radcliffe guest lecture on health data
 
-***Reading:*** Read [this](http://www.shortliffe.net/textbooks.html) about biomedical informatics, an excerpt from a book written by Edward H. Shortliffe and Marsden S. Blois.
+***Reading:*** 
+
+1. Read [this](http://www.shortliffe.net/textbooks.html) about biomedical informatics, an excerpt from a book written by Edward H. Shortliffe and Marsden S. Blois.
+2. [Here's Look at You: How your personal information is being tracked and used](http://www.chcf.org/~/media/MEDIA%20LIBRARY%20Files/PDF/H/PDF%20HeresLookingPersonalHealthInfo.pdf)
+3. [Connecticut health exchange seeks to help customers after data breach](http://www.reuters.com/article/2014/06/14/us-usa-obamacare-connecticut-idUSKBN0EO2J920140614)
+4. [Community Health says data stolen in cyber attack from China](http://www.reuters.com/article/2014/08/18/us-community-health-cybersecurity-idUSKBN0GI16N20140818)
+5. [Documents Reveal Gaps In City Welfare Data](http://www.citylimits.org/news/articles/4278/documents-reveal-gaps-in-city-welfare-data#.U_Mg1IBdX3U)
 
 
 **In Studio:**
