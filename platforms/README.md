@@ -247,7 +247,7 @@ Maxine Rockoff and Lisa Radcliffe guest lecture on health data
 
 ***Required Reading:*** 
 
-1. Read [this](http://www.shortliffe.net/textbooks.html) about biomedical informatics, an excerpt from a book written by Edward H. Shortliffe and Marsden S. Blois.
+1. Read [the first chapter of this](http://people.dbmi.columbia.edu/~ehs7001//docs/4th%20edition%20-%20Chapter%201%20-%20complete.pdf) about biomedical informatics, an excerpt from a book written by Edward H. Shortliffe and Marsden S. Blois.
 2. [Here's Look at You: How your personal information is being tracked and used](http://www.chcf.org/~/media/MEDIA%20LIBRARY%20Files/PDF/H/PDF%20HeresLookingPersonalHealthInfo.pdf)
 3. [Connecticut health exchange seeks to help customers after data breach](http://www.reuters.com/article/2014/06/14/us-usa-obamacare-connecticut-idUSKBN0EO2J920140614)
 4. [Community Health says data stolen in cyber attack from China](http://www.reuters.com/article/2014/08/18/us-community-health-cybersecurity-idUSKBN0GI16N20140818)
