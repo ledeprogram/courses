@@ -122,6 +122,8 @@ and save them somewhere
     api = tweepy.API(auth)
     api.update_status('done and done')
 
+Now visit `http://twitter.com/yourusername` and see your brand-new post!
+
 ## 5. Your glorious, robotic future
 
 Whenever you're using your bot, you're going to need the access key + secret, as well as your consumer key + secret. If you start a new notebook to do that, you'll use
