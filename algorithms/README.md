@@ -354,6 +354,7 @@ Writeup: [How To Edit 52,000 Stories at Once](http://www.propublica.org/nerds/it
 
 ### Wednesday 8/20
 
+- [Forecast.io API Registration](https://developer.forecast.io/register)
 - [How to build a Twitter bot](twitter.md)
 - [Cron jobs](http://en.wikipedia.org/wiki/Cron)
 
