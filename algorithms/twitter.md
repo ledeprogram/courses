@@ -131,4 +131,4 @@ to create your tweetable API object, and then
 
 	api.update_status('done and done')
 
-to tweet. Want to know what all tweepy can do? [Check out the docs](http://tweepy.readthedocs.org/en/v2.3.0/api.html#tweepy-api-twitter-api-wrapper) or 
+to tweet. Want to know what all tweepy can do? [Check out the docs](http://tweepy.readthedocs.org/en/v2.3.0/api.html#tweepy-api-twitter-api-wrapper)!
