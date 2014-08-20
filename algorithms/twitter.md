@@ -69,6 +69,10 @@ From your IPython notebook that includes `consumer_key` and `consumer_secret`, l
 
     !pip install tweepy
 
+or if you need better permissions,
+
+    !sudo pip install tweepy
+
 ### 4b. OAuth
 
 Now we need to authenticate with Twitter. Tweepy's outline for this is
