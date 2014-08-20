@@ -124,7 +124,7 @@ Whenever you're using your bot, you're going to need the access key + secret, as
 
 	auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 	auth.secure = True
-	auth.set_access_token(access_token, access_token_secret)
+	auth.set_access_token(access_key, access_secret)
 	api = tweepy.API(auth)
 
 to create your tweetable API object, and then
