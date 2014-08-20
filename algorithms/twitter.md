@@ -115,8 +115,8 @@ and save them somewhere
 
 ### 4c. Test it out
 
-api = tweepy.API(auth)
-api.update_status('done and done')
+    api = tweepy.API(auth)
+    api.update_status('done and done')
 
 ## 5. Your glorious, robotic future
 
