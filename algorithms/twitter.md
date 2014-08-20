@@ -112,7 +112,7 @@ and now get your keys
 
 and save them somewhere
 
-	access_key = token.key
+	access_token = token.key
 	access_secret = token.secret
 	
 **Additionally, copy and paste these values into a comment**, you don't want to try to authenticate again. 
@@ -128,9 +128,9 @@ Now visit `http://twitter.com/yourusername` and see your brand-new post!
 
 Whenever you're using your bot, you're going to need the access key + secret, as well as your consumer key + secret. If you start a new notebook to do that, you'll use
 
-	auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
+	auth = tweepy.OAuthHandler(consumer_token, consumer_secret)
 	auth.secure = True
-	auth.set_access_token(access_key, access_secret)
+	auth.set_access_token(access_token, access_secret)
 	api = tweepy.API(auth)
 
 to create your tweetable API object, and then
