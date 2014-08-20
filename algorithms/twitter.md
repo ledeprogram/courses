@@ -65,7 +65,7 @@ Now we need to authorize our robot account for the application.
 
 ### 4a. Installing tweepy
 
-From a new IPython notebook, let's install [tweepy](http://www.tweepy.org), a module for interacting with Twitter.
+From your IPython notebook that includes `consumer_key` and `consumer_secret`, let's install [tweepy](http://www.tweepy.org), a module for interacting with Twitter.
 
     !pip install tweepy
 
