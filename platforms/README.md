@@ -233,14 +233,11 @@ Linear Algebra (part 2)
 
 **In Class:**
 
-Jeff Larson from ProPublica guest lectures on reverse engineering political ad models
-
-***Reading:*** TBA
-
-***Homework:*** TBA
+Jeff Larson from ProPublica guest lectures on reverse engineering political ad models and then we have a FIELD TRIP TO PROPUBLICA!!!!
 
 **In Studio:**
 
+Let's talk about projects.
 
 ##August 26
 
@@ -248,12 +245,27 @@ Jeff Larson from ProPublica guest lectures on reverse engineering political ad m
 
 Maxine Rockoff and Lisa Radcliffe guest lecture on health data
 
-***Reading:*** TBA
+***Required Reading:*** 
 
-***Homework:*** TBA
+1. Read [the first chapter of this (click on "Full Table of Contents," then "download")](http://www.shortliffe.net/textbooks.html) about biomedical informatics, an excerpt from a book written by Edward H. Shortliffe and Marsden S. Blois. This gives a doctor's view of what technology in health care could do for personal and population health and looks at the resulting challenges as well as the opportunities.
+2. [Here's Looking at You: How your personal information is being tracked and used](http://www.chcf.org/~/media/MEDIA%20LIBRARY%20Files/PDF/H/PDF%20HeresLookingPersonalHealthInfo.pdf). This consumer-focused white paper gives a quick overview of the context, opportunities and challenges of sharing your health data and provides an introduction to the social media aspects of the growing amount of health data.
+3. [Connecticut health exchange seeks to help customers after data breach](http://www.reuters.com/article/2014/06/14/us-usa-obamacare-connecticut-idUSKBN0EO2J920140614). Government HIPAA covered entities are also vulnerable to data breaches. Here, Access Health Connecticut, the state health data exchange created for the federal Affordable protect themselves after their personal information has been compromised.
+4. [Community Health says data stolen in cyber attack from China](http://www.reuters.com/article/2014/08/18/us-community-health-cybersecurity-idUSKBN0GI16N20140818). Publicly-traded Community Health Systems Inc (CYH.N), one of the biggest U.S. hospital groups (operating 206 hospitals in 29 states), says it was the victim of a cyber attack from China, resulting in the theft of Social Security numbers and other personal data belonging to 4.5 million patients. Note that this massive breach was revealed in the middle of August, this year.
+5. [Documents Reveal Gaps In City Welfare Data](http://www.citylimits.org/news/articles/4278/documents-reveal-gaps-in-city-welfare-data#.U_Mg1IBdX3U). Sometimes it is more important to note what data are missing as opposed to what data are present - and why.
+
+***Optional Resources:***
+
+Since 2009, HIPAA covered entities have been required to report data breaches involving 500 or more individuals (note the CT breach would not even count). Spend a moment using [HHS’s on-line reporting tool](http://www.hhs.gov/ocr/privacy/hipaa/administrative/breachnotificationrule/breachtool.html) to search the 5 years of unbelievable data. This is an interactive page; choose your report criteria by clicking the boxes and then export or review your output [on-line.](http://www.hhs.gov/ocr/privacy/hipaa/administrative/breachnotificationrule/breachtool.html)
+
+[Useful overview](http://www.hhs.gov/ocr/privacy/hipaa/understanding/summary/index.html) access point for HHS information regarding HIPAA privacy requirements, including who and what are covered. 
+
+One of the prickliest issues with health and human services data sharing is who owns what and how true integration can be achieved in a complex environment. Governance often becomes the sticking point. APHSA has put together [some very basic and useful steps in establishing Governance for these sorts of data sharing systems.](http://www.aphsa.org/content/dam/aphsa/pdfs/NWI/Governance-Guidance.pdf)
+
+Finally, for fun you might want to see how Maxine Rockoff and her colleagues put data together by hand 35 years ago, taking days to do what can today be done (better) in a flash. "Positive Programming": The Use of Data in Planning for the Rural Health Initiative" by Rockoff, Gorin and Kleinman, available [here](http://mathbabe.files.wordpress.com/2014/08/rockoff-gorin-kleinman-positive-programming.pdf).
 
 **In Studio:**
 
+Let's talk about presentations.
 
 ##August 28
 
@@ -265,15 +277,17 @@ Alexander Howard guest lectures.
 
 [Alex's Tow Report](http://towcenter.org/blog/the-art-and-science-of-data-driven-journalism/)
 
-***Homework:*** 
-
 **In Studio:**
+
+Cathy reviews presentations.
 
 ##September 2
 
 **In Class:**
 
-An exploration into black boxes, uncertainty, and robustness
+CLASS PRESENTATIONS!!
+
+1-5pm, Room 607B, followed by a final party at Cathy's house.
 
 ***Reading:*** 
 
@@ -289,6 +303,3 @@ An exploration into black boxes, uncertainty, and robustness
 
 5.[Piketty response to FT data concerns](http://blogs.ft.com/money-supply/2014/05/23/piketty-response-to-ft-data-concerns/)
 
-***Homework:*** TBA
-
-**In Studio:**
