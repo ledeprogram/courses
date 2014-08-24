@@ -340,9 +340,17 @@ Writeup: [How To Edit 52,000 Stories at Once](http://www.propublica.org/nerds/it
 
 ### Wednesday 8/20
 
+### For reference
+
+- [Twitter Developer site](https://dev.twitter.com)
 - [Forecast.io API Registration](https://developer.forecast.io/register)
-- [How to build a Twitter bot](twitter.md)
 - [Cron jobs](http://en.wikipedia.org/wiki/Cron)
+
+#### Our notes
+
+- [How to build a Twitter bot](twitter.md)
+- [How to run tasks regularly using cron](cron.md)
+- [Using the Forecast.io API](http://nbviewer.ipython.org/github/ledeprogram/courses/blob/master/algorithms/09-Forecast-twitter.ipynb)
 
 ## Week 7: Networks and graphs
 
