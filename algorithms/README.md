@@ -24,20 +24,8 @@ for the class, as our primary interest is in producing technology-enabled journa
 
 ---
 
-\* [old room schedule](https://drive.google.com/file/d/0B4OAOue0b3VMNXJ1Z1loaGg4bWc/edit?usp=sharing).  
-
 new room schedule:
 
-- M Aug 11: 609 Hamilton
-- T Aug 12: 607B (j-school)
-- W Aug 13: 609 Hamilton
-- R Aug 14: 607B (j-school)
-  
-- M Aug 18: 607B (j-school)
-- T Aug 19: 609 Hamilton
-- W Aug 20: 607B (j-school)
-- R Aug 21: 609 Hamilton
-  
 - M Aug 25: 607B (j-school)
 - T Aug 26; 607B (j-school)
 - W Aug 27: 607B (j-school)
@@ -46,8 +34,6 @@ new room schedule:
 - M Sept 1: Labor Day
 - T Sept 2: 607B (j-school)  *this class runs 1-6pm, to showcase your final projects*
 - W Sept 3: 607B (j-school)
-
-
 
 ---
 
@@ -363,14 +349,21 @@ Writeup: [How To Edit 52,000 Stories at Once](http://www.propublica.org/nerds/it
 ### Monday 8/25
 
 - Networks
-      - centralities
+    - introduction and examples in data journalism
+    - centralities
         - functional literacy
         - critical literacy: does choice of centrality matter?
         - critical literacy: how do you reduce human interactions into a graph?
-      - graph drawing/graph visualization
+    - graph drawing/graph visualization
         - critical literacy: does graph drawing mean anything? what are the axes?
 
-**Possibly useful** [networkx](https://networkx.github.io/)
+- **Possibly useful**
+    - [networkx](https://networkx.github.io/)
+    - [2003 review article](http://arxiv.org/abs/cond-mat/0303516)
+    - [cathy's 2012 blog post](http://mathbabe.org/2012/11/01/columbia-data-science-course-week-9-morningside-analytics-network-analysis-data-journalism/) based on a lecture from [john kelly](http://apidictionist.com/) of [morningside analytics](https://www.morningside-analytics.com/)
+    -  [Social Network Analysis as a method in the Data Journalistic toolkit](http://www.academia.edu/6280420/Social_Network_Analysis_as_a_method_in_the_Data_Journalistic_toolkit) by Adriana Homolova - Academia.edu
+    - [Social Network Analysis for Journalists Using the Twitter API](http://datadrivenjournalism.net/resources/social_network_analysis_for_journalists_using_the_twitter_api)
+
 
 ### Wednesday 8/27
 
