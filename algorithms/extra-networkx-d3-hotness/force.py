@@ -12,7 +12,11 @@ import networkx as nx
 from networkx.readwrite import json_graph
 import http_server
 
-G = nx.barbell_graph(6,3)
+#G = nx.barbell_graph(6,3)
+#G = nx.barabasi_albert_graph(30,3)
+
+G = nx.karate_club_graph()
+
 # this d3 example uses the name attribute for the mouse-hover value,
 # so add a name to each node
 for n in G:

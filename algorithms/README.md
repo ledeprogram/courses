@@ -363,6 +363,7 @@ Writeup: [How To Edit 52,000 Stories at Once](http://www.propublica.org/nerds/it
             - [uberdata](http://bost.ocks.org/mike/uberdata/)
             - [matrix plots](http://mbostock.github.io/protovis/ex/matrix.html)
             - [chord plots](http://bl.ocks.org/mbostock/4062006)
+            - [les mis](http://bl.ocks.org/mbostock/4062045)
         + lots of work from [gilad lotan](http://giladlotan.com/), e.g., recent [media analysis around gaza](https://medium.com/i-data/israel-gaza-war-data-a54969aeb23e)
         - critical literacy: how do you reduce human interactions into a graph?
     - centralities (find 'important' nodes)
