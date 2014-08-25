@@ -372,14 +372,20 @@ Writeup: [How To Edit 52,000 Stories at Once](http://www.propublica.org/nerds/it
     - graph drawing/graph visualization
         - critical literacy: does graph drawing mean anything? what are the axes?
     - graph partitioning/community detection
-    - [example notebook](http://nbviewer.ipython.org/github/ledeprogram/courses/blob/master/algorithms/10-networkx-fun.ipynb)
 
-- **Possibly useful**
-    - [networkx](https://networkx.github.io/)
-    - [2003 review article](http://arxiv.org/abs/cond-mat/0303516)
-    - [cathy's 2012 blog post](http://mathbabe.org/2012/11/01/columbia-data-science-course-week-9-morningside-analytics-network-analysis-data-journalism/) based on a lecture from [john kelly](http://apidictionist.com/) of [morningside analytics](https://www.morningside-analytics.com/)
-    -  [Social Network Analysis as a method in the Data Journalistic toolkit](http://www.academia.edu/6280420/Social_Network_Analysis_as_a_method_in_the_Data_Journalistic_toolkit) by Adriana Homolova - Academia.edu
-    - [Social Network Analysis for Journalists Using the Twitter API](http://datadrivenjournalism.net/resources/social_network_analysis_for_journalists_using_the_twitter_api)
+things we'll use today:
+
+- [example notebook](http://nbviewer.ipython.org/github/ledeprogram/courses/blob/master/algorithms/10-networkx-fun.ipynb)
+- [cool python thingy](https://github.com/ledeprogram/courses/blob/master/algorithms/extra-networkx-d3-hotness/force.py) featuring the [much studied](http://networkkarate.tumblr.com/) [1977 zachary karate graph](https://github.com/networkx/networkx/blob/a822b491c6b53a2819915a8c620e97a36ba6c060/examples/graph/karate_club.py)
+
+
+Possibly useful
+
+- [networkx](https://networkx.github.io/)
+- [2003 review article](http://arxiv.org/abs/cond-mat/0303516)
+- [cathy's 2012 blog post](http://mathbabe.org/2012/11/01/columbia-data-science-course-week-9-morningside-analytics-network-analysis-data-journalism/) based on a lecture from [john kelly](http://apidictionist.com/) of [morningside analytics](https://www.morningside-analytics.com/)
+-  [Social Network Analysis as a method in the Data Journalistic toolkit](http://www.academia.edu/6280420/Social_Network_Analysis_as_a_method_in_the_Data_Journalistic_toolkit) by Adriana Homolova - Academia.edu
+- [Social Network Analysis for Journalists Using the Twitter API](http://datadrivenjournalism.net/resources/social_network_analysis_for_journalists_using_the_twitter_api)
 
 
 ### Wednesday 8/27
