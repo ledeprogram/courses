@@ -358,12 +358,18 @@ Writeup: [How To Edit 52,000 Stories at Once](http://www.propublica.org/nerds/it
 
 - Networks
     - introduction and examples in data journalism
+        + from NYT: [oscar net](http://www.nytimes.com/interactive/2013/02/20/movies/among-the-oscar-contenders-a-host-of-connections.html?_r=0)
+        + from bostock: 
+            - [uberdata](http://bost.ocks.org/mike/uberdata/)
+            - [matrix plots](http://mbostock.github.io/protovis/ex/matrix.html)
+            - [chord plots](http://bl.ocks.org/mbostock/4062006)
     - centralities
         - functional literacy
         - critical literacy: does choice of centrality matter?
         - critical literacy: how do you reduce human interactions into a graph?
     - graph drawing/graph visualization
         - critical literacy: does graph drawing mean anything? what are the axes?
+    - [example notebook](http://nbviewer.ipython.org/github/ledeprogram/courses/blob/master/algorithms/10-networkx-fun.ipynb)
 
 - **Possibly useful**
     - [networkx](https://networkx.github.io/)
