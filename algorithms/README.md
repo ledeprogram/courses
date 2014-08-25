@@ -363,12 +363,14 @@ Writeup: [How To Edit 52,000 Stories at Once](http://www.propublica.org/nerds/it
             - [uberdata](http://bost.ocks.org/mike/uberdata/)
             - [matrix plots](http://mbostock.github.io/protovis/ex/matrix.html)
             - [chord plots](http://bl.ocks.org/mbostock/4062006)
-    - centralities
+        + lots of work from [gilad lotan](http://giladlotan.com/), e.g., recent [media analysis around gaza](https://medium.com/i-data/israel-gaza-war-data-a54969aeb23e)
+        - critical literacy: how do you reduce human interactions into a graph?
+    - centralities (find 'important' nodes)
         - functional literacy
         - critical literacy: does choice of centrality matter?
-        - critical literacy: how do you reduce human interactions into a graph?
     - graph drawing/graph visualization
         - critical literacy: does graph drawing mean anything? what are the axes?
+    - graph partitioning/community detection
     - [example notebook](http://nbviewer.ipython.org/github/ledeprogram/courses/blob/master/algorithms/10-networkx-fun.ipynb)
 
 - **Possibly useful**
