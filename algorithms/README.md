@@ -24,19 +24,6 @@ for the class, as our primary interest is in producing technology-enabled journa
 
 ---
 
-new room schedule:
-
-- M Aug 25: 607B (j-school)
-- T Aug 26; 607B (j-school)
-- W Aug 27: 607B (j-school)
-- R Aug 28: 609 Hamilton
- 
-- M Sept 1: Labor Day
-- T Sept 2: 607B (j-school)  *this class runs 1-6pm, to showcase your final projects*
-- W Sept 3: 607B (j-school)
-
----
-
 # Schedule and notes:
 
 
@@ -372,20 +359,49 @@ Writeup: [How To Edit 52,000 Stories at Once](http://www.propublica.org/nerds/it
     - graph drawing/graph visualization
         - critical literacy: does graph drawing mean anything? what are the axes?
     - graph partitioning/community detection
+        + [example](https://github.com/jhofman/vbmod_python) in python by wiggins and hofman, using [latent variable model](http://en.wikipedia.org/wiki/Latent_variable_model), a special case of [factor analysis](http://en.wikipedia.org/wiki/Factor_analysis)
 
 things we'll use today:
 
 - [example notebook](http://nbviewer.ipython.org/github/ledeprogram/courses/blob/master/algorithms/10-networkx-fun.ipynb)
 - [cool python thingy](https://github.com/ledeprogram/courses/blob/master/algorithms/extra-networkx-d3-hotness/force.py) featuring the [much studied](http://networkkarate.tumblr.com/) [1977 zachary karate graph](https://github.com/networkx/networkx/blob/a822b491c6b53a2819915a8c620e97a36ba6c060/examples/graph/karate_club.py)
 
+deep thoughts/tangents:
+
+- data journalism is not qualitatively different from other journalism. they're both awesome because they involve thinking clearly. they're both limited by subjective choices, including design choices and process choices. 
+- great quote related to the above, from [a post](http://civilstat.com/?p=1436) by a stats [grad student](http://civilstat.com/?page_id=5) about [a MOOC](https://knightcenter.utexas.edu/node/14149/) on data driven journalism.
+
+>    I loved some of the language that came up, such as "backgrounding the
+>    data" -- analogous to checking out your sources to see how much you can
+>    trust them -- or "interrogating the data," including coming prepared to
+>    the "data interview" to ask thorough, thoughtful questions. I'd love to
+>    see a Statistics 101 course taught from this perspective. Statisticians
+>    do these things all the time, but our terminology and approach seem
+>    alien and confusing the first few times you see them. "Thinking like a
+>    journalist" and "thinking like a statistician" are not all that
+>    different, and the former might be a much more approachable path to the
+>    latter.
+
+
+- [lior's awesome angry blog](http://liorpachter.wordpress.com/): even grownups (people with PhD's) working on very, very important problems can do very, very bad statistics.
+    + [example of ire](http://liorpachter.wordpress.com/2014/02/12/why-i-read-the-network-nonsense-papers/)
+- [stacks](http://stacks.math.columbia.edu/tag/01WC/graph/force): networks of theorems
+- networks in corporate boards:
+    - [theyrule](http://www.theyrule.net/)
+    - [muckety](http://www.muckety.com/)
+        + [help in muckety](http://news.muckety.com/help)
+        + [about](http://news.muckety.com/about-muckety)
+        + e.g., [the google](http://www.muckety.com/Query?domain=2&ActorTypes=68&ActorTypes=2&ActorTypes=2001&ActorTypes=125&ActorTypes=89&ActorTypes=202&ActorTypes=204&ActorTypes=80&ActorTypes=404&ActorTypes=201&ActorTypes=127&ActorTypes=64&ActorTypes=10&name=google&prev=google&SearchResult=5094168&SearchResult=5000811&graph=MucketyMap)
 
 Possibly useful
 
-- [networkx](https://networkx.github.io/)
+- [networkx](https://networkx.github.io/) is like [flying](http://xkcd.com/353/) by importing antigravity.
 - [2003 review article](http://arxiv.org/abs/cond-mat/0303516)
 - [cathy's 2012 blog post](http://mathbabe.org/2012/11/01/columbia-data-science-course-week-9-morningside-analytics-network-analysis-data-journalism/) based on a lecture from [john kelly](http://apidictionist.com/) of [morningside analytics](https://www.morningside-analytics.com/)
 -  [Social Network Analysis as a method in the Data Journalistic toolkit](http://www.academia.edu/6280420/Social_Network_Analysis_as_a_method_in_the_Data_Journalistic_toolkit) by Adriana Homolova - Academia.edu
 - [Social Network Analysis for Journalists Using the Twitter API](http://datadrivenjournalism.net/resources/social_network_analysis_for_journalists_using_the_twitter_api)
+- [gephi](http://en.wikipedia.org/wiki/Gephi) (I don't actually use it but it's very widely used and very [pretty](https://www.google.com/search?hl=en&c2coff=1&q=gephi&um=1&ie=UTF-8&source=og&sa=N&tab=wi&biw=1255&bih=668&gws_rd=ssl&tbm=isch#c2coff=1&hl=en&q=gephi+network&safe=active&tbm=isch&um=1))
+- [cytoscape](http://en.wikipedia.org/wiki/Cytoscape) Similar, but invented by biologists.
 
 
 ### Wednesday 8/27
