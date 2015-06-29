@@ -18,7 +18,7 @@ Be sure to turn off the text notifications after you confirm your phone.
 
 ## 2. Create an Application
 
-Now hop on over to [http://dev.twitter.com](http://dev.twitter.com) and create a new Twitter application.
+Now hop on over to [http://apps.twitter.com](http://apps.twitter.com) and create a new Twitter application. "But this isn't an application" you yell! Twitter doesn't care about your semantics, though, this is just how Twitter manages all of your API keys.
 
 ### 2a. Creating the Application
 
@@ -55,7 +55,9 @@ We aren't calling them `api_key` and `api_secret` because all code ever made eve
 
 ## 3. Create a Twitter account for your bot
 
-Your Twitter bot needs to use a different account than your real, live primary account. I recommend giving it a **plus addressing** email address, where you do **+blahblahblah** after your email username - you'll still get the emails, but it acts like it's a separate account.
+Your Twitter bot needs to use a **different account** than your real, live primary account. You'll need to sign out of your main Twitter account and create a new account.
+
+I recommend giving it a **plus addressing** email address, where you do **+blahblahblah** after your email username - you'll still get the emails, but it acts like it's a separate account.
 
 ![](images/twitter-1.png)
 
@@ -65,13 +67,13 @@ Now we need to authorize our robot account for the application.
 
 ### 4a. Installing tweepy
 
-From your IPython notebook that includes `consumer_key` and `consumer_secret`, let's install [tweepy](http://www.tweepy.org), a module for interacting with Twitter.
+From your IPython notebook that includes `consumer_key` and `consumer_secret`, let's install [tweepy](http://www.tweepy.org), a module for interacting with Twitter. From **Terminal** you'll want to run
 
-    !pip install tweepy
+    pip install tweepy
 
-or if you need better permissions,
+or if it complains about permissions, use `sudo`
 
-    !sudo pip install tweepy
+    sudo pip install tweepy
 
 ### 4b. OAuth
 
