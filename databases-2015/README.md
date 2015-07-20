@@ -96,8 +96,8 @@ Homework
 ###Week 2: July 20th and 22nd
 
 * Reading discussion
-* Wrangling data types (strings, Unicode, date/time)
-* Regular expressions
+* Unicode. [Notes](02_Unicode.ipynb).
+* Regular expressions. [Notes](03_Strings_and_Regular_Expressions.ipynb).
 * Scraping HTML with Beautiful Soup
 
 Reading (for discussion July 20th)
