@@ -108,7 +108,7 @@ Reading (for discussion July 20th)
 
 Homework
 
-* Assignment #2 (TBD), due July 27th
+* [Assignment #2](Homework_2.ipynb), due July 27th
 
 
 ###Week 3: July 27th and 29th
