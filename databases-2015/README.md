@@ -98,7 +98,6 @@ Homework
 * Reading discussion
 * Unicode. [Notes](02_Unicode.ipynb).
 * Regular expressions. [Notes](03_Strings_and_Regular_Expressions.ipynb).
-* Scraping HTML with Beautiful Soup
 
 Reading (for discussion July 20th)
 
@@ -114,7 +113,7 @@ Homework
 ###Week 3: July 27th and 29th
 
 * Reading discussion
-* Python: Scraping HTML with Beautiful Soup (continued)
+* Scraping HTML with Beautiful Soup. [Notes](04_Markup.ipynb)
 * Introduction to SQL
 
 Reading (for discussion July 27th)
