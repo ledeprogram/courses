@@ -114,7 +114,8 @@ Homework
 
 * Reading discussion
 * Scraping HTML with Beautiful Soup. [Notes](04_Markup.ipynb)
-* Introduction to SQL
+* Introduction to SQL: [Notes](SQL_notes.md)
+* Making SQL queries in Python: [Notes](05_SQL_in_Python.ipynb)
 
 Reading (for discussion July 27th)
 
@@ -125,7 +126,7 @@ Reading (for discussion July 27th)
 
 Homework
 
-* Assignment #3 (TBD), due August 3rd
+* [Assignment #3](Homework_3.ipynb), due August 3rd
 
 
 ###Week 4: August 3rd and 5th
