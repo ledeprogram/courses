@@ -153,7 +153,7 @@ the Politics of Global Warming.* Cambridge: MIT Press, 2010, ch. 10:
 
 Homework 
 
-* Assignment #4 (TBD), due August 10th
+* [Assignment #4](Homework_4.ipynb), due August 10th
 
 ###Week 5: August 10th and 12th
 
