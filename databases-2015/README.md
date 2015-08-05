@@ -154,9 +154,11 @@ the Politics of Global Warming.* Cambridge: MIT Press, 2010, ch. 10:
 Homework 
 
 * [Assignment #4](Homework_4.ipynb), due August 10th
+* Final project "lookbook": Add three data journalism projects of interest to you [to this document](http://piratepad.net/qSOZAY7rCo). We'll discuss these on August 10th.
 
 ###Week 5: August 10th and 12th
 
+* Final project "lookbook" sharing and discussion
 * Making structure: text mining
     * text munging:
         - vectorizing tokenizing, stemming
