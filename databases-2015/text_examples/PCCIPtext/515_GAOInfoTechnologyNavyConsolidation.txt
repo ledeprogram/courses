@@ -1,0 +1,207 @@
+"-.-.._l----- I )(~(` (~IlllM' I' I ` ,M! .
+
+---_--
+
+..--__._
+
+INFORMATION TECHNOLOGY Comments on Navy Facility Consolidation Plan
+
+----"1
+
+(;AO/NSIAD-W-t+7
+
+GAO
+
+United States General Accounting Office Washington, D.C. 20548 National Security and International Affairs Division
+
+B-251234 December 3,1992 The Honorable Richard B. Cheney The Secretary of Defense Dear Mr. Secretary: On July 24,1992, the Under Secretary of the Navy submitted for our review his department' s Information Technology Facility (ITF)' consolidation plan of June 1,1992. Under the fiscal year 1992 Department of Defense (DOD) appropriations act (sec. 8049), neither DOD nor the Navy may obligate or expend funds to implement a plan affecting ITFS in New Orleans, Louisiana, until 60 days after you submit a report, including our review comments, to the House and Senate Committees on Appropriations. In your report, you are required to address the Navy' s needs for information technology support and certify that the proposed consolidation plan 9 will not duplicate any function presently conducted; q will be cost effective from a budgetary standpoint; . will not adversely affect the mission, readiness, and strategic considerations of the Navy and Naval Reserve; will not adversely impact on the quality of life and economic benefits of individual service personnel; and will not have an adverse economic impact on a geographic area. This report constitutes our comments, which address whether the Navy' s plan meets the requirements, terms, and conditions in section 8049 of the fiscal year 1992 act2 as amplified in House R&ports 102-95and 102-328. The Navy' s June 1992 consolidation plan adequately considers the Navy' s needs for information technology and each of the requirements in the fiscal year 1992 act.
+TITS are data processing installations or software design activities. %ection 9047 of the fiscal year 1993DOD appropriations act is similar to section 8049. We note that section 9047 effectively replaces section 8049 and continues the latter section' s restriction on the obligation or expenditure of funds to implement any covered plan until 60 days after its submission to the Appropriations Committees of the Senate and the House of Representatives. Nevertheless, the conference committee' s report on DOD' s fiscal year 1992appropriations act directed GAO to certify in writing that any DOD or Navy plan that is submitted pursuant to section 8049, is cost effective and meets the requirements, terms, and conditions in that section and the applicable House report. It also requires that your report to Committees address establishment of a Data Processing Installation and Central Design Activity megacenter of the type contemplated in Defense Management Review Directive 918, which DOD approved in September 1992.Neither the Navy' s June 1992plan nor our review included consideration of such a megacenter.
+
+l
+
+l
+
+Results in Brief
+
+Page 1
+
+GAO/NSIAD-93-87 Information
+
+Technology
+
+B-261284
+
+Background
+
+In Defense Management Report Decision (DMRD) 924, dated November 18, 1990,the Deputy Secretary of Defense directed each of the military departmenmand the Defense Logistics Agency to improve the quahty and efficiency of general purpose computer support services through consolidation of its own ITFS. In response to DMRD 924, the Navy developed the June 1992plan based on four separate ITF consolidation studies. We limited our review to the consolidated data processing installations study because it alone affects facilities in the New Orleans area. The team that did the study first analyzed preliminary information for 1,246 Navy ITFSand concluded that 381 were candidates for consolidation. Through a questionnaire the team obtained detailed information about the size, floor space, equipment, work load, staffing, and operational cost at each of these facilities. After analyzing this information, the team selected 69 facilities as confirmed candidates for consolidation. The team then calculated the aggregate work load of these facilities and derived an estimate of the specially conditioned floor space that would physically accommodate the equipment needed to satisfy the work load requirement. Of the 69 candidates only 14 afforded a reasonable fraction of the needed floor space; these 14 were evaluated using weighted criteria that addressed issues such as operational cost and building condition. The team determined that to satisfy the consolidated work load requirement of the 69 sites, a combination of the six largest facilities would be needed. However, the team developed an array of seven combinations that included six to nine facilities and developed cost and savings estimates, including investment factors, for each of these combinations. The two most favorable combinations yielded savings projections that were within a narrow range of one another. Of the two, the team selected an eight-site configuration because it better satisfied a number of less-quantifiable factors such as the impacts on affected personnel and communities.
+DOD projected in April 1991that the Navy could save $505 million from fiscal years 1991through 1997 by consolidating its ITFS. This savings was taken as reductions in the Navy' s ITF budgets programmed through that period. The Navy' s plan projects an additional $43 million, which-according to Navy officials--will be cut from the ITF budget beginning in fiscal year 1993.These net savings include an investment of $263.3million, primarily for capital improvements to implement the consolidation plan.
+
+a
+
+Page 2
+
+GAO/NSIAD-93-87 Information
+
+Technology
+
+B-261234
+
+The Navy' s ITF Consolidation Plan Meets Legislative Requirements
+Plan Addresses Needs of Installations Supported
+
+We believe that the Navy' s` PTF consolidation plan adequately supports Navy installations' needs for information technology and meets the certification criteria in the fiscal year 1992 DOD appropriations act. The Navy used verifiable data and a conceptually sound analytical rationale to ensure that the plan met these requirements. In developing its plan, the Navy assumed that installations served by consolidated ITFS would be indifferent to the physical location of these facilities so long as their support requirements were met. Historical work loads were used to quantify the level of support capacity that would be needed to satisfy each installation' s current needs, and a small information technology staff will remain at most of these locations to ensure effective interaction as needs evolve. For example, the information technology staff at the Enlisted Personnel Management Center is expected to decline by 19 positions as the consolidated ITFat Pensacola, Florida, assumes responsibility for meeting the Center' s needs, but a staff of 5 people will remain at the Center to operate a local service office that will serve as liaison with Pensacola and ensure the ITFservice remains timely and responsive. The Navy' s plan defines how functional capability and responsibility can be consolidated to achieve efficiency through reduced overhead and the transfer of mainframe computer work load onto fewer, more modern computer systems. The plan does not explicitly address functional duplication, but planned capacity at each consolidated M ' Fis sized to meet historical levels of supply and demand. In some locations computer equipment retained in the local service offices could be used to duplicate a small fraction of functional capability at a consolidated RF, and some excess capacity will exist at the consolidated ITFS for contingency backup and disaster recovery purposes. In either instance the duplicate capability seems a prudent approach to ensuring responsiveness. Cost-effectiveness was a predominan t criterion the Navy used in selecting the consolidated site configuration around which it developed its plan. The Navy estimated the savings likely to result from each alternative combination of consolidation sites that could provide a fixed minimum level of effectiveness. To make these estimates, the Navy used two computer models. After selectively validating the inputs and outputs of
+
+Plan Lim its Duplication
+
+a
+
+Plan Focuses on Cost-Effectiveness in Selection of Consolidated Sit&
+
+Page 3
+
+GAO/NSIAD-93-87 Information
+
+Technology
+
+B-261284
+
+these models, we concluded that these models were conceptually sound analytical tools. The Navy used the Cost of Base Realignment Actions (COBRA) model to predict the impact of the consolidations on the personnel at each facility and then employed the Functional Economic Analysis model to estimate cost savings likely to result from each alternative configuration. Some of the economic assumptions in the COBRA model had been updated before the plan was prepared, and we asked the Navy to test the sensitivity of its previously estimated cost savings to the change in the assumptions. This sensitivity analysis suggested that the planned consolidation might yield more savings than were projected in the Navy' s original analysis. Although the Navy focused on co&effectiveness in its plan, it appropriately balanced that factor with other factors such as the national capital area downsizing initiative, which seeks to reduce support staffs in the Washington, D. C., metropolitan area when economically feasible.
+
+Planned Consolidation W ill Enhance M ission Effectiveness
+
+The Navy expects the plan to result in heightened mission effectiveness. Improved levels of automation and increased availability of production support tools afforded by larger, more modern mainframe platforms are intended to increase the quality of support and, in turn, mission effectiveness. Also, to help the consolidated ~PI' FS respond to traditional needs and to prompt adaptation to changing circumstances, the Navy is planning to maintain customer support organizations at the commands and field activities to be serviced. Although the consolidation of ITF facilities will result in the elimination of 153 personnel positions currently occupied by military service members-9 in New Orleans-we believe that there will be no adverse impact on service members'quality of life or economic benefits because the Navy does not expect to transfer any of these people until their current tours of duty expire. This should permit these people to avoid the costs or quality-of-life hardships that can result from an accelerated permanent change of station. For the most part, the reductions in personnel positions and the involuntary separation of government employees will occur in or near metropolitan areas, where the relatively small number of positions involved will have an imperceptible impact on the economy. Even in areas
+
+Plan W ill Not Result in Adverse Impact on M ilitary Personnel
+
+a
+
+Impact of Consolidation on Geographic Areas Is M inimal
+
+Page 4
+
+GAO/NSIAD-93-87 Information
+
+Technology
+
+B-261284
+
+I-------
+
+--
+
+-
+
+of smaller populations, any impact is unlikely to be significantly adverse. The Navy' s plan projects in detail the changes in personnel positions as a result of the planned consolidation. The Navy plan projects that by 1997,a nationwide net reduction in the ITF work force will be 1,046positions, including 90 involuntary government employee separations, of an original total of 3,915 positions. In New Orleans, a metropolitan area with a population of about 1.2 million people, the net reduction is estimated to be 46 positions. (See app. I for the estimated number of changes in other locations.)
+-i Ve visited the Naval Information System Management Center, Naval s;upply Systems Command, and the Office of the Navy Comptroller in the \1 Vashington, D.C., area, where we interviewed personnel responsible for
+
+Scope and Methodology
+
+esxecutingthe consolidated data processing installations study, preparing he ITF consolidation plan, and formulating the Navy' s information t1 tc ethnology budget request. We also interviewed officials from the Office of he Secretary of Defense who were responsible for tracking and t1 924. il mplementing DMRD We reviewed the Navy' s ITF consolidation plan, the study on which it was based, and the internal evaluations of representatives of the activities and commands that will principally be affected by implementation of the plan. We also examined data bases and documentation related to the study and the plan. We selectively tested and validated the Navy' s data, analytical methodologies, and evaluation techniques and assessedthe reasonableness of assumptions and limitations in scope that characterized the study. We conducted our review from July to November 1992 in accordance with generally accepted government auditing standards. As requested, we did not obtain written agency comments. However, we discussed the information in a draft of this report with officials from the Office of the Secretary of Defense and the Navy, who expressed general concurrence with our findings and conclusions. We have incorporated their comments in this report where appropriate. b
+
+Page 5
+
+GAODWAD-93-87 Information
+
+Technology
+
+, ,i `
+
+I
+
+` . ,i.
+
+,I'
+
+".
+
+.,. 1' :
+
+B-261224
+
+We are sending copies of this report to the Chairmen, Senate and House Committees on Appropriations, and to the Secretary of the Navy. We will also make copies available to others on request. Major contributors to this report are listed in appendix II.
+I
+
+Sincerely yours,
+
+Richard Davis Director, Navy Issues
+
+a
+
+Page 6
+
+GAO/NSIALL93-87 Information
+
+Technology
+
+Page 7
+
+GAO/NSIAD-93-87 Information
+
+Technology
+
+Appendix I
+
+Estimated Civilian Personnel Impact
+
+Location affected
+Harrisburg, Pennsylvania Philadelphia, Jacksonville, Pennsylvania Florida Pensacola, Florida Kern County, California El Toro, California Washington, D.C. Ventura County, California San Diego, California Norfolk, Virginia Bremerton, Washington Pearl Harbor, Hawaii San Francisco, California New Orleans, Louisianna Charleston, South Carolina Craven Countv, North Carolina Indianapolis, Indiana New Jersey Monmouth/Ocean,
+
+Number of starting staff
+200 161 197 193 16 13 784 241 355 368 259 156 170 67 162 128 106 61 40 20 18 18 55 48 32 47
+
+Number of endlng staff
+250 197 213 153 16 13 455 140 254 283 179 84 99 22 131 97 82 32 20 4 3 3 40 36 23 40
+
+Positions reduced (added)
+(50) (361
+
+Number of persons separated
+0 0 0 4 0 0 20 9 13 12 7 3 8 6 0 0 0 2 2 0 2 2 0 0 0 0
+
+Area population
+857,966 4,856,881 344,406 906,727 543,447 62.685 3,923,574 669,016 2.498,016 1,396,107 189,731 836,231 723,959 1,238,816 506,875 81,613 1,249,822 986,327 60,195 349,894 78,024 7,711 952,662 350,078 287,644 126.994 b
+
+(16)
+40 0 0 329 101 101 85 80 72 71 45 31 31 24 29 20 16 15 15 15 12 9 7
+
+Island Countv, Washinaton Corpus Christi, Texas Monroe County, Florida Brunswick, Maine Louisville, Kentucky Portsmouth, New Hampshire Newport, Rhode Island and New London, Connecticut Panama Citv. Florida
+
+Total
+
+24,115,401 90 1,046 2,869 Note: The numbers in this appendix reflect the results of all four studies included in the Navy' s ITF consolidation plan, not just the results of the consolidated data processing installation study. 3,915
+
+Page 8
+
+GAO/NSIAD-93-87 Information
+
+Technology
+
+AppendixII
+
+Major Contributors to This Report
+
+National Security and International Affairs Division, Washington, DC. Office of the Chief Economist Office of the General Counsel
+
+Norman J. Rabkin, Associate Director Patrick S. Donahue, Assistant Director Marilyn Mauch, Assistant Director Joseph F. Brown, Evaluator-in-Charge Charles W. Perdue, Senior Economist Harvey J. Finberg, Senior Evaluator Harold J. Brumm, Jr., Senior Economist
+
+Raymond J. Wyrsch, Attorney
+
+(394495)
+
+Page 9
+
+GAO/NSIAD-93-37 Information
+
+Technology
+
+.".. -,- _ .._ _.I....^.
+
+_
+
+._
+
+(iwit hrstnlrgC,
+
+MI) 2ON77
+
+

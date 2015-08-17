@@ -1,0 +1,417 @@
+Houseof Representatives
+April 1987
+
+d
+
+INTEROPERABILITY DOD'sEfforts to Achieve y Interoperability Among C3 SyStems".
+
+GAO
+
+General Accosting Offlce Wadngton, D.C. 20548 National security and International Affairs Division E2266!l3
+
+united state9
+
+April 271987 The Honorable Jack Brooks Chairman, Legrslation and National Security Subcommittee Committee on Government Operations House of Representatives Dear Mr. Chairman: In your letter of February 19,1986, you asked us to evaluates
+l
+
+l
+
+l
+
+the extent to which communications interoperability problems have been identified during exercises and past operations; the impediments preventing mteroperabihty and how much they can be overcome; and the prognosis for the newly created Joint Tactical Command, Control, and Communications (~3) Agency to achieve significantly greater mteroperability among the mihtary services. We discussed these issues at hearmgs on August 14,1986, before your Subcomnuttee. A copy of our testimony is included as appendix I This letter summarizes some of our testimony along with additional observations about the Department of &!fense's (DOD's) efforts to attam a greater degree of interoperability among its ~3 systems. Appendix II more fully discusses those observations. Since the Vietnam War, the Congress has had a continuing mterest m DOD'S efforts to develop interoperable C3 systems. Although DOD, including the Office of the Joint Chiefs of Staff and the services, has begun a number of initiatives to achieve interoperability among c3 systems, overall success of such efforts has been disappointing. This dlsappointment is reflected in . DOD'Sfailure to develop an overall cs architecture, . the length of time DODtook to revise its interoperability directive, and . DOD'Slimited success in fielding common and compatible c3 equipment In our testimony, we discussed ~3 interoperability problems experienced in Vietnam and Grenada and in joint exercises. We also noted that our recently completed audit in the Pacific theater showed the services still do not have compatible encryption equipment, antijam radios, and satellite terminals.
+
+Past studies frequently cite, and DODofficials generally agree, that there are three causes for interoperability problems. . DOD'sdecentralized management structure, the lack of clearly defined joint requirements, and the absence of an effective central enforcement authority to make the necessary interoperability declslons. In our testunony, we concluded that it was too early to determme whether the Joint Tactical ~3 Agency would succeed. Nonetheless, we believe the ~3 architecture being developed by the Joint Tactical c3 Agency should help. Unfortunately, it could be years before the c3 arch1 tecture is completed, and past experience provides little assurance that it wilI ever be effectively implemented. Also, the changes anticipated from implementation of the Defense Reorganization Act of 1986 should help to achieve interoperability in the long run. We believe that interoperability could be enhanced more m-mediately if the service secretaries certified to the Secretary of Defense that c3 equipment being developed and procured will interoperate with other c equipment when required to do so. Such a certification program could provide more visibility to decisions effecting interoperablllty and provide a basis to evaluate specific systems. We recommend that the Secretary of Defense require that the service secretaries certify that the ~3 equipment being developed and procured wiIl provide the needed degree of interoperability urlth other c3 equlpment in order to satisfy the operational plans of the urufied commanders. If the c3 equipment wilI not provide the needed degree of interoperability, the service secretaries should seek a waver from the Secretary of Defense or a designee. We also recommend that the Secretary of Defense allow the services to seek congressional fundmg only fc items that will provide the needed degree of interoperablhty or for which a waiver has been approved. We discussed key facts of this report with representatives of the Joint Chiefs of Staff and Joint Tactical c3 Agency. Officials of the Jomt Chle of Staff emphasized the complexity of the interoperability tasks, and said that several programs had made progress in specific areas. such a standard message formats. As agreed, we did not obtain formal comments from DOD.
+
+l
+
+l
+
+Page2
+
+GAO/NSlAD47-124 hteropembilky Amoq C3Syste
+
+Unless you publicly announce its contents earlier, we plan no further distribution of this report until 10 days from the date of this letter At that tune we will send copies to interested parties and make copies avaJlable to others upon request. Sincerely yours,
+
+Frank C. Conahan Assistant Comptroller General
+
+P8ge3
+
+GAO/NSIADW-124 Interoperability Amongc3 syrtems
+
+Contents
+
+Letter Appendix I Testimony on DOD's Efforts to Achieve a Greater Degree of Interoperability Appendix II DOD's Efforts to Achieve
+Interoperabifity Among Objectives, Scope, and Methodology The Congress Has Encouraged DOD and the Services to Achieve Greater Interoperability DOD Initiatives to Achieve a Greater Degree of Interoperability Unified Commanders Want More Interoperability Defense Reorganization Act Conclusions Recommendations
+
+Tactical C3 Systems
+
+Abbreviations command, control, and communications c3 Department of Defense DOD Ground and Amphibious Military Operations GAMO JINTACCS Joint Interoperability of Tactical Command and Control JTIDS Systems Joint Tactical Information Distribution System TRI-TAC T&Service Tactical Communications Program
+
+p-4
+
+GA0/N3IAJM7-124
+
+IntervperabUity
+
+kmong C3 S>
+
+P8ge5
+
+GAo/NSIAD-87-124
+
+lnteropemblllty
+
+Among C3 Systems
+
+Appendix I
+
+Testimony on DOD'sEfforts to Achieve a Greater Degreeof Interoperability
+
+FOR RELEASE ON DELIVERY EXPECTED AT 1O:OO AM THURSDAY AUGUST 14, 1986
+
+UNITED STATES GENERAL ACCOUNTING OFFICE WASHINGTON D.C. STATEMENT OF RICHARD A. DAVIS ASSOCIATE DIRECTOR, NATIONAL SECURITY AND INTERNATIONAL AFFAIRS DIVISION BEFORE THE SUBCOMMITTEE ON LEGISLATION AND NATIONAL SECURITY COMMITTEE ON GOVERNMENTOPERATIONS HOUSE OF REPRESENTATIVES
+ON /
+I
+
+THE DEPARTMENT OF DEFENSE'S EFFORTS TO ACHIEVE A GREATER DEGREE OF INTEROPERABILITY
+
+Page6
+
+GAO/NSIADW-124 Intempembilky AnrocyC-3 Syatm
+
+MR. CHAIRMAN AND MEMBERSOF THE SUBCOMMITTEE: I AM PLEASED TO APPEAR BEFORE THE SUBCOMMITTEE TODAY TO TESTIFY 0~ OUR REVIEW OF THE DEPARTMENT OF DEFENSE'S (DOD's) EFFORTS TO ACHIEVE A GREATER DEGREE OF INTEROPERABILITY FOR COMMAND, CONTROL, AND COMMUNICATION SYSTEMS. DURING THIS REVIEW YOU ASKED US TO PAY PARTICULAR ATTENTION TO -THE EXTENT TO WHICH INTEROPERABILITY PROBLEMS HAVE BEEN IDENTIFIED DURING RECENT TRAINING EXERCISES AND PAST OPERATIONS SUCH As GRENADA; THE NATURE OF THE IMPEDIMENTS PREVENTING THE ACHIEVEMENT OF INTEROPERABILITY AND THE EXTENT TO WHICH THESE IMPEDIMENTS CAN BE OVERCOME; AND THE PROGNOSIS FOR THE JOINT TACTICAL COMMAND, CONTROL, AND COMMUNICATIONS AGENCY ACHIEVING A SIGNIFICANTLY GREATER DEGREE OF INTEROPERABILITY AMONGTHE MILITARY SERVICES.
+
+'
+
+--
+
+--
+
+I
+
+BACKGROUND INTEROPERABILITY, ACCORDING TO THE JOINT CHIEFS OF STAFF (JCS), IS ACHIEVED AMONG COMMAND, CONTROL, AND COMMUNICATIONS (C3) SYSTEMS WHEN INFORMATION IS EXCHANGEDAMONGTHE SERVICES TO ACHIEVE INTEROPERABILITY, THE DIRECTLY AND SATISFACTORILY. SERVICES NEED COMPATIBLE EQUIPMENT AS WELL AS COMPATIBLE OPERATIONAL PROCEDURESSUCH AS CODES, FORMATS, AND AUTHORIZATIONS. THE OVERALL PLAN, OR DESIGN, TO DEVELOP AND ASSURE THIS COMPATIBILITY IS REFERRED TO AS THE C3 ARCHITECTURE WHICH IS ESSENTIAL TO THE ACHIEVEMENT OF INTEROPERABILITY. ARMY, NAVY, AIR FORCE, AND MARINE CORPS FORCES, WHEN ENGAGED IN JOINT OPERATIONS, MUST BE ABLE TO USE THEIR COMBINED POWERTO ACHIEVE MAXIMUM EFFECTIVENESS. THIS COMBINED USE IS ACCOMPLISHED THROUGH THE CONTINUOUS EXCHANGEOF INFORMATION USING THE VARIOUS ELEMENTS OF THE COMMAND AND CONTROL SYSTEMS WHICH SUPPORT AND LINE THE TACTICAL COMMANDER WITH OTHER COMMANDS AND ELEMENTS. EVERY ASPECT OF THE OPERATION DEPENDS HEAVILY ON THIS VITAL FLOW OF INFORMATION. INTEROPERABILITY--A LONGSTANDING PROBLEM
+
+THE SERVICES HISTORICALLY HAVE BEEN UNABLE TO COMMUNICATE EFFECTIVELY AMONGTHEMSELVES DURING JOINT OPERATIONS AND EXERCISES. THIS WAS THE CASE IN KOREA, THE DOMINICAN REPUBLIC LANDING, VIETNAM AND, ALMOST 20 YEARS LATER, DURING THE GRENADA INTERVENTION IN 1983. TODAY, THERE ARE STILL INSTANCES IN WHICH THE SERVICES CANNOT EFFECTIVELY TALK OR EXCHANGE INFORMATION. THE INABILITY OF AIR AND GROUNDUNITS TO EFFECTIVELY COMMUNICATE CAN LEAD TO SERIOUS CONSEQUENCES. FOR EXAMPLE, SURFACE-TO-AIR MISSILES COULD SHOOT U.S. AIRCRAFT OR U.S.
+
+P8geg
+
+GAom3LuM7-124
+
+xntero~mbiuty
+
+Among c3 syst
+
+I
+
+1
+
+AIRCRAFT COULD BOMB OR FIRE UPON AMERICAN FORCES, AS OCCURREDIN GRENADA. DURING THE VIETNAM WAR, THE SCARCITY OF INTEROPERABLE ( COMMUNICATION EQUIPMENT SEVERELY HAMPEREDOPERATIONS, ESPECIALLY IN CLOSE AIR SUPPORT OPERATIONS. CLOSE AIR SUPPORT IS DEFINED AS THE AIR ACTION AGAINST HOSTILE TARGETS WHICH ARE NEAR FRIENDLY FORCES. WHEN CLOSE AIR SUPPORT OPERATIONS ARE REQUIRED, THE ABILITY OF AIR AND GROUNDUNITS TO EFFECTIVELY COMMUNICATE CAN GREATLY ENHANCE OPERATIONS. ACCORDING TO A FORMER DEPUTY DIRECTOR OF DOD'S TACTICAL WARFARE PROGRAM, CLOSE AIR SUPPORT DELIVERED AS NEEDED, QUICKLY, AND IN THE RIGHT AMOUNT AND KIND IS THE PRINCIPLE MEANS OF REDUCING LOSSES ON THE GROUND. IN VIETNAM, THE AIR FORCE COULD NOT PROVIDE ADEQUATE AND RESPONSIVE AIR SUPPORT TO ARMY GROUNDFORCES BECAUSE THEIR RADIOS WERE NOT COMPATIBLE. THE AIR FORCE USED UHF/AM RADIOS WHILE THE ARMY USED VHF/FM RADIOS. IN GRENADA,.AIR SUPPORT OPERATIONS WERE AGAIN HAMPERED. ARMY GROUNDFORCES AND THE MARINES COULD NOT TALK DIRECTLY TO EACH OTHER BECAUSE EACH SERVICE HAD INCOMPATIBLE RADIOS. , FURTHERMORE, ARMY GROUNDFORCES COULD NOT TALK TO NAVY SHIPS BECAUSE THE SERVICES HAD DIFFERENT PROCEDURESFOR REQUESTING AIR SUPPORT AND ARMY UNITS COULD NOT AUTHENTICATE AIR AND FIRE SUPPORT REQUESTS BECAUSE THEY DID NOT HAVE NAVY CODES. THE ABSENCE OF SECURE COMMUNICATIONS IN VIETNAM SEVERELY IMPAIRED OPERATIONS. FOR MAMPLE, A 1972 HOUSE ARMED SERVICES SUBCOMMITTEE THAT REVIEWED DOD'S WORLDWIDECOMMUNICATIONS FOUND THAT
+
+PagtB
+
+GAO/NSiAD437-124h1teropembility AmongC3Sysvma
+
+Ttsthmny on DOD% Effort to Achieve GmxterDegreeofInteropembUity
+
+a
+
+ENEMY INTERCEPTION OF UNENCRYPTEDVOICE COMMUNICATIONS GAVE NOTICE OF PLANNED ASSAULTS, AMBUSHES, AIR STRIKES, AND ARTILLERY BARRAGES, AND PERMITTED THE ENEMY TO TAKE COUNTERMEASURES TO EVADE OR DEFEAT THOSE ACTIONS."
+. . .
+
+n
+
+'
+
+IN THE YEARS FOLLOWING VIETNAM, EACH SERVICE MADE SIGNIFICANT PROGRESSIN DEVELOPING AND ACQUIRING SECURE VOICE COMMUNICATION SYSTEMS. HOWEVER, DURING GRENADA, THE SERVICES WERE UNABLE TO COMMUNICATEWITH EACH OTHER IN A SECURE MANNER BECAUSE EACH SERVICE ARRIVED IN GRENADA WITH A VARIETY OF DIFFERENT RADIOS, SATELLITE COMMUNICATIONS AND ENCRYPTION DEVICES, ALL OF WHICH WERE INCOMPATIBLE. INTEROPERABILITY PROBLEMS HAVE BEEN CONSISTENTLY IDENTIFIED IN JOINT EXERCISES. WE REVIEWED INFORMATION PERTAINING TO 24 THIS INFORMATION JOINT EXERCISES CONDUCTEDFROM 1979 TO 1985. SHOWED80 EXAMPLES OF INTEROPERABILITY PROBLEMS RELATING TO EQUIPMENT, PROCEDURES, DOCTRINE, AND TRAINING. FOR EXAMPLE, TWO EXERCISES CONDUCTEDIN THE EARLY 1980s SHOWEDTHAT AIR DEFENSE OPERATIONS WERE NOT EFFECTIVE BECAUSE THE SERVICES USED INCOMPATIBLE ENCRYPTION DEVICES.
+
+1
+
+CURRENT COMMUNICATION INTEROPERABILITY
+
+PROBLEMS
+
+WE RECENTLY COMPLETED AN AUDIT IN THE PACIFIC THEATER WHICH INDICATES THAT THE SERVICES STILL DO NOT HAVE INTEROPERABLE COMMUNICATIONS. ENCRYPTION EQUIPMENT WE FOUND THE INCONSISTENT AVAILABILITY OF ENCRYPTION EQUIPMENT THAT EXISTS IN THE PACIFIC THEATER IS SIMILAR TO THAT WHICH EXISTED IN GRENADA AND PAST EXERCISES.
+
+i
+
+/
+
+CRYPTOGRAPHIC EQUIPMENT "SCRAMBLES" RADIO TRANSMISSIONS TO ACHIEVE COMMUNICATIONS SECURITY. THE TWO PRINCIPAL TACTICAL VOICE ENCRYPTION DEVICES USED BY THE MILITARY SERVICES DO NOT INTEROPERATE. ALTHOUGH EACH SERVICE IS MOVING TO A NEWER ENCRYPTION DEVICE, U.S. FORCES IN THE PACIFIC THEATER ARE AT DIFFERENT STAGES OF CONVERTING TO THE NEWERDEVICE. BECAUSE EACH SERVICE HAS DIFFERENT FUNDING PRIORITIES, THE AMOUNTS OF EQUIPMENT PURCHASEDAND THE FIELDING SCHEDULES VARY BY SERVICE AND EVEN WITHIN A SERVICE. UNCOORDINATED FIELDING OF THE NEWER DEVICE HAS LED TO JOINT AND INTRASERVICE INTEROPERABILITY PROBLEMS. IN THE PACIFIC THEATER, THE ARMY HAS COMPLETED MOST OF ITS PLANNED CONVERSION TO THE NEWER ENCRYPTION DEVICE BUT HAS HAD TO RETAIN SOME OF THE OLDER EQUIPMENT TO INTEROPERATE WITH THE OTHER SERVICES. ALTHOUGH THE NAVY IS CONVERTING ITS AIRCRAFT AND SHIPS, THE CONVERSION MAY TAKE 5 YEARS TO COMPLETE BECAUSE IT INSTALLS THE NEWER ENCRYPTION EQUIPMENT WHILE SHIPS ARE IN DRYDOCK FOR MAINTENANCE. PACIFIC AIR FORCE CONVERSION TO THE NEWEREQUIPMENT IS PROCEEDING SLOWLY BECAUSE THE AIR FORCE PREFERS TO CONVERT A SQUADRONAT A TIME AND WILL NOT USE THE NEW EQUIPMENT UNTIL ALL PACIFIC AIRCRAFT AND GROUNDFACILITIES ARE CONVERTED. AS A RESULT, F-16S, WHICH COME OFF THE ASSEMBLY LINE DESIGNED FOR THE NEW EQUIPMENT, HAVE HAD TO BE MODIFIED TO ACCOMMODATE THE OLD EQUIPMENT. PACIFIC AIR FORCE OFFICIALS WERE UNCERTAIN WHEN THE NEW EQUIPMENT WOULD BE INSTALLED IN FIXED FACILITIES.
+
+.
+
+AppcndlxI T%hnonyonDoD'tEfforttttAthkvtt GrttttrhgretofInttmptrtbHi~
+
+HAVE QUICK RADIOS
+
+HAVE QUICK IS AN AIR FORCE RADIO SYSTEM THAT WAS RECOMMENDED BY THE JCS AND DOD FOR JOINT PROCUREMENT BY EACH SERVICE TO COUNTER A SOVIET JAMMING THREAT. MOST PACIFIC AIR FORCE AIRCRAFT ARE EQUIPPED WITH THESE RADIOS. HOWEVER, BECAUSE OF TECHNICAL PROBLEMS THE GROUNDVERSION IS NOT EXPECTED TO BE FIELDED UNTIL UNTIL GROUNDHAVE QUICK RADIOS ARE AFTER FISCAL YEAR 1988. FIELDED, AIR FORCE GROUNDUNITS' COMMUNICATIONS WITH AIRCRAFT WILL NOT BE JAM RESISTANT. AS AN INTERIM MEASURE, HOWEVER, SOME GROUND UNITS ARE USING AIRBORNE HAVE QUICK RADIOS TO GET JAM RESISTANT COMMUNICATIONS. U.S. ARMY COMMANDSIN HAWAII AND KOREA DO NOT HAVE HAVE QUICK RADIOS ALTHOUGH THEY BELIEVE THEY ARE NEEDED FOR JAM RESISTANT GROUND-TO-AIR COMMUNICATIONS WITH THE AIR FORCE. ARMY OFFICIALS HAVE NOT ACQUIRED HAVE QUICK RADIOS BECAUSE THEY INTENDED TO ACHIEVE JAM RESISTANT GROUND-TO-AIR COMMUNICATIONS WITH THE SINGLE CHANNEL GROUND-TO-AIR RADIO SYSTEM (SINCGARS) THE ARMY HAS EXPERIENCED BETWEEN FISCAL YEARS 1987 AND 1988. SOME DEVELOPMENTPROBLEMS WITH SINCGARS AND ORIGINAL FIELDING SCHEDULES ARE LIKELY TO SLIP. THE NAVY PLANS TO ACQUIRE ONLY ENOUGH HAVE QUICK RADIOS TO MEET MINIMUM INTEROPERABILITY REQUIREMENTS. CURRENTLY, THE NAVY HAS A FEW IT USES DURING EXERCISES FOR INTEROPERABILITY WITH THE AIR FORCE. THE NAVY DELAYED ACQUIRING THE RADIOS BECAUSE IT WAS DEVELOPING ITS OWN SYSTEM. WHEN DEVELOPMENTALPROBLEMS AROSE WITH ITS SYSTEM, THE NAVY DECIDED TO BUY SOME HAVE QUICK RADIOS AS AN INTERIM CAPABILITY.
+
+P8gt12
+
+GAO/IWIAIM7-124 Inttroptrnbtllty Among CC3 Sys~
+
+SATELLITE
+
+TERMINALS
+
+THE ARMY AND AIR FORCE CANNOT COMMUNICATEVIA SATELLITES IN ONE PACIFIC THEATER COUNTRY BECAUSE THEIR SATELLITE TERMINALS USE DIFFERENT MULTIPLEXERS. THE ARMY AND AIR FORCE ARE AWARE OF THE PROBLEM AND PLAN TO ACHIEVE INTEROPERABILITY BY 1989 BY INSTALLING SIMILAR MULTIPLEXERS. IMPEDIMENTS TO ACHIEVING INTEROPERABILITY A NUMBER OF REASONS HAVE BEEN CITED FOR CONTRIBUTING TO INTEROPERABILITY PROBLEMS. THREE REASONS FREQUENTLY CITED BY PAST STUDIES AND BY AGENCY OFFICIALS INCLUDE DOD'S DECENTRALIZED MANAGEMENTSTRUCTURE, LACK OF CLEARLY DEFINED JOINT REQUIREMENTS, AND THE ABSENCE OF AN EFFECTIVE CENTRAL ENFORCEMENTAUTHORITY. MANAGEMENTSTRUCTURE AS IN A NUMBER OF PRIOR STUDIES, A NAVY ADVISORY PANEL ON C3 INTEROPERABILITY REPORTED IN 1985 THAT DOD'S INABILITY TO ACHIEVE INTEROPERABILITY IS PRIMARILY RELATED TO ITS DECENTRALIZED MANAGEMENTSTRUCTURE WHICH PERMITS EACH SERVICE A LARGE DEGREE OF AUTONOMY OVER ITS PROGRAMS. ACCORDING TO THE PANEL, THE ASSIGNMENT OF RESPONSIBILITIES IS DIFFUSE, PERMITTING THE SERVICES TO "REINTERPRET" ORDERS TO FURTHER SERVICE PAROCHIAL INTERESTS BY DELAYING OR PREVENTING INTERSERVICE AGREEMENTS. THE FIELDING OF THE REGENCY NET SYSTEM IN THE PACIFIC THEATER ILLUSTRATES HOW PAROCHIAL INTEREST CAN IMPEDE INTEROPERABI LITY GOALS. REGENCY NET IS INTENDED TO BE A SECURE, JAM RESISTANT, HIGH FREQUENCY RADIO SYSTEM FOR CRITICAL THEATER COMMUNICATIONS. ALTHOUGH BOTH JCS AND THE OFFICE OF THE SECRETARY OF DEFENSE (OSD) VALIDATED THE NEED FOR THE SYSTEM TO OVERCOMEEXISTING OPERATIONAL DEFICIENCIES, THE NAVY, RATHER THAN
+
+Page13
+
+GAO/NSIAD47-124 Intmoperabllity Among
+
+C3 Systems
+
+I USE THE REGENCY NET RADIO FOR ITS FORCES AFLOAT, WANTS TO DEVELOP AND USE ITS OWN HIGH FREQUENCY RADIO. ALTHOUGH THE NAVY'S HIGH FREQUENCY RADIO IS PLANNED TO BE INTEROPERABLE WITH REGENCY NET, USING IT IN LIEU OF THE APPROVED SYSTEM COULD MEAN A DELAY OF ABOUT 5 YEARS BEFORE THE SYSTEM IS FULLY OPERATIONAL. REQUIREMENTS IN A STUDY OF TACTICAL COMMUNICATIONS COMPLETED IN MARCH 1983, THE INSTITUTE FOR DEFENSE ANALYSIS (IDA) CONCLUDEDTHAT A "MAJOR PROBLEM IS A LACK OF ADEQUATE JOINT USER NEEDS AND REQUIREMENTS . . ." THE NAVAL ADVISORY PANEL, IN A 1985 STUDY, FOUND THAT NEITHER THE ASSISTANT SECRETARY OF DEFENSE FOR C3 NOR THE JCS HAS ESTABLISHED MINIMUM ESSENTIAL INTEROPERABILITY REQUIREMENTS. THE LACK OF THESE REQUIREMENTS ALLOWS EACH SERVICE TO DETERMINE ITS OWN REQUIREMENTS, OFTEN WITH LITTLE, IF ANY, CONCERNFOR INTERSERVICE NEEDS. CONSEQUENTLY, MANY SYSTEMS ARE FIELDED WHICH ARE NOT INTEROPERABLE. JOINT REQUIREMENTS WERE NOT AGREED TO WHEN THE AIR FORCE AND NAVY BEGAN TO DEVELOP THE JOINT TACTICAL INFORMATION DISTRIBUTION AS A RESULT, THE TWO SERVICES, WHEN DEVELOPING SYSTEM (JTIDS). THE SYSTEM, ADOPTED DIFFERENT TECHNOLOGIES THAT WERE NOT INTEROPERABLE. IN 1982 WE REPORTED THAT, "THE USE OF TWO DIFFERENT TECHNOLOGIES WITH THE ASSOCIATED INCREASED COSTS AND FINALLY, IN INTEROPERABILITY PROBLEMS MAY NOT BE APPROPRIATE." 1985 THE CONGRESSTOLD DOD THAT IT WOULD FUND ONE PROGRAMONLY BECAUSE IT WAS CONCERNEDABOUT THE ABILITY OF THE TWO SERVICES T( INTEROPERATE. THE SECRETARY OF THE NAVY SUBSEQUENTLYCANCELED THE PROGRAMON WHICH THE NAVY HAD SPENT OVER $100 MILLION.
+
+'
+
+P8gt14
+
+Tttthmy on DOD% Efforu to Achievet Gnwer Dtgmt 0fIntcropvlwLity
+
+A NUMBER OF STUDIES HAVE CONCLUDEDTHAT IT IS NOT ONLY IMPORTANT TO ESTABLISH JOINT REQUIREMENTS BUT THERE IS A NEED TO ESTABLISH THEM EARLY IN THE ACQUISITION CYCLE. THIS IS BECAUSE IT IS USUALLY TOO DIFFICULT AND COSTLY TO MODIFY SYSTEMS ONCE THEY HAVE BEEN DEVELOPED AND FIELDED. DOD ENFORCEMENTAUTHORITY FOR INTEROPERABILITY A COMMON THEME IN A NUMBER OF PAST STUDIES WAS THAT NO DOD ORGANIZATION HAS OR IS WILLING TO EXERCISE ITS AUTHORITY TO ENFORCE INTEROPERABILITY STANDARDS ESPECIALLY FOR EXISTING SYSTEMS. THESE STUDIES HAVE SUGGESTEDTHAT CLEARER MECHANISMS ARE NEEDED TO RESOLVE CONFLICTING SERVICE DEMANDS. ONE EXAMPLE THAT ILLUSTRATES THIS POINT PERTAINS TO DOD'S ATTEMPT TO REVISE ITS BASIC DIRECTIVE (DOD DIRECTIVE 4630.5) THE ASSISTANT SECRETARY OF DEALING WITH INTEROPERABILITY. DEFENSE FOR COMMAND, CONTROL, COMMUNICATIONS, AND INTELLIGENCE TESTIFIED BEFORE THE SENATE ARMED SERVICES COMMITTEE IN MARCH 1985 ON THE DIFFICULTIES HE ENCOUNTEREDAS FOLLOWS. I . . . STARTING IN THE SEVENTIES AND AGAIN IN 1980 AND AGAIN IN 1983 WE TRIED TO GET A NEW DIRECTIVE THROUGH THE PENTAGON BUREAUCRACY. . , FRANKLY, WE HAVE NOT BEEN SUCCESSFUL IN DOING THAT BECAUSE OF THE DIFFERENT VIEWS ON WHAT SHOULD BE SAID IN SUCH A DOCUMENT." PACIFIC COMMANDC3 OFFICIALS RECENTLY TOLD US THAT THE LACK OF A SINGLE ENTITY IN DOD WITH THE RESPONSIBILITY AND AUTHORITY TO SET AND ENFORCE INTEROPERABILITY STANDARDS IS ONE REASON FOR INTEROPERABILITY PROBLEMS IN THEATER.
+
+I
+
+P8gt 15
+
+GAO/BBIABB7-124
+
+Interoptrability AmongC3Systems
+
+Appc* 1 TtttimtnyttDOD'rEKtrttctAthitvtt GreaterDtgmeof Inttroptmbillty
+
+THE INSTITUTE CONCLUDED THAT
+
+FOR DEFENSE ANALYSIS,
+
+IN ITS 1983 STUDY,
+
+"SECURE, JAM RESISTANT NET RADIOS AND DATA DISTRIBUTION SYSTEMS . . . ENCOMPASSSUCH DIVERSE REQUIREMENTS AND APPROACHESAMONGTHE THREE SERVICES THAT DUPLICATION AND LACK OF INTEROPERABILITY ARE ALMOST INEVITABLE UNLESS SOME CENTRAL CONTROL AUTHORITY CAN OVERSEE THE DEVELOPMENTS TAKING PLACE IN THE INDIVIDUAL SERVICES." IN OUR 1983 REPORT ON JOINT SYSTEM ACQUISITIONS, WE REPORTED THAT NO ORC2iNIZATION OR MANAGEMENTLEVEL HAS THE FINAL WORDOR THE SUSTAINED CLOUT TO GAIN ACCEPTANCE AND IMPLEMENTATION OF ITS DECISIONS. THE SECRETARY OF DEFENSE HAS NO SUBSTANTIAL MILITARY STAFF. THE OFFICE OF THE JOINT CHIEFS OF STAFF COULD FILL THIS VACUUM, BUT AS MANY OBSERVERS HAVE POINTED OUT, THE JCS IS NOT SET UP OR IS SO DETACHED FROM THE SERVICES AS TO BE ABLE TO RESOLVE SUCH CONFLICTS, OR TO CHOOSE THE SYSTEM OF ONE SERVICE OVER THE SYSTEM OF ANOTHER. ALTHOUGH BOTH THE SECRETARY OF DEFENSE AND THE JCS HAVE THE AUTHORITY TO MAKE SUCH CHOICES, NEITHER HAS EXERCISED IT TO ANY GREAT DEGREE. THE JOINT TACTICAL COMMAND, , CONTROL, AND COMMUNICATIONS AGENCY OVER THE YEARS, DOD HAS TAKEN STEPS TO IMPROVE INTEROPERABILITY AMONGTHE SERVICES. THESE EFFORTS WERE PARTIAL STEPS AIMED AT SELECTED EQUIPMENT AND STANDARD FORMATS. THE JOINT TACTICAL COMMAND, CONTROL, AND COMMUNICATIONS AGENCY, WHICk WAS ESTABLISHED IN 1984, WAS GIVEN MUCH BROADER RESPONSIBILITIES. THE AGENCY IS RESPONSIBLE FOR FINDING AND PREVENTING PROBLEMS IN THE JOINT AND COMBINED C3 INTEROPERABILITY ARENA. SIMPLY PUT, THE AGENCY WAS ESTABLISHED TO BE THE INTEROPERABILITY ADVOCATE I' DOD, TO ADDRESS JOINT INTEROPERABILITY NEEDS, TO DEVELOP
+
+INTEROPERABILITY STANDARDS, AND TO ACT AS THE "HONEST BROKER" FOR INTEROPERABILITY. MORE SPECIFICALLY, A JULY 5, 1984, DOD DIRECTIVE 5154.28, WHICH ESTABLISHED THE AGENCY, CHARGED IT WITH ENSURING INTEROPERABILITY OF TACTICAL C3 SYSTEMS BY DEVELOPING AND MAINTAINING THE REQUIRED C3 ARCHITECTURE AND SPECIFICATIONS, AND BY DEVELOPING AND CONDUCTING AN INTEROPERABILITY TESTING AND CERTIFICATION PROGRAMTO ENSURE PROPER IMPLEMENTATION AND MAINTENANCE OF APPROPRIATE STANDARDS FOR USE IN JOINT AND COMBINED OPERATIONS. FURTHERMORE, THE REVISED 1985 DOD DIRECTIVE 4630.5 ALSO CHARGED THE AGENCY TO REVIEW FOR INTEROPERABILITY IMPLICATIONS, ALL APPROVED SERVICE AND UNIFIED COMMANDREQUIREMENTS DOCUMENTS AND TO VERIFY THAT THESE REQUIREMENTS ARE IN ACCORDANCEWITH ESTABLISHED PLANS. THE AGENCY VIEWS THE DEVELOPMENTOF THE TACTICAL C3 WHILE THE ARCHITECTURE AS ONE OF ITS PRIMARY RESPONSIBILITIES. AGENCY HAS DEFINED AN APPROACH FOR DEVELOPING THE ARCHITECTURE, THE DIRECTOR BELIEVES THAT THIS WILL BE A LONG TERM PROJECT THAT COULD TAKE YEARS TO COMPLETE. THE AGENCY'S AUTHORITY THE AGENCY'S ROLE IN ASSURING INTEROPERABILITY IS PRIMARILY AN ADVISORY ONE. THE AGENCY DOES NOT HAVE AUTHORITY TO ALTER A PROGRAMREGARDLESS OF THE INTEROPERABILITY PROBLEM IT MAY WHENTHE AGENCY IDENTIFIES AN INTEROPERABILITY IDENTIFY. PROBLEM, THE DIRECTOR TRIES TO RESOLVE IT BY CONSULTING WITH THE AFFECTED SERVICE OR UNIFIED COMMAND. IF THIS APPROACH FAILS, THE I DIRECTOR REPORTS THE PROBLEM TO JCS AND/OR OSD, ALONG WITH HIS RECOMMENDATION. OSD RETAINS THE AUTHORITY TO APPROVE OR
+
+Page17
+
+GAO/NW.124
+
+Inttroptrabillty AmongC-3 Systems
+
+DISAPPROVE SERVICE PROGRAMS, AND IT HAY SUSPEND A PROGRAMOR TAKE OTHER APPROPRIATE ACTION IF THERE ARE UNRESOLVEDQUESTIONS WARRANTING SUCH ACTION. SINCE ITS FORMATION, THE AGENCY HAS ISSUED 30 REPORTS TOUCHING ON VARIOUS C3 INTEROPERABILITY AREAS SUCH AS THE PROGRESS OF THE WORK IN ARCHITECTURE, PROCEDURALAND TECHNICAL STANDARDS, AND THE ASSISTANCE IT PROVIDES TO THE UNIFIED COMMANDS ON INTEROPERABILITY ISSUES, CONFIGURATION MANAGEMENT, JOINT TESTING, AND INTEROPERABILITY DATA BASES. ALTHOUGH THE MERE EXISTENCE OF A JOINT TACTICAL C3 AGENCY CANNOT GUARANTEE INTEROPERABILITY, IT SHOULD HELP TO ALLEVIATE SOME INTEROPERABILITY PROBLEMS IN THE SHORT TERM AND RAISE THE AWARENESSOF DOD COMPONENTS ON THE IMPORTANCE OF CONSIDERING INTEROPERABILITY IN THEIR C3 DECISIONS. SOME OF THE AGENCY'S EARLY EFFORTS, SUCH AS ITS ASSESSMENT OF A UNIFIED COMMAND'S OPERATIONS PLAN AND RECOMMENDATIONSFOR IMPROVEMENTS, COULD IMPROVE INTEROPERABILITY. IT IS TOO EARLY, HOWEVER, TO TELL TO WHAT EXTENT THE AGENCY WILL BE SUCCESSFUL IN ACHIEVING ITS OBJECTIVES. SUMMARY IN SUMMARY, THE SERVICES HAVE HAD PROBLEMS EFFECTIVELY COMMUNICATING IN PAST JOINT OPERATIONS AND IN SOME INSTANCES THEY CANNOT EFFECTIVELY COMMUNICATE TODAY. SOLVING THIS PROBLEM IS NO EASY TASK. IT REQUIRES THAT JOINT REQUIREMENTS BE CLEARLY STATED AND ACCEPTED BY THE SERVICES AT THE OUTSET. IT WILL REQUIRE A GREAT DEAL OF COOPERATION AMONGTHE SERVICES AND A GENUINE WILLINGNESS ON THE PART OF EACH SERVICE TO ACCEPT INTEROPERABILITY EVEN WHEN IT CONFLICTS WITH SOME TRADITIONAL SERVICE PRACTICES. IN ADDITION, INTEROPERABILITY NEEDS A STRONG
+
+CENTRAL AUTHORITY THAT WILL BE WILLING TO MAKE THE VERY DIFFICULT DECISIONS THAT MUST BE MADE. MR. CHAIRMAN, THIS CONCLUDES MY PREPARED STATEMENT. I WOULD BE PLEASED TO RESPOND TO ANY QUESTIONS YOU OR MEMBERSOF THE SUBCOMMITTEE MAY HAVE.
+
+P8ge19
+
+Appendix II
+
+DOD'sEfforts to Achieve Interoperability Among Tactical C3 Systxms
+This appendix discusses congressional expectations for mteroperabilit) of military communications systems, and the results of some of DOD's interoperability efforts. The objectives of our review were to (1) determine the extent of mteroperability problems in DOD, (2) identify the impediments to achieving interoperability, and (3) comment on the prospects of the Jomt Tactica c3 Agency achieving a greater degree of mteroperability among the ml1 tary services. In performing our review we exanuned . after-action reports of actual operations and exercises performed by tf U.S. Readiness Command and other unified commands; congressional hearings held from 1965 to the present that dealt with interoperability of command and control systems; and efforts of the Joint Tactical c3 Agency. Our review, which was completed in March 1987, was performed in accordance with generally accepted government auditing standards. Since at least the nud-196Os, the Congress has had a contmumg mtere in DOD developing interoperable ~3 systems. In 1965, for example, the Special Subcommittee on Tactical Air Support of the House Armed Ser vices Committee held extensive hearings on close air support provided to US. ground forces in Vietnam. A large part of the hearing addressee the incompatibility of Army and Air Force radios. The Subcommittee concluded that perhaps the most "appalling" fact that came to its attc tion was that the Air Force, which had responsibility for providing cl au support to the Army, could not talk to the Army because their rad were not compatible. The Subcomnuttee labeled this sltuatlon a "corn munications fiasco." According to DOD officials, in 1970 the Congress refused to fund the ?r lard' program because the Army was the only U.S. participant. Some Members of Congress were concerned that the commurucations equip ment would not interoperate with other services' equipment Subsequently, DOD asked the Congress to fund a revised Mallard programlThe Mallard program was to prowde new d.@ti commu~cat~ons equipment for the battlefield Amues of the U~ted States, U~ted Kmgdom, Canada, and Austraha partxlpated UI the prograr
+
+Objectives, Scope, and Methodology
+
+l
+
+l
+
+The Congress Has Encouraged DOD and the Services to Achieve Greater Interoperability
+
+P8ge 20
+
+GAO/`NSIAD437-124 Int.eropembillty
+
+Among CT.2 Sy
+
+DOD'@ JSf?orta to Achleve InteroperabMty
+
+AmongTactlal C.3 Systema
+
+the Tri-Service Tactical Communications (TRI-TX) program-to for Joint mteroperabihty.
+
+provide
+
+Congressional direction for achieving interoperabllity was cogently stated in the conference report on the 1986 DOD Authorization Act
+"No equipment should be developed to meet the peculiar needs of any one service If that equipment ultrmately drmrnrshes the abrhty of all the services to mteroperate Furthermore, wherever the operatronal requirements of the servrces are substantially similar every reasonable effort should be made to achieve commonahty m the development and procurement of system components "
+
+DOD Initiatives to Achieve a Greater Degree of Interoperability
+
+Following the interoperability problems it expenenced in Vietnam and in response to congressional concern, DOD established policy and procedures to ensure that c3 equipment has the compatibility and commonality essential for joint military operations. The policy was not adequately implemented, however, nor was it revrsed in a tunely manner to provide necessary authority. As a result, a ~3 plan or archrtecture needed to guide system acquisitions is still in its infancy. Furthermore, three major programs established to foster interoperabllrty fell short of their goals, and the servrces continued to develop their own noncompatible communications equipment.
+DOD'S interoperability directive (Directive 4630.5, January 28, 1967) established policy and procedures to ensure that ~3 equipment mteroperate. As a matter of policy, the military departments were to develop and procure equipment that was either compatible or common when fulfilling similar operational requirements. A further objective of the polrcy was to minim&e the addition of buffering, translative, or sutular devices for the purpose of achieving workable connections.
+
+DOD'sInteroperability Directive
+
+The directive assigned specific responsibilities to the Office of the Secretary of Defense, the Office of the Joint Chiefs of Staff, and the mrhtary services. Among other things, the principal staff assistants to the Secretary of Defense were required to implement the policy during budget and funding reviews. The service secretaries were directed to assure that a copy of each operational requirement was provided to, and coordinated with, the other services, the commanders of urufied and speclfied commands, and the Office of the Joint Chiefs of Staff. The Office of the Joint Chiefs was to describe the criteria and standards necessary to
+
+P8ge21
+
+GAO/NSIADJ37-124 Interoperabilky Among
+
+C3 Syrvma
+
+achieve compatibility among automated tactical communications and control systems and equipment employed m joint operations Although the 1967 mteroperability directive provided a reasonable policy for achieving interoperability, the military departments and the Office of the Jomt Chiefs did not carry out then responslbmtres The Office of the Joint Chiefs, for instance, did not fulfill its role of establishmgJoi.nt requirements or specifying which systems had to mteroperate, nor did it develop an overall ~3 architecture. In 1977 the Secretary of Defense informed the Congress that the dlrec tive would be revised to address congressional criticism. The Secretaq of Defense told the Congress that he was going to revise DOD'S mteropc ability directive to ensure that a ~3 architecture was developed and th the manager for the Ground and Amphibious Military Operations (GM program had sufficient authority to make decisions which were blndlr on the seances. In 1986 the directive still had not been revised. During hearings, the Assistant Secretary of Defense for Command, Control, and Commumc tions, and Intelligence told the Senate Armed Services Committee that although there were several attempts to revise the directive, the services could not agree what should be said in the directive Subsequent the Comnuttee's Chairman, frustrated by DOD'sinability to revise the directive, warned the Secretary of Defense that:
+"If necessary, the SenateArmed Serv:ces CommltteeISwlllmg to consider a leglsl tive restriction on the expenditure of any funds for communlcatlons equipment u' meaningful progress IS made toward resolvmg these bureaucratic problems "
+
+Followmg the Chairman's warning, DODrevised its interoperability directive on October 9, 1986.
+
+Development of a C3 Architecture Has Been a Longstanding Requirement
+
+The concept of a c3 architecture is extremely complex, and there 1sn general agreement within the (23community on its precise defimtion this report the term "~3 architecture" refers to an overall commumc. tions plan or design which identifies the equipment, units, and activ that a commander uses to communicate. Representatives of the Join Tactical ~3 Agency told us that when this architecture IS completed, will consist of numerous documents that will serve as a road map fo the acquisition and fielding of new ~3 equipment.
+
+Page22
+
+GAO/NSIADS7-124 InteropembUityAmong C3S
+
+Over the years, several organizations were assigned responsibilities to develop a c3 architecture. Although it was not then called an architecture, the 1967 interoperability directive assigned to the Office of the Joint Chiefs the responsibility of developing such a plan. In 1971, the TFU-TMprogram, and in 1977, the Joint Interoperability of Tactical Command and Control Systems (JINTACCS) program were reqtured to develop parts of architectures. Finally, in 1984, the Joint Chiefs of Staff delegated the task of developing an architecture to the newly created Jomt Tactical c3 Agency. Despite the efforts of these several agencies, architectural development is still in its infancy. In fact, some representatives of the Joint Tactical c3 Agency are still uncertain about what an architecture is and what it is to do. The first director of the Joint Tactical c3 Agency told us an architecture could not be completed for another 5 years, even if the present rate of development is accelerated. Nevertheless, the Jomt Tactical c3 Agency has developed an analytical concept of a ~3 architecture, and has completed analyses of the communications plans of two unified commanders. Recently, the Joint Tactical ~3 Agency's new director called for completion of its flit architecture in 3 months.
+
+oint Programs to Achieve zteroperability Have Been `isappointing
+
+Despite some successes within individual programs, DOD has had limited success in satisfying interoperability requirements for tactical warfare. Partial architectures have been developed under the JINTAC~S and TRI-TAC programs; message formats have been developed under the JINTACCS program; some TM-TACequipment has been fielded; and equipment from the Joint Tactical Information Distribution System (JTIDS) is to be fielded soon. Still, 20 years after Directive 4630.6 was issued, all of these efforts have not provided the means for the services to commumcate effectively while fighting as a unified force. The GAMOprogram was established in 1971 to ensure the interoperability of command and control systems used in ground and amphibious operations. The program was to: (1) identify command and control systems and force configurations which require exchange of information, (2) identify joint interface points, (3) identify information to be exchanged, (4) provide interface system descriptions and specificatrons, and (6) develop data link standards. According to the Secretary of Defense, in 1977 the House and Senate Armed Services Committees were concerned that the program had not
+
+le GAMO and JIMXCCS
+
+P8ge2s
+
+GAO/NXADW-124 IntaoperabUtty AmongC3Syrtemm
+
+developed the ~3 systems' architecture necessary to ensure mteroperability. They further expressed concern that program management lacked the authority to allocate program resources towards achlevmg both the architecture and interoperability. The program manager reported to the Joint Chiefs of Staff in 1976 that
+"After five years of GAMO program development, it 1sapparent that the Joint Chiefs of Staff arena is not conducive to achieving success in tactlcal command al control interoperability GAMO is a program which requires executive managemel probably at the Office of the Secretary of Defense level As long as every aspect ( the program is SUbJeCtto Service/Agency veto or endless coordmatlon and revue\* the achievement of lnteroperabihty among tactical command and control facllltle and systems will be extremely difficult "
+
+As a result of congressional concern, the CAM0 program was ternunatc and the JINTACCS program was established to develop and test the lnte operability of command and control systems for tactical operations, such as air defense, air control, and ground and amphlblous operatlot Although the JINTAKS program director was expected to develop auto mated interfaces and a command and control system architecture, thk director was never given the autho&y to make decisions that would I binding on the services. This is because, as discussed earlier, DOD did revise the interoperability directive to provide the needed authonty. The difficulties experienced with JINTPCCS became evident when the 1 gram did not meet its timetable for developing some of its mterfaces. 1977 the Chairman of the House Appropriations Comnuttee emphasl; the need to complete the JINWXS program before 1985 But m 1982 ti Defense Audit Service reported that JINTACC'Swould not achieve its In operability objectives by 1986. According to the report,
+"Specific interface and subsequent information exchange requirements (except two systems) necessary to achieve interoperability among automated systems P never identified "
+
+The report also concluded that, contrary to its original mtent, the pr gram emphasized manual instead of automated interfaces In 1986 a consultant's study reported that an additional 41 interfaces betweer automated systems (or 39 percent of the total) had not yet been deF While the em program has not met its objectives, it neverthelec has developed message standards which will be useful m the next fc years as new automated command and control systems are fielded. resentatives of the Joint Chiefs and the Joint Tactical c3 Xgency to1
+
+Page 24
+
+GAO/`NSLUM7-124InteroperabUlty 4mong C3 6
+
+DOD% EnoH Among Tactid
+
+to Acbleve tnteroperabillty C3 Systema
+
+that the JI~TACCS is an ongoing program that will continue to provide and maintain the prmciples and standards for the transfer of command and control information The TRI-TAC Program During House Appropriations Committee hearings in 1971, the Assistant Secretary of Defense for Telecommumcations and the Director of the m-TX program reported that the program would, among other things.
+l
+
+l
+
+provide digital communications needed for battlefield computers to talk to each other, review all tactical communications (except service unique) systems and equipments for mteroperabihty, and . develop a communications architecture for TRI-TX equipment and systems. The program's "jointness" was supposed to be ensured by the provision that the TRI-TN director report directly to the Assistant Secretary of Defense. But m a 1983 report on tactical communications, the Institute for Defense Analysis concluded that although the Congress mandated that tactical systems be centrally managed, the TRI-TAC charter excluded many programs that should have been under TRI-T&s management. An official of the Joint Tactical c3 Agency who was previously with the Mallard and TRI-TAC programs said the original intent was for DOD to address the broader issue of interservice communication needs. The services opposed this because they each had their own satellite commurucations, net radios, and other c3 programs which they did not want to give up. Other individuals associated with the program have said that the inability of the services to identify and agree on minimum essential requirements resulted in equipment that was too late, too big, and too expensive. Like JINTACCS, the TRI-TX program did not meet its objectives in the tune frame envisioned. However, it so far has developed some common equipment, such as telephone switches and radios, that the services have begun to field.
+
+l"he JTIDS Program
+
+In 1974 DOD established a joint program, with the Air Force as the lead service, to develop the SIIDS.Even though, the purpose of JTIDS was to develop a single system for distributing computer data across the battlefield, until recently the Navy and Air Force pursued separate solutions
+
+Page 26
+
+GAO/NSIAD87-124
+
+Interoperability
+
+hong
+
+C3 Symteme
+
+Appendix II DOD's Efforta to Achieve Interoperability Among Tactical C3 Systems
+
+From the very beguuung of the program, the Navy decided that JTIDS could not meet its needs. It eventually began developing its own tactic<. mformation distribution system According to a DODstudy, each year dunng budget dellberatlons. the Congress questioned the need for separate Air Force and Navy programs, but contmued to fund both based on DODassurances that both systems would mteroperate. In 1982 we reported that the two different technical approaches used t the Air Force and Navy could limit interoperability A 1983 study? reported that the most pressmg issue was the divergent Navy and Air Force technical solutions. The study concluded that the Interfaces planned for the JTIDStermmals " . will have such a lunlted capablht) as to be almost useless." A Joint Tactical c3 Agency officer who reviewed both programs expressed doubt that interoperabillty betwee the two systems could be achieved to any meaningful degree In 1986 the Congress told DODthat it would not support separate JTIDS programs unless the Secretary of Defense reported that a single Air Force and Navy system was not feasible. As a result of the congresslo] direction, the Navy terminated its program and joined the Air Force effort. During our review of documents and discussions with umfled commas representatives, the need for more ~3 interoperability surfaced as a serious concern. A U.S. Atlantic Command report, for example, stated that the lack of equipment and procedural incompatibility severely co strains the command and control of combat forces A Command offlcl told us m March 1987 that although there has been some Improvemet smce the Grenada experience, he is still concerned with equipment ar procedural incompatibilities. During the August 1986 mteroperabllq hearings before the House Government Operations Conunntee. we dl: cussed the problems the U.S. Pacific Command had with mcompatibl encryption equipment, Have Quick radios, and satellite terminals. Senior U S. European Command officers reported that mteroperablli problems occur both within and among the servrces as well bs among North Atlantic Treaty Organization members. In one mnstanc*cbecau equipment was incompatible, important information which H ds rece
+`JTIDS-The Early-, TactxalA.uForces InteroperabWy Group, 1983
+
+Unified Commanders Want More Interoperability
+
+Page 20
+
+GAO/NSLAD-S7-124
+
+IntmopembWy
+
+tmang
+
+C3 SI
+
+by satellite had to be driven by vehicle to another service's location and transmitted to yet another location. During hearings on the need to reorganize DOD, the Commander of the U.S. European Command recommended that the services should be required to organize, train, and maintain forces to satisfy umfied commanders' operational plans. Although the final legislation did not incorporate this feature, the Commander's recommendation highlighted an underlying problem in the achievement of both jointness and interoperability; that is, the services have acquired equipment which has not been consistent with unified commanders' needs. The Congress passed the Defense Reorganization Act of 1986 to help overcome many of the interservice rivalries and bureaucratic difficulties that have impeded the effective integration of combat resources. Although the act's provisions may help resolve interoperability problems in the long term, it will probably have limited impact in correctmg deficiencies in the short term. The Reorganization Act (Public Law 99433) attempts to mitigate service parochialism by providing more authority to the Chairman of the Joint Chiefs of Staff and to the unified and specified commanders. For example, the act transferred some responsibilities performed by the corporate Joint Chiefs of Staff to the Chairman and provided new statutory duties for the Chairman such as advising the Secretary of Defense on the priorities of the unified commanders. In addition, the act requires the Secretary of Defense to stress jointness through career development, joint training, and changes in the military educational system. The legislation emphasizes cultivating changes in the attitudes, orientations, and culture in the military environment. The act has features that are aimed at resolving the difficulties that have caused interoperability deficiencies addressed in this report. The emphasis on jointness, for example, may cause service members and program managers to think more about equipment needs for combined operations rather than unique service solutions. However, since many things need to be done to fully implement the act's provisions, the unmediate deficiencies in u systems interoperability will likely continue to exist.
+
+Defense Reorganization Act
+
+Page 27
+
+GAO/TWAD47-124
+
+l.nteropembUlty
+
+Among CT3S~BWIU
+
+LM3IYoEfforta to Acbieve W.eroperabillty
+Among Tactid C3 Syiaerrm
+
+Conclusions
+
+Although the Congress has had a continuing Interest m achievmg mteroperability among c3 systems, DOD'S efforts have been hindered by bureaucratic disagreements and have generally accomplished less than originally planned The goals established for JINTACCS and TRI-TAC were not achieved. Similarly, because the Office of the Secretary of Defense has not defined what is expected from an architecture, it 1sdifficult to know whether it should be the result of 5 years or 90 days of work or how it 1sgoing to differ from the architecture that DOD told the Congre lt was developing 10 years earlier. While the Reorganization Act and the c3 architecture could over time enhance mteroperabihty, we believe that actions can be taken now which could provide for more immediate improvements and thus give DOD decisionmakers, as well as, the Congress more assurance that c3 p grams are satisfying interoperability requirements Interoperabrhty could be enhanced if the service secretaries certified to the Secretary ( Defense that cs equipment being developed and procured will mteroperate with other c3 equipment when required to do so
+-.-
+
+Recommendations
+
+We recommend that the Secretary of Defense require that the service secretaries certify that the ~3 equipment bemg developed and procure will provide the needed degree of interoperability with other c3 equq ment in order to satisfy the operational plans of the umfied commanders. If the c3 equipment will not provide the needed degree of mteroperability, the service secretaries should seek a waiver from tht Secretary of Defense or a designee. We also recommend that the Secre tary of Defense allow the services to seek congressional funding only items that wiIl provide the needed degree of interoperabihty or for which a waiver has been approved.
+
+(396022)
+
+Page 29
+
+GAO/IUSlAD-S'7-124
+
+Interopembility
+
+4mong C3 C
+
+Requestsfor copies of
+
+GAO
+
+report3 Should be sent to:
+
+U.S. GeneraI Accounting Office Post office E3ox 6016 Gaithersburg, Maryland 20877 Telephone 202-276-6241 The first five copies of each report are he. Additional copies are $2.00 each.
+
+-
+
+II-----
+
+-
+
+,-.
+
+_
+
+.--_-
+
+m--m
+
+-_-
+
+_--
+
+---
+
+-.
+
+-
+
+,__~I--c
+
+-
+
+mm
+
+--i
+
+-_-
+
+, _ .
+
+.-
+
+.
+
+.*-.-
+
+Address Correction Requested
+
+

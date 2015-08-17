@@ -1,0 +1,390 @@
+. ..-..-..-.._. __._-. I ._ ..I .._....^
+
+._ . .._... "
+
+_ ._.._ ._____._-.. I______~
+
+Ma u-11 100 ., 1
+
+GLOBAL POSITIONING SYSTEM Production Should Be Limited Until Receiver Reliability Problems Are Resolved
+
+ill III llllll II
+143428
+
+_i_.. ...".I_li-_._....... (;A() ` I\;SIAI)-!)I-7.L
+
+~.. -. _-.--l_._-l -.......- _.--. _.-.--
+
+GAO
+
+United States General Accounting Office Washington, D.C. 20548 National Security and International Affairs Division
+
+B-24 1979
+
+March 20,1991
+The Honorable John P. Murtha Chairman, Subcommittee on Defense, Committee on Appropriations House of Representatives Dear Mr. Chairman: This letter responds to your request that we review the operational testing and acquisition plans of the Navstar Global Positioning System (GPS) satellite receiver program. Specifically, you asked us to evaluate the results of testing to determine if previously identified receiver set reliability problems have been resolved before the Department of Defense (DOD) approves full-rate production. However, due to problems encountered during testing, the services have delayed completion of operational testing until later in fiscal year 1991, Our report focuses, therefore, on the status of operational testing and DOD'Sdecision to buy additional receiver sets under new low-rate initial production contracts. is a space-based radio navigation system. It is designed to provide precise, continuous, all-weather, global positioning and navigation data, together with time and velocity information, for a multiplicity of military and civil users. GPSconsists of space, ground control, and user equipment segments. User equipment includes (1) a five-channel receiver set for high performance aircraft, (2) a five-channel set for ships and submarines, (3) a two-channel set for medium performance aircraft, such as helicopters, and (4) a one-channel manpack/vehicular set for hand-held and vehicle applications. Each receiver set is comprised of a receiver, an antenna, and other components needed to ensure the functioning of the system on the various platforms. These receiver sets convert satellite signals into position, velocity, and time for uses such as navigation and weapons delivery. GPSis a joint Air Force, Army, and Navy program, with the Air Force designated as the executive service. In 1985, the Air Force competitively awarded a contract to RockwellCollins for the continued development and low-rate initial production (IJW) of GPS receiver sets. By January 1990, the GPS program office had purchased almost 4,300 receiver sets. A GPSprogram official told us that of the total, only 150 sets were purchased for testing and training.
+
+Background
+
+GPS
+
+Page 1
+
+GAO/NSIAD91-74
+
+Global Positioning
+
+System
+
+--.
+B-241979
+
+Approximately 3,400 sets were purchased for installation on aircraft, ships, and other platforms, and 700 were bought for spares. In January 1990, DODdirected that no additional receiver sets be produced under LRIP unless specifically approved by the Defense Acquisition Board. It took this action because the GPSprogram had exceeded the quantity of receiver sets originally authorized for production under LRIP (2,198) by more than 50 percent. On September 21, 1990, the Under Secretary of Defense for Acquisition approved continuing LRIP with the procurement of up to 900 receiver sets in fiscal year 1990, and 1,000 in fiscal year 1991. If full-rate production is approved, current program goals call for the production of over 27,000 GPSreceiver sets, including those manufactured under LRIP.
+
+Results in Brief
+
+Delays in completing operational testing as a result of lingering receiver set reliability problems and reevaluation of program requirements have caused DODto postpone the GPSreceiver set full-rate production decision until September 1991, a decision originally scheduled for March 1989.
+DODpostponed the decision to allow time for (1) the additional testing
+
+needed to verify receiver set reliability, (2) reevaluating the quantities of receiver sets needed in light of the planned draw down of U.S. military forces, and (3) reevaluating receiver performance requirements to determine if commercially produced GPSreceiver sets could be used to satisfy some portion of the total requirement. However, DODauthorized the GPSprogram office to issue new production contracts and continue LRIPthrough fiscal year 1991. Five new contracts, awarded in September 1990 at a cost of $47.5 million, call for production of 779 GPSreceiver sets, and contain four options for the production of additional receivers and associated services and equipment. The GPSprogram office awarded the five contracts to four different contractors including Rockwell-Collins, the original LRIP contractor. The first production option specifies a buy of about 700 receiver sets at an estimated cost of $37.8 million. The Air Force plans to exercise this production option in March 1991.
+
+Page 2
+
+GAO/NSIAD-91-74
+
+Global Positioning
+
+System
+
+-.--.__
+
+..-B-241879
+
+According to DOD,237 receiver sets-costing an estimated $18.7 million-are the minimum number that can be purchased under the terms of this option.
+DODcan reduce program risks by limiting future procurement to the 237
+
+receiver sets until required reliability performance is demonstrated.
+
+Operational Testing and Full-Rate Production Decision Continues to Slip
+
+DODhad initially planned a full-rate production decision for all
+
+GPS
+
+receivers by March 1989. However, delays by the military services in completing required operational testing resulted in postponement of the full-rate production decision for all receivers to September 1991. Delays in accomplishing operational testing of the various receiver sets caused DODinitially to postpone the full-rate production decision from March 1989 to September 1989 and later to June 1990. The delays were caused by problems in integrating receiver sets with the host aircraft and ships, late deliveries of receivers, and the space shuttle accident, which delayed launches of GPS satellites needed for testing. The Army discovered reliability problems with the one- and two-channel receiver sets during development testing. These problems required correction before operational testing could begin. Subsequent scheduling difficulties, due to the unavailability of military personnel needed to conduct the tests, delayed completion of operational testing from December 1989 to December 1990. According to DOD,during multiservice operational testing of five-channel receiver sets from June to December 1990, one set tested in a particular vessel experienced a number of failures. This led the DOD'SDirector for Operational Test and Evaluation to rate the reliability of all five-channel receivers as marginal. However, the GPS program office and military service officials assessed the same five-channel receiver reliability problems as minor. These officials argued that the GPSprogram office had already identified these problems and had taken action to correct them in the production design. The effectiveness of these corrective actions has yet to be verified in formal operational testing. The GPS program office also recommended continuing production to avoid . losing procurement funds for fiscal years 1990 and 1991, preparing another acquisition plan,
+l
+
+GPS
+
+Page 3
+
+GAO/NSIAD91-74
+
+Global Positioning
+
+System
+
+B-241979
+
+l
+
+delaying the integration of receiver sets into host platform weapon systems, as part of planned platform modification schedules, and . delaying the placement of "a very effective force multiplier into operation." In a briefing to the Defense Acquisition Board on September 19, 1990, the military services recommended moving into full-rate GPS receiver set production. Two days after the Defense Acquisition Board deliberations, the Under Secretary of Defense for Acquisition postponed a full-rate production decision for all GPS receiver sets until September 1991, but he approved continuing LRIP for the one-, two-, and five-channel receiver sets through fiscal year 199 1, thereby authorizing procurement of up to 900 receiver sets in fiscal year 1990, and 1,000 in fiscal year 1991. The Under Secretary also directed additional operational reliability testing of the five-channel receiver sets, and stated that success in receiver testing will be the criteria for approving full-rate production of the five-channel receiver sets. authorized $47.5 million for the production of an additional 779 GPS receiver sets under LRIP in fiscal year 1990. In addition, the new production contracts also contain four options for the production of additional two- and five-channel receiver sets and associated equipment and services. The Air Force plans to exercise the first production option in March 1991.
+
+LRIP Cost Risk Can Be Reduced
+
+DOD
+
+According to GPSprogram office acquisition planning estimates, under this option the government would purchase an additional 703 receiver sets (217 two-channel and 486 five-channel sets) for about $37.8 million. DOD officials said that 237 receiver sets (67 two-channel and 170 fivechannel sets), costing an estimated $18.7 million, represent the minimum number of receiver sets the government can order under the terms of the first production option. These officials also said that ordering fewer than 237 receiver sets may require renegotiating the contract and could result in the manufacturers canceling the remaining production options. IJntil GPS receiver sets demonstrate required reliability performance, can control program risks by limiting procurement to the minimum quantities needed to maintain the production base.
+DOD
+
+Page 4
+
+GAO/NSLAD91-74
+
+Global Positioning
+
+System
+
+:` ,
+
+B-241979
+
+Recommendation
+
+We recommend that the Secretary of Defense limit procurement of GPSto 237 receiver sets until operational testing has demonstrated that GPS receiver sets have met their reliability objectives. The 237 sets is the minimum quantity the government can order under the current contract and is sufficient to maintain a production base. In its official comments on a draft of this report (see app. II), DODdid not agree with our recommendation, stating that adoption of our recommendation would
+l
+
+Agency Comments
+
+l
+
+l
+
+keep it from reaping benefits of a system that is receiving acceptance in the civilian community, increase by about 55 percent the average unit cost of receiver sets produced during LRIP, and cause the program to exceed its funding ceiling for fiscal year 1991.
+DODalso stated that the desire to meet schedules for modifying operational platforms to accept the GPSreceiver sets was a major factor influencing the decision to continue LRIP at rates higher than the minimum quantities needed to maintain the production base. It stated that GPSis already receiving acceptance in the civilian community and that delays in installing GPSreceiver sets on military platforms keeps the services from reaping the benefits of the system. DODalso asserted that procuring only the minimum quantities will increase the average unit cost of GPSreceiver sets about 55 percent above the cost of producing equipment at the higher LRIP rate. After submitting its official comments to us, DODprovided new information on the
+
+total number of receivers it plans to purchase in fiscal year 1991, the minimum order quantity needed to sustain the contract, and the relationship of purchase quantity to average unit cost. According to this information, producing only 237 receiver sets would increase the average unit price by $29,507, for a total of $6.6 million, However, the increased cost associated with purchasing only 237 receiver sets in fiscal year 1991 does not affect the average unit cost of receiver sets that will be purchased under future production contracts. While we do not take issue with the DODstatement that procuring only the minimum quantity will increase unit cost, it would, nonetheless, avoid outlays of at least $19.1 million in fiscal year 1991.
+
+Page 6
+
+GAO/NSIAD-91-74
+
+Global Positioning
+
+System
+
+-~
+B-241979
+
+Moreover, in his memorandum of September 21, 1990, the Under Secretary of Defense for Acquisition pointed to a number of program uncertainties that suggest to us the need to limit future procurement quantities. For example, he directed reevaluation of (1) what the operational requirements for GPS accuracy should be to determine whether commercial receiver sets could meet some of the total requirement and (2) what the total receiver set requirement is likely to be in light of planned U.S. force structure reductions. He also acknowledged, as we have, that additional operational testing of military receiver sets is required to validate their reliability. We believe that the DOD decision to continue LRIP at a rate greater than the minimum is based more on a desire to meet programmed platform modification and installation schedules, than on cost considerations or confidence in receiver set reliability. We therefore continue to stand by our original recommendation and believe LRIP should be held to the minimum quantities until . an evaluation of operational requirements for militarized versus commercial receiver sets has been completed and required operational capabilities have been confirmed, . reevaluation of the impact of potential U.S. force structure reductions on total GPS receiver set requirements has been completed and total program requirements have been revalidated, and the reliability of all categories of military GPS receiver sets has been successfully demonstrated in operational testing.
+DOD
+
+l
+
+provided information that clarified the number of GPS receiver sets originally approved under LRIP and the number of receiver sets it had purchased by the end of fiscal year 1989 for mission equipment, spares, testing, and foreign military sales use. It described the disagreement within the defense community about the reliability of the five-channel receiver sets and provided information about how it arrived at its decision to continue LRIP into fiscal year 1991. DOD also provided new information on the total number of receivers it plans to purchase in fiscal year 1991, the minimum order quantity needed to sustain the contract, and the relationship of purchase quantity to receiver sets average unit cost. We have revised the report to include this information. Our scope and methodology are discussed in appendix I. We are sending copies to other interested congressional committees; the Secretaries of Defense and the Army, Navy, and Air Force; and the Director, Office of
+
+._-__-_. Y
+
+Page 6
+
+GAO/NSLAJ%91-74 Global Positioning
+
+System
+
+B-241979
+
+Management and Budget. We will make copies available to others on request. Please contact me at (202) 275-4841 if you or your staff have any questions concerning this report. Major contributors are listed in appendix II.
+
+Director, Command, Control, Communications, and Intelligence Issues
+
+Page 7
+
+GAO/NSIAD-91-74
+
+Global Positioning
+
+System
+
+Contents
+
+Letter Appendix I Scope and Methodology Appendix II Comments From the Department of Defense Appendix III Major Contributors to This Report
+16
+
+Abbreviations
+DOD GPS LRII'
+
+Department of Defense Global Positioning System Low-rate Initial Production
+
+Page 8
+
+GAO/NSIAD-91-74
+
+Global Positioning
+
+System
+
+Page 9
+
+GAO/NSLAD-91-74
+
+Global Positioning
+
+System
+
+Appendix I
+
+Scopeand Methodology
+
+To evaluate GPS receiver set operational testing, we reviewed and analyzed relevant program documents such as operational requirements, program management directives, acquisition plans, multiservice and individual service test plans and reports, contract documents, and budget exhibits. We also interviewed responsible officials from DOD, the military services, and the GPS program office. In addition, we monitored, on a selected basis, ongoing operational testing of GPS receiver sets conducted by the Air Force, Army, and Navy. We conducted our work at headquarters, Departments of the Air Force, Army, and Navy, and at the Office of the DOD Director for Operational Test and Evaluation in Washington, D.C.; the Navstar GPS Joint Program Office, Headquarters, Air Force Space Systems Division, Los Angeles Air Force Base, California; Headquarters, Air Force Operational Test and Evaluation Center at Kirtland Air Force Base, New Mexico; and test ranges at Nellis Air Force Base, Nevada; and U.S. Army Yuma Proving Ground, Arizona; the Commander Operational Test and Evaluation Force, U.S. Navy, Norfolk, Virginia and the fast frigate the USS Antrim; the U.S. Army Operational Test and Evaluation Agency, Alexandria, Virginia, and the U.S. Army' s Electronic Proving Ground, Fort Huachuca, Arizona. Our work was performed from May 1989 to October 1990 in accordance with generally accepted government auditing standards.
+
+Page 10
+
+GAO/NSIAD-91-74
+
+Global Positioning
+
+System
+
+Appendix II
+
+CommentsFrom the Departxnentof Defense
+
+ASSISTANT
+
+SECRETARY
+
+OF DEFENSE
+20301-3040
+
+WASHINOT0N.D.C.
+
+January
+Mr. Prank Assistant
+
+17,
+
+1991
+
+C. Conahan Comptroller General, National Security and International Affairs Division U.S. General Accounting Office 20548 Washington, D.C.
+Dear
+
+Mr.
+
+Conahan:
+
+This is the Department of Defense (DOD) response to the General Accounting Office (GAO) draft report, "GLOBAL Should Be Limited Until Receiver POSITIONING SYSTEM: Production Reliability Problems Are Resolved," dated December 3, 1990 (GAO The Department generally concurs Code 395123), OSD Case 8554. but does not concur with the with the findings presented, recommendation. the report is accurate in what is stated. In general, leading to the decision to continue However, many of the factors limited rate production were not analyzed or reflected in the recommendation. The use of presumed cost risk associated with an assessment of test results as the basis for the recommendation ignores the other valid tradeoffs that must be made when That judgement process considering a production decision. objective evaluation of test results and status of includes as well as such things as production corrective measures, efficiency, downstream installation implications, and ultimate benefit to the intended recipient of the item to be produced. Such factors lend support to the decision reached by the Defense Acquisition Board to continue Low Rate Initial Production at the planned rate rather than at a lower rate, as the GAO recommends. Detailed DOD comments on the GAO findings and recommendaThe Department appreciates are provided in the enclosure. the opportunity to comment on the draft report.
+tion
+
+Sincerely,
+
+Duane P. Andrews Enclosure
+
+Page 11
+
+GAO/NSIAD-91-74
+
+Global Positioning
+
+System
+
+Appendix II Comments From the DepartmentofDefense
+
+GAO DRAF"l! REPORT - DATED DECJZMBER 3, (GAO CODE 395123) OSD CASE 8554 "GLOBAL POSITIONING RECEIVER SYSTEM: RELIABILITY PRODUCTION PROBLEMS
+
+1990 UNTIL
+
+SHOULD BE LIMITED ARB RESOLVED"
+
+DEPARTMENT * *
+
+OF DEFENSE * * *
+
+FINDINGS .
+
+Now on pp I-2
+
+The GAO A: Navatar Global Positioninq System. reported that the Navstar Global Positioning System is designed to provide continuous, all-weather, global positioning and navigation data for a multiplicity of military and civil users. The GAO explained that the Global Positioning System consists of (1) a space segment, (2) a ground control segment , and (3) a user equipment Army, Navy, and Air Force program, segment --and is a joint with the Air Force as the executive agent. The GAO found that, by January 1990, the Program Office had purchased over 4,200 receiver sets (of the total 27,000 to be produced) --less than 300 of which were required to support development and operational testing. that The GAO asserted the number of receiver sets purchased nearly doubled the number originally authorized for limited-rate production. The GAO noted that, in January 1990, the DOD directed that no additional receiver sets be produced unless specifically approved by the Defense Acquisition Board. (pp. l-3/GAO
+FINDING Draft Report) DoD Reswnse: Partially concur. The GAO overstates the quantity of user equipment production to be compared against what was originally approved for Low Rate Initial production by including spares in the total production number. In the original Low Rate Initial Production discussions, conducted prior to the Global Positioning System program delays imposed by the Space Shuttle accident, the quantities authorized included only prime mission equipment through Fiscal Year 1988. Considering only prime mission equipment, the DOD had placed on order 3,365 sets through Fiscal Year 1989, exceeding the original Fiscal Year 1988-based Low Rate Initial Production number by approximately 50 percent. Additionally, even with a further extension through Fiscal Year 1991, total Global Positioning System production under Low Rate Initial Production will only amount to approximately 17 percent of the total DOD user equipment requirements.
+
+.
+
+FINDING Decision
+
+B: Operational to Continue
+
+Testinq
+
+and
+
+Full-Rate
+
+Production
+
+had planned
+
+Slip. The GAO reported a full-rate production decision
+
+that the DOD for all Global Enclosure
+
+Page12
+
+GAO/NSIAD-91-74
+
+Global Positioning
+
+System
+
+Appendix II Comments From the Department
+
+of Defense
+
+Positioning System receivers by March 1989. The GAO found, that testing delays were caused by problems integrating however, the receiver with the host aircraft and ships, late deliveries or receivers needed for testing , and the space shuttle accident, which delayed the launch of operational Global Positioning System satellites. The GAO also found that the Army experienced problems in starting operational testing on time for the oneand two-channel receivers, delaying completion of testing from The GAO observed that the December 1989 to December 1990. testing delays were due to (1) Global Positioning System receiver reliability problems discovered during development testing and (2) subsequent unavailability of military personnel The GAO noted that, based on a marginally to conduct tests. suitable rating from the Director, Operational Test and Evaluation, the DOD directed the Services to perform additional operational testing of the five channel receiver. The GAO noted that, according to Global Positioning System program officials, the Military Services considered the testing results to be sufficient and adequate to move into full-rate production--and had so briefed the Defense Acquisition Board. The GAO found, that the DOD decided to delay a full-rate production however, decision for all Global Positioning System receiver sets until September 1991, but did approve the continuation of the low-rate initial production through FY 1991. The GAO noted that the DOD took the action to allow time for the following: - conducting additional channel receiver sets: operational testing of the fiveSystem structure
+
+- reevaluating the quantities receiver sets needed in light reductions: and
+
+of Global Positioning of programmed force
+
+Now
+
+on pp
+
+3 4
+
+- exploring the potential for using commercial Global Positioning System receiver sets to meet some portion the requirement. (p. 1, pp. 4-7/GAO Draft Report)
+DOD Response: . FINDING C:
+
+of
+
+Concur.
+
+Low-Rate Initial Production Cost Risk Can Be The GAO observed that the DOD authorized the Global Positioning System Program Office to issue new production contracts to continue low-rate initial production through FY 1991. The GAO found that five new contracts were awarded, at a cost of $47.5 million for receiver sets production of 779 one-, two- and five-channel (and associated equipment) and that the new contracts contain four options for the production of additional twoand five-channel receivers. The GAO observed that the Air Force plans to exercise the first production option to purchase 707 additional receiver sets in March 1991. The GAO asserted, however, that according to the Program Reduced.
+
+Page
+
+13
+
+GAO/NSL4D-91-74
+
+Global Positioning
+
+System
+
+Appendix Comments
+
+II
+From the Department of Defense
+
+Now on p 4
+
+Office, 250 sets represent the minimum number the Government can order without risking renegotiating the contract. The GAO concluded that the best approach to controlling program costs is to purchase only the minimum number of receiver sets required to avoid a break in production until operational testing has been successfully completed. (pp. 4-5, pp. 7-8/GAO Draft Report) DoD Reswnee: Partially concur. The stated facts are accurate: however, the conclusion suffers from the facts that are omitted. Those facts include the quantified results of Global Positioning System receiver testing and the status of corrective measures identified and incorporated in production equipment. During operational testing, one user equipment set in a particular platform experienced a sufficient number of failures to cause the reliability performance of the entire category of equipment to fall below the test threshold. As a result, in accordance with standard operational test and evaluation practices, the equipment suitability was assessed as marginal. However, the reliability problems were minor in nature, and corrections had already been identified and implemented in the production design, though not yet verified in formal operational test. The issues were then equipment at an weighed against the value of producing efficient rate, impacts to platform modification lines by disruption of planned user equipment installations, and the force enhancement benefit of the equipment to its ultimate user. The balanced judgements resulting from that full evaluation were what led the Defense Acquisition Board to recommend continuation of Low Rate Initial Production at the planned rate while additional reliability verification testing is conducted.
+1 l * 1 *
+
+RECOMMENDATION . RECOHMJZNDATION: The GAO recommended that, until operational testing has demonstrated that Global Positioning System receiver sets have met their reliability objectives, the Secretary of Defense limit future procurement of the Global Positioning System receiver sets to the minimum quantities required to maintain a production base. (p. 8/GAO Draft Report) DoD Response: Nonconcur. As previously stated, this recommendation is biased by focusing on a limited assessment of risk. In fact, the reliability problems have been addressed, and operational verification testing is planned. In the meantime, the reduction of production quantities recommended by the GAO would increase average
+
+Nowon p 5
+
+Page 14
+
+GAO/NSIAD-91-74
+
+Global Positioning
+
+System
+
+Appendix II Commenta From the Department
+
+of Defense
+
+unit costs by 60 percent above the cost of producing equipment at the originally planned Low Rate Initial Production rate and would result in a breach of the Current Procurement Unit Cost threshold for Fiscal Year 1991. It would force rescheduling of platform modifications to install Global Positioning System user equipment and further delays the ability of DOD users to benefit from a system that is already receiving enormous acceptance and attention in the civil community. Of the 707 sets planned to be procured in Fiscal Year 1991, the Air Force and Navy had planned installation of 259 airborne sets in operational aircraft, and the Army and Navy had planned installation of 129 sea sets in operational ships and other A reduction to the minimum 250-set quantity watercraft. GAO recommended would force installations to be delayed in over 50 percent of the aircraft and in 65 percent of the ships and watercraft. A balanced evaluation of all the factors supported the DOD decision to maintain the originally planned Low Rate Initial Production rates, pending verification of acceptable reliability performance.
+
+Page 15
+
+GAO/NSIAD-91-74
+
+Global Positioning
+
+System
+
+Appendix III
+
+Major Contributors to This Report
+
+National Security and International Affairs Division, Washington, D.C. Los Angeles Regional Office
+
+Gary K. Weeter, Assistant Director Anton G. Rlieberger, Senior Evaluator
+
+Noel Lance, Evaluator-in-Charge Hilary Sullivan, Evaluator Jim Russell, Evaluator
+
+(aeslr:%)
+
+Page 16
+
+GAO/NSIAD-91-74
+
+Global Positioning
+
+System
+
+i
+
+

@@ -1,0 +1,702 @@
+M;ttx*h
+
+I!)!):3
+
+NATIONAL DEFENSE STOCKPILE Views on DOD' s 1992 Report to the Congress and Proposed Legislation
+--
+
+i WI llllllllIll ll
+--
+
+.
+
+148596
+
+~ (;AO/NSIAI)-!)S-fi0
+
+--
+
+--.-. -.---.-._.----.---
+
+GAO
+
+United States General Accounting Offlee Washington, D.C. 20648 National Security and International AfTairs Division
+
+B-24631 1 March 16, 1993 The HonorableJeff Bingaman Chairman,Subcommitteeon Defense Industry and Technology Committee on Armed Services United StatesSenate The Honorable Earl Hutto Chairman,Subcommitteeon Readiness Committee on Armed Services House of Representatives The Honorable Floyd Spence Ranking Minority Member Committee on Armed Services House of Representatives This report follows up on testimony presentedbefore the related Subcommitteeson May 21 and April 29, 1992.It presentsthe results of our review of (1) the analysesand assumptionsused by the Department of Defense(DOD) to determinematerial needsin its 1992Report to the Congress on National DefenseStockpile Requirements, (2) DOD'S recommendeddisposalplans and associatedlegislativeproposals,and (3) the U.S. ferroalloy upgradingprogram.We also reviewed agencyactions on our prior recommendationsand the participation of federal agenciesand other experts in the stockpile requirementsdeterminationprocess. The Fiscal Year 1993DefenseAuthorization Act contains severalprovisions that address stockpile management, including acquisition and disposal of stockpile materials.These provisions are discussedin chapter 1. We are sendingcopies of this report to interested committeesand other Membersof Congress; the Secretariesof Defense,Commerce,Interior, State,and Transportation;and the Directors, DefenseLogistics Agency,FederalEmergencyManagement Agency,and Office of Management of Budget.We will also make copies availableto other parties upon request.
+
+B-246311 Please contact me at (202) 612-8412if you or your staff have any questions concerning this report. Major contributors to this report are listed in appendix III.
+
+Donna M. Heivilin Director, Defense Management and NASA Issues
+
+Page 2
+
+GMVNSIAD-02-60
+
+National Defenre Stockpile
+
+Executive Summary
+
+Purpose
+
+The Department of Defense(DOD) reported in February I992 that the government' s$9 billion stockpile of 99 strategic and critical materials should be reduced to a level of $3.3billion. Becauseof the reduced threat to national security from Eastern Europe and the former Soviet Union, DOD proposed the disposal or sale of certain quantities of 61 materials in the stockpile. DOD also proposed a moratorium on the purchasesof stockpile materials because,in its view, stockpile requirementswill decline further in the next stockpile requirementsreport. In responseto requestsfrom the Chairmen of the Subcommitteeon DefenseIndustry and Technology, SenateCommittee on Armed Services, and the Subcommitteeon Seapowerand Strategic and Critical Materials, House Committee on Armed Services,GAO reviewed (1) the assumptions and methodologiesDOD used in determining the material "goals,"or reauirements.it nresentedin the 1992Renort to the Congresson National DefenseStockpie Requirements;(2) DOD'S recommendedplans to dispose of unneededstockpile materials and acquire neededones; and (3) the ferroalloy upgrade-program. Actions taken on prior GAO recommendations concerning stockpile requirementsand federal agencies' participation in the DOD requirementsdetermination process were also reviewed.
+
+Background
+
+Under the Strategic and Critical Materials Stock Riling Act of 1946 (50 USC. 98 et seq.,as amended),M~D maintains a stockpile of strategic and critical materials-for example,aluminum, cobalt, and platinum-to sustain military, industrial, and essential civilian needsduring a 3-year conventional global war. In determining requirementsfor the stockpile, DOD uses a complex modeling process to consider various assumptions, such as military force structure, the kinds and amounts of materials being produced in the United States,and the availability of materials from foreign sources. DOD then computes the amounts of inventory that exceed or do not meet the estimated requirementsand determinesthe amount of materials that need to be purchasedor that can be sold without disrupting material markets. As required by the Stock Riling Act, DOD presentsto the Congressan annual report on its stockpile material requirementsand an annual plan that proposes disposalsand purchasesof certain materials, In the 1992report on requirements,DOD said that it would need 24 materials valued at about $3.3billion. This figure includes $1.2billion in 11 materials that DOD needsto purchase. (Seeapp. I.)
+
+a
+
+Page 3
+
+GAO/NSIAD-93-60 National Defense Stockpile
+
+Executive Summary
+
+Results in Brief
+
+DOD'S overall processfor estimatingstockpile requirements is lim ited as a basisfor determ iningspecific estimates.Material consumptionratios, used to convert estimatesof economicactivity into requirementsfor strategic and critical material, were up to 10 years out of date. The use of these outdated,but critical, ratios in the modelscasts doubt on the validity of the requirementspresentedin DOD'S 1992report. DOD sensitivity tests showing the consequences of alternative assumptionson requirements examinedonly a narrow set of alternatives.GAO'Sreview showed that alternative assumptionsconcerningmaterial consumptionratios and foreign country reliability ratings can changeestimatesdramatically. Notwithstandingthe shortcomingsin DOD'S assumptionsand methodology, the size of the current stockpile, changesin threats to U.S.national security, reductionsin forces, and increasingwarning times support judicious disposalof outdated and clearly excessmaterialsand a temporary curtailment of uncommittedpurchases. GAO believesthat DOD could disposeof obsoletematerialssuch as vegetabletannins without risk to national security or disruption to the material markets.Caution is advised,however, in disposingof other materialsbecauseDOD'S methodologyin determ iningrequirementsfor these materialsis lim ited.
+
+the stockpile, and the alloys are readily availableon the world market. The continued procurementof these alloys is not economical,but each of the alloys has only one U.S.producer, and suddenwithdrawal of the government program could affect each producer' sability to competeon the commercialmarket. The Fiscal Year 1993DefenseAuthorization Act allows the purchaseof alloys to continue at least through fiscal year 1993.
+
+DOD has excessferromanganese and ferrochrom ium in
+
+Principal Findings
+Rbquirements Dbtermination Process Is Lim ited
+Although DOD appearsto have used a reasonablemethodologyfor generatingmaterial requirementsin its 1992report, it has not adequately tested the sensitivity of goal estimatesto reasonablealternativesof certain key assumptions. One key assumptionis the reliability of foreign countries in providing neededmaterialsduring a conflict. The State Department expressedconcernthat the country reliability ratings it provided were highly subjectiveand accuratefor a few months at best. Additional
+
+Page 4
+
+GAO/NSIAD-93-60 National Defense Stockpile
+
+Executive Summary
+
+sensitivity tests of country ratings showed requirementsabout 50 percent larger in total value than those in DOD'S 1992report.
+DOD did not do sensitivity analyses to characterizethe uncertainty associatedwith material consumptionratios. Thesecritical ratios are used to convert estimatesof economicactivity into material requirements. They must be reasonablyaccurateto produce a meaningfulestimate.The source data used to derive the ratios for the 1992report, however, was 10 years old. GAO used DOD'S methodologyto reconstruct 15 material consumptionratios (MCR) for eachyear between 1972and 1983.We found MCRScould changedramaticallyover a lo-year period. Specifically,nine went down by half or more, one doubled,two went up over fourfold, and to three remainedabout the same.Also, DOD did not do sensitivity analyses reflect other Men-related uncertainties,including changesin inventory levels,price speculation,and comparabilityof wartime and peacetime ratios.
+
+Cautious Disposal of Some Materials Is Prudent
+
+For the most part, the levels of disposalsin DOD'S annualmaterial plans appearreasonable; however, a cautious approachto someof the proposed disposalswould be prudent. GAO believesthat DOD can proceedwith most disposalsuntil a new stockpile study, incorporating updatedmaterial consumptionratios and more thorough sensitivity analyses,is produced. DOD need not retain outdated materialssuch as asbestos, vegetable tannins, and thorium nitrate or materialsof an inferior grade.To m inim ize possibleimpacts on commercialmarkets,GAO believesthat DOD should disposeof materialssuch as cobalt, ferroalloys, chromium,and manganese ores only after full consultationwith experts in other federal agenciesand with producersand users. Programmanagersfrom cognizantfederal agenciessaid they had not been consultedabout DOD'S current disposalplans. In the past, the Market Impact Committeehad played an important role in advisingon the developmentand execution of disposalplans. Giventhe uncertainty of the data on material consumptionratios and the narrow sensitivity analyses DOD did on key assumptions, the views of federal agencyexperts and users of critical materialsmay be crucial in decidingwhat materialsto dispose of.
+
+Ferroalloy Upgrade Program Is No Longer Needed
+
+Becausethe ferrochrom ium and ferromanganese stockpile inventories significantly exceedDOD'S requirementsand the alloys could be obtained from foreign sourcesat lower prices and substitute domesticfacilities in
+Page 6 GAO/NSIAD-9340 National Defense Stockpile
+
+Executive Summary
+
+an emergency, GAO believesthat the continued procurementof the alloys under the upgradeprogram is neither necessarynor economical.The Fiscal Year 1993DefenseAuthorization Act authorizesthe disposalof excesschromite and manganese ores, as well as the respectiveferroalloys, under certain conditions.The upgradeprogram is scheduledto continue at least through fiscal year 1993.
+
+Recommendations
+
+GAO recommends that
+
+the Secretaryof Defense
+
+l
+
+. in future determ inationsof material requirements, present a broader range of sensitivity tests to assess the uncertaintiesassociatedwith a variety of assumptions,including MCR data, foreign country reliability, warning time, and alternativewar scenarios; . obtain and use updateddata on material consumptionratios, or if such data cannot be obtained,create expert advisoryworking groups or committeesto help determ inematerial requirements; developa range of stockpile requirementsto cover US. security threats; and 9 use the Market Impact Committeeor create a committeeof federal and independentexperts to advisestockpile managersin planning and implementingacquisitionsand disposals.
+GAO sent a draft
+
+Agency Comments
+
+of this report to DOD on November17,1992.DOD provided official oral commentsin December1992.At that time GAO began evaluatingeach of those commentsand determ ininghow they should be treated in the final report. (Seechs. 2,3, and 5.) DOD'S written comments arrived 2 months after requested,and have not been included in the final report becausethey are virtually the sameas those discussedin December,Interestedparties can obtain DOD'S commentsby calling (202) 61243412.
+DOD generallyconcurred with our recommendations concerningthe use of a broader rangeof sensitivity analysesand obtaining updatedmaterial consumptionratio data. DOD did not concur with our recommendation to developa rangeof stockpile requirements.Our recommendation on the Market Impact Committeeis being addressed by DOD in consonance with the Fiscal Year 1993National DefenseAuthorization Act, which formalizes the Committee.The act also requiresthe creation of an advisory committeewith membersfrom industry and other federal agenciesto make recommendations on stockpile operationsand modernization.
+
+a
+
+Page 6
+
+GAO/NSIAD-9340 National Defense Stockpile
+
+a
+
+Page 7
+
+GAO/NSuD-98-60 National Defense Stockpile
+
+Contents
+
+Executive Summary Chapter 1 Introduction
+The RequirementsDetermination Process Plans for Disposing of Materials The FerroalIoy Upgrade Program in Our 1987Report Recommendations Stockpile Provisions in the 1993DefenseAuthorization Act Objectives,Scope,and Methodology DOD' s Methodology Appears Reasonable Analysis of Foreign Countries' Reliability in Providing Materials Was Limited Sensitivity of Material Consumption Ratios Not Reflected in DOD Report Conclusions Recommendations Agency Commentsand Our Evaluation
+
+3 10 10 11 11 11 12 12 14 14 16 16 18 19 19 21 21 22 25 26 26 27 28 28 28 29 30 30
+
+Chapter 2 Requirements Determination Process Is Limited as a Means of Estimating Stockpile Requirements Chapter 3 Caution in the Disx>osalof Excess Stockpile Materials Is Prudent
+
+Sensitivity Analysis Shows Risk in Disposing of Six Materials Experts SuggestCaution in DisposalsThat WiII Affect Material Markets RevenuesHave Been Below DOD' s RequestedAuthorizations or LegislatedLimitations Conclusions Recommendation Agency Commentsand Our Evaluation DOD Is Requiredto Make Annual ProcurementsUnder the FerroaIIoy Upgrade Program DOD ProposesTermination of FerroaIloy Program U.S. ProducersFace Difficulties in Commercial Market Without Ferroalloy Upgrade Program Conclusions Recent CongressionalAction
+
+1,
+
+Chapter 4 F+rroalloys Are No Lqnger Needed
+
+Page 8
+
+GAO/NSIAD-98-60 National Defense Stockpile
+
+Contents
+
+Chapter 5 Actions on Our Prior Recommendations Appendixes
+
+Responses to Our Recommendations Conclusions Agency Comments Recent Congressional Action Appendix I: DOD' sProposedStockpile Goalsin January 31,1991,Prices Appendix II: Fiscal Year 1993ProposedDisposalsof Stockpile Materials Appendix III: Major Contributors to This Report Table 3.1: Estimated Values,Limitation Amounts, and Proceeds for Disposals
+
+31 31 34 35 35 36 37 39 25
+
+Table
+
+Abbreviations
+DOD
+
+FEXVIA
+GAO GMR
+MCR
+
+OMB SIC
+
+Departmentof Defense Federal EmergencyManagement Agency GeneralAccounting Office graduatedmobilization response material consumptionratio Office of Management and Budget standardindustry classification
+GAO/NSIAD-93-80 National Defense Stockpile
+
+Page 9
+
+Chapter 1
+
+Introduction
+
+In 1946,the Congressenactedthe Strategicand Critical Materials Stock Piling Act (U.S.C.,title 50,section 98 et seq.),which authorizeda stockpile of materials sufficient to supply the military, industrial, and essential civilian needsof the United Statesduring a national emergency. The stockpile comprises99 materials,' including aluminum,beryllium, chromium, cobalt, germanium,industrial diamonds,manganese, and platinum, valued at $9 billion as of January31, 19912 Under the Stock Piling Act, the Departmentof Defense(DOD) must include in a periodic study and report on estimatedstockpile requirementsthe assumptionthat the United Stateswill need enoughmaterials,not likely to be produced domestically,to sustainthe U.S. economyduring a conventionalglobal war of not less than 3 years.However, DOD is making detailed force structure reductions of about 25 percent, and the breakup of the Soviet Union has resulted in a changedand reducedthreat. DOD used a new war scenarioto reflect those changesin force structure and threat as of January 1991.DOD adaptedthe new war scenarioto the statutorily mandated3-yearconventionalwar assumptionand determinedstockpile requirementsaccordingly.DOD'S 1992report includes an alternative requirementscomputation basedon what DOD considersa more realistic scenario,a 3-monthwar with a l-year mobilization period. Requirements under this scenarioare reducedto less than half of those under the mandatedscenario.Previousstudies have resulted in wide variations in stockpile goalsthat have rangedfrom $16billion in 1979to $600million in 1985and, finally, to $3.3billion in 1992.
+
+The Requirements Determination Process
+
+In February 1988,management of the stockpile was transferred by executive order from the GeneralServicesAdministration and the Federal EmergencyManagement Agency (FEMA) to DOD. The Stock Piling Act requiresDOD to provide to the Congressa periodic report on stockpile requirements.In addition to determiningrequirements,DOD also identifies materialsthat are excessto its needsand makes plans to try to sell certain materials,Two of the materials DOD has identified as excessto its needs are ferromanganese and ferrochromium; however,DOD is mandatedby law to acquirecertain amountsof these ferroalloys annually.
+
+1
+
+` DOD lists 107 items in table 6 of its February 1992stockpile requirements report. Eight items had zero balances in inventory. 2Weuse values as of January 31,1991, to coincide with the time frame and values determined by DOD in its 1992requirements report to the Congress.
+
+Page 10
+
+GAO/NSIAD-93-60 National Defense Stockpile
+
+Chapter 1 Introduction
+
+To computethe requirementsfor its 1992report to the Congress,DOD conducteda study for which it developed23 planning assumptions, including attrition rates, shippinglosses,foreign suppliers' reliability, civilian austerity measures, force structure, and a 3-yearwar scenario.DOD used a complex modelingprocessin the study to compute estimated requirementsbasedon these assumptions. DOD found that it has requirementsfor 24 materialsvalued at $3.3billion. Included in this requirementis the need to buy quantities of 11 of these 24 materialsworth about $1.2billion; however, DOD proposedthat the materialsnot be purchasedbecausestockpile requirementswere expectedto decline further in the next stockpile requirementsreport.
+
+Plans for Disposing of Materials
+
+After DOD has determ inedthe requirementsfor the stockpile, the amounts of inventory that exceedthe proposedrequirementsare computed.DOD concludedthat it could disposeof certain amountsof 51 materialsin the stockpile. DOD'S Annual MaterialsPlan includes a list of excessmaterials that it wishes to sell on worldwide markets,their estimatedvalues,and the estimatedproceedsfrom the sale of those materials.DOD has proposedthe sale of the 51 materialsover 5 years,beginningin fiscal year 1993. Appendix II shows two of DOD'S proposedalternativesfor disposingof stockpile materialsin fiscal year 1993. The ferroalloy upgradeprogram was establishedin 1984under an executive order and was subsequently mandated,under 50 U.S.C.98d3to continue through fiscal year 1993.The law requiresthat m inimum annual quantities and total quantitiesof high carbon ferrochrom ium and ferromanganese be addedto the stockpile. Only two manufacturers produce these ferroalloys. BecauseDOD has excessquantities of these ferroalloys, it has recommended that the Congressrepeal the law requiring the acquisitionof these materials. In our report entitled National Security Council Study Inadequateto Set Stockpile Goals(GAO~JAD-87-146, May 4, 1987),we madeseveral recommendations to the Director of FEMA to improve the processused to determ inestockpile requirements.Seechapter 6 for DOD'S responseto these recommendations.
+
+The Ferroalloy Upgrade Program
+
+1,
+
+Redommendations in Od 1987 Report
+
+%ection 1501of the Fiscal Year 1989Defense Authorization Act, Public Law 100-456.
+
+Page 11
+
+GAOiNSIAD-98-60 National Defense Stockpile
+
+Chapter 1 Introduction
+
+Stockpile Provisions in the 1993 Defense Authorization Act
+
+The Fiscal Year 1993DefenseAuthorizationAct contains several provisionsthat addresses stockpile management, including acquisitionand disposalof stockpile materials.The act authorizesthe Presidentto dispose of significant quantitiesof 44 obsoleteand excessmaterialsin the stockpile beginningOctober 1,1992.Before disposalscan be made, however,the Presidentmust submit a revisedannualmaterialsplan to the Congress,and the Presidentmust certify that the disposalswill not adverselyaffect the U.S.ability to supply neededstockpile materials during a national emergency. Disposalsof chromite and manganese ores in fiscal year 1993can be made only for processingin the United Statesand its territories and possessions, and DOD may not begin disposalof ferrochrom ium and ferromanganese before October 1,1993.The President is to notify the Congressin writing, including full explanationand justification, of any proposedchangesin quantitiesof materials.Unlessthe Congressopposes,the proposedchangesbecomeeffective on or after the 30th legislativeday following the notification. The act also formalizesthe establishmentof two committeesto assistin stockpile management. An advisory committee,consistingof federal agencyand outside representatives, will make recommendations to the Presidentregardingthe operation and modernizationof the stockpile. A market impact committee,consistingof representatives from federal agenciesand other personsthe Presidentconsidersappropriate,will adviseand make recommendations to the stockpile managerconcerning the projected domesticand foreign economiceffects of all stockpile acquisitionsand disposals.The recommendations in this report are consistentwith the act' s provisions and are being maintainedto ensure that appropriateagencyactions are taken and reported.
+
+Objectives, Scope, aqd Methodology
+
+In responseto requestsfrom the Chairmenof the Subcommittee on DefenseIndustry and Technology,SenateCommitteeon Armed Services, and the Subcommittee on Seapowerand Strategicand Critical Materials, House Committeeon Armed Services, we reviewed (1) the assumptions and methodologiesDOD used in determ iningthe material requirementsit presentsin the 1992Report to the Congresson National DefenseStockpile Requirements, (2) DOD'S recommended plans to disposeof unneeded materialsand acquireneededones,and (3) the ferroalloy upgrading program .We also reviewed,as requested,agencyactions on our recommendations madein 1987and federal agencies' and other experts' participation in the stockpile requirementsdeterm inationprocess.
+
+Page12
+
+GAO/NSIAD-93-60 National Defense Stockpile
+
+Chapter 1 Introduction
+
+We performed our work at the Office of the Secretaryof Defense;the DefenseNational Stockpile Center,DefenseLogisticsAgency;the Departmentof Commerce; the Bureauof M ines,the Departmentof the Interior; the Departmentof State;the Office of Management and Budget; the Departmentof Transportation;the FederalEmergencyManagement Agency;a commercialmaterialsuser; and severalindustry associations. We basedour assessment of the impact on national security of the proposeddisposalsof materialson DOD'S estimatedrequirements,which were derivedfrom its modelingprocess,and on a review of DOD'S rationale for requirementsof materialsnot included in the model. In assessing the credibility of DOD'S modelingprocess,we performed sensitivity analysesto test the consequences of alternative assumptionson requirement estimates.We analyzedalternative assumptionsin the critical areasof foreign country reliability and the use of material consumptionratios. To assess the impact of proposeddisposalson the market, we comparedthe proposeddisposalquantitiesto production quantities,discussedthe proposeddisposalswith governmentand industry representatives, and related the value of materialsproposedfor disposalto historical information. To assess the ferroalloy upgradeprogram ,we reviewedhistorical information, including legal requirements,governmentcosts and market prices, stockpile inventoriesand requirements,and the availability of ferroalloys from sourcesother than the two contractors involved in the program .In addition, we discussedwith governmentand contractor representatives the two ferroalloy contractors' potential for converting from governmentto commercialsales. We did our review from August 1991to August 1992in accordancewith generallyacceptedgovernmentauditing standards. a
+
+Page 13
+
+GAO/NSIAD-93-60 National Defense Stockpile
+
+Chapter2
+
+RequirementsDetermination Process Is Limited as a Means of Estimating Stockpile Requirements
+Although DOD has improved its processfor determiningstockpile requirementsfor strategic and critical materials,the overall processis limited as a basis for determiningspecific estimates.DOD used a reasonableset of planning assumptionsand options in its 1992report but did not adequatelycharacterizethe uncertainty associatedwith key assumptions.Most important, key material consumptiondata on industry' s use of strategic and critical materialswas appreciablyoutdated. Specifically,DOD conductedno sensitivity analyses' on the assumptions describingindustry' s production and use of materials and no sensitivity analysesof combinationsof reasonablealternative assumptions.A limited sensitivity analysisof assumptionsconcerningthe availability of materials from foreign sourceswas conducted.Although DOD is negotiatingwith Commerceto updatematerial consumptiondata, Commerceofficials believethat it may be severalyears before quality data can be provided.
+
+DOD' s Methodology Appears Reasonable
+
+DOD appearsto have used a reasonable methodologyand set of planning assumptionsto generatematerial requirementsin its 1992report. DOD consideredthe 3-yearwar scenario;military forces to be mobilized; requirementsfor the miWary, industrial, and civilian sectors;available foreign supplies;and domesticproduction. DOD also factored in warning and mobilization periods. F' inally,by changingfactors, DOD tested the sensitivity of suppliers' reliability, shipping losses,prices, mobilization year shortfalls, plant capacities,and civilian austerity. Theseanalyses resulted in requirementsfor stockpile materials that rangedfrom $2.9billion to $3.8billion.
+
+Becauseof the reducedthreat from EasternEurope and the former Soviet Union, DOD proposed-in addition to its prescribed3-yearwar scenario-what it considersa more realistic war scenario-a 3-monthwar with a l-year mobilization period. Although the requirementsunder this alternative would cost about $1.3billion, or about $2 billion less than those under the 3-yearwar scenario,quantitiesof sevenstockpile materialsvalued at $195million would have to be acquired.
+
+a
+
+` Sensitivity analyses are intended to show how requirements estimates might change as a result of such contingencies as the loss of a key foreign supplier, unexpected shipping losses, or variations in estimates of material consumption.
+
+Page 14
+
+GAO/NSIAD-98-60 National Defense Stockpile
+
+I' ;.: J' . ..r
+
+Chapter 2 Requirementa Determination Process Is Limited as a Meanr of Estimating Stockpile Bequlremente
+
+Analysis of Foreign Countries' Reliability in Providing Materials Was Lim ited
+
+In estimatingthe availability of material from foreign sources,DOD did not adequatelyreflect the uncertainty of ratings applied to each country, did not rate countriesthat m ined ore processedin another, and did not combineanalysesof country reliability with analysesof other pertinent factors. The reliability ratings are important becausethe United Statesrelies on foreign countries for most of the strategic and critical materialsin the stockpile. For example,the United Statesis almost entirely dependenton foreign countries for columbium,manganese, platinum , cobalt, and chromium.Dependence on foreign suppliersfor all other materialsin the stockpile varies considerably.
+
+How DOD Derived Reliability Ratings
+
+The State Departmentassessed foreign countries' reliability in supplying materialsusing a methodologythat rated the countries on a scale of one to six. A rating of one meant that during a war a country would likely be unwilling to supply the United States,while a six meant that a country could produce and deliver its full capability and would likely take extraordinary measures to provide even more material. SeveralDOD groups also reviewed information on countries' reliability and resolved differencesbetween State' sand DOD'S ratings by adoptingthe more conservativerating of the two. The ratings were then convertedto percentages for use in the model. We and Departmentof State officials do not,believethat DOD'S sensitivity analysisof countries' reliability adequatelyreflects the uncertainty of the ratings. Officials in State' sOffice of International Commoditiesstressed that their ratings are highly subjectiveand are accuratefor a few months at best. In one analysis,DOD used reliability ratings from its 1989study and computeda stockpile requirementthat was $194m illion, or 6 percent, lower than the proposedrequirementin the 1991study. In another analysis,DOD reducedthe reliability rating for one key country by 60 percent, which increasedstockpile requirementsby only $5 m illion. We do not believethat thesetwo analysesadequatelyreflect the uncertainty associatedwith foreign country reliability. Moreover,DOD did not impose ratings on all pertinent sourcesof supply. Specifically,DOD did not rate countries where material was m ined but did rate countries where the same material was processed.Thus, DOD may have overstatedthe availability of certain materials.
+
+Sensitivity Analysis on Country Ratings Does Not Reflect Uncertainty
+
+1,
+
+Page 15
+
+GAO/NSIAD-93-60 National Defense Stockpile
+
+Chapter 2 Requirements Determination Process Is Limited aa a Means of Estimating Stockpile Requirements
+
+_...._.
+
+-.. .---
+
+Becauseof our concern about the uncertainty of country ratings, we asked DOD to conduct additional sensitivity analyses on ratings we believedwere characterizedby substantialuncertainty for the foreseeablefuture.2DOD tested alternative ratings for a number of different countries in different combinationsselectedby us. By lowering the ratings for just a few countries,we found that the estimatedrequirementsincreasedfor 10 of the 19 modeledmaterialswith requirementsin the 1992report. Also, requirementswere establishedfor two materialsthat had no requirements or goalsin DOD'S 1992report. For somematerials,requirementswere manyfold larger than those proposedby DOD in the 1992report. In terms of total value, this test suggested requirementsthat were about 50 percent greaterthan those proposedin DOD'S 1992report. An alternative rating for one key country is largely responsiblefor this difference. Finally, DOD did not combineanalysesof country reliability with analyses of other pertinent factors, for example,shipping lossesor industry' s use of materials.Somesensitivity analyseson country reliability for studies done in past years were more thorough. The application of similar analyses could result in broader rangesfor stockpile goals.
+
+Sensitivity of Material Consumption Ratios Not Reflected in DOD Report
+
+uncertainty associatedwith material consumptionratios (MCR), which are used to convert estimatesof economicactivity into material requirements. Each MCR representsan estimateof how much of a material is used for each billion dollars worth of a specific industry' s output. Although DOD used about 2,000MCRS as factors in its model, less than 200are influential in producing a meaningfulestimate,and these must be reasonably accurate.The source data used to derive MCRS for the 1992report, however, was appreciablyoutdated,thus compoundingthe uncertainty associatedwith their use. The 1992report includes MCRS that are basedon data more than 10 years old.3In addition, DOD did not presentsensitivity
+These test results differ from those we presented in testimony on April 29, 1992,before the House Armed Services Subcommittee on Seapower and Strategic and Critical Materials because of a DOD programming error. As a result of the error, this earlier testimony substantially understates the effect of the reliability rating for one key country on estimated requirements. sAccording to DOD, MCRs are calculated as the ratio of 3 years of materials consumption data by industry, obtained from analysts at Commerce, to 3 years of industry output on a product class basis, obtained from the Census of Manufacturers. Commerce last updated the materials consumption data for all materials during 1986-86, which produced estimates for 1983.Allowing for the lag-time in constructing MCRs, estimates for 1989could have been available for the 1992study; therefore, the MCRs used in the 1992study were at least 6 years out of date from what was possible. Adding to this the years that the MCRs are projected forward in the 1992study means that the MCRs applied to the war years are based on data more than a decade old.
+
+CL
+
+Page 16
+
+GAO/NSIAD-93-60 National Defense Stockpile
+
+Chaptar 2 Eeqnirementa Determlnatlon Process Is Limited aa a Mean6 of Estimating Stockpile Bequirement8
+
+analysesof the uncertainty related to MCRS that can arise from other factors such as price speculationand changesin inventory levels.
+
+DOD Used Unverifiable Sources and Outdated MCR Data in 1992 Report
+
+To analyzethe consequences of using outdated MCRS, we attemptedto obtain the raw data DOD used to construct MCFJS. DOD was unableto provide that data becauseit did not keep historical files or documentation.We did obtain raw data for someof the potentially important MCRS from Commercedata covering 1972-83, but nearly half of the data we requested had been discarded.We calculatedour MCRS in a mannernearly identical to that describedby DOD and found that of the 15 MCRS we examined,our estimateswere within 10percent of DOD'S MCRS for 4, within 20 percent for another 6, and substantiallydifferent for the remainingL4 We also examinedhow much an MCR could changeover 10years.Among 15 MCR9,2 increasedby more than 4 times their level of a decadeago, 1 doubled,3 had decreased to less than 25 percent of their prior level, 6 were about one-halftheir prior level, and only 3 had remainedabout the same. Such dramatic changesin MCRS over a decadeare possiblefor many reasons,including (1) technologicaladvances,for example m iniaturization,which would reduce materialsconsumption; (2) substitution of alternativeor cheapermaterials,which could increase consumptionof somematerialsand reduce consumptionof others; (3) greaterproduction efficiencies(less waste), which would reduce materialsconsumption;and (4) changesin the dominanceof the various products containedin particular standardindustry classifications(sIc),~ which could increaseor decreasethe consumptionof particular materials.
+
+Other Factors Related to Uncktainty of MCRs Not Congidered
+
+DOD' S 1992report does not present sensitivity analyses of the uncertainty related to MCRS that could arise from additional factors, for example, changesin inventory levels,price speculationon materials,and the likelihood that wartime MCFU are not comparableto peacetimeMCRS.
+
+` We attempted to verify the MCRa used in the 1992study by constructing comparable MCRs from Commerce data and Census of Manufacturers'actual data, whereas DOD had used forecasts of Census data %IC codes are four-digit standard industry classifications used by the Department of Commerce to categorize economic data on an industry or product basis.
+
+Page 17
+
+GAO/NSIAD-93-60 National Defense Stockpile
+
+I
+
+Limited u a lbhne of Eedmatlng Stockpile
+Bsquiremente
+
+Ckapter 2 Ba&ramantr Detenrrkutlon Proeerl[r
+
+We askedDOD to conduct sensitivity analyseson 16 estimatedMCRS representing11 materials, 7 of which have proposedrequirementsin the 1992report. In most cases,we examinedboth increasesand decreases in the MCRS. We determinedthe amountswe raised and lowered each MCR by using either past valuesof that MCR, accordingto the varianceor the extremes,ofthose values,or the MCR we calculatedfrom Commerce' s source data if it differed greatly from DOD' MCR. S For the sevenmaterials included in the 1992report, five requirementsincreasedin rangesfrom 17 to 66 percent, six decreased from 26 to nearly 100percent, and one nearly tripled or decreased to zero. The requirementsfor the other four materials did not increase.By combiningour MCR analyses,we found that the total value of proposedrequirementscould increaseby 36 percent or decrease by 29 percent. Our sensitivity analysesare somewhatconservativein that we did not examineall materials or test plausible extremevalues of MCRS in each case.A more thorough analysisor a combination of MCR analyseswith analysesof other factors could result in broader rangesof proposed requirementsthan those DOD proposedin its 1992report. Although DOD has askedthe Departmentof Commerceto updatethe data used to calculate MCRS, one Commerceofficial said that it might take severalyearsto developthe expertiseand cooperativeindustry relationshipsnecessaryto collect data comparablein quality to that obtainedin 1986.
+
+Conclusions
+
+DOD has madeprogressin improving the stockpile requirements determinationprocessby consideringa reasonablenumber and type of assumptionsand options. However,the processused,taken in its overall context, is limited as a basis for determiningspecific estimatesof stockpile requirementsbecausethese assumptionsand other data are characterizedby a significant degreeof uncertainty. Our broaderrangesof sensitivity analyseson various assumptionsshow that estimatescan vary significantly. The use of outdated data in the modelingprocessis even more critical. If DOD cannot obtain more recent MCR data, DOD may have to rely more on input from other federal agenciesand experts. We believeit would be prudent to place less emphasison computingspecific point estimatesof stockpile goalsand, instead,developa rangeof stockpile requirements,sized in volume and value, to cover identified U.S. security threats.
+
+l
+
+Page 18
+
+GACVNSlAD-92-60 National Defense Stockpile
+
+Bequlremante DetermlnrrtIon Procsrr Ir Limitad aa a Meana of E&matJng Stockpile BeqIllramsntr
+
+Recommendations
+l
+
+We recommendthat the Secretaryof Defense present a broader rangeof sensitivity tests to assess the uncertainties associatedwith a variety of assumptions, including MCR data, foreign country reliability, warning time, and alternativewar scenarios; obtain and use updatedMCR data in determ iningstockpile requirementsor else create working groups or committeescomposedof experts in the relevant subject areasto determ inerequirements;and . developa rangeof stockpile requirements, basedon sensitivity test results, to cover identified US. security threats.
+DOD concurred with our recommendation that it present a broader rangeof sensitivity tests in future reports. DOD said that sensitivity analysesin future requirementsreports will include changesin the valuesof key assumptionsin both a higher and lower direction by at least 16to 20 percent plus combinationsof changesin key variablesin the same direction. DOD partly concurred with our recommendation that updatedMCR data be obtained and used. DOD signeda memorandumof understandingwith the
+
+l
+
+Agency Comments and Our Evaluation
+
+Departmentof Commerceon July 17,1992,to update the MCRS over a 2-yearperiod. As of December1992,there had been no new MCRS developedfor use in the DOD requirementsreport due to the Congress by January 16,1993.DOD has kept us informed about efforts to developan alternative methodologyfor estimatingmaterial consumptionthat is said to be less dependenton year-to-year variations in consumptionand could be used to substitute for someMCR& our recommendation that advisory working groupsbe establishedif the MCRScannot be updated.DOD stated that it usesadvisoryworking groupsto help developrequirementsfor non-modelmaterials,but it would be too late to establishsuch groupsfor modeledmaterialsfor the 1993report, DOD said that advisorycommittees would be formed if by July 1994there were materialsfor which neither an updatedMCR nor an alternativequantitativemethodologywas available. We believethat in the interim sometype of mechanism, such as advisory working groups,is neededto addressrequirementsfor those materials that are not covered.
+DOD did not concur with our recommendation that stockpile requirements be developedin ranges,basedon sensitivity test results, to cover identified DOD only partially concurred with
+
+Page 19
+
+GAO/NSIAD-98-60 National Defenm Stockpi~a
+
+Chaptar 2 Raqulremsn~ Determination Procers I# Limited ae a Meanr of E&mating Stockpile Requirementi
+
+U.S.security threats. DOD believesthat requirementsfor each material must be expressedin terms of a single-pointestimatebecausethe Critical MaterialsStock Piling Act lim its disposalsto those materialsthat exceed stockpile requirements.We believethat requirementscan be presentedas point estimates;however,the requirementsshould be qualified to show that sensitivity to contingenciescould causethem to vary significantly aboveor below the point estimates. In further support of its position, DOD believesthat (1) foreign country reliability assessments are good for severalyears,(2) the Market Impact Committeeis now adequatelyinvolved in reviewing proposeddisposals, (3) MCRSwill be updatedin time to prevent unwarranteddisposals,and (4) amendments to the Stock Piling Act give DOD flexibility to change requirementswhen planning assumptionschange. As we have reported, the StateDepartmentbelievesthat country reliability ratings, in somecases,may be good for only months. Even if reliability ratings have remainedrelatively stable over the past decade,dramatic changescan occur quickly. Few, if any, foresaw the changesthat have taken place in EasternEurope in the past couple of years.Sensitivitytests we had done showed that somerequirementswere 60 percent higher than those proposedin DOD'S 1992report. We are encouraged that the Market Impact Committeehas been formally establishedand, will perhapsbe more actively involved in advisingDOD on the projected economiceffects of stockpile disposalsand acquisitions.We remain concernedabout the use of outdated data in determ ining requirementsand disposals,however. In addition, recent legislation authorizesDOD to proposechangesto stockpile requirementsbasedon changedplanning assumptions, DOD must still determ inerequirements basedon assumptionsin existing legislation.DOD must justify proposed changesto such requirementsto the Congressand they must wait 30 legislativedays before changesare enacted.
+
+l
+
+Page 20
+
+GMVNSIAD-93-60 National Defense Stockpile
+
+Chapter3
+
+Caution in the Disposal of Excess Stockpile Materials Is Prudent
+DOD has proposedthe disposal,or sale, of 61 strategic and critical materials,beginningin fLscalyear 1993,basedon its assessment of requirementsfor national security and the effect disposalswould have on material markets. (Seeapp. II.) On the basis of sensitivity anaIyses we conductedfrom a national security perspective,we determinedthat most of DOD'S proposeddisposalsare reasonable; however,a more cautious approachto some of the proposeddisposalswould be prudent. Further, although DOD attemptedto account for the impact of disposalson materials markets in its fiscal year 1993Annual MaterialsPlan, DOD had not madefull use of the Market Impact Committee' sexpertisein determiningwhat materials should be disposedof. Under FEMA, the Committeehad played an important role in the developmentand execution of the plan.
+
+Sensitivity Analysis Shows Risk in Disposing of six Materials
+
+Resultsfrom a sensitivity analysisof the stockpile modelingsystemshould provide a reasonable basis for assessing the national security risk associatedwith the proposeddisposalof stockpile mater&&. As a test, we asked DOD to conduct a sensitivity analysison the country reliability assumption,and we usedthe results of that analysisto categorizethe proposeddisposalof eachmaterial as a low, medium, or high risk.'Prom this analysiswe determinedthat the proposeddisposalof six materials could be considereda high risk from a national security perspective. Those six materialswere antimony; chromite (refractory grade);three platinum group metals (iridium, palladium, and platinum); and the tungstengroup. Most disposalsposeda low risk becauseavailable suppliessubstantiallyexceeddemandsor becausethe materials are obsoleteor of an unusablegrade;none poseda medium risk. The results of this analysisare more likely to overstatethan understatethe true risks associatedwith proposeddisposals.We did not consider other alternative assumptionsor data estimates,which could alter our classificationsof proposedanalyses,or the uncertainty that is associated with them. We believe,however,that a sensitivity analysisof country reliability is more likely to result in higher requirementsthan a sensitivity analysisof any other assumption.Consequently, the disposalswe
+` For this analysis, we reduced the reliability ratings for a number of countries bssed on our perception of the uncertain~ associated with those ratings. If the amount of a given material in inventory minus the proposed disposal was more than 26 percent below our alternative proposed requirement, we classi5ed that disposal as high risk; between 0 and 26 percent-medium risk; 0 percent or below-low risk The results were not sensitive, however, to the selection of 26 percent versus, for example, 33 percent as the cutoff. We adjusted the risk clsssi5cations on the disposals of cobalt and quarts from medium and high risk to low risk based on a Defense Logistics Agency official' s comments about the grade of the materials slated for disposal and their current importance to national security.
+l
+
+Page 21
+
+GAO/NSIAD-93-90 National Defense Stockpile
+
+,` f
+
+,.
+
+,; .
+
+` :
+
+,
+
+'
+
+` .
+
+.a
+
+Chapter 2
+Caution
+
+Materials 11 Prudent
+
+in the Dirpoeal of Excerr Stockpile
+
+classifiedas high risk should be consideredas having a low probability of compromisingnational security. Twenty-two materialswere not consideredto have enoughmarket activity to make quantitativemodelingpractical. Instead,during its 1991study, DOD consultedwith experts from other federal agenciesand used data collected from availablesourcesto determ inerequirementsfor these materials.In the 1992report, DOD proposedreducing 22 materialswith requirementsworth $1.2billion to 3 materialswith requirementsworth $0.4billion (at Jan. 1991prices). The three materialsare beryllium metal, diamondindustrial stones,andjewel bearings;requirementsfor the other 19 materialswould drop to zero. The reasonscited in the 1992report for dropping the 19 materialsto zero, coupled with the methodologyDOD used to determ inethese requirements, appearedreasonableto us. DOD cited the availability of substitutes, decliningusage,health and environmentalimpacts,and unnecessary requirementsas reasonsfor elim inatingrequirementsfor the materials.
+
+Experts Suggest Caution in Disposals That W ill Affect Material Markets
+
+For the most part, the levels of disposals,or sales,proposedin DOD'S Annual MaterialsPlan appearto be reasonableduring good market conditions. However,market conditions for eachmaterial vary, and DOD is obliged not to disrupt the marketsfor these materials,
+DOD'S fiscal year 1993Annual MaterialsPlan includestwo 6-year alternativeplans for disposals,starting in fiscal year 1993.Under the plan, DOD has askedfor authorizationto disposeof 61 materialsworth $392m illion in one plan and worth $634m illion in the other plan. Disposalsunder both plans are equalto or less than the computed excesses in DOD'S 1992report. The first plan meetsthe legislative requirementthat disposalsnot exceedobligations,which are plannedat $160m illion. The secondplan assumes that a maximumlim itation of $1 billion will be legislativelymandated.(Seeapp. II.)
+
+Domesticindustry associationsand severalforeign countrieshave expressedconcern about the effect proposeddisposalswould have on material markets.Accordingto a recognizedexpert, disposalof about 6 percent of world production per year during good market conditions is a good rule of thumb. We comparedthe proposeddisposalsof 29 materials to world production using the S-percent rule of thumb. We determ inedthat
+
+Page 22
+
+GAOiNSIAD-98-60 National Defenee Stockpile
+
+Chapter
+
+8
+
+Caution ln the Dbpwal of Excerr Stockpile
+lbWerlala I# Prudent
+
+most of the proposeddisposalsunder DOD'S two alternative plans were under 6 percent. The first plan includes three materials over the S-percentbenchmark (graphite natural/malagasy crystalline, 7.9 percent; mercury, 6 percent; and tin, 6.8 percent). The secondplan includes three additional materials that exceed6 percent (bauxite/metal gradeJamaica,6.6percent; cobalt, 6.6 percent; and palladium, 6.9 percent). Experts favor disposal of stockpile excessesduring escalatingmarket conditions as a meansof minimizing the impact on usual markets. They also agreethat predicting future market conditions is virtually impossible. An industry expert cited a price swing for cadmium from around $9 a pound in 1988and 1989to $1 a pound currently, a drop that illustrates the volatility of the market. Somegovernmentand industry representatives were concernedthat current markets (with low demandsand low prices) could be unduly affected by substantial stockpile disposals.
+DOD'S proposeddisposaIof cobalt ln current markets has generated considerableinterest. DOD computed an excessinventory of 12.7million
+
+pounds of cobalt, which was proposedfor disposalin the fiscal year 1992 and 1993Annual Materials Plans. DOD requestedexpedited authority for the disposal of 6 million pounds of this excess.The U.S. use of cobalt in 1991was estimatedto be about 16million pounds, or 21 percent of world mine production. Although the United Statesno longer mines and refines cobalt, U.S. reclamation from shavingsand other usablescrap accounts for about 3 million pounds, or 18percent of domestic consumption.In addition, accordingto representativesfrom the Bureau of Mines and the DefenseNational Stockpile Center,mines and smelters could be reopened if the price of cobalt were high enoughor the United Statesfaced a national emergency. Two experts-a governmentspecialist and a user-believed that the disposal of cobalt was desirablein the current market becauseit could be sold for relatively high prices. On the other hand, a trader believedthe supply and demandfor cobalt were delicately balancedand that DOD'S proposeddisposalwould disrupt the market. He addedthat the governmentcould sell the cobalt for higher prices in the future.
+
+l
+
+DOD Pays Little Heed to Expwts Advice on Disposals
+
+We recommendedin our May 1987report that the views of individuals and organizationswith the requisite experienceand expertise be sought during the requirementsdeterminationprocess,including the selection of
+GAOiNSIAD-93-60 National Defenee Stockpile
+
+~ttge 28
+
+Chapter 8 Caution In the Diepoaal of Excem StockpIle Materi& Is Prudent
+
+materialsfor disposal.By Executive Order 12626, dated February26,1988, DOD must consult with headsof cognizantagencies-for example,the Departmentsof Commerce, the Interior, and State and m m -when planning disposals.Accordingto DOD officials, representatives in other agencieswere contactedduring the planningprocess,but the experts we contactedin those agenciessaid they had not been consultedon DOD'S S-year disposalalternatives. When FEMA was managingthe stockpile, the Market Impact Committee played an important role in advisingon the developmentand execution of the disposalplan. The Committee-comprising representatives from the Departmentsof Commerce, State,and the Treasury;the Bureauof M ines; and FEMA--primarily sought to ensurethat governmentpurchasesand salesof strategic and critical materialsdid not disrupt market prices. It also servedas a forum for industry complaintsand concerns. Officials at the Departmentsof Commerceand State and FEMA expressed concern about the dim inishedrole of the Committee.SinceDOD has becomeresponsiblefor the stockpile, the Committeehas met only occasionally,with no consensus arrangementor processfor resolving differing views. The DOD Inspector Generalagreedin July 1991that the Committeehad not consistentlymet to review the effects of proposed acquisitionsand disposalson domesticand foreign markets.The officials commentedthat DOD apparentlyhas little interest in the Committeeor its views. DOD officials said that although Committeememberscould commenton the Annual MaterialsPlan,the Committee' sadvicewould not necessarily be followed. FEMA and the State Departmenthave suggested that the Committeebe formally instituted, either through legislation or by an executiveorder, to sopinions on the effects of ensurethat ND considersthe Committee' disposalson the materialsmarkets.Formalizationof the Committeewould also ensurethat membersclearly understandtheir roles in the disposal process.DOD has developeda charter that spells out specific responsibilitiesof the Departmentsof Commerce, the Interior, and Statein advisingDOD and providing data for the setting of stockpile requirements. However,DOD indicated that the role of civilian representatives on the Committeewould be only to offer advice on acquisitionand disposal actions as they affect the materialsmarkets.Final developmentand approval of the charter are pending. ,
+
+Page 24
+
+GAO/NSIAD-93-60 NationalDefense
+
+Stockpile
+
+.',(
+
+I,'
+
+j
+
+Chapter 8 Caution in the Disposal of Excess Stockpile AIatmiab Is Prudent
+
+Revenues Have Been Below DOD' s Requested Authorizations or Legislated Lim itations
+
+The estimatedvalue of materialsproposedfor disposalin the two alternativeplans is significantly higher than the revenuesreceivedfrom salesin the past 4 years (198891). Furthermore,the revenuesfrom those years were less than the amountsthe Congressauthorizedto be disposed of and less than the value of the materialscited in the plans for those years. The estimatedvaluesof the materialsproposedfor disposalin the two 1993plans ($392m illion and $634m illion) were computedat 80 percent of market prices. (Seeapp. II.) The 20-percentdiscount is intended to compensatefor (1) the costs of loading and transporting the materials from storagesites to the marketplaceand (2) the sale of materialswithout the usual market gradeguarantees. As shown in table 3.1, the estimatedvalues of materialsdisposedof during fiscal years 1988-91 were above,below, and equalto the legislatedlim its; in all cases,the valuesand the legislatedlim its exceededthe proceeds.
+
+Table 3.1: Estimated Values, Llmltatlon Amounts, and Proceeds for Disposals
+
+Dollars in millions Estlmated value of materials for disposal $275.0 151.6 180.0 180.0 257.2 Legislated limitation $126 180 180 180 150 Proceeds from disposals $80 69 63 a3 a Proceeds as a percentage of llmltatlon 64 38 35
+46
+
+Fiscal year 1988 1989 1990 1991 1992
+
+a
+
+BProceeds through March 1992 totaled $58 million.
+
+Eight materials2 representedthe major disposalsbetween 1988and 1991. Various combinationsof these materialsrepresent97 percent or more of the total proceedseach year. Theseinclude silver transferred to the Treasuryfor coinageprogramsand tin transferred to ferroalloy contractors under barter agreements that partially offset the costs of the ferroalloy upgradeprogram .Actual disposalsof the materialswere generallybelow the authorizedquantitiesand estimatedprices during the past 4 fiscal years.Between 1988and 1991,materialsworth about $443m illion were authorizedfor disposal,but revenueswere about
+2Thematerials were diamond bort, diamond stones, iodine, mercury, silicon carbide, silver, tin, and tungsten ore.
+
+Page 26
+
+GAWNSIAD-98-60 National Defense Stockpile
+
+Chapter
+
+3
+
+Caution in the Disposal of Materials Is Prudent
+
+EXCMB Stockpile
+
+$290million. The difference ($163million) representslower quantities sold ($116million) and lower prices of the materials ($38million). Lower quantities of materials were sold because(1) the amount of material neededfor coinageprogramswas limited, (2) legislation required that the usual markets not be disrupted, and (3) the demandfor materials that did not meet market specifications was low. According to two experts, market specifications are now more stringent than they were when some of these materials were purchased,and some materials have deterioratedwhile in storage.The lower prices for materials resulted from, amongother things, (1) the market prices'volatility, (2) the difficulty in predicting market price adjustmentsto account for moving costs, and (3) the sale of materials without the usual specification guarantees.
+
+Conclusions
+
+BecauseDOD has not used a wide rangeof sensitivity analysesand updated data in determiningrequirementsand has not consideredthe views of the Market Impact Committee,its proposeddisposalsmay be questionable. Indications are that prudent disposal of most materials would be appropriate;however, caution is advisedin disposal decisions-at least until DOD obtains updated data and runs a wider range of sensitivity analyseson key assumptionsduring future studies of stockpile requirements.We favor a broad, flexible, longer term disposalplan, subject to annual congressionalreview and approval,that optimizes the amount of excessmaterial authorizedfor disposal.Such a plan should be readily adjustableto ensurethat disposalsdo not unduly disrupt the commodity markets. DOD has not consulted the Market Impact Committee or other experts on a regular basis in planning and implementingits disposal and acquisition programs.Such consultation is important because (1) the timing of disposalsand acquisitionsin the volatile minerals and metals markets is critical to ensurecompliancewith legislative requirementsand avoid undue disruptions in the usual markets and (2) proposeddisposalswould significantly exceedprior government experiencewith annual disposals.We believe advisory committees comprised of individuals with expertise in stockpile materials and stockpile management should be appointedto advise and counsel stockpile managers. We recommendthat the Secretaryof Defenseuse the Market Impact Committee or create a new committee comprised of civil federal agency
+
+a
+
+Recommendation
+
+Page 26
+
+GAO/NSIAD-9340 National Defense Stockpile
+
+Chaptar 8 Caution in the Disposal of Excess Stockpile Matmlals IO Prudent
+
+and independentexpertsto adviseand counselstockpile managers in planningand implementingstockpile disposalsand acquisitions.
+
+Agency Comments and Our Evaluation
+
+our recommendation that the Secretaryof Defenseappoint a committeeof federal and independentexperts to advise and counselstockpile managerson stockpile disposalsand acquisitions. They pointed out that the Market Impact Committeewas institutionalized under an interagencycharter effected in late 1992and by a statutory mandatein the Fiscal Year 1993National DefenseAuthorization Act. As we have reported, regular consultation with federal and other experts is very important to avoid or m inim izematerial market disruptions.
+DOD took strong exceptionto a recognizedexpert' s suggestionthat disposalsof excessmaterialsbe lim ited to 6 percent of annual world production as a generalrule of thumb. DOD believesthat no single decision rule should be rigidly imposedin makingjudgmentsabout the extent of market impacts.We did not recommendor intend that the S-percent rule of thumb be rigidly adheredto as a standardfor disposalof excess materials.We presentedit as a recognizedguide,along with other information, used in making disposaldecisions.In DOD'S two alternative plans, 23 of 29 materialsproposedfor disposalare within 6 percent of world production. We believethat market conditions at times would support disposalsof less than 6 percent and at other times, disposalsmay feasibly exceeda S-percent guide.
+
+DOD officials concurredwith
+
+Page 27
+
+GAO/NSIAD-98-60 National Defense Stockpile
+
+Chapter4
+
+Ferroailoys Are No Longer Needed
+
+_.-___ __.
+
+--.-.-.- ..___
+
+In computing 1992stockpile requirements,DOD identified excess inventories of ferrochromium and ferromanganese and the stockpile ores used for their manufacture.DOD is requiredby 60 U.S.C.98d'to procure a certain amount of these alloys annuallyunder the ferroalloy upgrade program.The government' scost for these ferroalloys is higher than their market prices. Becauseof the excess,DOD proposedthat the law be repealed.However,each of the two ferroalloys has only one U.S. producer, and there is some concern about the viability of theseproducers without the governmentprogram.
+
+DOD Is Required to Make Annual Procurements Under the Ferroalloy Upgrade Program
+
+The ferroalloy upgradeprogram requiresthe annualprocurementof minimum quantitiesand the maintenanceof total quantitiesof high carbon ferrochromium and ferromanganese for the stockpile. The alloys are produced from chromium and manganese ores provided from the stockpile. From 1984through 1991,about 384,000 short tons of ferrochromium were purchasedfor about $324million, and about 417,000 short tons of ferromanganese were purchasedfor about $276million. Thesecosts were basedon the ores' replacementand upgradingcost.~,~ which exceeded comparablemarket prices of ferrochromium and ferromanganese by an averageof 25 percent and 36 percent, respectively,during the 8-year period. Using the original costs paid for the ores many years ago,we estimatethat the cost of the upgradedferrochromium was $266million, or about 1 percent below market prices, and that the cost of ferromanganese was $237million, or about 17percent abovemarket prices. has recommended in its fiscal year 1992Annual Materials Plan that the law mandatingthe ferroalloy program be repealedbecauseinventories exceedrequirements.During its 1991requirementsdeterminationstudy, DOD computedsignificant excesses of both the alloys and the ores required to produce them. DOD consideredthat the stockpiled materials,several
+DOD
+
+DOD Proposes Termination of Ferroalloy Program
+
+a
+
+` Section 1501of the Fiscal Year 1989Defense Authorization Act, Public Law 100-456. 2Govemment costs include the replacement value of the ores furnished by the government and the producers'costs to upgrade them. Upgrading costs include barter credits that can be accumulated and exchanged for excess materials. Using barter credits in 1991,for example, the ferrochromium contractor obtained 1,080short tons of tin, and the ferromanganese contractor obtained 1,848short tons of tin, 101,308pounds of chestnut tannin, 66,486pounds of quebracho tannin, and 200 flasks (76 pounds per flask) of mercury.
+
+Page 28
+
+GAWNSIAD-93-60 National Defense Stockpile
+
+___
+
+C h a p te 4 r F e rro a l l o yAa r e N o L o n g eN reeded
+
+fo re i gcno u n try s o u rc easn, d s u b s ti tupte ro d u c ti fa on c i l i ti ewse 3re s u ffi c i eto n ts a ti s fy envisione ad ti o ne am l e rg e n nc ey e dA s l.s oth , efa i rl y w i d e s p re waodrl d p ro d u c ti o o fn th e s fe e rro a l l osyus g g e th s ts a tU .S . e m e rg e n re cq y u i re m e cn o ts u lb d em e w t i th o uatd o m e s fe ti crro a l l o y p ro c e s s c in ag p a b i l i ty . A l th o u g Dh O Dh a s re c o m m e n th de ad t th el a wm a n d a tith ne gfe rro a l l o y s u p g ra d pe ro g ra b mere p e a l e i td h ,a s n o td e te rm i n(1 ed )th ec o s o tf te rm i n a tith ng ec o n tra cw tsi thth etw o p ro d u c e o rs fth ea l l o y (2 s , )th ec o s t o f c o n ti n u ith ne gc o n tra cto ts c o m p l e ti a on nd ,(3 )th ec o s ts a s s o c i a te d w i thth ei m m e d i iam tep l e m e n taotif a op n ro g ra to m h e l th p ep ro d u c e rs tra n s i ti o tonth ec o m m e rcm ia al rk eA t.s s o c i a fa te c d to rs includ theec o s o tf any c o n ti n u fe ed rro a l l p oy ro d u c ti o thne,i m p a c o tnth ep ro c e e D dOsD w o u l re d ceiv fro e mth es a l o e f o reto th ec o n tra c toars tre d u c e pd ri c e th s ,e s a l eosf e x c e s fesrro a l l ocyre s a tebdy c o n ti n u p e ro d d u c ti o an n ,d th es a l e o f re m a i n ionre gs when th ea s s i s ta n wcaeste rm i n a te d .
+
+U .S . P ro d u c e F rs a c e D i ffi c u l ti e is n C o m m e rc iM a la rk e t W i th o uFt e rro a l l o y U p g ra d P ero g ra m
+
+The abilio ty fth etw o U .S .p ro d u c e o rs ffe rro a l l oto ys c o m p ei te n th e c o m m e rcm ia al rk e wt i th o uth t eg o v e rn m eunpt's g ra d pe ro g ra im s q u e s ti o n aAbcl c eo . rd i to ng th e s p e ro d u c e a rs nd e x p e rts fro mth eB u re a u o f M i n e th s ,ec u rre n mt a rk e fo ts r fe rro a l l oay re s w e a ka, ss u p p e l yx c e e d s d e m a nDdo. m e s c ti c o n s u m p ti oo ffe n rro c h ro m ia un md fe rro m a n g a n e s e d e c re a s fro ed ma b o u 4 t2 0 ,0 a 0n 0d 5 6 3 ,0 s 0h 0 o rt to n si n 1 9 9to 0about 3 6 0 ,0 a 0n 0d 4 4 9 ,0 s 0h 0 o rt to n si n 1 9 9 re 1 , s p e c ti v S ee l yn. i o o rffi c e rs i n th e tw o c o m p a n e ie xs p re s sdei d ffe ri nvg i e wo s nc o m p e tii n n th g ec o m m e rc i a l m a rk e ts . A c c o rd i to ng one o ffi c e h r, i sc o m p a c no y u ln d o tc o m p ei te n th e c o m m e rcm ia al rk e a tl o nbee c a ui s t lea c k a s na d e q u m a te a rk e s th a re and b e c a u th se ec u rre n mt a rk e p tri c e o ffe re b d yfo re i gpnro d u c e is rs l o wT . he a v e ra J ga e n u am rya rk e p tri c e fo r fe rro c h ro m iw ua ms$ 7 4p 5e r s h o rt to n fro m 1 9 8th 5 ro u g 1 h 9 8a7n d only $ 6 0p 0e r s h o rt to n i n S e p te m b1e9r9 In 1. a d d i ti oth ne , g o v e rn m p e ro n tg ra c m u rre n tl re y p re s e 8 n0 ts p e rc e o n ftth e c o m p a np y ro 's d u c ti v oe nrs u5s0p e rc e w n th e n th ec o m p a o np y e ra te ad t fu l lc a p a c i ty . The o th e o r ffi c eb r e l i e vh ei d sc o m p a c no y u lc d o m p ei te n th ec o m m e rc i a l m a rk e i ftth eg o v e rn m w eo nu t l (1 d )d e c re ath s ep ro g ra a mta ra teth a t w o u lp d e rm a i t ni n c re a isne th ec o m p a nm y 's a rk e s th a re and (2 )s e l l
+3 A c c o rd i to ng e x p e rts fe, rro m a n g a n ceas n e b e p ro d u c e in da b l a sfu t rn a c a en d b o tha l l o ycs a nb e p ro d u c e in da n ye l e c trifu c rn a c e C. l o s efu d rn a c ecso u l d b e re o p e n eadn, de x i s ti nfu g rn a c ecso u l b de d i v e rte to d p ro d u cth ee s e m a te r i a il n s th e U n i te d S ta te s .
+
+P a g e2 9
+
+G A O IN S IA D - 9 3 -6N0a ti o n a D l e fe n s e S to c k p i l e
+
+Chapter 4 Ferroailoye Are No Longer Needed
+
+stockpiled ore at terms and conditions that would allow for a reasonable profit. A governmentsubsidywould be required during the transition period. The FerroalloysAssociationfavors procurementsthrough 1993 with a subsequent transition program for the producers.
+
+Conclusions
+
+Becauseferrochrom ium and ferromanganese stockpile inventories exceed DOD'S requirements and the alloys could be obtained from severalother sourcesin an emergency, we believethat the continued procurementof the alloys is not necessaryfrom a national security perspective.In addition, we can currently obtain these materialsfrom foreign sourcesat a lower cost; therefore, the program is not economical.However,the law does not provide for continuing the program beyondfscal year 1993,and the two U.S.producerscould be seriouslyaffected by a suddenwithdrawal of governmentsupport. Although a program to help the two producers graduallytransition to the commercialmarket may resolvetheir problems, DOD doesnot know how much such a program would cost. The Fiscal Year 1993DefenseAuthorization Act authorizesthe disposalof most of the chromite and manganese ores and associatedferroalloys that were reported as being excessin DOD'S 1992report. Two lim itations were imposedthat would help the two U.S.producers.First, disposalof chromite and manganese ores of metallurgicalgrademay be made only for processingpurposeswithin the United Statesand its territories and possessions during fiscal year 1993.Second,disposalof chromium and manganese ferroalloys may not begin before October 1, 1993.
+
+Recent Congressional Action
+
+Page 30
+
+GAO/NSIAD-93-60 National Defense Stockpile
+
+,.
+
+Chapter6
+
+Actions on Our Prior Recommendations
+
+We previously recommended that the analysesof stockpile requirements (1) be directed and performedby individuals and organizationswith the requisite experienceand expertise,(2) contain direct input from the industries involved in material mining and processing,(3) considera reasonablerangeof assumptionsand options, (4) fairly present study participants' inputs, (5) verify or supplementeconomicmodels with the best availabledirect measuresof material requirements,and (6) use assumptionsand planningfactors that are consistentwith those used by DOD, which was assigned overall federal departmentsfor similar purposes.' responsibility for stockpile management in February 1988,may not have adequatelysought and consideredinput from outside sourcesduring its requirementsdeterminationsprocessor reflected the concernsof other federal agenciesin its 1992report. The final report, including DOD'S proposedlegislation,was coordinatedthrough the Office of Management and Budget (OMB). Other agencies' views were not given to us, and some senior officials we talked to had not seenthe final report.
+
+Responses to Our Recommendations
+
+We found that experts in severalfederal agenciesand outside the governmentprovided essentialinformation and resourcesused to develop the stockpile requirementsproposedin DOD'S 1992report. This information included supply and capacity data provided by the Departmentof the Interior' s Bureauof Mines and the Departmentof Agriculture, demand side data from the Joint Chiefs of Staff, economicforecastsfrom the Council of Economic Advisers,foreign country reliability assessments from the Departmentof State,and modelingresourcesand servicesfrom outside contractors. Experts outside of DOD generallydid not lead or chair interagencyadvisory groups,working groups,or joint work efforts involved in the requirements developmentprocess.Most industry input on the supply and demandof critical materials was obtainedindirectly. The Departmentsof Agriculture and Commerceand the Bureauof Mines collected information from industry sources,market contacts, and other meansand provided it to
+DOD.
+
+Becauseof apparentconflicts of interests, DOD believesthat industry should not be directly involved in determiningrequirementsfor the materials it provides.The DOD-sponsored Institute for DefenseAnalysis obtainedmuch of the information neededfor special studies of advanced materials,such as indium and rhodium, through direct industry contacts.
+` National Security Council Study Inadequateto Set Stockpile Goals (GAOINSIAD-87-146,May 4,1987).
+
+Page31
+
+GAO/NSIAD-93-60 National Defense Stockpile
+
+` ,,
+
+Chapter 5 Actions on Our Prior Becommendations
+
+Thesematerialswere not included in the economicmodelingprocess becausetheir use is lim ited; thus, they were assessed separately.
+DOD appearedto use a reasonable set of assumptionsand options, including those stipulated in the legislation,such as the war scenario; m ilitary forces to be mobilized;requirementsfor the m ilitary, industrial, and civilian sectors;availableforeign supplies;and domesticproduction to computerequirements.DOD also factored in warning and mobilization periods. DOD also proposedalternative stockpile requirementsvalued at $1.3billion using a scenariothat assumeda l-year mobilization period and a 3-monthwar.
+
+changingfactors on foreign supplier reliability, shippinglosses,pricing, mobilization year shortfalls, plant capacity,and civilian austerity. Theseanalysesresulted in goalsranging from $2.9billion to $3.8billion. No sensitivity analysiswas presentedfor MCRSin the 1992report. Regardingfair presentationof study participants' input, the 1992report may incorporate civil agencyviews in that it presentsthe administration' s position to the Congress; however,it does not contain dissentingor critical views, as we had recommended. W ith respectto verification of economicmodels,we were told that the Institute for DefenseAnalysisdoes "reality checks"of selectedstrategic and critical materialsby obtaining as much input as possiblefor more difficult analyses. Institute officials stated that they consult with the m ilitary services,the DefenseLogisticsAgency,the DefenseScience Board, the DefenseAdvancedResearchProjectsAgency,and experts in the private sector. Direct measuresof demandand supply for stockpile materialsare not readily available.Thus, the Institute relies on experts in federal civil agenciesresponsiblefor industrial and economicactivities for demandand supply information.
+DOD officials agreedthat assumptions and planningfactors consistentwith related programsshould be used to computestockpile goals.They expressedreservationsabout using the stockpile study assumptionsand methodologyfor mobilization planning other than for the stockpile. The Departmentsof Commerceand State use a peacetimescenarioto project lead times for addingnew plant facilities and for increasingproduction. Under a wartime scenario,DOD assumes that production will increase
+
+DOD performed sensitivity analyses by
+
+a
+
+Page 82
+
+GAO/NSIAD-9340 National Defense Stockpile
+
+Acdo~onOnrPriorBacommendrtions
+
+Cllapter II
+
+dramaticallywhen new plants come on line more quickly, thus creating greaterdemandfor strategicand critical materials. We noted that the Departmentof Transportationand other agencies worked with FEMA to developfactors associatedwith industrial base planning and a graduatedmobilization response(GMR). Accordingto Transportationofficials, many of the planningassumptionsthat apply to warning times, civil GMR programs,civil industrial capabilities,and cost and construction factors appearto be basedon different assumptions than those DOD used in its requirementsreport. According to DOD, the fact that FEMA may use some different planning assumptionsfor its GMR and mobilization planningis not relevant to those aspectsof the stockpile program thatsre determ inedby m ilitary intelligenceestimatesor statutory mandates.
+
+Participation of Federal Agencies and Other Experts
+
+Civilian federal agencieshave generallyparticipated in stockpile management and the requirementsdeterm inationprocesson an informal, ad hoc basis.The Strategicand Critical MaterialsStock Piling Act authorizesthe establishmentof an advisory group of governmentagency experts to help determ inestockpile requirementsand manageacquisitions and disposals.Although such a group may be convenedwhen needed, none has been formally established. Agenciessuch as Commerce, the Interior, and Stateprovide important input to the stockpile processbut not in a coordinated,formal fashion. DOD is taking stepsto establishsuch a group or committeeand has developeda charter that spells out specific responsibilitiesfor the Departmentsof Commerce, the Interior, and State in advisingDOD and providing data for the setting of stockpile requirements.DOD said that the charter includes advisoryparticipation in acquisitionand disposalactions, for example,in the area of market impacts,but not in areasunder the purview of warranted DOD contracting officers. Final developmentand approval of the charter are pending. Officials at the Departmentsof Commerceand Stateand FEMA expressed concern about the dim inishedrole of the Market Impact Committee.This Committee,which is composedof representatives from the Departments of Commerce,State,and Treasury;the Bureauof M ines;and FEMA, is primarily concernedwith ensuringthat governmentpurchasesand salesof strategic and critical materialsdo not disrupt market prices. It also serves as a forum for assessing industry complaintsand concerns.When DOD becameresponsiblefor the stockpile, the Committeeceasedto function on a regular basis.Although it meetsoccasionallyon an ad hoc basis,there
+
+Page88
+
+GAO/NSIAD-93-6ONationalDefenseStockpile
+
+,I ,,` .:I.
+
+"`I
+
+,'
+
+,,.
+
+I. 1
+
+Chapter 6 Actions on Our Prior Recommendations
+
+is no consensus arrangementor processfor resolvingdiffering views. Agencyofficials commentedthat the Committeehas beenvirtually nonfunctional for the past 2 years and that DOD apparentlyhas little interest in the Committeeor its views. Under FEMA, the Committeehad been an important adviser on the developmentand execution of the plan. In September1991,DOD asked 10 civilian agenciesto commenton the 23 planning assumptionsused to computestockpile requirements.Although severalagencieshad no comments,the generalreaction seemedto be that the assumptionswere suitable,given the planning and reporting requirementsstipulated in the existing legislation.Somechangeswere made as a result of commentsreceived.For example,FEMA questionedthe projected expansioncapacity of sevenindustries to produce materials within a year. DOD agreedthat such an expansionover a longer period of time would not be overly ambitious.On the basis of an updated computer analysisand the use of a longer lead time, DOD reducedthe number of capacity expansionsto five for its 1992report. In January 1992,OMB circulated DOD'S draft report to 12 civilian agencies for comment.Citing confidentiality and a processthat tries to encourage candor and straightforward dialogueamongthe agencies, OMB declinedto provide us with specific agencycommentsor their disposition.According to officials at severalagencies, program experts had not been askedto review and commenton the 1992report. Instead, commentswere handled by the agencies' generalcounsels.OMB indicated that only two agencies, the Departmentsof Commerceand the Interior, had provided substantive comments.Officials from Interior' s Bureauof M inessaid that the updating of goalsand specificationswas long overdueand that they could not accept the present calculationswithout a better understandingof DOD'S parameters,procedures,methodologies, models,requirements,and assumptions. According to OMB, the final report takes into account commentsreceived from the agencies. However,the report does not set forth separateagency views, whether they are positive or critical.
+
+a
+
+Conclusions
+
+DOD has madeprogressin
+
+implementingmost of the recommendations in our May 1987report. However,most industry input on the supply and demandof critical materialsis obtained indirectly. Recentreports to the Congresson stockpile requirementshave not included identifiable commentsand inputs from other agencies.DOD is working to include more
+
+Page 34
+
+GAO/NSIAD-9340 National Defense Stockpile
+
+Cluptar I Actions on Our Prior Recommendationa
+
+input from industry sourcesand federal agenciesin future requirements reports. Becauseof recent congressional and agencyactions, we are not making additional recommendations in this area.
+
+Agency C,omments
+
+it will continue to consult industry experts for both demandand supply side data for off-line material requirements,such as advancedmaterialsand agricultural and medicinalmaterials.However,for materialsthat are modeled,industry experts will be consulted,as appropriate,for supply side data that will also be confirmed by governmentexperts. DOD said that becauseindustry representatives have a businessinterest in the outcomeof the requirementsdeterm ination process,it prefers to use industry representatives as secondarysources only, and to rely on governmentexperts and computer analysisfor demandside data.
+DOD also said it would discussmajor methodologicalor substantiveissues that arise during developmentof the report and explain why it decideson one position as opposedto another. DOD and OMB consider it inappropriate to include dissentingviews expressedduring the clearanceprocessin a documentthat representsan administration' sposition on a public policy issue affecting legislation,We believethat a reflection of the views of other agenciesin the final report would show that those views had been adequatelyconsidered.
+
+DOD stated that
+
+Recent Congressional Action
+
+The F' iscalYear 1993DefenseAuthorization Act formalizesthe establishmentof two committeesto assistin stockpile management. An advisorycommittee,consistingof federal agencyand outside experts,is to be establishedby March 16,1993,to make recommendations to the Presidentregardingthe operation and modernizationof the stockpile. A market impact committee,consistingof federal agencyrepresentatives and others, is to be establishedto adviseand make recommendations to the stockpile managerconcerningthe projected domesticand foreign economiceffects of all stockpile material acquisitionsand disposals.In making recommendations, the committeeis to consult with representatives of producers,processors,and consumersof the types of materialsstored in the stockpile.
+
+a
+
+Page 36
+
+GAO/NSIAD-93-60 National DePense Stockpile
+
+Appendix I
+
+DOD' s Proposed Stockpile Goals in January 31,1991, Prices
+Dollars in millions Material Bauxite (refractory) Beryllium metal Chromite (chemical and metallurgical grade ore) Chromite (refractory grade ore) Chromium (ferro) Chromium (metal) Cobalt Columbium group Germanium Graohite (natural. Cevlon. amorohous lump) lndium Diamond stones (industrial) Jewel bearings Manganese (ferro) Mica (muscovite film, 1st and 2nd quantities) Mica (muscovite block, stained and better) Mica (phlogopite block) Platinum croup (iridium) Platinum aroup (platinum) Quartz crystals Rubber (natural) Tantalum aroup
+-9~ . . . I e
+
+Titanium sponge Tungsten group Total
+Legend: ST = short ton SDT = short dry ton LBCO = pounds of containedcobalt LBCB = pounds of containedcolumbium KG = kilogram TROZ= troy ounce KT = carat PC = piece LB = pound LT = long ton LBTA = pounds of contained tantalum LBW = pounds of contained tungsten
+
+Proposed goals Units 69,000 ST 400 ST 34,000 SDT 159,000 SDT 621,204 ST 26,835 ST 40,446,597 LBCO 11,126,841 LBCB 68,198 KG 13,477 ST 248,846 TROZ 3,000,OOO KT 84,000,OOO PC 209,074 ST 20,000 LB 301,000 LB 316,518 LB 14,454 TROZ 240,351 TROZ 1,589,405 LB 417,779 LT 8,727,098 LBTA 53,315 ST 30,976,038 LBW
+
+Value $16.07 180.00 3.93 15.87 510.01 193.21 339.75 51.74 27.28 26.28 1.87 103.05 117.60 129.74 $24 1.69 1.58 4.63 99.75 9.54 444.24 351.66 586.47 81.47 $3,297.67
+
+1,
+
+Page 36
+
+GAO/NSIAD-93-60 National Defense Stockpile
+
+Appendix II
+
+Fiscal Year 1993Proposed Disposals of Stockpile Materials
+Dollars in millions Aluminum metal Aluminum oxide (abrasive) Aluminum oxide (fused crude) Asbestos (all types) Bauxite (metallurgical, Jamaican) Bauxite (metallurgical, Surinam) Bauxite (refractory) Bismuth Cadmium Chromite (chemical grade) Chromite (metallurgical wade) Chromium (ferro) Cobalt Copper Diamond (industrial bort) Diamond Stones Fluorspar (acid grade) Fluorsoar (metalluraical arade) Graphite (natural, Malagasy) Graphite (natural, other) iodine Lead Manganese ore (metallurgical grade) Manaanese (batterv wade, natural) Manganese (ferro) Mercury Mica (muscovite block) Mica (muscovite film) Mica (muscovite splittings) Mica (phloaooite splittinas) Nickel Platinum group (iridium) Platinum group (palladium) Platinum wow (olatinum) Quartz crystals (natural) &tile Silicon carbide Plan A $8.5 1.2 3.1 0 10.0 7.2 0 0.4 1.3 0.1 1.8 39.3 45.0 0 8.4 20.0 3.4 1.8 0.8 0.4 0.8 10.0 8.9 0.9 43.6 0.9 0.2 0.5 0.2 0.5 30.3 0 0 0 0.7 4.0 3.0 Plan B $21.0 1.2 3.1 0 10.0 7.2 8.5 0.4 1.3 0.1 1.8 76.6 75.2 54.0 8.4 20.0 3.4 1.8 0.8 0.4 0.8 20.0 8.9 0.9 43.6 0.9 0.2 0.5 0.2 0.5 60.6 1.2 15.2 13.6 0.7 4.0 3.0 (continued)
+
+a
+
+Page 37
+
+GAO/NSIAD-93-60 National Defense Stockpile
+
+Appendix II Pireal Year 1993 Propored Diepoealr of Stmkplle Materhlr
+
+Dollars in millions Silver (coins) Tin Vegetable tannin (chestnut) Vegetable tannin (quebracho) Vegetable tannin (wattle) Zinc Total Plan A $41.6 43.1 1.0 1.0 1.0 40.5 $392.2 Plan B $48.4 43.1 1.0 1.0 1.0 60.7 $034.0
+
+Page 36
+
+GAWNSIAD-93-60 National Defenrre Stockpile
+
+Appendix III
+
+Major Contributors to This Report
+
+National Security and International Affairs Division, Washington, DC. Office of Chief Economist Philadelphia Office
+
+Victor Zangla,Assistant Director Uldis Adamsons,Adviser Donald H. Lentz, Evaluator-in-Charge JeromePedersok,SeniorEvaluatorMargueriteMulhall, Evaluator Scott Smith, Economist
+
+a
+
+(998131)
+
+Page 39
+
+GAORUSIAD-93.60 National Defenre Stockpile
+
+` I' hc~ first copy of each GAO report and tzstimony is free. Additional copies are $2 each. Orders should be sent to the following address, accompanied by a check or money ortlcbr rrrttdc?out to the? Superintendent of I)ocnments, when nt!cctssary. Orders for 100 or more copies to be mailed to a single address are discounted 25 percent. Orders by mail: 1J.S. Genchral Accounting Office r.0. mx 6015 Gaithersburg, MD 20884-6015 or visit: Room 1000 700 4th St. NW (corner of 4th and G Sts. NW) 1J.S. (;enttral Accounting Office Washington, I)<: 0rdc:rs may also he placed by calling (202) 5 12-6000 or by using fax number (301) 258-4066.
+
+

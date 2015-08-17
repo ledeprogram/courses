@@ -1,0 +1,500 @@
+United States General Accounting
+
+Office
+
+GAO
+February 1987
+
+Report to the Honorable Bill Chappell, . Chairman, Subcommittee on Defense, Committee on Appropriations, House of Representatives
+
+CHEMICAL WARFARE Planning for Protective Chemical Shelters Needs to Be Improved
+
+r
+
+53&x7
+GAO,`NSlAD-87-61
+
+GAO
+
+United States General Accounting Office Washington, D.C. 20548 National Security and International Affairs Division
+8223814
+
+February
+
+13,1987
+
+The Honorable Bill Chappell Chairman, Subcommittee on Defense Committee on Approprlatlons House of Representatives Dear Mr Chairman In response to your March 1986 request, we reviewed the Au- Force's plans to acquire certain chemical protection shelters at overseas locations Our objectives were to evaluate the Air Force's requirements and its planning for chemical protection shelters, particularly for long-term rest and relief, and to determine if overall cost could be reduced The Au Force has a need for chemical protection shelters at Its overseas bases m high threat areas, mcludmg shelters for its fixed mstallatlons, that prowde protection against chemical as well as conventional weapons While the Air Force has been diligent m its efforts to obtain hardened chemical shelters to protect Its forces, we beheve It needs to improve its plannmg for its requirements and to fmahze the plans for the operations of the survivable collective protection system (NY'S) for rest and relief A detailed presentation of our fmdmgs 1sprovided m appendix I, and the obJectlvcs, scope, and methodology of our review are described in appendix II
+
+B-223814
+
+requirements for the operations of the SCFJS. We also found that the Air Force had not determmed what equipment and supplies were necessary to operate the SCPSS once they were constructed In addition, trammg and personnel requirements for the operations of SCPSS had not been identified for peacetime and wartime maintenance and operations. Moreover, the total SCPS program cost was not known. The Air Force established requirements for over 1,400 SCPSS in Europe based on half of the assumed personnel at work stations and the other half in the SCPSThus was done by calculatmg 50 percent of the maximum wartime population for each main and collocated base and dividing by the number of shelter spaces (84) m a scps. However, these calculations did not take mto consideration mobrle units that could use transportable chemical shelters instead of scpss and thus they may have resulted m overstating SCPS requirements In addition, the An- Force overstated its long-term scps requirements at three ground-launched cruise missile bases Air Force officials calculated the number of SCPSS needed at these mstallations based on anticrpated growth rather than deployment data. Based on Au- Force plans and force authorizations at the time of our review, our calculations mdicated that the three bases could eventually receive a total of 19 SCPSS m excess of what would be needed for the estimated maximum wartime population DOD,u-rcommenting on a draft of our report, agreed that the SCPSS requirements were overstated but said that a recent review of force authorizations indicated that only eight scpss are excess. We recommend that the Secretary of Defense reevaluate the scps and mobrle units requirements based on specific base and unit mformatlon and ensure that the plan for managing, operatmg, and mamtammg SCPS 1s finalized. We provided a draft of this report to the Department of Defense (DOD) for its review and comment. DOD agreed that the scps reqmrements for the three ground-launched cruise missile bases requu-ements were overstated and stated that actron would be taken to adlust current requirements based on the latest force authorization However, it disagreed that SCPS requirements should be adJusted for mobile units having transportable shelters since the mtent is to provide these units with SCPS protection while the units are at fixed sues It further stated that the An Force views transportable collective protection shelters as complementary systems to the SCPSS rather than mutually exclusive systems
+
+Page 2
+
+GAO/NSLkD-87-61
+
+Chemical
+
+Shelters
+
+B223814
+
+We recognue that the Air Force wants to provide mobile units with protectton in scpss; however, we question whether SCPS must be provided for all mobile units. Mobile uruts could use SCPSS intended to protect augmentatlon forces until they arrive. Once the augmentation forces arrive, most mobile units should already be deployed; thus making the SCPSS available to the augmentation forces The DOD noted that the An- Force will conduct annual reviews of SCPSS and transportable shelters to ensure that they are current m relation to any planned changes at the base level Also, DOD provided information on the An Force's efforts to finalize the plans for managing, operating, and maintaining SCPSS We have included this mformatlon in the report Our evaluation of DOD'S comments 1scontained in appendix I, and its comments are included m appendix III As arranged with your office, unless you publicly announce its contents earlier, we plan no further distribution of this report until 30 days from the date of issuance At that time, we will send copies to the Chairmen, House Committee on Government Operations, Senate Committee on Governmental Affans, and the House and Senate Committees on Appropnatlons and Armed Services, the Secretaries of Defense and the An Force, and the Director, Office of Management and Budget. Copies will be made available to others upon request Sincerely yours,
+
+Frank C Conahan Ass&ant Comptroller General
+
+Page 3
+
+GAO `NSIAD-87-61
+
+(`henucnl
+
+Shrlr pm
+
+Contents
+
+-
+
+Letter Appendix I Air Force Plans to Acquire Chen-&al Protection Shelters 6
+Why Chemical Shelters Are Needed Types of Chemical Shelters The SCPS Program Overall Reqwrements for SCPSs May Be Overstated Planning for SCPS Operation Is Inadequate Conclusions Recommendation Agency Comments and Our Evaluation 6 6 9 1I 12 14 14 15 17
+
+Appendix II Objectives, Scope, and Methodology Appendix III Comments From the Assistant Secretary of Defense (Acquisition and Logistics) Table
+Table I 1. U.S Au- Force Bases m Europe to Receive SCPSs Funded m Fiscal Years 1985,1986, and 1987 (As of December 12, 1986)
+
+18
+
+10
+
+Page 4
+
+GAO/NSIAD-S7-61
+
+Chemcal
+
+Shelters
+
+Contents
+
+Figures
+
+Figure I 1' SCPS Figure I 2. SCPS Design
+
+8 9
+
+Abbreviations
+DOD GAO GLOI SCPS
+
+1`SAFE
+
+Department of Defense General Accounting Office ground launched cruise mlsslle surwvable collectwe protection system Ilnited States An- Force m Europe
+
+Page 5
+
+GAO/NSIAI%87Bl
+
+Chrmcal
+
+Shelters
+
+Appendix I
+
+Air Force Plans to Acquire Chemical Protection Shelters
+The Air Force currently has plans for at least three types of chemically protected structures at overseas bases These are (1) existing facihties, generally work centers, (2) transportable systems, which can provide chemical protection for forces that are highly mobile or that operate in locations where no shelters are available, and (3) rest and relief facihties called the survivable collective protection system (scps). For fiscal years 1987-91, the Air Force plans to spend over $1 billion to modify exlstmg facilities and procure transportable shelters and scps for its worldwide forces, about $636 million of this amount is for scpss The total cost for over 1,700 scpss will be m excess of $800 mlllion. We reviewed the An- Force's plans to acquire SCPSS and to use other shelters for its forces in Europe Our review found that a plan for supplying, mamtammg, and operatmg these shelters had not been fmahzed. In addition, we found that requirements were based on questionable analyses, resulting in an overstatement of the requn-ements Accordmg to the Defense Intelligence Agency, the Soviet Union has demonstrated a formidable capability to carry out offensive chemical warfare and represents the maJor chemical weapons threat to US. forces. Air Force targets for Soviet chemical weapons include facilities that have units that dehver nuclear weapons, airfields, command and control facilities, storage depots, and supply routes To operate m a chemrcal warfare envn-onment, personnel must be protected from chemical agents either in individual protective suits or in chemical shelters The mdlvldual protective suits reduce combat efficiency when worn for more than several hours. Therefore, m an area where chemical agents remain effective for more than several hours, chemical shelters are needed to allow personnel to work and rest
+-~
+
+Why Chemical Shelters Are Needed
+
+Types of Chemical Shelters
+
+The Air Force has plans for three types of chemically protected facilities First, the Air Force has been adding chemical protection to some of its work facilities since the 1970s Second, the Air Force has developed the SCPS, a concrete protective shelter for rest and rehef. Thud, transportable protection systems are planned for forces that require a high degree of moblhty or are deployed to areas where other forms of chemical shelters are not available or approprrate
+
+Page 6
+
+GAO/NSJAD-87-61
+
+Chemcal
+
+Shelters
+
+Appendix I Air Force Plans to Acquire Protection Shelters
+
+Chemical
+
+Existing Facilities
+
+Existing facilities with chemical protection are generally work centers but can also be used for rest and relief At the time of our review, the An Force had 69 North Atlantic Treaty Organization faculties that provide chemical protection They include squadron operation facilities; wing command posts, and other mission-essential facilities to protect pilots, aircrews, and other personnel pnmarrly with tactical flying or reconnaissance missions The An- Force also has procured equipment to add chemical protection to existing facilities such as aircraft shelters and squadron operations facihties For example, m 1979 It procured the KMU-450 shelter modlfication kit. As of March 1986,50 of over 70 KMU-450s sent to Europe had been installed; however, most of the remammg kits need repalr Capacities of the shelters vary with the size of the facility.
+
+Survivable Collective Protection System
+
+A scps 1s a chemical shelter used for long-term rest and relief It weighs over 600 tons, and requires 15,000 square feet of land The SCPS is constructed of steel reinforced concrete modules and provides protection against both chemical and conventional weapons. It is semiburied, with the above-ground portion covered with compacted soil (See figs. I 1 and I 2 ) The scps is designed for relocatability from one site to another. In a test exercise, a scfi was moved approximately 70 miles in 37 days at a cost of about $150,000 Each scps currently costs $493,000 and 1scapable of providing 84 shelter spaces, with each space designed to support two personnel on alternatmg 12-hour shifts It is designed to be self-sustainmg with its own generator, water supply, and sewage system, although it can be connected to utility lines The scps also has storage space for 96 hours of contmuous operation between servicing.
+
+Transportable Shelters
+
+Some shelter systems that are available are also transportable Such shelters would provide rest and relaxation for forces that are highly mobile or that operate in locations where no other shelters are available. These systems could also be used to provide for work space, and theucapacltles vary The Au- Force IS to begin procurement of these systems in fiscal year 1987 One shelter the An Force is considering-the Army's XM-20costs $7,000 and can protect 10 people in a modified existing room
+
+Page 7
+
+GAO/NSIAD87-61
+
+Chemcd
+
+Shelters
+
+Appendix I Air Force Plans to Acquire Protection Shelters Chemcal
+
+Figure 1.1: SCPS
+
+Page 8
+
+GAO/NSIAD87-61
+
+Chemical
+
+Shelters
+
+Figure 1.2: SCPS Destgn
+
+The SCPS Program
+
+In 1982 the Air Force awarded a contract to Systems Research Laboratorlcs in Dayton, Ohio, to design, develop, and test SCPS The Air Force determmed in 1983 that the SCK was its choice for long-term rest and relief,] and the Congress appropriated the first funds-$18 4 mllllon for 33 scrss--ln fiscal year 1985 For Europe and Pacific bases, the Congress appropriated $58 6 million for 122 SCPSS In fiscal year 1986 and $64 4 million for 119 s( Pssin fiscal year 1987
+
+Page 4
+
+GAO/NSIADWGl
+
+Chermcal
+
+Shelters
+
+Appendix I Air Force Plans to Acqture Protectmn Shelters
+
+Chemical
+
+On September 13, 1985, the Air Force competitrvely awarded the first contract for 33 SCPSS to the Bowen, McLaughlin and York Divlslon of the Harsco Corporatron m York, Pennsylvania The Air Force received three brds on the contract which is a fixed-price contract, with a unit price of $493,000. European subcontractors will perform a large portion of the work, including the construction and the installation of the steel remforced concrete modules In Aprrll986 the European subcontractors began constructron of the concrete modules and site preparation for the first SCPS under the fiscal year 1985 contract Thn-ty-three scpss are to be installed in the Federal Republic of Germany at three air bases (Ramstein, Spangdahlem, and Bitburg) and one ancillary site to Ramstein Air Base. According to Air Force officials, the first productron SCPS installed at Spangdahlem Air Base was accepted in late October 1986 The An Force contract with Bowen, McLaughlin and York contained an option for 70 to 115 additional SCPSS. The Air Force exercised the option on December 12, 1986 The contract cost was S36.5 million for 82 SCPSS. (See table 1.1 for the bases that are to receive SCPSS funded in fiscal years 1985,1986, and 1987.)
+Table 1.1: U.S. Air Force Bases in Europe to Receive SCPSs Funded WI Fiscal Years 1985,1986, and 1987 (As of
+December 12, 19f36)*
+
+Base
+Ramstein Bitburg AU Base, Germany Air Base, Germany Air Base, Germany -___ -ii
+
+Fiscal Years 1965 1986
+14 ~~ 8
+l
+
+1987
+
+Total planned through fk3caI year 1987
+~-~ ~- 46 ~~ 31 ~~ 27b 27 17 17 70 7
+
+~- 17 ~~~ __I.- 18 9 8 ~-~--~~_~9 14 9 9 4 . 11 -~ 10 13 8 8 6 7 11
+
+Spangdahlem Sembach
+
+Hahn Air Base, Germany Air Base, Germany Air Base, Germany Zwelbruecken
+
+. . . . .
+
+Camp New Amsterdam, Netherlands _~ Lindsey Air Station, Germany ~--Fihern-Main AIM Base, Germany
+
+Total
+
+---~
+
+33
+
+82
+
+89
+
+22 204=
+
+`Does not Include those planned through future fiscal years "Does not Include SIX SCPSs funded with research and development funds
+
+`Does not Include the SIX SCPSs previously received at Spangdahlem AU Base
+
+Pap- IO
+
+Air Force Plans to Acquire Protection Shelters
+
+Chemcal
+
+Overall Requirements for SCPSs May Be Overstated
+
+To arrive at a requirement of over 1,400 SCPSS m Europe, the Air Force calculated 50 percent of each base's maximum wartime population and dlvlded it by the number of personnel that could be protected m one SCPS. No further analysis was performed. The Air Force did not consider any specrfic base or unit level mformatlon, such as the wartime missions and deployment plans of umts, to determine which type of chemical shelter (existing facihtles, SCPSS, or transportable) it needed A May 1981 Air Force study on chemical warfare defense for air bases in Europe entitled A Limited Assessment of Ground ODerations m a Chemical Environment at a Typical USAFE Base states that chemical shelter requirements should be determined by evaluating each base's needs individually, smce each air base has a unique deployment plan In addition, it recommends that the following general criteria be applied to establish chemical shelter requirements*
+l
+
+Base Requirements Not Adequately Considered
+
+l
+
+The number of personnel that need to be sheltered The number of shelters that would be needed to protect such personnel Conventional hardening. 9 The proximity of chemical shelters to work areas. . The time required to process personnel in and out of shelters The support requirements for shelters,
+l l
+
+The Air Force established a requirement for over 1,400 SCPSS in Europe based on providing shelter space for 12 hours a day for 100 percent of the inplace and augmentation personnel at main and collocated bases. This resulted in shelter space requirements for 50 percent of each base's maximum wartlme population In December 1985, when the Air Force last reviewed its scps requlrements, Air Force officials m Europe indicated that they had not established requirements for transportable systems because of insufficient information about such shelters. They added that mobile systems will probably be required for mobile tactical aircraft umts, commumcation sites, and other small deployed units The proceedmgs of an Air Forcesponsored Chemical Warfare Defense Users Conference m April 1984 listed the following umts as possibly requnmg transportable chemical protection
+`Augmentation personnel are those that would arnve to supplement mplace forces in the event of n
+Cl+lSlS
+
+Page 11
+
+GAO,/NSIAD-87-61
+
+Chmural
+
+Shelters
+
+Appendix I Air Force Plans to Acquire Protection Shelters
+
+Chemical
+
+Tactical air control systems. Combat communications (groups, squadrons, and flights). Electronic Security Command mobile monitoring units. Deployed ground-launched cruise missile (GLCM) units. Point air defense/short range air defense elements. In July 1986 the Air Force estabhshed requirements for 188 transportable chemical shelters, The Air Force intends to further define its requirement by determining what other units may require this type of protection. To date, no changes have been made in the scps requirements. In addition, the Air Force has not done an analysis to determine whether transportable shelters will service the same personnel that are to occupy the SCPSS The absence of a complete assessment of transportable chemical shelter requirements and its relationship to scps requirements could result m the Air Force purchasing more SCPSS than necessary Further, we found that the Air Force had overstated the scps requirements for three GIXM bases in Europe. Air Force officials in Europe told us that they established a requirement of 12 scpss for each GLCM installation, based on anticipated growth rather than deployment data. Based on Air Force plans and force authorizations at the time of our review, we calculated that the three bases will receive a total of at least 19 scpss in excess of their maximum population estimate DOD, in commenting on a draft of our report, agreed that the scpss requirements were overstated but said that a recent review of force authorizations indicated that only eight scpss are excess. As of May 1986, when the first scps was installed in the Federal Republic of Germany, the Air Force was still m the process of determmmg the necessary support items to be procured and policies and requirements for the operations of SCPSS As of November 1986 the AuForce was fmahzmg operations and maintenance plans and had estimated the additional costs associated with support items However, addltional costs may be incurred for modifications to the scpss In May 1985 the AK Force included scpss m an air base survivabihty demonstration (Salty Demo) at Spangdahlem Air Base The Air Force procured six scrss with research and development funds to evaluate the shelter and other equipment during an exercise scenario SCPSS were
+
+Planning for SCPS Operation Is Inadequate
+
+Support
+
+and Maintenance for SCPSS
+
+Page 12
+
+GAO/NSIAIHP-61
+
+Chemical
+
+Shelters
+
+Appendix I Air Force Plans tn Acquire Protection Shelters
+
+Chemical
+
+installed on the flightlme and were used primarily by maintenance and civil engmeermg personnel The Air Force's report on Salty tams observations, conclusions, the need for Improved plannmg Some of these recommendations
+l
+
+Demo, released m January 1986, conand recommendations that demonstrate for support and operation of the scpss. are to
+
+Establish a pohcy on who WLU occupy SCP%(the entire base or some segment), when, and for how long. . Procure scpss with the necessary support items, such as an initial supply of consumable Items; trucks for water, fuel, and sewage; commumcatlons equipment; walkways; and access roads Without these items, the report states that the usefulness of sccpss 1sextremely limited and that the provlslon of these Items from the bases 1s not feasible. For example, m the Salty Demo, two sewage trucks were borrowed from a GLCM base, and walkways and access roads were Improvised, but considered unsatisfactory Program and provide additional personnel to maintain SCPSS and drive the various vehicles necessary to support these shelters Establish pohcles on the stockage of consumable Items and the need to store such items as clothing, bedding, mdlvldual protective suits, and personal items. . Improve the sleeping area of SCPSS to reduce light and noise . Add at least one section to the SCB for mside storage and study the addition of another section to reduce crowding in the common area. Enlarge and improve the sewage holding tank, which 1s only adequate for 3 days. (The requirement is to operate it contmuously for 4 days). Plan transportation requirements for traveling between scpss and work areas and provide training and exercises to meet these requu-ements.
+l l l l
+
+SCPSS
+
+Although the Au- Force had established requirements for over 1,400 m Europe and installed the first one m May 1986, it had not finalized plans for operating and maintammg them Instead, mtelrm guidance had been established for the bases m Europe, while the Air Force was still determmmg
+
+. the additional equipment (consumable items, support vehicles, and chemical warfare gear) that must be procured to make scpss functional, the number of personnel needed to manage, maintain, and support scpss; and 0 the amount of training reqmred for personnel who will occupy and manage it
+l
+
+Page IS
+
+GAO :YSlAlM7-61
+
+Chrmwnl
+
+Shelf em
+
+AppendLv I Am Force Plans to Acquire ProtectIon Shelters
+
+Chemical
+
+DOD
+
+Dn-ectlve 7200 4 states that a total estimated cost of a procurement item should be provided to the Congress so that the full dimensions and cost of the item 1s presented m the budget At the time of our field work, the An- Force had not fully ldentifled the costs for the addltlonal items cited above Since then the Air Force has estimated and programmed these costs The Au- Force estimates that the over 1,400 SCPSS currently planned for Europe will need an additional $56 mllllon for heater/ax condltloner, commumcatlons equipment, and support vehicles In addltion, based on the latest Air Force estimate provided to us m DOD'S comments on our draft report, annual operation and maintenance costs, mcludmg costs for decontammatlon supplies, hygiene supplies, diesel fuel, and other supplies, will be about $8.5 mllhon L Currently, the storage space 1s The Air Force also may modify the SCPSS not considered adequate, and the An- Force report on Salty Demo has recommended that another module be added to increase storage space In addition, the sewage holding tank does not meet the Air Force's requirement which 1sit must operate continuously for 4 days The sleeping and common area may also be Improved. The report did not provide any cost estimate for the modlflcatlons The Air Force 1s reviewing Salty Demo results and related proposals to determine appropriate modlflcatloncl and will report the associated costs once final declslons are made The Air Force needs to reevaluate Its requirements for YCPS and transportable shelters at its overseas bases m high-threat areas. Requirements should take mto account costs for support, operation, and maintenance for XPSJ Such planning costs should be reported to the Congress consistent with DOD pohcy Because the scps 1s not sultable for mobile missions, it would seem deslrable to establish requirements for transportable shelters in Europe for those units that have mobile mlsslons Since SCPS requirements were established without considering the use of transportable shelters, a full assessment to determme whether transportable shelters will service the same personnel that are to occupy SCPS could reduce SCPSS requirements We recommend that the Secretary of Defense reevaluate the SCPS and mobile units requirements. based on speclflc base and unit mformatlon
+
+Conclusions
+
+Recommendation
+
+Page 14
+
+GAO/NMAD-8781
+
+Chemical
+
+Shelters
+
+Appendix I Air Force Plans to Acquire Prntrction Shelters
+
+Chrrmcal
+
+and ensure that the plan for managmg, operatmg, and mamtanung the seeps 1s fmalrzed DOD,m commenting on a draft of this report, partially concurred in o,ur fmdmgs and recommendations and indicated actions the An Force was taking to address our recommendations. In regard to establishmg requirements for scpss, DOD stated that the AnForce followed its policy in Air Force Regulation 355-l by calculatmg shelter needs based on peak wartime population at each locatron The intent 1sto protect all personnel with SCPS, including mobile units that may or may not be deployed It is anticipated that transportable shelters would be used only when the mobile units are deployed. The Air Force regulation that establishes shelter requirements does not indicate the type of shelters to be used--scm or transportable. It states that all collective protection systems will be blast resistant and will protect against radiation, or will be Installed at facilities that provide this protection It speclfres that transportable protection systems will require expedient blast hardening We recogmze that the An- Force wants to provtde mobile units with protection u-tSCPSS, however, we questron whether SCPS must be provided for all mobile umts. Mobile umts could use SCPSS Intended to protect augmentation forces until they arrive Once the augmentation forces arrive, most mobile units should already be deployed, thus making the SCPS available to the augmentation forces
+DOD
+
+Agency Comments and Our Evaluation
+
+agreed that scps requirements at the three GUX bases were overstated and that the latest force authorizations indicate a total of 28 SCPSS ~111be needed instead of the 36 projected previously It stated that this case illustrates how quickly requirements tied to base populations can fluctuate, making annual reviews of all shelter reqtnrements necessary, mcludmg scps and transportable systems DOD stated that the Air Force plans to review Its shelter requirements annually to avoid over or understated requirements at any location We agree with the Air Force plans to perform annual reviews of Its shelter needs at bases The fluctuation of base population at GICM sites 1s a cIear example of the need for such reviews
+DOD
+
+said that the Air Force 1snow fmahzmg operations and maintenance plans to support SCPSS The Arr Force plans to publish, by April 1987,
+
+~---~-
+
+_-___
+Aplxwdlx 1 Air Force Plans lo Acquwr Protection Shrltrrr (%rmwal
+
+~___-------~
+
+general guldelmes on all aspects of the collective protectton program and a ltst of support equipment and expendable supplies for SCPSS It has determined that the XI'S peacetime and wartime management can be performed by selected current personnel at the orgamzatlons who have custodial responslblllty for SWSS, and these personnel will receive formal training, begmmng m .January 1987 The Au Force also noted It has programmed additional engineermg personnel In fiscal years 198792 for SCPS maintenance requirements In addltlon, the Au Force plans to publish technical guidance m *January 1987 on the scrs operations and mamtenance
+
+Page 16
+
+GAO; NSIAD-87-61
+
+Chemical
+
+Shelters
+
+Appendix II
+
+Objectives, Scope,and Methodology
+
+Our ObJectives were to evaluate the Au- Force's requirements and its planning for chemical shelters, particularly for long term rest and relief, and to determine if overall costs could be reduced To achieve our ObJectives we collected data and analyzed the methodology the Air Force used to establish these requirements. We also identified the locations where the Air Force plans to install scpss in Europe and the types of facilities that have chemical or conventional weapon protection at these locations We did not assess which type of chemical shelter would be more appropriate for specific Air Force bases or units Finally, we reviewed numerous Air Force documents, including studies, technical reports, correspondence, plans, and guidance and interviewed Air Force officials at the Air Force's headquarters and four air bases in Europe We conducted our revrew in accordance with generally accepted government auditing standards from January 1986 to May 1986. We performed our work at the followmg locations. Headquarters, U.S. Air Force, Washington, DC. Headquarters, U.S. Forces Europe, Federal Republic of Germany Headquarters, U.S. Air Force Europe, Federal Republic of Germany Air Force Contract Mamtenance Center, Detachment 16, Federal Republic of Germany Ramstein Air Base, Federal Republic of Germany Bitburg Air Base, Federal Republic of Germany Spangdahlem Air Base, Federal Republic of Germany Rhein-Main Air Base, Federal Republic of Germany
+
+Page 17
+
+GAO/NSIAD87-61
+
+Chemical
+
+Shelters
+
+Appendix III
+
+Comments From the Assistant Secretary of Defense (Acquisition and Logistics)
+
+Mr. Frank C. Conahan Assistant Comptroller General National Security and InternatIonal Affairs Dlvls~on II .S. General Accounting 3fflce Washu&.on, D.C. 20548 Dear Mr. Conahan This 1s the Department of Defense (DOD) response to the General Planning for (GAO) d-aft report, Vhemwal Warfare: Accounting Offxe ProtectLve Chemxal Shelters Needs To Be Improved,n dated October 31, 1986, (GAO Code 39219O/OSD Case 7163). The Department agrees that the requirements for chemical shelters at the Ground Launched Cruise Mlsslle (GLCM) sites have been overstated Over the long and actlons have been taken to adJust current plans. term, requirements at other installations may change based on decisions involving force structure, alrcraft beddown locations, and personnel The Department, and speclflcally the Ax Force, will manning levels. continue to closely monitor requirements and make changes where necessary.
+Survivable
+
+planning for personnel training, (SCPS) management, maintenance, Given, however, that these shelters and stockage 1s not yet complete. have only recently been Installed at an lnltlal location and are stllL being evaluated, the Ax Force has made sigwficant strides rn defining personnel equipment requirements, determlnlng costs, and establishing training programs. Follow-on efforts ~~11 be documented in a scheduled February 1987 DOD report directed by the House Appropriations Committee.
+Collective Protection Systems
+
+The Department
+
+recognizes
+
+that
+
+Detailed comments on the findings and recommendations are enclosed. The DOD appreciates the opportunity to comment on the draft report. Sincerely,
+
+Assistant Secretary of Defense (Acqulaitlon and Logistics) Enclosure
+
+Page 18
+
+GAO/NSIAD-87-61 Chemical Shelters
+
+Appendix III Comments From the AssMant Secretary Defense (Acquisition and Logmtics)
+
+of
+
+GENEML ACCOIJIYTINC OFFICL (GAC) DRAFT KEPORT, DAltD OCTOBER 31, 1986 `CHEMICAL WARFARE . PLANNING FOR PROTECTIVE CHEMICAL SHELTERS NEED5 10 BE IMPROVED" (GAO COUt 332190) (OSD CASE 7163) DEPARTMENT dF DEFENSE CUI~MEh'T5
+
+FlNDINGS Air Base RequiremenLs for Chemical Shelters Not Adequately FINDING A. The GAO reported that a May 1981 Air Force study stated that Considered. fur air bases in Europe should be determlned by chemical shelter requirements and the study listed several lndivldually evaluating each ba;e's needs, The GAO found, however, that the criteria for evaluating uhe requlrenrnts. for over 1,400 Survivable Collective Air Force established a requlrrment by calculating 50 percent of the maximum Protecclon Systems (SCPS) in Europe wartlr~e population for each main and collocated base, and dividing by the the GAO found that the Air number of shelter sgaccs in a SCPS. In addrtion, Force did not take into corslderaLlon mobrle missions at the bases, which The CA0 could require transportable chemlcll shelters rather thdn the SCTS. requirements for reported that as of July 1986, ti:, Air Force had establrshrd but that no charges were made in the SCPS 188 transportable chemical shelters, in addition, the Cc\0 found that the Air Force has not done an requirements. analysis to determlne whether tran`,portable shelters wrll service the same personnel that are to cccupy the S(.PSs. The GAO concluded that the absence of a complete assessment cf transptirtJble chemical shelter requirements, and its relationship to the SCPS, could re,blt in the Air Force purchasing more SCPSs than necessary. GAO Draft Report) !p. ? 1 pp. U-IL, the GAO 1s correct ~11 concur. In general terms, DOD RESPONSE * Partially rts SCPS requirements. descrlbrng how the Arr Force dctermlprd In doing so, however, the Air Force complied with the basrc Intent of the May 1981 study by considerrng each bGse's needs for r'n-base protection of all assigned personnel and off-base needs of mobile unLt\ like those described in the GAO draft The Air Iarce report. followed lang-standing policy in Air Force Regulation (AFK) 355-l in calculatLng shelter needs based on peak wartlme population at 1s to proteLt all personnel located at fixed sites, each locat ion. The intent including mobile units that may or may no: be deployed at the time of attack. On the other hand, :he Air Force has also establrshed requirements for transportable shelter systems to prctcct units once they have deployed. These systems are desrgned to add chemlcai protectlon to moblIe vans, expandabre units, Thus, the Air Force views the SCPS shelters, and tents used by mobile and transportable collective protcLtivc systems (TCPS) as complementary, not mutually exclusive systems. The ALI- Force will, however, conduct annual reviews of SCPS and TCPS requlrt'mrnrs to 1n4urc that they are current in relation to any plannrcl changes it the base level. Changes I" requirements ~111 be accommodated by changes 1:) the SCPS fielding strategy to ensure that the correct number GE SCPSs art LY~c~~!P~ at each location as rapIdly as posslblc. FINDING B' SCPS Requirements for ritrre Ground Launch Cruise Ylsslle (GLCM) Bases Overstated. The GAO found thdi the Air Force calculated the number of SCPSs needed (12) <at each of thlI>f> (,LCY bases in Europe based on anticipated II
+---
+
+!
+
+4
+
+Nowon
+
+pp 2 11-12
+
+I
+
+Page 19
+
+C;AO,,hH4D
+
+87-61 (`henural
+
+Shekerr
+
+-_
+ADvendix
+C%nments
+
+Defense
+
+III From the Asslstant Secretary (Acquisition and Logistics)
+
+of
+
+I
+I Nowonpp 2and12
+
+gro"th, rather than deployment data. Based on Air Force plans anu force authorlzatlons at the time oi its review, however, the GAO Found ttxat the three bases ~~11 tecelve a tirtal of at least 19 SCPSS in eL-cess of their maxlmum population estimate. The GAO concluded, therefore, that the k;r torte overstated SCPS requirements for the three GLCM bases II) Europ<. (up. 2-3 and p. 16, GAO Draft Report) DOD %ESPONSE: Partially concur. The DOD agrees tnat t'le SCPS requirements for the first three GLCM base5 ln Europe were overstated, but not to the extent lndlcated by the GAO. A recent review of the latest force three GLCM bases xn Europe authorrzstlons for the first to be eq,Jlpped wlt'l SCPS lndlcates a total of 2d SCPS will be vyeeded VE~SUCI the original 36 projectlL,q was based on previous end-jtrclgth figures prolecred. The orlglnal which were higher than thobt now proJected. The Air Fo-ce ~111 reduce Its total requirements for SCPSs at the GLCM bases accordingly. This case Illustrates how qdlckly requirements tied to base populations can fluctuate, makLng the requirement for annual reviews all the more necessary to prevent over or ucderstatement of SCFS requrrements. (See DOD Pcslt1o.i on FIndIng A.) FINDING C' SCPS Operation and Malntendwe Plans Not Complete. The GAO found that although the Air Force has establlsb?d requrrements fc,r over 1,490 SCYSs and has already installed the first SCPS III May 1966, tfle Air Force III Europe, has not i-lnallzed Its plan\ for SCPS operation and maknteoance. The GAO reported that the Air Force Included SCPSs III the Salty Demo air bast; survlvablllty demonstration at Spangdahlem Air Base in May 1985. The GAO found that as a result of that experlencc, a number of SCPS operation and support improvements were Identlfled, rhc GAO noted that lnterlm guidance has been escabllshed for the bases in Europe, The GAO also found, however, that the ALr Force 1s stlLL III the process of determInIng (1) what addItIona (2) the number of personnel rleeded to mandee snd equipment must be procured, support the SCPS, and (3) personnel tralnrng requirements. The GAO noted that the Air Force 1s aware of these problems and has attempted to address them The GAO concluded, however, that th? with Its Salty Demo lmplenentatlon Plan. (Page 2 and current SCPS operation and marntenance plans are Inadequate. pages 16-18, GAO Draft Report.: The GAO has correctly assessed the need to ccncur. DOD RESPONSE : Partially complete SCPS plans but does >OE recognize the degree of progress the Air The Arr Force 1s now flnallzirrg operations and maintenance Force has made. plans to support fleldlng of the lnltlal 33 SCPSs, the frrst of which was Operatrons nnd maintenance accepted by the Air Force In late October 1966. technical orders hdve undergone a rLgorous series of reviews leadxg to These frvc technical orders ~111 provide planned publlcatlon In January 1987. the base level operators and marntalners with comprehensive technical lnstructlons for the SCPS. Zenera duldellnes for wartlme employment of the SCPS have been incorporated lute applicable war and moblllzatlon plans and a +raft regulation provldlnd consolidated guidance on all aspects of the Air Force's co~lecllvc protection program 1~ dile for publlcatlon 1" April 1487. The hlr Force's Collective ProtectIon Board 1~111 meet in December 1986 review various proposed ~m:~~ovenwnts to the SCPS and reccmmend whlih should rcslatlve benpiLts versus cost. Incorporated, consrderrng Plans are already undervay to retrofLt SCFS a: taqer. III Gdrm~ny with heaters. to he
+
+!
+
+I
+
+Now
+
+on pp 1-2 12-14
+
+L-
+
+-.-
+
+--
+
+Page 20
+
+GAO/NSZAD-8781
+
+Chenucal
+
+Shelters
+
+Comments From the Assistant Secretary of Defense (Acquisition and Logistics)
+
+Based on operation of the preproductlon SCPSs at Spangdahlem Alz Base, a list of support equlpmeot and expendable s~pplles has b.!cn established and ~111 be incorporated Into the new coilecLlvc protection rzgulatlon and various tables 3f allowance by April 1987. Operations and maintenance funds dre programmed rn fiscal years 1987 through 1992 to acgulre these Items. The Air Force has determined that peacetime snd wartime management of the SCPS ~111 be done by selected personnel from organlzatlons which nave Management of custodial responslbllrty for the SCPS they occupy In wartime. the SCPS ~~11 be a secondary pracetlne duty dnd a primary wartlmc duty. Based on recent successful tests of standardlte' shelter entry/exit procedures which rely on personnel helping each ether, m:n:.r,at shelter management teams of three to four persoilnel per shlEt appear to be sufflc:ent. To support lntermedlate leve1 maintenance requirements, ldditlona! clvll engrnecrLng manpower authorlzatrons have been programmed in tlscal lears 1967 t:lrnugh 1901 at a rate of one authorlzatlon per every 20 SCPS. Formal tralnlng for shelter managers in operations and m3lntenance of ttle SCYS ~111 be conducted at Air Force bases In Germa-? by a rroblle tralnlng team begInning rn January 1987. Two SCPSs used for testrng purposes tlove been relocated to support tralnrng; cne for disast.-r preparedness specldilsts .It Lowry AFB , Colorado, and the other for ileld lralnlng or Integrated hase recovery teams at Eglin AFB, Florlda. FINDING D: Total SCPS Program Costs Wet Known. The GAO reported that DoD Dlrectlve 7200.4 states that total procurement cost estimates should be provided to the Congress. In sddltlon, the GAO rc?crted that the Five-Year Defense Program 1s to reflect the best estimate of program cost. The CA0 f aund , however, that the Atr force has not yet fully ldentrfled the cost, nor programmed the funds for the additIona rtems discussed ln Flndlng C. The GACl estimated that these addItIona costs could amount to about $75 mllllon. The GAO also found that the Air Force may make modlflcatlons to the SCPS based on results of the Salty Demo experlencc, but that no estlmzces of these addltlonal costs were reported. The LAO coni!uded teat the DoD needs to fuii) assess the SCPS requirements and costs and report them to the Congress, with DOD policy. consistent (pp. 2-3 and pp. 18-19, CA0 Draft Report) DOD RESPONSE: Partially concur. Tne Air Force drd not report associated support costs in Its March 1986 report to the Congress o- callectlve protection, but since then has estimated and programmed these costs under Program Element 27593F, ChemlcaI/B~aloglcal Defense. The Air Farce estimate of $56 mlllran to procure support equipment for 1,4QO SCPSs 1s close to the GAO estrmato of $58 mlllLan. Bowever, the Air Force estrmates that annual operations and maintenance costs ior the came number of SCPSs to be about $8.5 Ul11110n, one-half the GAO estimate of $17 mllllon. or These Air Force estimates are derived from actual expenses Incurred III operatIns the preproductlon test units. The Air Force 1s revlewx;ig Salty Demo results and related product Improvement proposals to detcrmlne appropriate modxflcatlons and ~111 report associated costs once final declsLons ani supportlng cost rstrmates have been made. A primary aln IS to select proposals that offer the greatest operatIona benefit for thz added cost.
+
+I
+
+Now on pp 2, 13-14
+
+Page 2 1
+
+GAO/NSIADWISl
+
+rhenucal
+
+Shelters
+
+Appendix lIl Comments From the Assistant Secretary Defense (Acquisition and LogLsttcs)
+
+of
+
+Nowon
+
+pp 2,14-15
+
+RECONMENDATION 1: The GAO recommended that the Secretary of Defense conduct reevaluation of the SCPS Program, based on specrflc base and unit rnformaelon, and develop a dettlled plan Eor managIng, operating, and maintalnlng the SCPS. (p. 3 and p. 20, GAO Draft Report) DOD RESPONSE : Partially concur. A complete reevaluatron of the SCPS Program is not deemed necessary, but the DOD endorses Air Force plans to reviev Its requirements annually to ensure that unrt moves, force drawdovns, planning changes, etc., do not produce srgnrfrcant over or understated requirements at any locat ion. (See DOD Posltlon on Frndrng A.) The Air Force ~111 contrnue efforts to finalize SCPS operations and marntenance plans, rncludrng an overall collective protectron regulatron and detailed technrcal orders by April 1987, when lnstallatron of the rnrtial rncrement of SCPSs should be Once this occurs, completed. bases can then flnalrze their locally specrfrc Furthermore, the House management plans following Air Force guldellnes. Appropriatrons Committee Report No. 99-793 directed the DOD "to submit a coordrnated plan whrch addresses total (collectrve protection) requirements, the rntegratron of various collectrve protection efforts among the Services, and detarls program costs and locations and which relates the program to those This plan 1s III preparation and scheduled to be submltted to of our allies." the Committee by February 1, 1987.
+
+a
+
+Nowon
+
+pp 2,14-15
+
+that the Secretary of Defense ensure RECOMMENDATION 2 : The GAO recommended that the detailed SCPS plan rdentlfy requrrements for equipment, supplies, and marntenance personnel to marntarn and operate the SCPS. (Page 3 and page 2.0, GAO Draft Report.) concur. DOD RESPONSE : Partially Air Force SCPS plans wrll drctate general requirements for equipment, supplres, and maintenance personnel to malntaln ~111 be grven flexlblllty in Base commanders, however, and operate SCPS. determrnlng speclflc equlpage of therr SCPS and employment of maintenance personnel to meet their needs wrthln local budgetrng and manpower constraints. In this way the Air Force can sufflclently standardize shelter operations wlthout rmparrrng the ablllty of commanders to effectrvely use therr SCPS.
+
+(392190)
+
+Page 22
+
+GAO/NSIAD-8741
+
+Chemical
+
+Shelters
+
+Requests for copies of
+
+GAO
+
+reports should be sent to.
+
+U S. General Accounting Office Post Office Box 6015 Gaithersburg, Maryland 20877 Telephone 202-275-6241 The first five copres of each report are free. AdditIonal copies are
+$2.00 each.
+
+There rs a 25% discount on orders for 100 or more copies mailed to a single address. Orders must be prepaid by cash or by check or money order made out to the Supermtendent of Documents
+
+

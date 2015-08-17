@@ -1,0 +1,843 @@
+.
+
+United States General Accounting Office
+
+m.?~~
+
+GAO
+
+Testimony
+
+Ill IIll llllIlllI
+141244
+
+For Release on Delivery Expected at 1:30 p.m. EDT Thursday April 26, 1990
+
+Importance and Prevalence of Embedded Computer Systems and Oversight of This Technology by the Office of the Secretary of Defense
+
+Statement of Ralph V. Carlone, Assistant Comptroller General, Information Management and Technology Before the Subcommittee on Legislation and National Security Committee on Government Operations House of Representatives
+
+Division
+
+GAO/T-IMTEC-90-8
+
+/
+..i,
+
+GAO Fom 160 (12/W
+
+.'
+
+Mr.
+
+Chairman
+
+and Members of the Subcommittee:
+
+I am pleased computer-based reported Navy's
+
+to participate
+
+in these system. with
+
+hearings
+
+on the
+
+SSN-21 and its we recently require (1) most of the
+
+AN/.BYS-2 combat areas
+
+As you know, AN/BSY-2 which These areas
+
+on several focused
+
+of risk attention.1
+
+management
+
+include
+
+developing which
+
+and integrating
+
+a massive
+
+amount of software,
+
+is planned (Ada) for (2)
+
+to be written which there
+
+in a relatively is a shortage sufficient testing with time
+
+new computer of experienced exists for identified reliability refining, to and and (5) the
+
+language
+
+programmers: government problems: ensure testing ensuring that
+
+ensuring that 1 to witness software (3) designing mission
+
+and resolve sufficient
+
+a system
+
+needs are met; predict
+
+(4) developing, system
+
+a model to accurately that independent on the
+
+performance:
+
+verification
+
+and validation effort.
+
+assessments
+
+are performed
+
+software
+
+development
+
+The ability clearly system. fact that
+
+of this on.the
+
+weapons system success it is but is one,
+
+to meet its of this not
+
+mission
+
+requirements
+
+hinges
+
+or failure important albeit
+
+embedded computer sight of.the and
+
+Nevertheless, AN/BSY-2
+
+to lose
+
+one of the most costly on the submarine. to fulfilling These the
+
+important, systems
+
+of many computer perform various
+
+systems
+
+functions
+
+critical
+
+submarine's
+
+overall
+
+mission,
+
+functions
+
+such as communication,
+
+I 1 ubma ' at S stem: Seawolf AN/BEY-2 Develonment 1
+
+(GAO/IMTEC-89-35,
+
+frontin March 13, ,989;:
+
+` S
+
+steering,
+
+and propulsion as just
+
+system the tip
+
+control.
+
+Consequently,,
+
+AN/BSY-2 the
+
+can be viewed importance
+
+of the
+
+iceberg systems
+
+when considering to the submarine.
+
+and prevalence
+
+of computer
+
+Dependence not limited
+
+on computer to the and its Defense
+
+systems
+
+in meeting
+
+mission
+
+requirements Indeed,
+
+is this of
+
+SSN-21 submarine high degree
+
+weapons system. is truly
+
+submarine the total
+
+of automation armada. on the
+
+a microcosm released a of
+
+Department
+
+We recently importance
+
+report
+
+to this
+
+Subcommittee resources
+
+and prevalence
+
+embedded computer Office these systems functioning that in the of the
+
+to Defense
+
+weapons systems, the that
+
+and how the of
+
+Secretary
+
+of Defense report,
+
+oversees we state
+
+development
+
+resources.2 are playing
+
+In that a larger all
+
+embedded computer role in the We also that every note
+
+and more significant Defense future, it
+
+of virtually not-too-distant major
+
+weapons systems. is conceivable could fighter
+
+subsystem controlled. F-16A with the
+
+in all
+
+weapons systems of the F-16
+
+be computeraircraft, from the to
+
+The evolution its 125,000 its lines
+
+of software lines
+
+code and 50 processors,
+
+F-16C with
+
+230,000
+
+of code and 300 processors, is.
+
+illustrates
+
+how plausible
+
+this
+
+This
+
+possibility budget
+
+is also for
+
+evident
+
+in the
+
+Defense computer $9 billion
+
+Department's software, in where its
+
+burgeoning investment
+
+mission-critical from an estimated s: e Weapons Prosrams
+
+has soared
+
+1985 to Could April
+
+$30
+
+2DOD Embedded Comnut1 Benefit Billion Dollar 19'2.0). 2
+
+01 (GAO/IMTEC-90-34,
+
+19,
+
+billion area. computer systems nine
+
+today, While
+
+and expectations expensive is but support systems costs
+
+are
+
+for
+
+continued the cost
+
+growth cost
+
+in this
+
+in and of themselves, a fraction of the
+
+of embedded
+
+systems that they weapons
+
+of the weapons we surveyed
+
+and control. and found reported cost for that
+
+To illustrate, the
+
+major
+
+embedded computer less weapons than 10
+
+system percent
+
+development of the
+
+to us averaged the entire
+
+development
+
+systems.
+
+Despite hundreds
+
+their
+
+relatively
+
+low costs of dollars that
+
+when compared
+
+with
+
+the cost,
+
+literally these
+
+of billions
+
+weapons systems heel
+
+embedded computer armament.
+
+systems
+
+are the Achilles resources
+
+of our military on more and weapons system, software, resource cause which is
+
+As embedded computer with these
+
+have taken
+
+more significance problems usually with
+
+each new, more sophisticated (particularly the
+
+resources
+
+the most costly
+
+and difficult
+
+computer as the root
+
+to develop
+
+and maintain) system cost
+
+have been pinpointed overruns, schedule
+
+of weapons shortfalls.
+
+delays,
+
+and performance cases,is the
+
+One of the
+
+more publicized defensive limitations
+
+of these avion,ics
+
+B-1B bomber's the extent of
+
+computer-based the system's
+
+system.
+
+Although they which system software center
+
+are classified, functions, threat office,
+
+on the
+
+radar
+
+warning action According costing this
+
+receiver by receiving
+
+and processor
+
+initiate signals.
+
+defensive
+
+and identifying Force will only system, system program partially but
+
+to the Air $1 billion
+
+revisions with
+
+correct full capability This
+
+known problems will illustration not be
+
+embedded computer without a major
+
+achieved 0 3
+
+redesign.
+
+is not
+
+an isolated occurring the
+
+instance. more frequently. that
+
+Embedded computer In our opinion,
+
+system
+
+problems danger
+
+are lies in
+
+a real
+
+possibility already,
+
+correcting
+
+such problems but hidden cost
+
+could become, if
+could
+
+they
+
+have not
+
+a significant
+
+of weapons system become short of
+
+development. the
+
+Perhaps
+
+more important, of fielded
+
+such problems
+
+number one cause requirements.
+
+weapons systems
+
+falling
+
+mission
+
+Clearly, concern staffs
+
+embedded computer and attention, as part of the but its also not
+
+systems only
+
+demand focused
+
+management and their
+
+by program management corporate
+
+managers
+
+day-to-day by Defense
+
+of weapons systems management as it and more even though an established this on
+
+development, discharges significant the Office
+
+oversight
+
+responsibilities We found, of Defense
+
+on the however,
+
+larger that
+
+weapons systems. of the Secretary
+
+has in place
+
+process process (1) the fully risks
+
+to oversee does not
+
+the development focus management systems or these
+
+of major attention that
+
+weapons systems, and decisionmaking to
+
+embedded computer
+
+are essential technical
+
+fielding
+
+capable inherent
+
+weapons systems in developing
+
+(2) the
+
+and managerial
+
+embedded systems.
+
+According for not
+
+to Office treating focus than
+
+of the
+
+Secretary
+
+of Defense systems
+
+officials,
+
+reasons area of
+
+embedded computer include its
+
+as a discrete on the (2) system entire
+
+management system rather
+
+(1) a concentration separate components, computer
+
+weapons
+
+a lack issues,
+
+of comfort and (3)
+
+by senior
+
+Defense
+
+management with
+
+the entity
+
+absence
+
+of a designated responsible
+
+Office for
+
+of the overseeing
+
+Secretary
+
+OF Defense
+
+expressly
+
+embedded computer raises the question for what of
+
+resources. whether they that are:
+
+In our opinion, embedded computer critical
+
+such an approach resources are being
+
+recognized
+
+and highly difficult a system
+
+complex to develop
+
+elements
+
+of a weapons system .
+
+are extremely whether
+
+and can ultimately
+
+determine
+
+succeeds
+
+or fails.
+
+Despite recent optimism Defense
+
+the
+
+Department's initiatives
+
+questionable suggest Specifically, an executive-level Department's include is currently
+
+track that
+
+record
+
+in this
+
+area,
+
+management
+
+an attitude the Deputy
+
+of cautious Secretary of and make
+
+may be in order. has established on the which would
+
+group
+
+to review software software. directive with
+
+recommendations development, Second, governs apparent management Science improving the
+
+oversight
+
+of all
+
+embedded computer revising its
+
+Department
+
+that the
+
+the management intention attention.
+
+of embedded computer these the resources Defense
+
+resources,
+
+of giving Last,
+
+more rigorous Board's plan for
+
+Acquisition
+
+and Technology the
+
+Committee overall bringing
+
+is developing approach increased
+
+a 5-year to software management
+
+Department'.s including
+
+acquisition attention
+
+and management, to bear
+
+on embedded computer
+
+resources.
+
+Mr. area
+
+Chairman, in which
+
+computer
+
+technology oversight will
+
+in today's is vital, serve
+
+weapons systems yet so often for
+
+is an
+
+management this
+
+absent. more
+
+My hope is that * 5
+
+hearing
+
+as a catalyst
+
+focused would office's following
+
+management like
+
+attention that
+
+on this the
+
+technology.
+of
+
+To this
+
+end,
+
+I
+
+to suggest current
+
+Secretary
+
+Defense
+
+augment his with the of
+
+approach for system
+
+to overseeing improving issues.
+
+weapons systems
+
+framework
+
+disclosure Specifically, under the to
+
+and consideration the Secretary
+
+embedded computer should or the (1) establish
+
+a function
+
+Defense
+
+Acquisition report, and
+
+Board
+
+Defense
+
+Acquisition to address
+
+Executive technical
+
+identify, issues (2)
+
+recommend actions systems function both its from
+
+relating ensure
+
+to computer that this talent,
+
+embedded in major possesses inside
+
+weapons systems: to the Defense function
+
+or has access and outside (3) hold and (4) ensure risks of the the
+
+requisite Department,
+
+technical
+
+to discharge for its
+
+responsibilitiest
+
+the
+
+accountable
+
+responsibilities; computer system
+
+that
+
+information
+
+on embedded
+
+technical as part
+
+is available authorization
+
+to congressional and appropriations
+
+decisionmakers processes.
+
+This
+
+concludes
+
+my statement.
+
+I would
+
+be happy to respond Subcommittee
+
+to any
+
+questions
+
+you or other
+
+members of the
+
+may have.
+
+6
+
+

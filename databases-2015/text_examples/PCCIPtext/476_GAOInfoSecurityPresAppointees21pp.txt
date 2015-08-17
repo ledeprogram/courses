@@ -1,0 +1,316 @@
+lIdted
+
+States
+
+General
+
+Accounting
+
+Office
+
+GAO
+September 1990
+
+Report to the Chairman, Subcommittee on Federal Services, Post Office and Civil Service, Committee on Governmental Affairs, U.S. Senate
+
+'
+
+INFORMATION SECURITY Disposition and Use of Classified Documents by Presidential Appointees
+
+REsTBIcrED ---Not to be releacled outside the General Accounting OffIce unless specifkally approved by the Office of Congressional Relationa
+
+GAO/NSIAD-90-195
+
+GAO
+
+United States General Accounting Office Washington, D.C. 20648 National Security and International Affairs Division
+
+B-234031 September 28, 1990 The Honorable David Pryor Chairman, Subcommittee on Federal Services, Post Office and Civil Service Committee on Governmental Affairs United States Senate Dear Mr. Chairman: As you requested, we determined the number of agency arrangements for former presidential appointees to have access to classified documents related to their government service, and examined access arrangements for former Secretary of State George Shultz and former Secretary of Defense Caspar Weinberger. Agencies apply Executive Order 12356, titled "National Security Information," to presidential appointees who are leaving the government and who are making arrangements for disposition of their files and other documentary materials accumulated during their federal service. The materials affected include copies of federal records and personal papers. The disposition of files and documentary materials accumulated within an agency is governed by the Federal Records Act of 1950, as amended, and the Records Disposal Act of 1943, as amended. The laws and regulations governing the management and disposal of federal records generally do not apply to personal papers. See appendix I for definitions of records and personal papers. Executive Order 12356, effective August 1, 1982, prescribes a uniform system for classifying, declassifying, and safeguarding national security information. It recognizes that it is essential that the public be informed of the activities of its government, but that the interest of the United States and its citizens require that certain national defense and foreign relations information be protected against unauthorized disclosure. Classified information generally cannot be disseminated to anyone whose official duties do not require access to it. This is often called the "need-to-know" policy. However, Executive Order 12356 and previous
+
+Background
+
+Page 1
+
+GAO/NSIAD-99-196
+
+Information
+
+Security
+
+B-234031
+
+orders allowed exceptions to the "need-to-know" policy for former presidential appointees. The order provides that former presidential appointees who served in policy-making positions may be granted access only if the agency originating the classified information (1) determines in writing that access is consistent with national security interests, (2) ensures that the information is protected from unauthorized disclosure, and (3) limits access to the items the person originated, reviewed, signed, or received while serving as a presidential appointee. The Executive Order assigns the Director, Information Security Oversight Office, responsibility for developing governmentwide directives for implementing the order. The Oversight Office's directive does not provide additional guidance relative to access arrangements for former presidential appointees. The State and Defense Departments transferred copies of many classified papers related to the government service of former Secretary of State George Shultz and former Secretary of Defense Caspar Weinberger to locations where the two men might have access to them after leaving office. The State Department arranged with the National Archives and Records Administration to transfer an estimated 60,000 classified documents associated with Mr. Shultz's government service to the Federal Records Center at San Bruno, California. It also transferred Mr. Shultz's unclassified personal and nonrecord papers to the Hoover Institution at Palo Alto, California. The Defense Department arranged for over 13,000 classified documents as well as unclassified documents related to Mr. Weinberger's government service to be transferred to the Library of Congress. We found that the State and Defense Departments and the U.S. Information Agency exercised the exception allowed by Executive Order 12356 for a total of 11 currently living former presidential appointees by arranging access to classified documents related to their government service. The arrangements for former Secretary of State Shultz were not initially but are now in general compliance with Executive Order 12356 and State Department regulations. However, we question whether the arrangements for former Secretary of Defense Weinberger fully comply with the Executive Order and the Defense Department's regulations. Defense Department officials did not provide the required written statement declaring that it had determined that giving Mr. Weinberger access to classified information is consistent with the interest of national
+
+Results in Brief
+
+Page 2
+
+GAO/NSIAD9@195
+
+Information
+
+!Jecurity
+
+B334O31
+
+security. Furthermore, we are concerned about provisions in Mr. Weinberger's Agreement of Deposit with the Library of Congress, the terms of which allow Mr. Weinberger to control access to classified information and allow him to remove documents at his discretion. Subsequent documents have indicated that the Library of Congress is expected to protect the classified information under Defense Department oversight. However, we believe the terms of the Agreement do not provide for adequate government control, and that the inconsistencies between the Agreement and other documents could cause confusion in controlling the classified information. Three agencies reported arrangements for access to classified information by former presidential appointees. In addition to the arrangement for Mr. Shultz, the State Department had made similar arrangements for former Secretaries Henry Kissinger and Alexander Haig. The U.S. Information Agency transferred classified documents to the Reagan Presidential Library Project for its former director, Charles Wick. In addition to Mr. Weinberger, the Defense Department made access arrangements for former Secretaries Robert McNamara, Clark Clifford, Elliot Richardson, and Donald Rumsfeld, former Under Secretary Fred Ikle; and former Director of the National Security Agency William Odom. When we initiated our review of access arrangements for former Secretary of State George Shultz we found that the State Department had not inventoried the top secret documents or assigned them control numbers as required by State Department regulations. We also found highly classified documents at a federal records center that was not authorized to store them. These problems were subsequently corrected. Our tests of other Shultz papers identified secret and confidential documents transferred separately by the State Department to the Hoover Institution as unclassified personal and nonrecord papers. Hoover Institution officials told us that they removed the classified documents we found from the other personal and nonrecord papers and stored them in a safe located in the Institution's vault. A State Department security official said that the Hoover Institution has since been instructed to send such classified documents to the San Bruno Federal Records Center.
+
+Agency Arrangements for Access
+
+Extent of State Department Compliance
+
+Page 3
+
+GAO/h?+IAlMM-195
+
+information
+
+Security
+
+B-234991
+
+Extent of Defense Department Compliance
+
+Our examination of access arrangements for former Secretary of Defense Caspar Weinberger raised questions about the Defense Department's compliance with the Executive Order and its regulations. First, we did not find the required written determination that providing access to the papers was consistent with the interest of national security. Second, we question a provision in the former Secretary's Agreement with the Library of Congress that gives him the right to control access to the papers and remove documents. According to Defense Department officials, the Agreement of Deposit between Mr. Weinberger and the Library satisfies the requirement for a written determination, but we found no reference to a determination in the Agreement. Executive Order 12366 requires each agency to establish controls to ensure that classified information is adequately protected and that access by unauthorized persons is prevented; however, it does not say what constitutes adequate control over classified information. Although the Library of Congress' procedures provide for adequate control over the papers, former Secretary of Defense Weinberger's Agreement of Deposit with the Library gives Mr. Weinberger the right to control access to the papers and to remove any document from the collection at any time. The Agreement conflicts with a classified information nondisclosure form that Mr. Weinberger signed waiving any future claim to the documents. On February 22, 1990, the Information Security Oversight Office reported the results of its inspection of safeguarding, accountability, and access control measures over classified information in the Weinberger collection at the Library of Congress. One of its recommendations was that the Agreement of Deposit be amended to ensure control of classified documents. In its April 6, 1990, response, the Defense Department stated that its interpretation is that the existing Agreement is sufficient because it in no way contravenes any statutory authority, departmental directives, regulations, or instructions. The Defense Department stated that those involved with the Agreement had no intent other than to comply with all pertinent laws, Executive Order 12356, and its implementing directives.
+
+Page 4
+
+GAO/NSIAD9@196
+
+Information
+
+security
+
+B-994991
+
+Conclusion and Recommendation
+
+We found no evidence that national security information was actually compromised. However, we believe that the control weaknesses we noted indicate potential problems. In particular, we question one of the two arrangements, because the terms of the Agreement allow a former presidential appointee to control access to classified documents and remove such documents from government control. Regarding the arrangement for the Weinberger papers, the Director of the Oversight Office accepted a recent Defense Department letter as assurance that the government has adequate control. However, to avoid such questions in the future, we believe language appearing to give control of classified information to a private individual should not be allowed in such agreements. We therefore recommend that the Director, Information Security Oversight Office, issue guidance that more clearly specifies the controls needed over classified materials made available to former presidential appointees. In particular, the guidance should ensure that agreements for access by former presidential appointees do not contain provisions that could compromise government control. General arrangements for former presidential appointees to have access to classified documents are discussed in appendix I. The State Department's arrangement with the National Archives and Records Administration is discussed in detail in appendix II, and the Defense Department's arrangement with the Library of Congress is discussed in appendix III. The objectives, scope, and methodology are discussed in appendix IV. As agreed with your office, we did not obtain official agency comments. However, we discussed our findings with agency officials and incorporated their views where appropriate. As you requested, we plan no further distribution of this report until 30 days from its issue date unless you publicly announce its contents earlier. At that time, we will send copies to the Secretaries of State and Defense; the Director, U.S. Information Agency; the Librarian of Congress, Library of Congress; the Archivist of the United States, National Archives and Records Administration; the Director, Information Security Oversight Office; the Chairman, National Security Council; and other interested parties. We will make copies available to others upon request.
+
+Page 5
+
+GAO/NSLW-WlW
+
+Information
+
+Security
+
+If you have any questions please call me on (202) 275-8412. Major contributors to this report are listed in appendix V. Sincerely yours,
+
+Donna M. Heivilin Director, Logistics Issues
+
+Page 6
+
+GAO/NSIADBMW
+
+Information
+
+Security
+
+Page 7
+
+GAO/NSLiBWMM
+
+hfonnation
+
+Security
+
+Contents
+
+Letter Appendix I General Arrangements for Former Presidential Appointees to Have Accessto Classified Documents Appendix II The State Department's Arrangement With the National Archives and Records Administration Appendix III The Defense Department's Arrangement With the Library of Congress Appendix IV Objectives, Scope,and Methodology Appendix V Major Contributors to This Report
+13
+
+16
+
+19
+
+20
+
+GAO/WlMDNbllM
+
+Infomdon
+
+Secnrlty
+
+Page 9
+
+GAO/NSIAD-99495
+
+Information
+
+Security
+
+Appendix I
+
+GeneralArrangements for Former Presidential Appointeesto Have Accessto Classified Documents
+The disposition of files and documentary materials accumulated within an agency is governed by the Federal Records Act of 1950, as amended, and the Records Disposal Act of 1943, as amended. With certain exceptions, such as convenience copies, the later act defines the term "records" as including
+"...a11 books, papers, maps, photographs, machine readable materials, or other documentary materials, regardless of physical form or characteristics, made or received by an agency of the United States Government under Federal law in connection with the transaction of public business and preserved or appropriate for preservation by that agency or its legitimate successor as evidence of the organization, functions, policies, decisions, procedures, operations, or other activities of the Government or because of the informational value of data in them" (see 44 U.S.C. 3301, as amended).
+
+The laws and regulations governing the management and disposition of' federal records generally do not apply to personal papers, which are defined as:
+"documentary materials, or any reasonably segregable portion thereof, of a private or nonpublic character that do not relate to or have an effect upon the conduct of agency business. Personal papers are excluded from the definition of Federal records and are not owned by the Government" (see 36 CFR Section 1222.36).
+
+Oversight responsibility for federal records management is divided between the National Archives and Records Administration, the General Services Administration, and the Office of Management and Budget. The National Archives and Records Administration provides guidance and assistance to federal agencies on how to adequately and properly document government policy and transactions and how to dispose of federal records. The General Services Administration provides guidance and assistance on economical and effective federal records management. However, the General Services Administration has delegated its responsibility for the federal information security program to the Information Security Oversight Office. The Office of Management and Budget is responsible for directing and overseeing federal records management. Classified information generally cannot be disseminated to anyone whose official duties do not require access to it. This is often called the "need-to-know" policy. Executive Order 12366 and previous orders have provided an exception to this policy for former presidential appointees. Section 4.3 of the Executive Order allows agencies originating classified information to authorize access to persons who previously occupied policy-making positions to which they were
+
+Page10
+
+GAO/NSIAD90-196InfonnationSecurity
+
+General Arrmgementa for Former Presidential Appointees to Have Access to Cladfled Documents
+
+appointed by the President. Such access may be granted only if the agency originating the classified information
+l
+
+l
+
+l
+
+determines in writing that access is consistent with the interest of national security; takes appropriate steps to protect classified information from unauthorized disclosure or compromise; and limits access to items that the person originated, reviewed, signed, or received as a presidential appointee. Executive Order 12356 assigns the Director, Information Security Oversight Office, responsibility for developing governmentwide implementing directives and overseeing agency actions to ensure compliance. The Executive Order allows government agencies to promulgate their own implementing regulations. The Director issued Directive No. 1, effective August 1,1982. Although the directive provides guidance on various information security matters, it does not provide additional guidance relative to former presidential appointees. We addressed government agency procedures and practices for granting former presidential appointees access to classified information in our June 1989 report1 In January and August 1988, the Director, Information Security Oversight Office, wrote to executive branch agencies saying that many officials who had access to classified information would be leaving the government in the final year of President Reagan's administration. The Director emphasized that classified information, including extra copies, is not personal property and may not be removed from the government's control by any departing official. When former Secretary of State George Shultz and former Secretary of Defense Caspar Weinberger left office, their departments transferred copies of many classified papers related to their government service to locations where they could access them for their personal use. The State Department's arrangement with the National Archives and Records Administration is discussed in detail in appendix II, and the Defense Department's arrangement with the Library of Congress is discussed in appendix III.
+
+`Information Security: Controls Over Unofficial Q-146, June 8,1989).
+
+Access to Classified Information
+
+(GAO/
+
+Page 11
+
+GAO/MIABWl96
+
+Inform&on
+
+Security
+
+Appendix I General Arrangements for Former Presidential Appointees to Have Access to Classified Documents
+
+We found that government agencies make limited use of the exception to the Executive Order. Of the 51 agencies we surveyed, only the State and Defense Departments and the U.S. Information Agency have arrangements for living former presidential appointees to access classified documents related to the appointees' government service. These agencies had such arrangements for a total of 11 individuals. The State Department indicated that in addition to the arrangement for Mr. Shultz, it had similar arrangements for former Secretaries Henry Kissinger and Alexander Haig. The U.S. Information Agency transferred classified documents to the Reagan Presidential Library Project at the request of its former director, Charles Wick. The Defense Department indicated that it had made arrangements similar to those for Mr. Weinberger for former Secretaries Robert McNamara, Clark Clifford, Elliot Richardson, and Donald Rumsfeld; former Under Secretary Fred Ikle; and former Director of the National Security Agency William Odom.
+
+Page 12
+
+GAO/NSIAD-90496
+
+Information
+
+Securit)
+
+Appendix II
+
+The State Department'sArrangement With the National Archives and RecordsAdministration
+Background
+When former Secretary George Shultz left office, the State Department transferred copies of many documents related to his government service to the National Archives and Records Administration's Federal Records Center in San Bruno, California. The State Department allows Mr. Shultz to temporarily transfer, for his personal use, part of the classified material from San Bruno to the Hoover Institution on War, Revolution, and Peace. The Hoover Institution is located on the Stanford University campus at Palo Alto, California, which is about 26 miles south of San Bruno. The State Department transferred copies of about 76,000 documents to San Bruno. The copies were made by the State Department at Mr. Shultz's expense. An estimated 76 to 80 percent of the documents are classified. The State Department's arrangement with the National Archives allows Mr. Shultz to transfer up to 8 cubic feet of classified material to Hoover for up to 60 days. The transfers may be extended for additional 60day periods, provided that the total quantity of classified documents does not exceed 8 cubic feet. Mr. Shultz, a Diplomat in Residence,' a research assistant, and an Associate Director of the Hoover Institution had access to the classified papers. All four had top secret clearances. Clearance has also been requested for an additional research assistant. The Diplomat in Residence, previously custodian of the classified papers at Hoover, is currently a personal services consultant to the State Department. The State Department's regulations both restate and expand on Executive Order 12366 requirements for providing access to former presidential appointees. In addition to the Executive Order's requirements, the State Department's regulations require the former presidential appointee to agree in writing (1) to safeguard classified information from unauthorized disclosure, (2) to authorize review of notes and manuscripts to ensure that they contain no classified information, and (3) to not further disseminate classified information without the State Department's permission. In addition to former presidential appointees, the State Department's regulations also allow individuals to have access to classified information on behalf of a former appointee, provided they are deemed trustworthy and agree to safeguard classified information. They must also work for the former appointee and may not gather information for their own publication. The Information Security Oversight
+`The State Department's Diplomat in Residenceprogram temporarily place3 foreign service officers at universities to teach in foreign affairs programs.
+
+Page 13
+
+GAO/N8IAD-9M#
+
+Infomution
+
+Security
+
+Appendix II The State Department's Arrangement the National Archlvea and Records Administration
+
+With
+
+Office reviewed the State Department's proposed procedures for controlling the classified documents in the Shultz collection at San Bruno and Hoover. According to the Oversight Office, it is generally satisfied with the procedures. We found that the State Department's procedures provide reasonable control over classified material with the exceptions noted below. San Bruno and Hoover are both approved storage facilities for classified information up to and including top secret. Also, as required by Executive Order 12356, the State Department had stated in writing that granting Mr. Shultz access to classified information was consistent with the interest of national security. Certain controls were not in place when we first visited San Bruno and Hoover in mid-March 1989. However, the State Department corrected them before our next visit in October 1989. We initially found that top secret documents had not been inventoried or assigned control numbers as required by the State Department's regulations. Also, we found several documents were marked as having sensitive compartmented information or special access program3 information. Neither San Bruno nor Hoover is approved to store documents with such markings. Only San Bruno had held the documents up to that time. The State Department's Office of Diplomatic Security restricted access to the classified documents until the problems we found were resolved. In late March 1989, that Office inventoried the documents and assigned control numbers to the documents that were classified top secret. They also identified documents with possible sensitive compartmented information or special access program designations. About 120 such documents were returned to the State Department's headquarters, and 60 which were found to have such designations were retained at the headquarters. During our follow-up visit to San Bruno and Hoover in October 1989, we found that the control weaknesses had been corrected and temporary
+
+Extent of State Department Compliance
+
+`Sensitive compartmented information includes aU information and materials requiring special controls indicating restricted handling within present and future intelligence collection programs and their end products. 3A special accessprogram requires need-to-know or accesscontrols beyond those normally required for accessto confidential, secret, or top secret information.
+
+Page 14
+
+GAO/NSLADMUS5
+
+Information
+
+Security
+
+Appendix II The State Department's Arrangement the National Archives and Records Administration
+
+With
+
+transfers of classified documents to Hoover had begun. The transfers were properly documented and did not exceed quantity or time limits. However, tests of other papers that were separately transferred to the Hoover Institution as Mr. Shultz's unclassified personal and nonrecord papers identified secret and confidential documents. Our tests of about 10 percent of the papers in a related review identified 7 secret and 16 confidential documents. Hoover Institution officials told us that the classified documents that we found were removed from the personal papers and are stored in a safe located in the Institution's vault. A State Department security official stated that the Hoover Institution was instructed to transfer any classified documents found to the Shultz collection stored at the San Bruno Federal Records Center. The State Department has been considering a request to permanently locate all of Mr. Shultz's classified papers at Hoover. Hoover officials indicate that Hoover is willing to provide the necessary storage for all classified documents. A final decision had not yet been made as of August 1990.
+
+Page 16
+
+GAO/NSLAD@O-196
+
+Information
+
+!3ecnrity
+
+Appendix III
+
+The DefenseDepartment'sArrangement With the Library of Congress
+Background
+The Defense Department transferred copies of many papers related to the government service of former Secretary of Defense Caspar Weinberger to the Library of Congress in order that he might have access to them for his personal use. According to the Library, the papers contain copies of 13,697 classified items, including 948 top secret documents, 25 top secret restricted data' documents, 206 secret restricted data documents, and 12,518 documents classified at the secret and confidential levels. General Services Administration Bulletin F'PMR B-106 and its successor, National Archives' Bulletin 89-2, which provide guidance for all federal agencies, allow removal of nonrecord material by an employee. However, copies of classified documents may be removed only if they are transferred to a facility meeting federal security requirements.
+
+Extent of Defense Department Compliance
+
+The Library's procedures provide reasonable control over the classified papers. The papers are kept in a vault area that is approved for storing classified information up to and including top secret restricted data. The Library stores the top secret restricted data, top secret, and secret restricted data documents separately. All classified documents had been inventoried but some top secret documents did not have control numbers and copy numbers as required by Defense Department regulations. However, each document was assigned an inventory number when the Library staff processed the papers. The Defense Department considers the inventory numbers to be adequate for document accountability purposes. The Library staff also showed us a receipt documenting one package of top secret restricted data documents that was returned to the Defense Department for declassification review. Library staff had been given access to all papers for processing purposes at the time we reviewed the papers. Processing included segregating the papers by subject matter, arranging them in chronological order, and preparing a master index. The Library devoted one staff archivist to this effort for about l-1/2 years. Mr. Weinberger, a research assistant, and an administrative assistant had access to the papers. All had been cleared for top secret and restricted data. Mr. Weinberger's staff had been given access to the unclassified information.
+`The top secret restricted data and secret restricted data documents concern the design, manufacture, or use of atomic weapons; the production of special nuclear material; and the use of special nuclear material to produce energy. . Page 16 GAO/NSIADW496 Iniormation !Security
+
+Appendix the Library
+
+ElII With of Cmgreas
+
+The Defense Deputment's Armngement
+
+Before a former presidential appointee may have access to classified information, Executive Order 12356 requires a statement in writing that access to classified information is consistent with the interest of national security. Defense Department officials did not provide such documentation. Defense Department officials stated that Mr. Weinberger's Agreement with the Library is sufficient and constitutes a written determination that releasing the papers was consistent with the interest of national security. However, the Agreement does not discuss the release's effect on the national security interest or otherwise refer to such a determination. We therefore question whether the Agreement satisfies the requirement for a written determination. Apart from document receipts and the Agreement of Deposit between Mr. Weinberger and the Library, we found no description of the arrangements for the papers. The Agreement requires his written consent and the requisite security clearance before anyone can be granted access to classified documents in the papers. The Agreement also states that at his discretion, he may remove any document from the collection. In this regard, the Agreement with the Library of Congress is inconsistent with subsequent Information Security Oversight Office guidance that classified information may not be removed from the government's control by a departing official. The Agreement is also inconsistent with a classified information nondisclosure form (Standard Form 189) signed by Mr. Weinberger on March 15,1985. The Form 189 states, in part
+"I understand that all information to which I may obtain access by signing this Agreement is now and will forever remain the property of the United States Government. I do not now, nor will I ever, possess any right, interest, title, or claim whatsoever to such information."
+
+Executive Order 12356 states that the originating agency must take appropriate steps to protect classified information from unauthorized disclosure or compromise and ensure that the information is safeguarded in a manner consistent with the order. Because the terms of the Agreement with the Library allow Mr. Weinberger to control access to the papers and to remove any document at his discretion, we do not believe that the terms provide for adequate government control. According to Library representatives, they have requested the Defense Department's permission before granting anyone access to the classified information in the Weinberger papers. Even though the Agreement would allow removal, they stated that they do not believe Mr. Weinberger has the authority to remove classified items. Also, they said no classified documents have been removed.
+
+Page 17
+
+GAO/NSIAD9@196
+
+Information
+
+Security
+
+Appendix III The Defense Department's the Library of Congress
+
+Arrangement
+
+With
+
+A Defense Department official said they did not consult the National Archives and Records Administration or the Information Security Oversight Office before they transferred the papers to the Library.
+On February 22, 1990, the Information Security Oversight Office reported the results of its inspection of safeguarding, accountability,
+
+and access control measures over classified information in the Weinberger collection. It found that the Library's policies and procedures for handling and safeguarding classified information in the collection properly protect it from unauthorized disclosure. It recommended, however, that the Defense Department improve oversight of its classified information at the Library and that the Agreement of Deposit be amended to ensure executive branch control over the classified information in the Weinberger collection. In its April 6, 1990, response to the Oversight Office's recommendations, the Defense Department agreed to make annual oversight inspections of the classified information deposited in the Library by Mr. Weinberger and other former Defense Department officials. The Defense Department also stated that it does not believe the Agreement contravenes any statutory authority, departmental directives, or instructions. The Defense Department stated that those involved with the Agreement had no intent other than to comply with all pertinent laws, Executive Order 12356, and its implementing directives. The Defense Department provided a copy of this letter to the Library of Congress. The Director of the Oversight Office accepted the April 6 letter as assurance that it would conduct periodic oversight inspections of classified documents at the Library and that the government does have adequate control over the classified documents.
+
+Page 19
+
+GAO/NSIAD44@196
+
+Information
+
+Security
+
+Appendix IV
+
+Objectives,Scope,and Methodology
+
+The Chairman, Subcommittee on Federal Services, Post Office and Civil Service, Senate Committee on Governmental Affairs, requested that we review agency arrangements for former presidential appointees to have access to classified documents related to their government service. We (1) determined the number of arrangements made for living former presidential appointees and (2) examined access arrangements for former Secretary of State George Shultz and former Secretary of Defense Caspar Weinberger. We were also asked to determine the National Archives and Records Administration's involvement with such arrangements, and the Information Security Office's position on them. With respect to the arrangements made for former Secretaries Shultz and Weinberger to have access to classified documents related to their government service, our objectives were to determine (1) compliance with directives, (2) the volume of classified documents involved, and (3) the names and positions of nongovernment employees, other than the two former Secretaries, who were granted access to the classified documents. To satisfy our objective, we asked 51 government agencies to identify all living former presidential appointees for whom they had arranged access to classified papers related to their government service. We interviewed National Archives and Records Administration and Information Security Oversight Office officials to determine their involvement in such arrangements. We obtained and reviewed laws, regulations, bulletins, correspondence, and other documentation related to arrangements for access to classified documents by former presidential appointees. Our review of the arrangements made for former Secretaries Shultz and Weinberger included an analysis of applicable directives and tests of administrative and security controls over classified documents at the San Bruno Federal Records Center, the Hoover Institution on War, Peace, and Revolution, and the Library of Congress. These tests included examination of vault access logs, top secret document inventories, and classified document charge-out records. We also interviewed officials at the State and Defense Departments, the Library of Congress, and the National Archives and Records Administration about the two arrangements. We conducted our review between February 1989 and July 1990 in accordance with generally accepted government auditing standards.
+
+.
+Page 19 GA0/NSIAD90496 Information Security
+
+Appendix V
+
+Major Contributors to This Report
+
+National Security and International Affairs Division, Washington, DC. c Office of the General Counsel
+
+Uldis Adamsons, Assistant Director Donald H. Lentz, Evaluator-in-Charge Irving T. Boker, Advisor Carolyn S. Blocker, Writer-Editor
+
+(391629)
+
+Page 20
+
+GAO/NSIAWO-I!%
+
+Information Security
+
+

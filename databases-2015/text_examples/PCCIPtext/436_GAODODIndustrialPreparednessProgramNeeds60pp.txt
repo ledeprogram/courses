@@ -1,0 +1,1196 @@
+.
+
+.
+
+4
+
+1 ITSqJ
+
+, *
+
+BY THECOMPTROLLERGENERAL
+
+Report To The Congress
+OF THEUNITEDSTATES
+
+DOD's Industrial Preparedness Program Needs National Policy To Effectively Meet Emergency Needs
+The Department of Defense's Industrial Preparedness Planning Program is to make sure U.S. industry can respond to wartime needs for military items. However, despite repeated study, this program has remained in a state of disarray for the past several years. The current program has limited funds and a low priority, and it is ineffective. Failure to adequately plan with industry may hinder U.S. ability to meet defense needs. GAO recommends that the Congress, in coordination with the executive branch, establish a national policy to define industrial base expectations. The Secretary of Defense should restructure the program to complement it.
+
+115340
+
+1j II
+
+PLRD-81-22 MAY 27,198l
+
+I Request for copies of GAO reports should be sent to: U.S. General Accounting Office Document Handling and Information Services Facility P.O. Box 6015 Gaithersburg, Md. 20760 Telephone (202) 2756241
+
+I
+
+The first five copies of individual reports are free of charge. Additional copies of bound audit reports are $3.25 each. Additional copies of unbound report (i.e., letter reports) and most other publications are $1.00 each. There will be a 25% discount on all orders for 100 or more copies mailed to a single address. Sales orders must be prepaid on a cash, check, or money order basis. Check should be made out to the "Superintendent of Documents".
+
+COMPTROLLER
+
+GENERAL
+WASHINGTON.
+
+OF
+D.C.
+
+THE
+20548
+
+UNITED
+
+STATES
+
+H-202300
+
+To the President of the Senate and the Speaker of the House of Representatives This report discusses the Department of Defense's Industrial Preparedness Planning Program and the program's inefThe report also states fectiveness despite repeated study. that poor industrial preparedness planning could impair U.S. defense posture and could severely limit U.S. defensive options. We initiated this review because of growing concern regarding the industrial base's ability to sustain U.S. Forces in conventional combat and because we wanted to focus attention on the fact that no significant improvement has This occurred in the program since our last review in 1977. review is an important aspect of our continuing efforts to recommend improvements in the Department's mobilization planning with industry. We are sending copies of this report to the Chairmen, Senate Committees on Governmental Affairs, on Armed Services, and on Appropriations and House Committees on Government and on Armed Services: the Operations, on Appropriations, Director, Office of Management and Budget; and the Secretaries of Defense, the Army, the Navy, and the Air Force.
+
+of the United
+
+COMPTKOLLER GENERAL'S REPORT TO THE CONGRESS
+
+DOD'S INDUSTRIAL PREPAREDNESS PROGRAM NEEDS NATIONAL POLICY TO EFFECTIVELY MEET EMERGENCY NEEDS
+
+DIGEST --we-The Department of Defense (DOD) is responsible for assuring that sufficient industrial capacity exists to meet potential wartime needs for defense systems, equipment, and component parts. DOD's Industrial Preparedness Planning Program was developed to satisfy this responsibility. Many organizations, including GAO, have found DOD has reevaluated the it to be ineffective. program, but no significant improvement has resulted to date. Industrial preparedness is closely tied to important planning assumptions, including warnand other essential ing time, conflict duration, factors, such as availability of strategic and critical materials, energy, transportation, and skilled people. (See pp. 7 to 13.) DOD guidance has emphasized programs designed to enhance initial combat capability. Because there is doubt about the' Industrial Preparedness Planning Program's ability to significantly contribute to initial combat capability, a low priority has been given to the 13 and 14.) program. (See pp. Initial combat capability is important, but failure to plan adequately with industry may mean that the United States can only fight a short war because no other program exists to bridge the gap between initial combat capability and war materiel needs should U.S. involvement become prolonged. In fact, huge gaps exist between when military stocks will be exhausted and when production will equal needs. Wee PP. 13 to 18.) Two essential elements of DOD's program--item selection and requirements determination--are done differently by each service and are often not done well. Industry's participation in the DOD planning program has been voluntary and un(See pp- 19 to 26.) funded for many years.
+
+i
+eShact. cover date Upon should removal, be noted the report hereon.
+
+PLRD-81-22
+
+Planning information received from industry sources is incomplete and unreliable because prime contractors generally base their production schedules on inadequate analyses and unrealistic assumptions regarding adequacy of subcontractor support and availability and adequacy of Government-furnished equipment, (See p. and skilled labor. raw materials,
+26. )
+
+Many industry sources do not identify production enhancement measures as part of their planning because they are not reimbursed for the costs of developing this information. Others have identified enhancement measures, but the services generally have not had the Further, in funds to implement the measures. some cases, planners have discouraged contractors from identifying enhancement measures because of personnel constraints and lack of funds. (See p. 28.) Since industrial preparedness information about production response capabilities could be used to offset the need to procure and stock items., lack of management attenthe DOD communities' tion to the program may be resulting in lost opportunities to reduce war reserve stockage Trade-offs between industrial requirements. production capability and reserve stockage requirements are not being made even though available information indicates these trade(Seti offs might provide economic benefits. 29 to 30.) PP. Many program improvement initiatives now being proposed by DOD had also been proposed during But many have not been GAO's last review. implemented or have been implemented on a small scale due to lack of funds. DOD has continually given the Industrial Preparedness Planning Program a low priority and has However, in view of provided limited funds. the current threat, limited options, and risks associated with an unresponsive base, a national policy is needed to define industrial base expectations. RECOMMENDATIONS GAO recommends that the Congress, in coordination with the executive branch, establish a clearly defined and comprehensive national policy regarding industrial preparedness. ii
+
+Hearings should be held to develop This policy should address --what is expected of the industrial to achieve
+
+this
+
+policy.
+
+base and these the the
+
+--what can be invested expectations.
+
+Once this national policy is established, Secretary of Defense should restructure program to complement the policy. In the meantime, the Secretary should clearly define the
+
+of Defense
+
+--circumstances that the industrial base is expected to be responsive to and the role will play in each and --priority trial other
+
+it
+
+and funding availability for induspreparedness planning in relation to DOD and service branch programs. should also ensure that: with other of support
+
+The Secretary
+
+--Service planning efforts interface DOD programs to assure continuity over the planned period.
+
+--Service branch planning efforts are scaled to what can be accomplished realistically within assigned priority and available funds, considering either --substantially individual limiting the number of items planned or
+
+--limiting indepth planning to a few vital items while using studies of key industrial sectors to identify potential mobilization problems. AGENCY COMMENTS On February 24, 1981, DOD provided oral comments on this report. DOD generally agreed with GAO's findings, conclusions, and recommendations. DOD agreed that the Industrial Preparedness Planning Program has been given a low priority and, as a result, is ineffective. DOD said that: --It is working to improve the program related resource allocations. iii and
+
+Tear
+
+Sheet
+
+--The program has recently been included in the Defense System Acquisition Review Council process. --The system, equipment, and item program managers have been given responsibility for carrying out the program. GAO did not verify the extent to which the services had implemented these recent changes or evaluate the potential effect of these changes on program operations. DOD agreed that a national policy about industrial preparedness is needed and said that the lack of such a national policy must be addressed by the Congress and the National DOD also said that the Security Council. program needs to be supported at high levels within DOD if it is to become fully supportable and viable. Finally, DOD said that maintaining the capacity of the industrial base to respond to military contingencies is a major element 0E U.S. strength and deterrence. comOn April 3, 1981, DOD provided written ments which generally confirmed the earlier oral positions. These written comments are included as appendix I.
+
+iv
+
+Contents Page DIGEST CHAPTER 1 INTRODUCTION Prior GAO report Objectives, scope, 1 2 2 5 5 6 7 8 13 19 19 20 23 26 27 30 32 34 34 36 36 37 i
+
+and methodolgy
+
+2
+
+INDUSTRIAL PREPAREDNESS AND NATIONAL DEFENSE The industrial preparedness planning program Why industrial preparedness planning is important Key assumptions affecting industrial preparedness Other factors affecting industrial preparedness Where we stand today DOD'S INDUSTRIAL PREPAREDNESS PLANNING PROGRAM IS IN DISARRAY Today's planning program Item selection procedures Requirements determination Industry planning data Low program priority Defense studies and initiatives Conclusions INDUSTRIAL PREPAREDNESS PLANNING--WHAT IS NEEDED? What does the United States expect from the industrial base? Conclusions Recommendations Agency comments
+
+3
+
+4
+
+APPENDIX I Letter dated April 3, 1981, from the Acting Under Secretary of Defense, Research and Engineering Listing of subordinate installations visited in this review commands and or included related
+
+38
+
+II
+
+41 43
+
+III
+
+Listing of selected past reports to industrial preparedness
+
+APPENDIX IV Listing of selected recent testimony regarding industrial preparedness given before the Defense Industrial Base Panel of the House Committee on Armed Services, 96th Congress, second session ABBREVIATIONS
+DOD GAO
+
+Page.
+
+47
+
+Department General
+
+of Defense Office
+
+Accounting
+
+CHAPTER 1 INTRODUCTION The Department of Defense (DOD) is responsible for assuring that sufficient industrial capacity exists to meet potential wartime needs for defense systems, equipment, and component parts. Industrial preparedness planning evolves from the Defense Production Act of 1950 and subsequent amendments. The President has delegated responsibility for emergency preparedness functions to various executive branch departments and agencies. Under section 401 of Executive Order 11490, issued in October 1969, the Secretary of Defense is assigned the responsibility for (1) developing and administering preparedness planning with industry to ensure timely purchase and production of selected military equipment and supplies needed to fulfill emergency requirements and (2) taking the necessary steps to eliminate problems in maintaining the required mobilization production base. The Secretary of Defense also issues guidelines to the military departments to aid in their development of operational war plans. On the basis of these plans, each service computes detailed time-phased requirements regarding the equipment needed to perform assigned missions. These time-phased requirements are the basis for industrial preparedness planning. Various DOD directives, instructions, and'manuals provide basic guidance to the services for conducting this planning with industry. Numerous organizations have studied DOD's Industrial Preparedness Planning Program. Some of these organizations include the Industrial Advisory Council, the Joint DOD, the services, Logistics Review Board, the American Defense Preparedness Assofor a list ciation, and the Defense Science Board. (See app. III of these studies.) The following are some of the major problems noted most frequently in these studies. --Industry's data is based on unrealistic assumptions regarding availability of equipment, raw materials, long leadtime components, and subcontractor support. --Little is known about second- and third-tier subcontractor support capabilities because planning does not extend down that far. --The base cannot respond within because industrial preparedness identified and/or funded. the time frames required measures have not been
+
+--The program is not resulting in reliable information for use in mobilization because virtually every significant problem area has been assumed resolved. 1
+
+PRIOR GAO REPORT In our last review of the program in 1977, l-/ we reported that mobilization production planning then being conducted with private industry by DOD did little to strengthen U.S. industrial capacity to meet emergency requirements. Data gathered was not being analyzed or acted on, and the program had lost credibility. We recommended that the Secretary of Defense consider the following in restructuring the program. --What priority does maintaining an industrial base have on the overall defense strategy? --What --What level of resources can be committed within this level mobilization to this effort?
+
+can be accomplished the program,
+
+of resources? the Secretary
+
+To restructure consider --limiting plished
+
+we recommended that
+
+individual item planning to what can be accomwith available resources and
+
+--examining the key sectors of the defense industry and its related capacity --again limiting the scope to what can be done within available funds. DOD generally agreed with our findings. creased management attention would be devoted effectiveness. OBJECTIVES, SCOPE, AND METHODOLOGY The objectives of our tiveness of DOD's efforts Planning Program since our problems still facing the improve the program in the During our review, review were to assess (1) the effecto improve the Industrial Preparedness last review in 1977, (2) the major program, and (3) the actions planned to future. It said that to improving inprogram
+
+we
+
+--reviewed various DOD and service branch directives, instructions, memorandums, manuals, and budget information regarding program operations; --reviewed the actual branch for a limited from those identified planning conducted by each service number of items randomly selected for planning in fiscal year 1980;
+
+and
+
+l-/"Restructuring Planning with Requirements"
+
+Needed of Department of Defense Private Industry for Mobilization (PSAD-77-108, May 13, 1977). 2
+
+Program for Production
+
+--interviewed program officials and planning personnel within (1) the Office of the Secretary of Defense, (2) headquarters and intermediate headquarters of the Army, Navy, and Air Force, and (3) many subordinate commands as shown in appendix II. and installations, Further, studies made tion provided regarding the (See app. III we made an extensive literature search to identify The'informaon past and present program operations. by this search was used to broaden our perspective problems and issues identified in this review. for a partial listing.)
+
+We obtained recent official testimony concerning the program and its related aspects which provided additional insight and updated information regarding program issues. (See app. IV for a partial listing.) During our audit, the Army Audit Agency and the Naval Audit Service were concurrently reviewing their respective industrial We closely coordinated our audit preparedness planning programs. work with these organizations to prevent possible duplication of effort. Because of resource constraints, we limited the scope of our review. First, DOD's Industrial Preparedness Planning Program includes planning for both the production of items and the To limit maintenance and repair of inoperable parts/equipment. the review to a manageable level, we confined our audit to the planning for the production of itelns. Xaintenance and repair issues were covered partially in past reports, several of which are listed in appendix III. The Army Audit Agency was also reviewing this area extensively and is in the process of issuing several reports. The Defense Logistics Agency's industrial preparedness planSeveral of ning operations were also excluded from this review. our past reports which discuss problems regarding various aspects of the Defense Logistics Agency's program are listed in appendix III. To obtain a representative view of service branch planning efforts in fiscal year 1980, we randomly selected a limited number of items from those items identified for industrial preparedness We did not include planning by the Army, Navy, and Air Force. Marine Corps planning because the majority of its items are planned by other services. To make the best use of our resources, we decided to limit the Army sample to items managed by the Army Armament Materiel Readiness Command. This command made the Army uniquely suited for this limitation since it accounted for about 74 percent of This all Army items reported for planning in fiscal year 1980. command is also DOD's single service manager for conventional ammunition items, manages many weapons and fire control items 3
+
+used servicewide, and was excluded from our last review in 1976. Because the command accounts for the majority of the Army's program, we believe the work performed at this command, combined with program information obtained at Army headquarters and intermediate headquarters, provides a sound basis of assessment for the Army's program overall. We randomly selected items from those identified for planning by all five of the Navy's systems commands, as well as two major inventory control points. For the Air Force sample, we randomly selected items from those identified for planning by each of the five air logistics centers. Because of sample limitations, we could not project the incidence of each specific planning deficiency found in our sample to the total universe of planned items. However, we believe that the sample data, combined with additional program information obtained through interviews and reviews of written program correspondence, provides an accurate assessment of the current DOD The accuracy of this Industrial Preparedness Planning Program. assessment has also been attested to in agency comments (see app. 1). During our audit, we reviewed mobilization production planning information provided to the services by contractors for each solicit indusof our sample items. However, we did not directly try's opinions about the value of the program because our work showed that no significant improvement had occurred since our last review in 1976. Industry's views obtained at that time indicated that DOD's Industrial Preparedness Planning Program had lost its credibility.
+
+4
+
+CHAPTER 2 INDUSTRIAL PREPAREDNESS AND NATIONAL DEFENSE The aspect of essential needs in DOD Industrial Preparedness Planning Program is only one total mobilization planning. However, the program is to assure that industry will be responsive to defense a national emergency.
+
+Industrial preparedness is closely tied to important assumptions, including warning time, duration of conflict, and other essential factors, such as the availability of strategic and critical l-/ materials, energy sources, transportation, and skilled people. Because of budgetary constraints, current DOD guidance and investment decisions emphasize programs which, in their opinion, do more to enhance initial combat capability than does industrial to assure industrial preparedness planning. However, failure to fight a long war and preparedness may impair the U.S. ability may limit military options to capitulation or nuclear weapons in The ability of industry to reconstitute U.S. such a situation. Forces and the economy after a war may also be impaired. THE INDUSTRIAL PREPAREDNESS PLANNING PROGRAM Since it would be impractical for the industrial base to produce military items at wartime levels during peacetime, a peacetime program of planning with industry to meet potential Such a program is wartime needs for military items is essential. Generally, the the DOD Industrial Preparedness Planning Program. objective of this program is to ensure that key industries remain able during peacetime to respond quickly with the volume of war combat. materiel necessary to sustain U.S. Forces in conventional A number of different approaches can be taken to ensure that Ideally, a responsive industrial base exists during peacetime. the industrial base for each essential military item could be In an emergency, the kept in production at some minimum rate. number of work shifts could be increased with a subsequent increase in item production to meet mobilization demand. This is known as the "warm base" situation. However, in reality there is many items that would be required trial base for these items, such This is known as the "cold base" limited peacetime demand for in mobilization, and the indusas ammunition, is inactive. situation.
+
+L/"Strategic" refers to the relative availability while "critical" refers to their essentiality. 5
+
+of materials,
+
+Planning measures to assure responsiveness from a warm or cold base situation differ. Generally, cold base situations require more investment in preparedness actions than warm base situations do. Because of limited peacetime defense budgets, these investment costs must be traded off against the relative gain in responsiveness for each industrial preparedness action. The following are some trade-offs that should be considered to enhance responsiveness. --Modernization of Government-owned production facilities versus increased reliance on commercial production capability. --Stockpiling of long leadtime components to enhance production capabilities versus the danger of item obsolescence, storage costs, and deterioration. --Provision/enhancement of plant production equipment packages versus the danger of obsolescence, deterioration, and incompatibility with state-of-the-art production methods. --The funding of preparedness measures identified by defense contractors or the stockpiling of war reserve materiel to allow for added response time and/or production deficiencies. --Institution of skilled of training programs personnel; etc. to assure the availability
+
+WHY INDUSTRIAL PREPAREDNESS PLANNING IS IMPORTANT The industrial preparedness program is one way to identify deficiencies in production capabilities for essential military items and to devise a plan of action before mobilization begins. The ability of the defense industrial base to provide for wartime needs is an essential element of the U.S. conventional defense posture. Peacetime planning with industry must ensure that industrial capacity is not only adequate, but that it can be brought to bear in time to provide continuing support when war reserve The long production leadtimes for the stocks are depleted. technologically sophisticated weaponry used in conventional warfare today have increased the need for effective industrial preparedness planning. As stated by the Secretary of Defense in the fiscal year 1976-77 annual DOD report: "A viable industrial base is a major element of our national strength and deterrent posture, and maintaining the capacity of that industrial base to respond to potential wartime demands continues to be a major consideration in our defense planning." Ironically, the nuclear parity between the Soviet Union is seen by some theoretical 6 the United States and circles as increasing
+
+the need for industrial preparedness planning to ensure a credible conventional deterrent. The continuing enhancement of conventional capabilities by Warsaw Pact forces is seen by some defense planners as increasing the possibility of a conventional conflict. Such a conflict would involve, for the first time, direct armed combat between two nuclear powers, the United States and the Soviet Union. The ability to contain such a conflict at the conventional level is seen as essential, both as a deterrent to starting such an action and to reducing the possibility of escalation to nuclear weaponry. Without the ability to effectively deter conventional aggression with conventional means, the United States would be limited to essentially two options-surrender or escalation to nuclear weapons. Conventional capability is seen then as providing an essential option to the all-or-none response thought to characterize a nuclear exchange, thereby limiting the possibility of its occurrence. To assure this conventional capability, industry must be able to provide the war materiel needed to sustain U.S. Forces The industrial in combat once war reserve stocks are depleted. base must also be able to replenish war reserve stocks quickly and to stabilize the economy after the war. Without sufficient planning, the United States could be vulnerable to renewed conventional attack with response options again limited to nuclear capability or capitulation. These factors ness planning. all point to the need for industrial prepared-
+
+KEY ASSUMPTIONSAFFECTING INDUSTRIAL PREPAREDNESS Warninq time
+
+The amount of advance warning that the United States will have before it is involved in active combat is an important factor in determining industry's contribution in the initial stages of a war. Short warning times mean a come-as-you-are war. Initial combat will have to be sustained from onhand stocks since the industrial base will not have time to prepare for wartime production. A longer period of advance warning would allow industry more time to shift to a wartime production footing and, therefore, industry's contribution to the war effort would be greater. Today, it is generally accepted that a long warning period, such as that which preceded U.S. involvement in World War II, cannot be expected. More importantly, if such a warning time were available, would the United States recognize and act on it? Lonq war or short war?
+
+Will the duration of the next war that the United States is involved in be long or short? Although defense strategists currently see a conventional conflict between allied and Warsaw Pact forces as the most demanding scenario the United States would 7
+
+face, these conflict.
+
+strategists
+
+are uncertain
+
+about
+
+the duration
+
+of the
+
+Some strategists foresee a short war of high intensity because of the high density of sophisticated weaponry present on both sides. These strategists point to the high attrition rates and the short duration of the 1973 Arab-Israeli war as support Assuming no significant warning time prior to for their theory. long production leadtimes for some essential compohostilities, nents would preclude the industrial base from contributing sigsome titanium For instance, nificantly during a short war. forgings used in aircraft production take more than 2 years to produce. Production leadtimes for the integrated circuitry used in some Air Force avionic systems are now in excess of 1 year. industry's role in the short war would be In such situations, limited to one of post-war reconstitution. Other strategists believe that a long war in Europe is plausible and point to the World War II, Korea, and Vietnam experiences In such a situation, the indusas support for their position. trial base would have a much greater opportunity to supply the war materiel needed. OTHER FACTORSAFFECTING INDUSTRIAL PREPAREDNESS Although DOD's Industrial Preparedness Planning Program is important, it is only one of several critical factors on which Many questions exist regarding industrial preparedness depends. the adequacy of these other critical factors to meet the demands Although not an all inclusive list, of a national emergency. some of the more important factors are discussed below. Availability of raw materials
+
+The availability of strategic and critical raw materials is vital to the manufacture of many defense and essential civilian totally or partially items. However, the United States is either dependent on,foreign supply sources for many of its strategic and Because of the extreme importance of these critical materials. materials to manufacture and because of the need to avoid a dangerous dependence on foreign supply sources during a national emergency, the Congress enacted the Strategic and Critical MateUnder this act, and its subserials Stock Piling Act of 1939. and critical materials are stockquent amendments, 93 strategic Administration of piled at 117 locations throughout the country. the National Stockpile is one of the responsibilities of the new Federal Emergency Management Agency.
+
+8
+
+The goal of the stockpile program is to have enough essential materials to sustain the United States for the first 3 years of a conventional war. However, since World War II numerous changes, which require that different types and amounts of materials be stored, have taken place in U.S. defense preparedness assumptions. According to our previous report, A/ many deficiencies exist in the quality, forms, types, and amounts of materials stored in the stockpile, and stockpile goals established in 1976 will take 15 to 20 years to attain because of administrative restrictions and management practices. Stockpiling these materials is important because the United States must import over half its raw material need's, while the Soviet Union is nearly self sufficient. Also, some of these materials are imported from sources that may not be available in an emergency. For instance, South Africa is the largest supplier of chromium, an essential material used to produce high performance aircraft engines and weapon systems. Although industrial preparedness is vitally dependent on the availability of certain raw materials, concerns exist regarding a number of materials issues. Some concerns include: --What pile is being goals? planned to expedite the achievement of stock-
+
+--Is attention being directed to ensure that materials are stockpiled in the forms most readily usable by industry? --Are storage sites for these materials locations to user industries? still in optimal
+
+--Are Government programs for the development of domestic resources and/or research for acceptable substitutes being emphasized? --What austerity measures will be required sector of the economy regarding the lack rials? Energy sources Energy sources available in mobilization must be adequate to meet the manufacturing needs of the defense industry and the Howmobility requirements of the Nation and the Armed Forces. ever, the oil embargo of 1973 demonstrated that the United States was significantly dependent on foreign oil imports as a major source of energy. The implication that this dependence has on the overall ability of the United States to mobilize, including of the civilian of these mate-
+
+L/"The Strategic and Critical for Many Years" (EMD-78-82,
+
+Materials Stockpile July 27,1978). 9
+
+Will
+
+Be Deficient
+
+the industrial base, has prompted the Congress to establish the Strategic Petroleum Reserve. However, this reserve has not yet been filled, and many questions exist regarding the ability of U.S. domestic oil reserves to meet mobilization needs. A/ Since the oil embargo, various steps have been taken to reduce U.S. dependence on foreign oil, encourage domestic exploration, and develop alternative energy technologies. Although the real potential for future energy independence may lie in the development of alternative energy technology, the program today is fraught with controversy. For instance, despite the fact that nuclear reactors have been supplying electrical power for several years, the accident at the Three Mile Island reactor has created great disagreement over whether nuclear energy holds the most promise for the future. Questions also exist about the issues of nuclear waste disposal and the potential proliferation of nuclear capability as more nations acquire this technology. Although other energy sources are being explored, such as solar energy and laser fusion reactors, their contributions will not be realized for many years. Should a national emergency arise in the meantime: --What plans exist to assure that adequate energy are available to industry during mobilization? --What alternative energy industry's needs? --Is coal an acceptable sources are available resources
+
+to meet
+
+substitute? convert to alternative
+
+--Can key defense energy sources, Transportation
+
+industries quickly such as coal?
+
+Adequate transportation resources must exist before mobilization begins because of its simultaneous and immediate importance to the mobilized economy as a whole, as well as the industrial base. Transportation resources must be sufficient to move raw materials and component parts through the intermediate stages of manufacture, as well as finished products to points of embarkation. Strong competition for these resources may also arise from the need to move men and materiel to the theater of battle. Recent mobilization simulations (Nifty Nugget and Rex '78'), conducted by both the defense community and civil government agencies, indicated
+
+l/"Actions Critical
+
+Needed To Improve the Viability of the Strategic and Materials Stockpile" (C-EMD-81-1, 11/24/80, SECRET). 10
+
+that the adequacy of some available transportation be a significant problem in a national emergency.
+
+systems
+
+could
+
+The railroads would be an important mode of transportation to industry during mobilization because of their unique capability to transport massive quantities of raw materials and heavy military equipment, such as tanks, over great distances, with relative However, it was noted during the Nifty speed and efficiency. iJucjcJet exercise that the simulated passage of men and materiel was delayed significantly because the decrepit state of repair for some rail lines limited train speeds to 20 miles per hour. Government requlations
+
+There is growing concern that Government regulations are a For example, a December handicap to the Nation's industrial base. 31, 1980, report of the Defense Industrial Base Panel of the House Committee on Armed Services stated: "The defense contractor is bound by procurement regulations and practices which determine both profit rates and contract financing terms. In addition, in the last decade, government regulations in other areas have increased dramatically. The recent requirements of environmental, health, energy, equal employment, safety, and other regulations have diverted large amounts of business capital from investment in new equipment and facilities." On November 13, 1980, the Commander of the Air Force Systems Command testified before the Defense Industrial Base Panel that the scarcity of minerals, instability of sources, and lack of processing and fabrication capacity in industry have affected the prices of defense equipment and the leadtimes required to produce such equipment. He said that: "The list of federal restrictions on mineral exploration is extensive. They include land management and land use restrictions such as the Clean Air Act, Federal Water Pollution Control Act, Wilderness Act, Federal Land Policy and Management Act, and the Surface Mining Control and Reclamation Act. "Currently, there are 80 different laws administered by 20 different federal agencies which directly or indirectly affect the domestic nonfuel minerals industry. The complex regulatory processes, the Government demand for data, and the environmental safety and health requirements often prevent companies from starting new operations or expanding existing capacity." He said that forging capacity is a good example of capacity problems in industry. He also said that there are only three remaining U.S. suppliers of large forgings, the kind needed for 11
+
+aircraft landing gear and components, and that this situation is partly due to hundreds of foundries closing in the mid-1970s as a result of Occupational Safety and Health Administration and Shortages in available Environmental Protection Agency rules. peacetime forging/casting capacity have required substantial Government investment in facilities for the production of M-60 tank turrets. Recently, U.S. Steel announced its intention to close one of rather than incur the expense its marginally profitable plants, Regarding required to comply with the Clean Air Act regulations. Government regulations and mobilization requirements: --To what degree has industry's ability to meet mobilization needs been affected by Government regulations intended to achieve social and ecological objectives? --What trade-offs are made or should be made between mobilization concerns for industrial preparedness and achievement of other objectives? --To what degree have these regulations caused the defense industry to increase dependence on foreign sources of supply? --How will affected defense needs for items formerly industries be met in mobilization? supplied by
+
+--Is it advisable to allocate significant portions of limited budgets to meet social and ecological objectives, in attempting to meet mobilization requirements through Government investment in industrial facilities? Skilled personnel
+
+Industry is finding it difficult to meet its peacetime needs for skilled personnel in several of the key industrial trades. For example, technicians, toolmakers, and machinists are in short there is competition among industries for As a result, supply. these people. The Defense Science Board said that over the next 5 years The Defense the United States will be short 250,000 machinists. Science Board added that it found no effective Government training programs to alleviate the shortage. In recent congressional testimony, the Commander, Air Force skilled labor shortages as a Systems Command, cited technically He also major contribution to defense industrial base problems. said that the severity of this problem will increase because the United States will lose ground in certain critical skills through 1990.
+
+12
+
+Mobilization would increase the demand for skilled personnel. However, personnel would need to complete long periods of training and apprenticeship before acquiring the necessary skills. It may be possible to offset some of industry's needs through greater use of computer assisted manufacturing and numerically controlled equipment. This new technology is characterized by higher production rates and the need for fewer highly skilled equipment operators. In relation to these concerns: --What programs manufacturing industry? --Are for training skilled exist to diEfuse new and more productive technologies and equipment within U.S. or planned to meet the need
+
+programs ongoing personnel?
+
+--Do plans exist personnel that
+
+to offset the increased demand for skilled mobilization can be expected to create? between mili-
+
+--Do plans exist to allocate skilled personnel tary and industrial needs in mobilization? WHEREWE STAND TODAY
+
+Limited peacetime defense budgets and DOD guidance have required the services to allocate funds first to enhancing the operational capabilities of existing active forces and second to meeting mobilization needs. Accordingly, low priority and minimal funds have been allocated to industrial preparedness planning: the argument being that unless initial combat capability is first assured it does not make sense to emphasize a program that cannot make a significant contribution until the latter stages of a war. This point of view was voiced by the Chief of Naval Material in recent testimony before the Industrial Preparedness Panel of the House Committee on Armed Services: "The Navy is reluctant to back budget issues proposing additional funds and the associated people for planning when, the current consolidated guidance delineates a short, come-as-you-are, no warning time war. Under long term IPP [industrial preparedness such guidance, planning] has been lower priority than filling immediate shortfalls." No alternative program exists to bridge the gap between what the initial combat capability will be and what the war materiel needs will be should U.S. involvement become prolonged.
+No --- "D to P" Day planning
+
+Before July 1976, the services used the 'ID to P" concept plan their wartime stockage requirements. Under this concept, the services were to stock enough items to support combat 13
+
+to
+
+consumption from D-Day L/ to P-Day. 2/ The amount of items stocked depended on how long industry needed to mobilize and supply them. However, in July 1976, the IrD to P" concept was superseded with the current "D + 6" mobilization guidance. Under this guidance, the services are to stock enough items to meet the first 6 months of combat consumption and the industrial base is assumed to be able to take over supply at that time. if industry Also, can respond before the sixth month, then reserve item requirements are to be reduced accordingly. However, if industry cannot respond by the sixth month, industrial preparedness actions necessary to make such a response possible are to be identified for funding. Also, on the basis of economic trade-oEEs and other alternatives, these actions may be proposed to reduce producers' response times below the 6-month period, if possible. As mentioned above, the current elnphasis on initial combat capability has resulted in the abandonment of "D to P" planning. The Commanding General, U.S. Army Materiel Development and Readibefore the House Committee on Armed ness Command, testified Services on November 14, 1980, that I'* * * the continued lack of adequate resources for IPP [industrial preparedness planning] and the increasing emphasis on the 'Short War' scenario spelled the demise of 'D to P."' The illustration on the following page shows the "D to P" interface between war reserve stocks and industrial production capability and the importance of "D to P" planning to the continuity of war materiel support.
+
+---
+
+&/D-Day
+
+is the day on which military
+
+operations
+
+commence. for an
+
+Z/P-Day is the point in time when the rate item would equal combat consumption. 14
+
+of production
+
+"D TO P" CONCEPT
+
+FOR A TYPICAL
+
+AMMUNITION
+
+ITEM
+
+QUANTITY (thousands)
+
+CONSUMPTION
+
+RATE
+
+WAR RESERVE
+PRODUCTION RATE
+
+CKPILE IIREMENT
+/
+
+25
+
+I
+D-DAY
+D+l De2 D+3 D+4 D+!i D+6 D+7 D+6 D+9
+
+I
+D+lO
+
+!
+D+ll
+
+I
+D+12
+
+TIME (months)
+
+15
+
+Adverse
+
+budgetary
+
+forces
+
+and program
+
+guidance ---
+
+Current guidance emphasizing initial combat capability favors the buying of IIone more item" rather than subsidizing actions that would improve the responsiveness of the industrial base. In addition, current budgetary constraints and procurement regulations favor competitive contract awards based on least cost rather than negotiated contracts based on mobilization considerations. The driving force of budgetary constraints can be shown clearly in guidance regarding investment for the modernization and expansion of the industrial base for ammunition. Guidance for the fiscal year 1970 through 1973 program allowed investment to support total mobilization requirements. However, guidance for subsequent years directed that expenditures for expansion of From that point on, the base for new items would have priority. modernization efforts diminished and resources were allocated to expand the base for improved conventional munitions or to field new items. Sizing L/ of the base for new items was also restricted. Guidance contained in the Program Objectives Memorandum for fiscal years 1978 to 1982 allowed sizing of the base to meet total mobilization requirements. The following years' guidance (1979 to 1983) reduced the allowable size of new facilities to essentially that required to support a 180-day requirement. The following years' guidance (1980 to 1984) further reduced allowable sizing to a go-day requirement. This was reinterpreted by the Program Decision Memorandum to limit sizing of new facilities in support of new munitions to that which would support production for the Five-Year-Defense-Plan on a multiple shift basis with little or no surge capability. The evolution of this guidance is shown in the graph on the following page.
+
+--__--0___----
+
+L/Determining
+
+what the capacity
+
+of facilities 16
+
+should
+
+be.
+
+EVOLUTION SIZING
+
+OF AMMUNITION CRITERIA NEW MUNIGNS
+
+PRODUCTION
+
+BASE FOR
+
+FOR NEW FACILITIES
+
+Program Objectives Memorandum covering fiscal years 1978-82
+
+Program Objectives Memorandum covering fiscal years 1979-83
+
+Program Objectives Memorandum covering fiscal years 1980-84
+
+Program Decision Memorandum covering fiscal years 1980-84
+
+Facilities
+
+sized
+
+to support
+
+total
+
+mobilization
+
+Allowable sizing reduced to equivalent of 180.day authorized acquisition objective
+
+Further authorized
+
+reduction to go-day acquisition objective (plus NATO)
+
+Further reduction of facility sizing to that supporting the Five-Year-DefensePlan buv
+
+Although this guidance is designed for cost efficient sizing of production facilities to meet peacetime procurements, the ability of these facilities to meet the increased needs of emergency and mobilization situations may be impaired. What are the consequences? Although defense officials recognize the importance of planning and funding corrective actions identified to ensure a responsive industrial base for mobilization, current program guidance and budgetary constraints dictate that emphasis be placed on other programs that contribute more to initial combat capability. Personnel and funds are first allocated to these programs, and according to defense officials, there is simply not enough to go around. Inherent risks are involved in trading off mobilization conFailure to siderations in favor of initial combat capability. plan adequately with industry may assure that the United States Should combat consumption be greater can only fight a short war. than expected or should the war become prolonged, an unresponsive to capitulation industrial base might limit U.S. defense options Another risk is that the replenor the use of nuclear weapons. ishment of war reserve materiel and efforts to reconstitute U.S. Forces and the economy, once hostilities cease, could be impaired.
+
+18
+
+CHAPTER --- 3 DOD'S INDUSTRIAL PREPAREDNESS ~_-- -. --- .--PLANNING PROGRAM IS IN DISARRAY -- - - -- -_----------A The DOD Industrial Preparedness Planning Program is to ensure that the defense industrial base (commercial and Government-owned facilities and equipment) can mobilize quickly and produce adequate amounts of selected military items in a national emergency. elements of the program--item selection and However, two essential requirements determination-are done differently by each service Further, planning information and are often not done well. received from industry sources is inadequate. The program has been ineffective given to it as evidenced by limited and lack of management attention. because of the low priority funding, few assigned staff,
+
+Many of these program deficiencies have been identified in past studies by us, DOD, and others. In the past, DOD has proposed program improvements to the services. However, insufficient funding has hampered the implementation of these actions, and no significant program improvement has reskllted to date. DOD has again proposed a number of program changes to the services which it believes will improve industrial preparedness planning. TODAY'S- PLANNING PROGRAM_ - ----. The industrial preparedness planning process has not changed for many years. It is based on the voluntary, unfunded participation of defense contractors. Two major elements in this process are the selection of key defense items and the requirements determination. DOD furnishes the information on the DD-1519 (DOD Industrial Mobilization Production Planning Program) planning form to defense contractors report their capabilities to DOD to meet the mobilwho, in turn, izati:>n production requirements for the items noted. On the basis of the relative strengths and weaknesses pointed out by this data, investment decisions can be made regarding the need to: --Fund tion --Seek corrective capacity. additional .actions to improve production the contractors' sources. facilities and produc-
+
+commercial
+
+--Modernize equipment.
+
+or expand DOD-owned production
+
+19
+
+--Reduce war reserve materiel duction base capabilities,
+
+acquisitions etc.
+
+because of pro-
+
+Many shortcomings have been pointed out in this process. Program initiatives proposed by DOD during our last review, including paying contractors for planning, were not implemented or have had only limited application due to low program priority and funds. Consequently, many past criticisms of the program remain valid today. ITEM SELECTION PROCEDURES A 1972 DOD instruction provides the general policy and guidance the services are to use to annually select items for DOD limits service planning industrial preparedness planning. to approximately 2,000 items per service, including about 35 The instruction further states: major weapon systems each. "Industrial preparedness planning will be limited to military end items or components which are essential to operational effectiveness under combat conditions, or to the safety and survival of including training, personnel and meet one or more of the following criteria: 1. 2. 3. Require a long lead time. capacity to
+
+Require development of, or additional meet emergency production requirements.
+
+Require continuous surveillance to assure preservation or an adequate base to support emergency production requirements. Require critical equipment." skills or specialized production
+
+4.
+
+The instruction also states that items that are the responsibility
+
+the services should not plan for of other Government agencies.
+
+We found that the item selection process among the services differed. Some items selected for planning by one Army command did not meet the established criteria, the Navy's five subordinate commands used different item selection methods, and one ofAlso, fice excluded consumable items from the planning process. the Air Force stopped selecting spare parts for planning in fiscal year 1979 because the data gathered was not being used and no actions were being taken to correct the deficiencies identified.
+
+20
+
+Army Army subordinate commands are to select items for industrial preparedness planning based on an evaluation of items listed in the Army Materiel Plan, IJ in accordance with Army guidance. commands In fiscal year 1980, the Army's five subordinate Approximately 74 selected 2,364 items for industrial planning. percent of the items --1,008 ammunition and 736 weapons and fire control items --were selected by the U.S. Army Materiel Readiness Command. We randomly selected 45 of the 1,008 ammunition items the We found that 7 of the 45 ammuArmament Command had selected. did not meet the selection criteria nition items, or 15 percent, because: --Three developmental items, plus two other items, were actually the management responsibility of other commands. --One item listed also identified trol listing. --One item as an ammunition item was not, and it was for planning on the weapons and fire confor an unknown period of time.
+
+had been obsolete
+
+With the possible exception of the last item, these items had been selected for planning each year since at least 1977. Command officials said that these items would be removed from next year's list. We also randomly selected 20 of the 736 weapons and fire We questioned one item control items the command had selected. because initial operational capability testing had not been completed and operational effectiveness had not been established. An item is not eligible for planning unless it is essential to Also, this operational effectiveness under combat conditions. item was not being managed by the command at the time of our review. Armament Command officials said individual judgment and the latest item configuration management data are also considered in because of personnel conitem selection. They also said that, straints, items were selected primarily from the 1979 listing and not from an evaluation of the Army Materiel Plan. Navy Navy instructions provide guidance regarding item selection for industrial
+----
+
+to subordinate commands preparedness planning.
+
+L/List
+
+of Army-managed
+
+items
+
+having 21
+
+mobilization
+
+significance.
+
+Also, each year the Chief of Kaval Operations specifically identifies the aircraft which should be considered for planning. Our review showed that each of the five subordinate commands Further, interpreted the item selection guidance differently. with regard to one subordinate command reviewed, the item selection process differed between two of its major installations. For example, the Naval Supply Systems Command instructed the Aviation Supply Office and the Ships Parts Control Center to select items from the Mobilization Deficiency List l/ based on The Ships Parts control high dollar value and essentiality. but the Aviation Supply Office does Center follows this guidance, not. Aviation Supply Office officials said they had not used the They believe that this list is too deficiency list for 2 years. voluminous, contains extraneous information, and cannot be adeInstead, they quately analyzed in time with available staff. select their items from lists of systems to be supplied to aircraft manufacturers as Government-furnished equipment and from lists of reparable parts pertaining to specific aircraft designated for mobilization by the Chief of Naval Operations and theNaval Air System's Command. These reparable parts are selected based on high unit price and peacetime demand rates during the preceding planning period. Aviation Supply Office planners have excluded consumable even though they constitute about items from the planning process, According to 80 percent of all line items the office manages. Aviation Supply Office planners decided to exclude Navy officials, these items from planning because --the items did not normally planning selection criteria, meet industrial and preparedness
+
+--resources/staffing were limited higher cost reparable items.
+
+and were used to review
+
+Although we empathize with the need to apply limited program resources and staffing to those items most important to mobilization, we do not believe that relevant information was used in arriving at the exclusion decision. Aviation Supply Office planners said that they believed that consumables did not meet item selection criteria because these items were generally common in nature, were obtainable from numerdid not present production problems. ous sources, and "usually" However, we found that these judgments were based on peacetime supply/demand experience and not on mobilization needs projections. Peacetime supply/demand relationships could change drastically in
+
+I/List
+
+of parts
+
+having
+
+war reserve 22
+
+stockage
+
+deficiencies.
+
+Also, high dollar cost alone should not determine mobilization. whether an item is applicable for mobilization planning. Another command did not perform the item selection process Instead, the command because of resources and time constraints. copied and resubmitted the previous year's planning list, circumPlanners venting the item selection process for fiscal year 1980. at this command did not know what criterion was used to initially select these items or whether they still belonged on the planning list. Also, given the current level of resources for the program, there are no plans to screen the items against DOD or any other item selection criteria. Air Force selection guidance provides that items should be
+
+Air Force based on
+
+--first, the selected the active inventory date; --second, --third, current --fourth, shortfall.
+
+high priority weapon systems to be in as of the mobilization day planning of the items; the items under
+
+the combat essentiality the leadtime procurement the dollar
+
+necessary to obtain systems; and amount of the required
+
+procurement
+
+year 1979, the Air Force has not However, since fiscal selected spare parts for industrial planning because the data gathered was not being used and no actions were taken to correct the deficiencies noted. The Air Force is limiting item selection to aircraft currently in production and associated war consumable Updated mobilization production information on spare items. parts items does not exist. REQUIREMENTSDETERMINATION A July 1972 DOD directive states:
+
+"The foundation of the industrial preparedness program is the realistic determination of the total production requirements necessary to support the approved forces post-M-Day." L/ DOD has assigned item requirements the services the responsibility for industrial planning. for developing
+
+A/"M-Day"
+
+means mobilization
+
+day. 23
+
+Although item requirements are to form the basis for planning with industry, the requirements developed by the services are not a sound basis for industrial planning. Some Army requirements are outdated, and others fluctuate widely from year to year. Also, each Navy subordinate command computes requirements differently, frequently without the benefit of essential mobilization information, and Navy planners lack confidence in the accuracy of the requirements. Army Each year Army headquarters computes monthly mobilization production requirements for Army-managed items. These requirements form the basis for the subordinate commands' industrial preparedness planning. The requirements represent the quantity of the items that the Army believes must be produced to meet combat consumption beginning with the sixth month of a war. Inaccuracies and fluctuations have persisted in the item requirements data since 1978. These problems have adversely affected planning efforts with defense contractors. Two examples of requirements fluctuations are shown below: Item Machine gun, 7.62 mm., M60 Howitzer, self propelled, 8", MllOAl Monthly mobilization rate FY 1979 FY 1980 FY 1981 4,332 31 3,561 97 9 72
+
+Army officials are attempting to resolve such problems as requirements fluctuations. In the meantime, the Army has authorized its commands to use fiscal year 1977 requirements for ammunition items and fiscal year 1979 requirements in planning weapons and fire control items for fiscal years 1980 and 1981. Navy In November sponsibility for trial preparedness However, despite Naval Operations 1972 the Secretary of the Navy assigned rethe development of item requirements for indusplanning to the Chief of Naval Operations. requests from systems commands, the Chief of has not developed these requirements.
+
+Since item requirements have not been developed, Navy subordinate commands are using various methods to determine item requirements. Commands are developing these requirements without a knowledge of mobilization scenarios, force mix, and other essential information. In some cases, commands are simply estimating the maximum production capability of defense contractors. For 18 and 26 sample items at the Navy's Aviation Supply Office and the Ships Parts Control Center, respectively, we found that program planners used peacetime demand rates, rather than projected mobilization requirements, to develop requirements. 24
+
+Other sections within these two organizations had established mobilization requirements for our sample items, but the industrial preparedness planners either did not know that the requirements existed or did not know how to obtain them. Comparisons made at the Aviation Supply Office between mobilization and industrial preparedness planning requirements for the same items showed that industrial preparedness requirements were For example, substantially higher for the same planning period. industrial preparedness planners established a requirement for require441 damper assemblies for 3 months, while mobilization In another case, mobiliments were only 9 for the same period. zation requirements for a gyroscope totaled 40 units for 3 months, while industrial preparedness requirements totaled 246. Air Force
+
+On the basis of information provided by Air Force headquarters, the Air Force Logistics Command annually computes and provides the monthly mobilization production requirements for Air Force-managed items, other than aircraft, to its air logistics centers. These requirements are based on projected wartime flying hours, aircraft missions (sorties), materiel expenditures per mission, and peacetime demand rates. According to Air Force officials, peacetime demand rates are used in some item computations because wartime demand data does not exist and models to compute wartime demand rates are still being developed. All assets projected as available from existing stocks, repairs, and scheduled orders are subtracted from the total monthly production requirements to arrive at the net monthly production requirements supplied to defense contractors for planning purposes. In the case of war consumables, the higher of projected item usage rates for the Pacific or European theater are used as the sustained production requirement after the first 6 months of conflict. The Air Force computes its industrial preparedness planning requirements for aircraft by using prime contractors' estimates of the maximum post mobilization production rates attainable from existing facilities, rather than mobilization requirement computations. It then adjusts these estimates to reflect production limitations of the producers for major components, such as engines, when they cannot attain the same production rates as the airframe producers. The Air Force asked to deviate from the standard industrial preparedness planning policy in order to simplify planning for aircraft production. 1 On March 24, 1974, the Acting Deputy Assistant Secretary of Defense granted the services permission to plan for aircraft in this manner. Although this procedure may simplify planning for aircraft production, it may not result in requirements which reflect what the true wartime demand for aircraft production will be. 25
+
+As mentioned previously, the industrial preparedness planning the .bulk of its program, because being used. Its current planning aircraft now in production (A-10, associated war consumable items, bomb racks, and pylons. INDUSTRY PLANNING DATA
+
+Air Force discontinued allfor spare parts, which comprised the information gathered was not program is limited to three F-15, and F-16) and about 130 such as munitions, fuel tanks,
+
+In a May 1977 report, 1/ we said that DOD's planning with individual contractors was inadequate and was based on unrealistic assumptions. In this review, we found that this situation had not changed. Contractors generally projected their capacity to meet wartime requirements based on inadequate analyses. Prime contractors often obtained no input from key subcontractors and generally assumed the ability to meet increased supply demands. For example, in 16 of 51 planning documents reviewed at the Navy Aviation Supply Office and the Ships Parts Control Center, the contractors indicated that planning with subcontractors had not been done. The cost and effort required were cited by the contractors as the reasons in seven cases; no explanations were given in the other nine instances. Contractors also generally assume that essential elements, such as Government-owned production equipment, raw materials, and would be available. However, this is not always a skilled labor, realistic assumption. For instance, almost all planned Army ammunition items are uniformly shown to start mobilization production in the fifth month after mobilization day. 'However, the S-month start time depends on the availability of components not currently planned and Government-furnished plant equipment packages, some of which will require transportation, installation, and the removal of heavy preservatives. Government-furnished plant equipment packages have also been the subject of several past reports which disclosed that these packages were'often incomplete and in poor repair and contained obsolete machinery. Besides the lack of funds to pay contractors for indepth planning, contractors may have been discouraged from conducting detailed analyses because little, if any, action is taken by the services to correct forecasted problems.
+
+L/"Restructuring Planning with Requirements"
+
+Needed of Department of DeEense Program for Private Industry for Mobilization Production (PSAD-77-108, May 13, 1977). 26
+
+LOW PROGRAM PRIORITY DOD's Industrial Preparedness Planning Program has been ineffective because of the low priority it has received. Although defense officials recognize the importance of a responsive induscurrent guidance emphasizes other trial base for mobilization, programs that are thought to contribute more to initial combat capability. The low priority given to the program is evidenced by the program fundiny, numbers of people, and management attention given to it. Limited program funds
+
+One of the most visible indicators of program priority is Generally, the services have not received the funds provided. the funds needed to adequately plan for their items and thereby satisfy program objectives. Further, program funding varies significantly among the services. In fiscal year 1980, the Army budget included about $19 million for gathering industrial preparedness planning informaOf that total, the Army Armament Materiel Readiness Comtion. mand asked for $14.5 million to finance the planning for over Armament Command items accounted for about 74 1,700 items. percent of the total Army program. However, the command only received $9 million, less than half of the total Army budget for the industrial preparedness planning function. Because of its low priority in relation to other Navy programs, the industrial preparedness planning line item in the Consequently, Navy's budget has been unfunded for several years. funds are not earmarked for the implementation of identified production enhancement actions, personnel training, or the planning function itself. Amounts spent on the program represent a percentage of the salaries of full-time or part-time personnel assigned to the program by each headquarters organization and systems command. During fiscal year 1980, the Navy spent about $400,000 planning for 1,504 items. The Air Force fiscal year 1980 budget included about $1.9 However, in April million for industrial preparedness planning. 1979 the Air Force discontinued planning for spares, which formed the majority of its planning program, because the data gathered was not being used and no corrective actions were being taken when deficiencies were identified. Air Force officials believe that the production informa.tion gathered cannot be acted on because of the low funding priority for the program. Currently, the Air Force is only planning for aircraft in production and war consumable items, such as munitions, fuel tanks, bomb racks, and pylons. Over the years, limited funds have adversely affected the planning program. For instance, we were told that personal contacts and visits to contractors have not taken place. However, 27
+
+the more demonstrable impact results from the inability to fund actions identified to enhance producer responsiveness and/or manufacturing capability, which include filling plant equipment package voids and other equipment shortages. For example, the Army's consolidated Production Base Plan for fiscal year 1980 shows that mobilization rates could not be attained for 52 percent of the 208 end items identified until 17 or more months after mobilization day. Only about 24 percent could achieve mobilization production rates by the sixth month. Nineteen of 51 planning schedules reviewed at the Navy's Aviation Supply Office and the Navy's Ships Parts Control Center showed that enhancement actions were required to shorten post MDay production leadtimes, or to increase production/repair capability for planned items. These proposals were not evaluated or Some Navy planners said conreported to higher headquarters. tractors were discouraged from identifying enhancement actions because service personnel were not available to verify the need for them and funds were not available to finance them. There is evidence that this also takes place in the Army program. For instance, in a recent audit of the Armament Comthe U.S. Army Audit Agency 1,' found that wording mand's program, had been added to planning documents that was discouraging contractors from identifying measures to improve production. Lack of staff resources are not enough items and to
+
+Service officials generally believe that there people assigned to the program to adequately screen plan with industry.
+
+Army Armament Materiel Readiness Command officials are concerned that only a small percentage of their items have been adequately considered for mobilization planning because of personnel constraints. The Navy planning program is mainly a part-time effort that is performed to the extent that higher priority workload allows. the planning with industry for many items is not As a result,, done, and the planning that does occur is limited in quality and scope. The Navy systems command have had to compromise the quality of their planning efforts to work within the minimal staffing limitations prevent service allocated to the program. . Staffing For personnel from planning all items identified as requiring it. planners, each availinstance, in fiscal year 1980, two part-time 326 items from able 30 percent of the time, screened and selected the 286,361 items managed by the Navy's Aviation Supply Office.
+
+-l/U.S.
+
+Army Audit
+
+Agency Report
+
+MW 80-203, 28
+
+March 17, 1980.
+
+To do this, we were told, the universe from which items were selected was limited and all consumable items were excluded from consideration. Inadequate management attention
+
+Other than the general cyclical processing of various planning forms, DOD and service management have not set intermediate The planning process repeats goals or milestones for the program. itself each year without a sense of direction or demonstrable progress toward any well defined goal. The Army is the only service that has established a centralized reporting system for its planning program that documents the condition of its industrial base for higher headquarters use. Within the other services, information remains mainly fragmented and unused at the lower planning organizations. Lack of management attention is particularly pronounced in the Navy. Except for general guidance provided in instructions, headquarters personnel have done little to become actively engaged For instance, Chief of Naval Operations in the planning effort. officials have not provided mobilization requirements for the Similarly, Chief of program despite systems commands' requests. Naval Material officials have done little to assist in program formulation or coordination. The Chief of Naval Material function, with respect to industrial preparedness planning, has degenerated into a rote compilation and "rubber stamp" approval pro.cess. We were told that a headquarters level review was not made of items annually selected by the systems commands for planning and that Chief of Naval Material officials did not evaluate the various screening and selection criteria employed. As a result, a uniform, credible planning effort does not now exist. The lack of management emphasis and attention to data provided by contractors could result in lost opportunities for reducing war reserve stockage requirements. For example, our review of 18 items at the Navy's Aviation Supply Office showed that for 7 of the items contractors could make partial delivery from new production during the first month after mobilization began. The full monthly requirement could be satisfied for four of the seven items during this same period. Similar conditions existed among 17 of the 26 items we reviewed at the Navy's Ships Parts Control Center. Portions of this reported production capability overlap with the. war reserve stockage requirements established for these items. Since items that can be supplied in time from industry do not have to be prestocked, war reserve stockage requirements for these items could be reduced. However, this information has not been used and, in some cases, materiel is being stockpiled.
+
+29
+
+Navy officials said that while it is true that some items that meet this criteria are being stockpiled, they are obtained through the recategorization of peacetime assets in long supply to the war reserve program, not through procurement of war reserve stocks. These officials also said that the alternative to this practice would be to dispose of materiel already on hand in favor of much less certain industrial preparedness planning agreements. We recognize that inaccuracies could exist in the data provided by contractors and that its reliability should be verified prior to use. However, the realistic determination of war reserve stockage levels requires that mobilization production capability be considered. This "D to P" interface is also prescribed in DOD guidance. Failure to interface production information with the war reserve program can result in the overstatement of war reserve requirements. Whether actual stockage to meet these requirements comes from war reserve procurement or from the recategorization Howof peacetime long supply assets is irrelevant to this point. ever, the potential for unnecessary war reserve procurement would exist. The Army and the Air Force may also reserve requirements because --the Army has deemphasized of the short war concept; be overstating with their war
+
+IrD to P" planning and
+
+the advent for not
+
+--the Air Force no longer plans mobilization production would therefore spare parts, and "D to P" information be available on these items. DEFENSESTUDIES AND INITIATIVES
+
+Since our last review in 1976, DOD has conducted several mobilization studies that have encompassed industrial preparedness issues. Two of these studies, commonly referred to as the "Surge" studies, highlighted a number of industrial and "Sustainability" preparedness, planning concerns. These studies are reflected in the planning initiatives DOD is proposing to improve industrial base responsiveness. Surqe capability study
+
+The recently completed Surge study identified planning actions that could be taken to compress and accelerate ongoing peacetime production of military items, should an emergency situation arise. As envisioned by DOD, surye planning actions would be geared toward maximizing the production obtainable from existing plant and equipment and would be limited to a select Most surge actions would require number of key weapon systems. contractual arrangements with the producer and additional expense. Examples of some surge actions would include 30
+
+--allocating and storing, in advance, material, supplies, and personnel to enable contractors to transition from a single shift to a multiple shift workday; --acquiring tooling; --buying and prepositioning and stockpiling for long limiting leadtime equipment items; and and
+
+--paying contractors line item.
+
+detailed
+
+planning
+
+as a contract
+
+Surge capability is designed primarily to enhance industrial responsiveness in a short-intense war and/or to preclude serious depletion of war reserve stocks in a limited emergency.' A limited emergency could include active involvement of U.S. Forces, such as in Vietnam, or may only involve providing increased materiel support to allied or friendly nations, such as in the 1973 ArabIsraeli War. Surge capability could also hasten the replacement of war reserve stocks if depletion were required. Surge actions are designed to increase short-term support. However, as implemented by the services, emphasis is on expediting the completion of items already in process rather than sustaining production. Unless steps are also taken to ensure the continued supply of the raw materials and intermediate component parts necessary to continue production support after a surge, initiation of surge actions could "drain the production line dry." Sustainability
+our
+
+study
+
+The Sustainability study, which was ongoing at the time of review, is directed toward identifying optimal investment strategies and trade-offs among the industrial base, war reserve stockage, and other defense programs, which will provide the logistic continuity required to support U.S. Forces in a prolonged conventional conflict. This type of planning is geared more toward the type of investment necessary to support total mobilization requirements. Examples of such investment options would include --constructing --preserving --instituting DOD initiatives additional and storing training manufacturing equipment, programs for and critical skills. facilities,
+
+DOD has recently proposed a number of program changes to the services which it believes will improve industrial preparedness planning. One of the more significant changes involves the integration of planning responsibilities for current systems into the system/project management and procurement functions of the 31
+
+services. envisioned, officers to development
+
+If
+
+this chanye is implemented by the services as it will require project managers and procurement consider industrial preparedness during system and procurement.
+
+DOD has also recognized a need for yreater visibility over it intends to service branch planning operations. As a result, require the services to submit production base plans and conduct briefings each year regarding the status of the planned industrial base. These briefings are to include consolidated information from all major commands about proposed measures to enhance the base and their associated costs. As envisioned, DOD will use this information in making budget determinations for the planning proyram. Current DOD guidance limits service branch planning to including about 35 weapon approximately 2,000 items a service, The number of individual items planned is to be systems each. reduced in favor of more indepth analyses of fewer, more select Also, the items (DOD projects a reduction of 30 to 50 percent). items are to be selected on a total system/end item basis, rather than on a "piecemeal" basis, as they are now. Also, indepth planning for critical systems, equipment, and components is to be funded as a separate line item in procurement This is known as the Data Item Description System contracts. clause. Voluntary planning is to be replaced where possible with this system and/or funded sector studies, especially in the secondary item area. DOD has also required the services to include surge capabilThis requirement was included in the Defense ity in their planning. Programming and Planning Guidance and in the Planning and ProIn addition, gramming Guidance Memorandum for fiscal year 1982. DOD is rewritiny Directive 4005.1, Instruction 4005.3, and Manual This guidance 4005.3-M to include the various program changes. will recommend various planning methods for different circumstances and will allow the services to select their methods on an item-byitem basis.
+
+DOD has recently emphasized the adoption of surge planning As stated earlier, actions in industrial preparedness planning. these actions characteristically require some increased program cost (see pp. 30 and 31). Similar actions were proposed to the services during our last review. However, low priority, funds, and management attention afforded industrial preparedness planning impaired their implementation. CONCLUSIONS The ineffectiveness of DOD's Industrial Preparedness Planniny DOD Program can be attributed to the low priority given to it. priorities yive the program limited funds, people, and management attention. 32
+
+Two essential elements of DOD's industrial preparedness program --item selection and requirements determination--are not Moreover, the being performed consistently by the services. information received from industrial sources is inadequate and unreliable because production projections generally are not based on adequate analyses. Lack of management emphasis and attention to data by contractors could possibly lessen opportunities for war reserve stockage requirements. provided reducing
+
+DOD has proposed a number of surge planning initiatives to the services. nowever, unless steps are also taken to ensure the continued supply of raw materials and intermediate component parts necessary for continued production after "surge" is initiated, production lines could be "drained dry." DOD's Industrial Preparedness Planning Program has been Although many studied repeatedly over the past several years. recommendations have been made to correct the deficiencies identified, little action has resulted. The program initiatives currently being proposed are similar to those proposed during our last review 4 years ago. However, the implementation of these proposals at that time was impaired by the low priority, funds, and management attention given the program. The successful implementation of many of these initiatives depends on increased priority, funds, and management commitment.
+
+33
+
+CHAPTER 4 INDUSTRIAL PREPAREDNESS PLANNING-WHAT IS NEEDED? DOD's Industrial mented to ensure that quickly responding to However, many studies been able to ensure a Preparedness Planning Program was implekey defense industries remain capable of potential wartime needs for military items. have shown that the present program has not responsive industrial base. program a low priority and has the current threat, limited an unresponsive base, a national industrial base expectations.
+
+DOD has continually given the provided limited funds. In view of options, and risks associated with policy is needed to clearly define WHAT DOES THE UNITED STATES EXPECT FROM THE INDUSTRIAL BASE? Chiefs In the fiscal year of Staff state: 1981 Military
+
+Posture
+
+Statement,
+
+the Joint
+
+"Planning for US conventional forces must consider the likelihood that hostilities may begin unexpectedly and last for an extended period of time. Forces must be well equipped for the duration of combat operations. Initial combat readiness is impaired by some materiel shortfalls, but from a logistics standpoint, sustainability for extended combat is an equally pressing concern, since success in a long war is dependent upon timely Logavailability of replacement resources. istics sustainability is achieved with sufficient war reserve materiel (WRM), a responsive industrial production base, and an efficient wholesale logistic support system." If the goal of conventional war as the Joint Chiefs of base must be assured. long, or whether the industrial base will and the economy after the United States is to be able long as any potential enemy, as an adequate and responsive Staff, Also, whether the conflict is base contributes during active still.be required to reconstitute the war. to wage a suggested by industrial short or combat, the U.S. Forces
+
+DOD's Industrial Preparedness Planning Program has not ensured that the industrial base will be able to furnish materiel huge gaps exist In fact, when war reserve stocks are depleted. between when some stocks could be exhausted and when production Thus, the sustainability of U.S. Forces is very will equal needs. uncertain.
+
+34
+
+The fact that the industrial base cannot respond as required However, little corrective action has has been known for years. occurred oecause DOD has emphasized the operational needs of active forces and initial combat capability. Operational needs and initial combat capability are important; however, the consequences of not being able to sustain U.S. Essentially, the United Forces in conventional combat are severe. States risks being faced with two options, surrender or escalation to nuclear war. Faced with limited and apparently undesirable options, the United States must decide if it is willing to accept this risk. We believe that a national policy is needed to clearly define industrial base expectations because of the current threat, limited options, and risks associated with an unresponsive industrial base. If the policy reinforces the goal of a responsive base and being able to sustain conventional war as long as any potential adversary, a companion question that also must be addressed at the same time is, "How much is the United States willing to invest in this sustainability?" In addressing the sustainability issue, it is imperative that "D to P" planning be an essential component, since one of the major inadequacies of industrial preparedness planniny today is that the link between reserve stocks and production response is missing. The American.Defense Preparedness Association voiced its concern over the absence of a national policy statement about of the the sustainability of U.S. Forces and the responsiveness U.S. industrial base. Its recent report stated: "The recent Conyressional authorization for the administration to register young men appears to indicate that a turning point has been reached in the national attitude towards our defense posture. While the American Defense Preparedness Association applauds this manpower initiative, we remain concerned that a companion national policy statement and related actions have not been initiated to improve not only the materiel readiness and sustainability of our Armed Forces but also the readiness of the industrial production base. Until recognition is given to these very important ingredients of our National Security the readiness of our Armed Forces remains in doubt." Because of concerns regarding the adequacy of the defense industrial base, hearings were recently conducted by the Defense Industrial Base Panel of the House Committee on Armed Services,
+
+35
+
+96th Congress. Panel Chairman Richard H. Ichord, in his transmittal letter for the December 29, 1980, report, stated: "The panel finds that there has been a serious decline in the nation's defense industrial capability that places our national security in jeopardy. An alarming erosion of crucial industrial elements, coupled with a mushrooming dependence on foreign sources for critical materials, is endangering our defense posture at its very foundation." CONCLUSIONS ---DOD's Industrial Preparedness Planning Program has not A major assured its objective of a responsive industrial base. reason is that defense guidance emphasizes other programs thought to do more to enhance initial combat capability. DOD has continually given the program a low priority and has provided limited funds. However, in view of the current threat, limited options, and risks associated with an unresponsive base, a national policy is needed to define industrial base expectations. If this policy reinforces the goal of a responsive industrial base to sustain U.S. Forces throughout the spectrum of conventional conflict, a decision of how much the United States is willing to invest to assure sustainability must also be made. This information would assist DOD in restructuring and focusing its planning efforts, considering the role identified for the defense industrial base and the resources available to accomplish this role. RECOMMENDATIONS ----e-e--We recommend that the Congress, in coordination with the executive branch, establish a clearly defined and comprehensive national policy regarding industrial preparedness. Hearings should be held to develop this policy. This policy should encompass both the preparedness expectations for the industrial base, as well as what the United States is willing to invest to achieve it. the Secretary of Defense Once this national policy is established, should develop a program to complement it. To increase the effectiveness of planning efforts interim, we recommend that the Secretary of Defense: in the base play
+
+--Clearly define the circumstances that the industrial is expected to be responsive to and the role it will in each. --Clearly define the priority and funding availability industrial preparedness planning will have in relation other DOD and service programs. 36
+
+to
+
+--Assure that service industrial preparedness planning efforts are interfaced with other related defense programs to assure continuity of support over the planned period. --Assure that service planning efforts are scaled to what can realistically be accomplished within assigned priority and available funds considering either --substantially planned or limiting the number of individual items
+
+--limiting indepth planning to a few vital using studies of key industrial sectors potential mobilization problems. AGENCY COMMENTS
+
+items while to identify
+
+On February 24, 1981, DOD provided oral comments on this report. DOD generally agreed with our findings, conclusions, and recommendations. DOD agreed that the Industrial Preparedness Planning Program has received a low priority and, as a result, is ineffective. DOD also said that it is working to improve the program and related resource allocations and that recently --the program Acquisition had been included in the Defense System Review Council process and and item program managers had been for carrying out the program.
+
+--systems, equipment, given responsibility
+
+We did not verify the extent to tihich the services had implemented these recent changes or evaluate the potential effect of these changes on the program. DOD agreed that a national policy about industrial preparedness is needed and said that the lack of a national policy must be addressed by the Congress and the National Security Council. DOD also said that the program requires support at high levels within DOD if it is to become a fully supportable and viable program. DOD said that maintaining the capacity of the industrial base to respond to military contingencies is a major element U.S. strength and deterrence. On April 3, 1981, DOD provided written generally confirm the earlier oral positions. comments are included as appendix I. comments which These written of
+
+37
+
+APPENDIX
+
+I
+
+APPENDIX
+
+I
+
+THE
+
+UNDER
+
+SECRETARY
+
+OF
+
+DEFENSE
+
+WASHINGTON.
+
+D.C.
+
+20301
+
+RESEARCH ENGINEERING
+
+AND
+
+3 APR i9at
+
+Mr. Donald J. Horan Director, Procurement, Logistics and Readiness Division General Accounting Office Washington, D.C. 20548 Dear Mr. Horan: This is in reply to your letter dated February 9 to the Secretary of "Defense Industrial Preparedness Defense regarding your draft report, Planning Program is Ineffective and in Need of Direction and Focus" (GAO Code 947408) (OSD Case 85633). Enclosed are the Department of Defense comments on the report. and wish to Preparedness
+
+We appreciate the opportunity to comment on this report assure you that we are working to improve the Industrial Program and related resource allocations. Sincerely,
+
+Acting Enclosure As stated
+
+\
+
+GAO
+
+note:
+
+Page numbers in this
+
+appendix
+
+refer
+
+to draft
+
+report.
+
+38
+
+APPENDIX I
+
+APPENDIX I
+
+DEPARTMENT OF DEFENSE Comments to GAO Draft Report Defense's Industrial Preparedness Planning Program is Ineffective and in Need of Direction and Focus GAO Code 947408 1. General a. low priority b. addressed IPP Program become a fully c. comments agreed upon by all DOD activities. (IPP) Program has been given
+a
+
+The Industrial
+
+Preparedness
+
+Planning
+
+and as a result Lack of a national by the Congress needs
+
+is ineffective. policy regarding industrial Security levels readiness Council. within DOD if Also, it must be the is to
+
+and the National at high
+
+to be supported
+
+supportable
+
+and viable
+
+program. in the Defense the system; for carrying System Acquisition and item
+
+The program
+
+has recently
+
+been included In addition, responsibility of the industrial of our national
+
+Review Council's program d. managers Maintaining
+
+(DSARC) process. have been given the capacity element
+
+equipment
+
+out the IPP program. to military
+
+base to respond strength
+
+contingencies 2. Specific a. Supply 2 years,
+
+is a major
+
+and deterrence.
+
+comments by the Navy. on page 28, fifth said they that they paragraph, third sentence a deficiency The deficiency which listing deficiency should aircraft" aircraft is run twice is available items -"Aviation listing listing a year to AS0 for
+
+GAO statement Office officials
+
+have not received not use it." process,
+
+and even if
+
+had they would stratification
+
+is one of the outputs at ASO, i.e., officials b. repairable repairable NAVAIR for April
+
+of the
+
+and September. have been directed
+
+The deficiency to consider line,
+
+and they
+
+in IPP.
+
+GAO statement parts parts listings listings
+
+on page 29, second pertaining pertaining
+
+,be changed from "and from
+to read designated "and from
+
+to specific to specific
+
+by OPNAV/
+
+mobilization.W
+
+39
+
+APPENDIX I
+
+APPENDiX"I
+
+C.
+
+GAO statement from line the planning items
+
+on page 29 - "Planners process even though It
+
+at AS0 have excluded they constitute that about
+
+consumable 80 percent have
+
+items of all
+
+managed by them." items from planning criteria
+
+should due to:
+
+be noted (a)
+
+AS0 planners items do not
+
+excluded normally staffing d.
+
+consumable
+
+these limited cost
+
+meet the IPP selection available
+
+and (b) the to review sentence, these items This higher third
+
+resources/ repairable -items. "However, and in While the of to of
+
+have been utilized on page 38, last requirements is being for
+
+GAO statement stockage
+
+paragraph
+
+war reserve
+
+have not been reduced statement is misleading. stockpiled,
+
+some cases material it is true that
+
+stockpiled." which
+
+some items stockpiling supply would
+
+meet IPP criteria
+
+are being
+
+source peacetime this
+
+of this long
+
+is not procurement the war reserve
+
+but rather program. already
+
+recategorization The alternative on hand in favor
+
+assets.to be to dispose
+
+practice
+
+of the material
+
+much less 3. Specific a.
+
+certain
+
+IPP agreements.
+
+comments by the Army. emphasis for report on initial combat capability in a U.S. all capability current that has`resulted only in a short war.
+
+Current
+
+a low priority b. which Draft
+
+IPP may result
+
+to fight actions exercise
+
+does not address during
+
+and deficiencies (Proud Report Spirit on "The 80)
+
+were surfaced
+
+the 1980 JCS mobilization
+
+and by the December Ailing Defense
+
+31, 1980 House Armed Services Base."
+
+Committee
+
+Industrial
+
+40
+
+APPENDIX II
+
+APPENDIX II
+
+LISTING OF SUBORDINATECOMMANDS AND INSTALLATIONS VISITED OR INCLUDED IN THIS REVIEW Army Armament Materiel Rock Island, Illinois Readiness Command,
+
+Army Communications and Electronics Materiel Readiness Command, Fort Mammouth, New Jersey Army Industrial Base Engineering Rock Island, Illinois Naval Air Systems Command, Washington Navy Yard, Washington, Naval Aviation Philadelphia, Supply Office, Pennsylvania Office, Activity,
+
+D.C.
+
+Naval Civil Engineer Support Port Hueneme, California
+
+Naval Electronics Systems Command, Crystal City, Virginia Naval Facilities Engineering Crystal City, Virginia Naval Sea System's Command, Crystal City, Virginia Navy Ships Parts Control Center, Mechanicsburg, Pennsylvania Naval Supply Systems Command, Crystal City, Virginia Air Force Logistics Command, Wright Patterson Air Force Base, Dayton, Ohio Air Force Systems Command, Andrews Air Force Base, ' Camp Sprinys, Maryland Air Force Systems Command, Aeronautical Systems Division, Wright Patterson Air Force Base, Dayton, Ohio Command,
+
+41
+
+APPENDIX II
+
+APPEND'Iti II
+
+LISTING OF SUBORDINATECOMMANDS AND INSTALLATIONS VISITED OR INCLUDED IN THIS REVIEW Oak City Air Logistics Tinker Air Force Base, Oak City, Oklahoma Center,
+
+Ogden Air Logistics Center, Hill Air Force Base, Ogden, Utah Sacramento Air Logistics Center, McCellan Air Force Base, Sacramento, California San Antonio Air Logistics Kelly Air Force Base, San Antonio, Texas Center,
+
+Warner Robins Air Logistics Center, Warner Robins Air Force Base, Warner Robins, Georgia
+
+42
+
+-$ ;5: 5 E H n H
+
+LISTING
+
+OF SELECTED PAST REPORTS PREPAREDNESS Organization General General Accounting Accounting Office Office
+
+RELATED TO INDUSTRIAL Date February November 24, 24, 1981 1980 Number EMD-81-49 C-EMD-81-l Status Reserve Actions Viability Critical (Secret) Title
+
+of Strategic Petroleum Activities-February 1981 Needed to Improve the of the Strategic and Materials Stockpile
+
+August
+
+1980
+
+Defense Readiness - Force Sustainability and Industrial Preparedness "Why We Are Concerned" Mw 80-203 ' Audit of Industrial Preparedness Program, U.S. Army Armament Materiel Readiness Command, Rock Illinois Island, The Navy Does Not Know if It Has Too Much Electronic/Electrical Depot Maintenance Capability, Too Little, or the Right Kind Rex 78 Final (Confidential) Critique
+
+American Defense Preparedness Association U.S. Army Audit Agency
+
+March
+
+17,
+
+1980
+
+November
+
+2,
+
+1979
+
+LCD-80-3
+
+General
+
+Accounting
+
+Office
+
+July
+
+1979
+
+.General Services Administration, Federal Preparedness Agency Department of the Army
+
+April
+
+25,
+
+1979
+
+DAMO-OD-MOBEX 78
+
+Nifty Mobex Report
+
+Nugget/ 78 Analysis (Confidential)
+
+% z 5 E l-l l-l H
+
+LISTING
+
+OF SELECTED PAST REPORTS PREPAREDNESS Organization General Accounting Office
+
+RELATED TO INDUSTRIAL Date December 17, 1978 Number LCD-78-422A Title
+
+Army's Requirements for War Reserve Materiel Can Be Reduced Without Impairing Combat Effectiveness Naval Shipyards --Better Definition of Mobilization Requirements and Improved Peacetime Operations Are Needed Air Force Maintenance Depots-the Need for More Responsiveness To Mobilization As Well As Peacetime Efficiency Restructuring Needed of Department Of Defense Program for Planning with Private Industry for Mobilization Production Requirements Better Management of Spare Equipment Will Improve Maintenance Productivity and Save the Army Millions Military Clothing and Textiles Required for War Reserves Can Be Reduced Report of the Defense Science Board Task Force on Industrial Preparedness Plans and Programs (SECRET)
+
+March
+
+31,
+
+1978
+
+LCD-77-450
+
+General
+
+Accounting
+
+Office
+
+November
+lb bP
+
+23,
+
+1977
+
+LCD-78-403
+
+General
+
+Accounting
+
+Office
+
+May 13,
+
+1977
+
+PSAD-77-108
+
+General
+
+Accounting
+
+Office
+
+April
+
+5,
+
+1977
+
+LCD-76-442
+
+General
+
+Accounting
+
+Office
+
+January
+
+24,
+
+1977
+
+LCD-77-411
+
+General
+
+Accounting
+
+Office
+
+November
+
+15,
+
+1976
+
+77-610
+
+Defense
+
+Science
+
+Board
+
+H t-3 H
+
+LISTING
+
+OF SELECTED PAST REPORTS PREPAREDNESS Organization of Equipment General Accounting Office
+
+RELATED TO INDUSTRIAL Date October 5, 1976 Number LCD-76-407 Title
+
+Management of Department Defense Industrial Plant Can Be Improved
+
+March
+
+5, 1976
+
+LCD-76-405
+
+Defense Supply Agency Could Reduce War Reserve Requirements for Medical Items Navy Aircraft Could Be More Overhaul Productive Depots
+
+General
+
+Accounting
+
+Office
+
+December August IP lJl June Zb, 18,
+
+23,
+
+1975
+
+LCD-75-432
+
+General Department cleneral
+
+Accounting of the
+
+Office Army ottice .
+
+1975 LCD-75-415
+
+Review of Army Mobilization Planning, Volume I of III (Summary) Use of Numerically Controlled Equipment Can Increase PrOdUCtiVity in Defense Plants Government Support building Industrial of the Base Ship-
+
+1975
+
+Accounting
+
+February hovember
+
+12, 6,
+
+1975 1974
+
+PSAD-75-44 ACDA/MEA-246
+
+General
+
+Accounting
+
+Otrice And Lis-
+
+Industrial Preparedness in An Arms Control Environment; A Study of the Potential Impact of Sharp Increases in Military Procurement, Volume I, Summary Report The Department of Defense Industrial Mobilization Production Planning Program in the United States
+
+U.S. Army Control armament Agency
+
+duly
+
+1972
+
+AD-768108
+
+U.S. Army hateriel Yexarkana, Texas
+
+Commana
+
+LISTING
+
+OF SELECTED PAST - REPORTS -.-----PREPAREDNESS Organizatioq
+
+RELATED TO INDUSTRIAL Date Number ~Title
+
+July
+
+1972
+
+AD-775071
+
+Trading Off Air Munition Stockpiles and Industrial Mobilization Production Capability: Discussion, Conclusions, and Computer Program Instructions Logistic Era Support in the Vietnam
+
+Rand Corporation
+
+December g April 7,
+
+19, 1970
+
+1970
+
+AD-877978 B-140389
+
+Joint General
+
+Logistics Accounting
+
+Review Office
+
+Board
+
+Management of Government Industrial Plan Equipment Kept for Possible Future Use Should Be Improved
+
+APPENDIX IV
+
+APPENDIX IV
+
+LISTING OF SELECTED RECENT TESTIMONY REGARDING ---.INDUSTRIAL PREPAREDNESS THE --------em m--e.-__-- GIVEN BEFORE DEFENSE INDUSTRIAL BASE --- -.- PANEL OF THE HOUSE COMMITTEE ON ARMED ---__ SERVICES, - - - *- ---96th CONGRESS, -e--ee----_d-__- -_--SECONDSESSION Date --Nov. 12, 1980 Witness Statement of General Henry A. Miley, retired, President of the Jr., American Defense Preparedness Association. Statement of General Alton D. Slay, Commander, Air Force Systems Command. Statement Jr., U.S. Material. of Admiral Navy Chief A. J. Whittle, of Naval
+
+Nov. 13, 1980 Nov. 13, 1980
+
+Nov. 14, 1980
+
+Statement of General R. Guthrie, Commanding General, U.S. Army Materiel Development And Readiness Command. Statement of Walton H. Sheley, Jr., Acting Director, Procurement And Systems Acquisition Division, General Accounting Office. Statement of Dr. Jacques Analytic Vice President, Corporation. S. Gansler, Sciences J.
+
+Nov. 17, 1980
+
+Nov. 18, 1980
+
+Dec. 3, 1980
+
+Statement of the Honorable William Perry, Under Secretary of Defense For Research and Engineering.
+
+(947408)
+
+AN ROUAL OPPORTUMltY UNITED STATES
+
+RWLOYRR
+
+GENERAL ACCOuKlmG
+
+olrlrlce
+
+WASHINGTON, D.C. NS48 lWlR0 CLASS
+
+

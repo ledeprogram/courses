@@ -1,0 +1,273 @@
+I
+
+-,
+
+JnEf..__"..l wl _.._ S1,;~l.w (;vltc~ral .-.... .--._....-. ^ -._. .._. -. _ __" I.. . 1,l-."ll.l" -I -_.I-_---_-
+
+Accounting
+
+Office
+
+i
+
+GAO
+July . l!M!J
+
+------
+
+htport, t,o t,k Chairman, kgislat,ion and Nat,ional Security Subcommi ttw, Clc~mmittw on Government, Operations, House 0 f' Representatives
+
+COUNTERMEASURES Survivability of U.S. Radars Needs More Emphasis
+
+<;AO/NSIAD-89-120
+
+GAO
+
+United States General Accounting Office Washington, D.C. 20648 National Security and International Affairs Division
+
+B-221206 July 19, 1989 The Honorable John Conyers, Jr. Chairman, Legislation and National Security Subcommittee Committee on Government Operations House of Representatives Dear Mr. Chairman: As requested, we reviewed the Department of Defense's (DOD) efforts to address the anti-radiation missile (ARM) threat. Specifically, we reviewed DOD'S progress in developing effective countermeasures against the threat and the role of the Office of the Secretary of Defense (0s~) in overseeing ARM countermeasure development and coordinating the military services' efforts. As agreed with your Office, we have eliminated specific references to threat characteristics and U.S. weapon system performance in order to keep this report unclassified.
+A
+
+Ttie ARM Threat
+
+Many U.S. weapon systems rely on radars for targeting and guidance. To detect targets, a radar transmits a series of brief pulses of energy and "listens" for an echo. Some types of radars illuminate threats for targeting and guidance of weapons. Radars are the most vulnerable part of systems because they emit signals; thus, they can be acquired by several threat systems, including ARMS. home in on the radar emissions and try to destroy the antenna and adjacent equipment. Some ARMS can be launched at long distances from the targeted radar. Further, because ARMS do not emit signals, they can be difficult to detect and destroy or to avoid.
+ARMS
+
+are a serious threat to the survivability of air defense systems, such as the Army's Patriot and Improved Hawk missiles, which are crucial to the North Atlantic Treaty Organization's air defense network. Air Force ground-based radars and Marine Corps air defense units are also targets for ARMS. ARMS present a unique problem to Navy ships because the radars cannot be physically separated from the ships, thereby making the ships vulnerable, as well. In addition, because of physical limitations on board ships, installing countermeasure equipment is difficult.
+ARMS ARM capability was demonstrated over a decade ago in the Arab-Israeli war and more recently in the Iran-Iraq war. Currently, the Soviets have
+
+Page 1
+
+GAO/NSLAD-89-120
+
+Anti-Radiation
+
+Missile
+
+B221205
+
+c
+
+a large ARM inventory. According to OSD officials, ARMS are evolving into an increasingly serious threat that must be addressed in order to protect both fielded and future radars.
+
+Results in Brief
+
+emphasizes the need for weapon systems to survive in combat.' DOD policy requires that survivability be (1) addressed in establishing requirements for new weapon systems, (2) assessed during program reviews, and (3) proven in operational tests." To evaluate survivability, the military services use intelligence assessments and employment tactics to define the environment for the current and projected threat. These assessments are also used to develop countermeasures against threats.
+DOD
+
+The services have made little progress in protecting radars, which are key to many weapon systems' performance from the ARM threat. Threat data in varied forms have been available for over 15 years; however, the threat has become more sophisticated recently. DOD has 15 radars, costing over $10 billion, that are vulnerable to ARMS; yet, only 3 have ARM countermeasures under development. (See app. I for a list of vulnerable radars.) For new radars in development, DOD officials said that the latest technologies should be incorporated into the radar design. However, according to OSD officials, program managers responsible for weapon systems in development have not fully addressed the ARM threat primarily because, up until recently, little attention had been given to ensuring that the characteristics of ARMS were well defined. A comprehensive ARM countermeasure program has not been established because existing information on the ARM threat has not been perceived by DOD to be significant. Until recently, there has been a lack of definitive characteristics on the quantity and employment of threat systems. The absence of definitive data on the threat has contributed to the lack of countermeasure development. In addition, OSD has not given sufficient oversight to ensure the availability of sufficient threat data for use in developing an ARM countermeasure program.
+
+b
+
+'DOD Directive 6000.3-M-1, dated October 1986 and updated February 1988, requires operational test and evaluation to cover all areas that critically affect a system's ability to accomplish its mission in its intended environment. %OD Directive 6000.3 requires verification through testing of a weapon system's operational effectiveness and suitability in its intended environment prior to a production decision.
+
+Page 2
+
+GAO/NSIAD-89-120
+
+Anti-Radiation
+
+Missile
+
+DOD RecognizesNeed for Ektter Threat Data
+
+Comprehensive detailed ARM threat data are essential to identify solutions to the threat facing current and future weapon systems and to justify countermeasure development. Resources to test the solutions are also needed. Threat assessments, prepared by the military services and validated by the Defense Intelligence Agency, are the primary basis for establishing requirements for new weapon systems. Weapon system program managers use threat data to develop countermeasures to protect their systems. Only recently, OSD and the military services have emphasized the need for detailed information on the physical and technical characteristics of threat ARMS. Previously, threat data did not include the specific characteristics of ARM seeker and guidance/control subsystems. stated that program offices need more detailed technical information on ARM characteristics and said that current data substantiating the increasing seriousness of the threat needs to be made available to them. To foster countermeasure development by the services, OSD has recently begun to validate and focus on the ARM threat, In August 1988, OSD directed the Air Force's Foreign Technology Division, Wright-Patterson Air Force Base, Ohio, to identify ARM physical and technical characteristics, launch platform, and other characteristics. Soviet doctrine and employment tactics are also being examined in realistic scenarios against U.S. emitters. In addition, OSD has asked the Defense Intelligence Agency and the National Security Agency to evaluate their ARM threat collection efforts. recently established a subcommittee in the Office of the Director of Defense Research and Engineering to validate the threat. The validated information will be used to assess the adequacy of the services' ARM countermeasure programs and to devise a strategy to reduce radar vulnerability. OSD also plans to determine funding levels needed to support countermeasure development. OSD officials said they expected to issue a report on the subcommittee's efforts in the fall of 1989.
+OSD OSD officials
+
+b
+
+Page 3
+
+GAO/NSIAD-39-120
+
+Anti-Radiation
+
+Missile
+
+B221206
+
+Low Priority and Limited F'unding Characterize Services' Efforts
+
+According to OSD officials, countermeasure development has been hampered by low priority and limited funding. Most program managers have not fully assessed the effects of the ARM threat on their programs. OSD officials believe that once validated threat data are available, the military services will be in a better position to assess their programs and the options available to counter ARMS. Additionally, OSD will be able to assess the military services' efforts at countering ARMS. Those program managers who are addressing the threat are doing so on a low-priority basis to minimize program risks and acquisition costs. ARM countermeasure development has been tailored to specific weapon systems rather than directed at probable cost-effective generic countermeasure development with application to several radars. New radars being developed do not have specific requirements to address the threat and therefore, may not be fully tested and evaluated against ARMS. Efforts to develop technological solutions for next-generation systems have been very limited because of the few countermeasure development programs in existence. For fielded weapon systems, protective devices, such as decoys, are the preferred countermeasure because radar redesign may not be feasible due to time and cost. Only 3 of the 15 fielded weapon systems identified in appendix I- the Army's Patriot, the Air Force's TPS-75 radar, and the Marine Corps' TPS-59 radar- have ARM countermeasures in development. All three have experienced long development periods. For example:
+l
+
+l
+
+The Army has initiated and canceled two decoy programs since 1981 for its Patriot missile system, which was fielded in 1986, and is now pursuing a third. Low priority and lack of funding caused the Air Force to cancel the third phase of its ARM countermeasure program begun in 1976 (ARM Alarm), which was designed to protect the TPS-75 radar. The Navy currently has no funded ARM countermeasure programs for fielded systems. Although it initiated a Counter ARM Decoy (CAD) program to protect the SPS-48 radar, which is used on over 40 Navy ships, the program was minimally funded for over 10 years and was suspended in early 1987. Navy officials said the program was suspended because OSD and the Congress reduced the Navy's electronic warfare budget and the program lacked a prominent proponent. Also, the Navy gave higher priority to protecting the SPY-l radar on AEGIS ships. Navy officials said that although the CAD had proved feasible to protect the
+
+Page 4
+
+GAO/N&U%89-120
+
+Anti-Radiation
+
+Missile
+
+`, x
+
+B-221206
+
+SPS-48 radar, physical constraints made decoy development infeasible for the more powerful SPY-l radar. The Navy, therefore, plans to rely on tactics and techniques, such as radar shutdown3 and radar netting,* as countermeasures to protect the SPY-l. According to DOD officials, such countermeasures may make the AEGIS' radar vulnerable to other threats. New radar developments are not fully addressing the ARM threat because they do not have formal requirements to counter ARMS. For example, the Multi-role Survivable Radar, an Army research and development program, is minimizing radar emissions but has no specific requirement to address threat ARMS. Therefore, it is likely that the Multirole Survivable Radar may not be tested against threat ARMS. The Army's Forward Area Air Defense Program is incorporating existing radar technologies that DOD officials said may not reduce their vulnerability to ARMS. Unless there are formal requirements to counter ARMS incorporated into new system starts, little will be done during development and testing to address weapon system survivability.
+
+Stfonger OSD Oversight May Be Needed to Improve ARM Counter-n ure Capability
+
+Although an OSD Tri-Service ARM Countermeasure Committee was established in 1974, the Committee has not fostered much countermeasure development in the services because of a limited charter and only limited support within the Army and OSD. The Committee, which is funded as part of an Army electronic warfare advanced technology program," was tasked to (1) examine the current and projected ARM threat, (2) identify technological solutions to the ARM threat, and (3) develop a capability to test radars against ARMS. Over the last several years, the Committee has identified technological solutions to the ARM problem, such as radar emission reduction and decoy development, as well as operational techniques, such as radar shutdown. The Committee's charter, however, does not provide it authority to develop countermeasures or ensure that the services adopt the identified solutions. Committee officials said that the Committee has not had
+
+"In radar shutdown, the radar is turned off for a few seconds, at a critical point in the attacking ARM's trajectory, to prevent a missile from homing in on it. `In netting, a battle group alternately blinks ships' radars to confuse the incoming ARM. Netting requires quick and accurate communication among ships. "An advanced technology demonstration program identifies and validates technological solutions to the ARM problem but does not have budgetary authority to produce deployable hardware.
+
+Page 5
+
+GAO/NSlAD-89-120
+
+Anti-Radiation
+
+Missile
+
+E221295
+
+sufficient service sponsorship or funding. For example, while the Committee estimated that about $30 million over the next 3 years would be needed to adequately support ARM countermeasure development, it anticipates only about $3 million will be forthcoming. According to a DOD official, such minimal funding will result in very modest technologybased efforts and a general lack of technological solutions. Until recently, OSD has not emphasized ARM countermeasure development, as evidenced by the limited progress of the Tri-Service Committee in developing technological solutions to meet the ARM threat. We are encouraged, however, by the recent steps being taken by OSDto improve threat data and by plans to assess the military services' efforts in addressing the ARM threat. More definitive threat data should provide a good foundation for OSDto use in addressing the ARM threat and should also help ensure that the ARM threat is considered within the military services. As requested, we did not obtain official agency comments on this report. However, we discussed its contents with officials of OSD, the Tri-Service ARM Countermeasures Committee, and the Navy and included their comments where appropriate. Unless you publicly release its contents earlier, we plan no further distribution of this report until 30 days from the date of the report. At that time, we will send copies to the Secretaries of Defense, the Army, Navy, and Air Force and make copies available to others upon request. This report was prepared under the direction of Mr. Paul F. Math, Director, Research, Development, Acquisition and Procurement Issues. Other major contributors to this report are listed in appendix III. Sincerely yours,
+
+Conclusions
+
+*
+
+Frank C. Conahan Assistant Comptroller General
+
+Page6
+
+GAO/NSIAD-89-120AntiBadiationMissile
+
+l
+
+Page 7
+
+GAO/NSIAD89-120
+
+Anti-Radiation
+
+Missile
+
+,' i'I 1.:""
+
+.
+
+.
+
+,`.
+
+.
+
+Contents
+
+Letter Appendix I Radars Vulnerable to ARMS and the Status of Countermeasure Programs Appendix II Objectives, Scope,and Methodology Appendix III Major Contributors to This Report
+National Security and International Affairs Division, Washington, DC. 11
+
+12 12
+
+Abbreviations
+ARM CAD DOD OSD
+
+anti-radiation missile Counter ARM Decoy Department of Defense Office of the Secretary of Defense
+
+Page 8
+
+GAO/NSIAIM9-120
+
+Anti-Radiation
+
+Missile
+
+Page 9
+
+GAO/NSUD-89-120
+
+Anti-Radiation
+
+Missile
+
+, .,' "
+
+Appendix
+
+I
+
+.
+
+1 Radars Vulnerable to ARMS and the Status of Countermeasure Programs (April 1989)
+Radarsa Army
+- Patriot Improved Hawk Firefinder Multi-role Survivable Radar
+
+Status of ARM Countermeasureb
+Decov contract awarded No prooram in development No program in development Radar technologies incorporated for low probability of intercept that have not been proven
+
+Forward Area Air Defense System (two -- components) Ground Sensor __-~.__-Air Defense Antitank System Radar -.____-____ Sense and Destroy ArmorC
+
+Includes modifications to an existing radar that have not been proven _c__~________ No program in development No program in development
+
+Navv
+SPS-48 SPS-52 SPS39A SPN-6 .._--.~-SPN-35 SPN-43A SPY-1 -.-.-.-~---..~ ..-" _".~_ Decoy program canceled Decoy program canceled Decov oroaram canceled No program in development No prooram in development Decoy program canceled No program in development -
+
+Air Force
+TPS-75
+
+._-.______
+One of three efforts complete. Decoys in research & development testing. Third effort canceled. Program canceled No proaram in develooment No program in development
+
+Advanced Tactical RadarC Airborne Warnina and Control Svstem Joint Surveillance Target Attack Radar SystemC __-
+
+Marines
+- TPS-59 -TPS-32 improved Hawk Decoys being tested. Decov oroduction not funded No proaram in development
+
+aListing does not include all radars that may be vulnerable to ARMS; however, it lists the major systems affected. h' No program in development" indicates no full-scale development effort for an ARM countermeasure.
+
+`Programs in development. All others are fielded systems Source: Tri-Service ARM Countermeasure Committee.
+
+Page 10
+
+GAO/NSIAD-S9-120
+
+Anti-Radiation
+
+Missile
+
+* Appendix II
+
+ObjeCtives,Scope,and Methodology
+
+Our objectives were to identify DOD's progress in developing ARM countermeasures and to examine OSD'S role in overseeing ARM countermeasure development. Although ARMS can be targeted against mobile ground radars used by infantry and aircraft, we limited our evaluation to an examination of countermeasure programs associated with the most costly radars and their associated platforms. We looked at the vulnerability of the Army's Patriot and Improved Hawk air defense missiles, the Navy's AEGIS ship, the Air Force's TPS-75 radar, and the Marine Corps TPS-59 radar. Our work included an analysis of service documents on countermeasure requirements. We interviewed and obtained documents from officials of OSD, the Defense Intelligence Agency, the Army Missile Command, the Missile and Space Intelligence Center, the Naval Sea Systems Command, the Naval Surface Warfare Center, Rome Air Development Center, the Air Force Systems Command, and the Space and Naval Warfare Systems Command. We also obtained documents on the ARM threat, countermeasure requirements, and technological solutions from the Tri-Service ARM Countermeasure Committee. Our review was performed in accordance with generally accepted government auditing standards between February 1988 and January 1989.
+
+Page 11
+
+GAO/NSIAD-89-120
+
+Anti-Radiation
+
+Missile
+
+., ,"
+
+Appendix III
+
+Major Contributors to This Report
+
+,a c. 1
+
+National Security and International Affairs
+Division,
+Washington,
+
+Michael E. Motley, Associate Director (202) 275-8400 Lester C. Farrington, Assistant Director Patricia L. Martin, Evaluator-in-Charge Jerald N. Slaughter, Advisor
+
+DC.
+
+Page 12
+
+GAO/NSL4D-89-120
+
+Anti-Radiation
+
+Missile
+
+I
+
+

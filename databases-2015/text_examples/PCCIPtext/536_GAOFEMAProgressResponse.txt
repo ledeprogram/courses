@@ -1,0 +1,660 @@
+United States General Accounting Office
+
+GAO
+March 2001
+
+Report to Congressional Requesters
+
+COMBATING TERRORISM FEMA Continues to Make Progress in Coordinating Preparedness and Response
+
+GAO-01-15
+
+Contents
+
+Letter Appendixes
+Appendix I: Federal Emergency Management Agency Programs With Well-Established Consequence Management Exercise Practices
+
+3
+
+24 31 39 40
+
+Appendix II: FEMA's Terrorism Preparedness Training Program Appendix III: Comments From the Federal Emergency Management Agency Appendix IV: GAO Contacts and Staff Acknowledgments
+
+Tables
+
+Table 1: Courses and Students in the Integrated Emergency Management Course: Consequences of Terrorism Table 2: Typical Special Events in Which FEMA Participated Table 3: Nominal Participants in the Integrated Emergency Management Course: Consequences of Terrorism, by Discipline and Position Table 4: FEMA's Emergency Response to Terrorism Courses and Curriculum Aid Figure 1: States With Emergency Operations Plans That Reflect the Federal Response Plan Figure 2: States With Emergency Operations Plans That Incorporate Terrorism Preparedness Figure 3: Terrorism Preparedness Exercises in the States, by Exercise Type (1996-2000) Figure 4: FEMA Terrorism Preparedness Exercise Participation, by Focus (1996-2000) Figure 5: Hazardous Material Decontamination Team in Aurora, Colorado, During TOPOFF 2000 Figure 6: Operations Group Dispatchers During the Consequences of Terrorism Course Exercise Figure 7: FEMA Exercise Program Funding, by Major Category Figure 8: FEMA Exercise Program, by Major Category Figure 9: Locations of Workshops on Terrorism for Senior Officials (1996-June 2000) Figure 10: Locations of Courses on Weapons of Mass Destruction (1996-June 2000) Figure 11: Locations of and Participants in the Integrated Emergency Management Course (1996-June 2000)
+
+13 15
+
+34 37
+
+9 10 18 19 20 21 29 30 32 33 36
+
+Page 1
+
+GAO-01-15 Combating Terrorism
+
+Contents
+
+Abbreviations CSEPP FBI FEMA PDD REP Chemical Stockpile Emergency Preparedness Program Federal Bureau of Investigation Federal Emergency Management Agency Presidential Decision Directive Radiological Emergency Preparedness Program
+
+Page 2
+
+GAO-01-15 Combating Terrorism
+
+United States General Accounting Office Washington, D.C. 20548
+
+L e t e r
+
+March 20, 2001 The Honorable Donald Young Chairman The Honorable James Oberstar Ranking Democratic Member Committee on Transportation and Infrastructure House of Representatives The threat of terrorist attacks within the United States has been an issue of growing national concern. In April 1995, terrorists struck Oklahoma City with a bomb in front of the Alfred P. Murrah federal building, killing 168 people and damaging a 48-block area. The Federal Emergency Management Agency (FEMA) coordinated the federal agencies' assistance in response to that terrorist act. Two months after the attack, under Presidential Decision Directive (PDD) 39, the President formalized FEMA's lead role in managing federal agencies' assistance after a domestic terrorist incident and required FEMA to take several actions to increase its effectiveness and that of other responsible agencies and the states in responding to domestic terrorism. These actions included updating the Federal Response Plan,1 assessing the capabilities of states and local governments to respond to a terrorist incident, and ensuring that states' response plans were adequate and tested. In May 1998, the President issued PDD 62, which reaffirms PDD 39 and further articulates the responsibilities of specific agencies. State and local governments exercise primary authority in responding to the consequences of terrorism; the federal government provides assistance as required. FEMA's role in "consequence management" is to participate in and lead other agencies' assistance in protecting public health and safety; restoring essential government services; and providing emergency relief to state and local governments, businesses, and individuals after a terrorist incident. PDD 39 reaffirms the Federal Bureau of Investigation's (FBI) lead
+
+1
+
+The Federal Response Plan (updated in Feb.1997) sets out policies, procedures, and responsibilities of federal departments and agencies and the American Red Cross for helping the states deal with major domestic disasters or emergencies such as floods and hurricanes. It did not include a section on dealing with terrorist events at the time of the Oklahoma City bombing incident.
+
+Page 3
+
+GAO-01-15 Combating Terrorism
+
+responsibility for "crisis management."2 FEMA also develops strategies to enhance the federal government's capability to support state and local governments in dealing with the consequences of a terrorist incident involving a weapon of mass destruction.3 As requested by the former Chairman, Subcommittee on Oversight, Investigations, and Emergency Management, we reviewed FEMA's actions to improve its capabilities to respond to terrorist incidents based on its response to lessons learned from the Oklahoma City bombing, requirements in PDDs 39 and 62, and its own guidance. Specifically, we determined the extent to which FEMA has (1) incorporated the lessons learned from the aftermath of the Oklahoma City bombing, (2) ensured the preparedness of states and federal agencies to respond to terrorist incidents, and (3) ensured that states' plans are tested through exercises.
+
+Results in Brief
+
+In policy and practice, FEMA has generally addressed the key lessons learned from its experience in coordinating federal consequence management activities after the Oklahoma City bombing. In analyzing the lessons learned after the bombing, FEMA identified three major actions that needed to be taken: (1) create guidance to facilitate agencies' coordinated response to terrorist events, (2) ensure that state and local emergency plans mirror the Federal Response Plan, and (3) establish an adequate number of emergency response teams to deal with mass casualties. Improvements in these areas have been made across the board. FEMA has updated the Federal Response Plan to address how federal agencies, states, and localities would work together to respond to an act of terrorism, and states are increasingly modeling their emergency operations plans on the federal plan. Also, the number of teams available for emergency response to deal with mass casualties has doubled since 1995.
+
+2
+
+The FBI has the lead role for domestic crisis management, which includes efforts to stop a terrorist attack, arrest terrorists, and gather evidence for criminal prosecution. When terrorist attacks occur without adequate warning, crisis management and consequence management are concurrent activities.
+
+FEMA's Terrorism Preparedness Strategic Plan defines a weapon of mass destruction as any device that is intended to or can cause death or serious bodily injury to a significant number of people through (1) conventional explosive effects, (2) release of toxic or poisonous chemicals or their precursors, (3) a disease organism, or (4) radiation or radioactivity.
+
+3
+
+Page 4
+
+GAO-01-15 Combating Terrorism
+
+In response to a PDD 39 requirement and to ensure that states are prepared to respond to a terrorist incident, FEMA assessed states' capabilities for consequence management in 1995 and set up a system to continue monitoring those capabilities. In 1997, FEMA reported to the Congress and to the President4 that the states had the basic capabilities to respond to disasters but were not well prepared for a terrorist incident involving a weapon of mass destruction. The agency has also expanded terrorism preparedness training grants and systematically incorporated terrorism preparedness courses into its emergency management curriculum. On the federal level, FEMA coordinates extensively with other involved agencies on key, national-level terrorism preparedness guidance and policy documents and on activities, as required by PDDs 39 and 62. The agency also participates in numerous operations and special events designed to enhance the security of domestic events. FEMA's principal mechanism for testing states' plans is through exercises, some of which FEMA supports with grants. For example, from 1996 through 2000, FEMA sponsored 22 of the 28 terrorism preparedness exercises held in Washington State. Through FEMA's efforts, and those of other agencies, the types, numbers, and complexity of terrorism preparedness exercises have increased significantly. Also, states' terrorism preparedness programs are maturing and they increasingly reflect awareness of federal and state roles in terrorism preparedness and response.
+
+Background
+
+The bombing of the World Trade Center in New York City in 1993 and the Murrah federal building in Oklahoma in 1995 raised concerns about the vulnerability of the states to terrorist attacks. After the 1995 attack on the Murrah building, the President established the general U.S. policy, in PDD 39, to use all appropriate means to deter, defeat, and respond to all terrorist attacks. PDD 39 directs all federal departments and agencies to take measures to (1) reduce vulnerabilities to terrorism, (2) deter and respond to terrorism, and (3) develop effective capabilities to prevent and manage the consequences of terrorism. PDD 62 (May 1998) reaffirmed PDD 39 and set up an integrated program to increase the federal
+
+4 Report to Congress on Response to Threats of Terrorist Use of Weapons of Mass Destruction (Jan. 31, 1997) and Report to the President: An Assessment of Federal Consequence Management Capabilities for Response to Nuclear, Biological, or Chemical Terrorism (Feb. 1997).
+
+Page 5
+
+GAO-01-15 Combating Terrorism
+
+government's effectiveness in countering terrorist threats against the United States; it also clarified the roles and activities of many of the agencies responsible for combating terrorism. The Robert T. Stafford Disaster Relief and Emergency Assistance Act (P.L. 93-288, Nov. 23, 1988), as amended, establishes the basis for federal assistance to state and local governments when they cannot adequately respond to a disaster such as a terrorist incident. After the President has declared a federal emergency, FEMA coordinates its and as many as 27 other federal agencies' responses under the Federal Response Plan. The plan outlines how the agencies will implement the Stafford Act and contains policies and procedures to guide the conduct of operations during a federal emergency. These operations include transporting food and potable water to the area, assisting with medical aid and temporary housing, and providing generators to keep hospitals and other essential facilities working. Under FEMA's Director, the Senior Advisor for Terrorism Preparedness, a position created in 2000, is tasked to coordinate FEMA's overall terrorism preparedness programs and activities, including budget strategy and formulation. In planning for consequence management, the primary FEMA units involved are the Directorates for Preparedness, Training, and Exercises and for Response and Recovery; the U.S. Fire Administration; and FEMA's regional offices. The directorates and other units are responsible for executing the terrorism-related programs and activities and control the personnel and other resources. The Senior Advisor has no direct management authority over the resources of FEMA's directorates and other units. FEMA is responsible for leading and coordinating with 27 federal agencies on consequence management activities. These agencies include the Departments of Defense, Justice (the FBI), Energy, and Health and Human Services, and the Environmental Protection Agency. FEMA also works with the states, territories, and communities to help them develop plans for consequence management of terrorist incidents and provides grants for training and exercises to help in preparing them to deal with such incidents. FEMA's budget for terrorism-related activities has steadily increased over the past 3 years, from $17.6 million in 1999 to $28.5 million in 2000 and about $34.0 million in 2001. A major portion of this funding, about $20 million for 2001, is in the form of grants to the states and localities.
+
+Page 6
+
+GAO-01-15 Combating Terrorism
+
+FEMA Has Responded to Lessons Learned From Oklahoma City Bombing
+
+When the President declared the Oklahoma City bombing a federal emergency, FEMA served effectively as the lead federal agency responsible for consequence management. FEMA established a Regional Operations Center within an hour of the explosion. The prior FEMA Director, James L. Witt, was on the scene the first day and Urban Search and Rescue Teams began arriving within 14 hours. Because the emergency was created by a terrorist attack, however, new and distinct challenges emerged. First, the incident combined a federal crime scene with a disaster area, and second, the swift and catastrophic nature of the bombing thrust FEMA into direct contact with local authorities, causing the agency to bypass many of the customary state channels. After FEMA had completed its response activities, it assessed its and others' actions to reflect lessons learned from the response to the bombing. The agency found that (1) unclear authority, roles, and responsibilities in the Federal Response Plan and other guidance impeded decision-making and response measures; (2) state and local response plans did not correspond to the Federal Response Plan, which affected operational coordination; and (3) almost all of the available Urban Search and Rescue Teams were used during the incident. FEMA responded to these lessons learned in several ways. To ensure that roles and responsibilities for managing the consequences of a terrorist incident are clear and to respond to PDD 39 requirements, FEMA--alone or in coordination with other federal agencies: � updated the Federal Response Plan and added a Terrorism Incident Annex that includes better interagency guidance and describes federal, state, and local policies and the structure for coordinating management of the consequences of terrorist incidents; � added to the Federal Response Plan four support annexes covering community relations, donations management, logistics management, and occupational health and safety and an appendix, Overview of a Disaster Operation; � developed a Concept of Operations Plan to guide the overall federal response to domestic terrorist incidents and describe actions federal agencies should take nationally and locally; � established a better liaison between FEMA and local FBI offices and trained staff for liaison positions;
+
+Page 7
+
+GAO-01-15 Combating Terrorism
+
+� developed terrorism preparedness annexes to support FEMA regions' response plans and provided updates of these plans to federal and state partners; and � established a logistics and donations manager as part of the response structure. To increase awareness of relevant changes to the Federal Response Plan and other guidance and policies affecting consequence management, FEMA � developed a planning guide to help state and local authorities update their emergency operations plans and to develop terrorism response plans that more closely mirror the federal plan and other guidance in accordance with PDD 39 and � updated training courses, for example, the Integrated Emergency Management Course, to disseminate current information on plans and response capabilities related to consequence management of terrorist incidents. FEMA also provides program coordination and grants5 to promote the development of emergency management plans, to include terrorism consequence management, at the state and local levels. Federal grants are used to encourage state and local recipients to improve their terrorism preparedness through planning, training, and exercises. Examples of activities supported by grants include the following: � development of a comprehensive terrorism preparedness document for inclusion in state emergency operations plans; � review of state and local emergency plans and procedures to ensure the incorporation of current FEMA and FBI planning guidance; � state terrorism task force planning;6 � development of comprehensive terrorism preparedness training programs; � test and evaluation of state and local terrorism response plans through multiagency exercises; and
+5
+
+Grants are awarded to 50 states and 6 U.S. jurisdictions.
+
+6
+
+A state terrorism task force may be composed of key state personnel, local fire and police officers, FBI agents, state police special teams, state hazardous material response teams, National Guard officers, and emergency management staff.
+
+Page 8
+
+GAO-01-15 Combating Terrorism
+
+� distribution of terrorism preparedness handbooks and/or checklists to first responders7 at state and local levels. Our analysis indicates that most of the states' emergency operations plans reflect awareness of terrorism preparedness and the federal support role. Figures 1 and 2 show, respectively, states with emergency operations plans that mirror the Federal Response Plan and states with plans that incorporate a section on terrorism preparedness. According to FEMA officials, each of the remaining states will likely complete similar updates to their plans within the next 12 months.
+
+Figure 1: States With Emergency Operations Plans That Reflect the Federal Response Plan
+
+States not reflecting plan
+Source: FEMA.
+
+States reflecting plan
+
+7
+
+First responders to disasters include police, firefighters, and emergency medical staff.
+
+Page 9
+
+GAO-01-15 Combating Terrorism
+
+Figure 2: States With Emergency Operations Plans That Incorporate Terrorism Preparedness
+
+Plan does not cover terrorism
+Source: FEMA.
+
+Plan covers terrorism
+
+To respond to the need for more Urban Search and Rescue Teams, FEMA has increased the number of teams from 12 at the time of the bombing, to 28 in calendar year 2000. These 28 teams are comprised of 62 specialists from 4 major functional elements--search, rescue, technical, and medicine. Search specialists use highly trained dogs to find victims under rubble, for example, and rescue specialists determine the best way to free the victims. Technical staffs deal with engineering problems, hazardous materials, heavy rigging, and logistics. The medical staff is comprised of four medical specialists who are often also firefighters and two physicians who are often emergency medicine experts.
+
+FEMA Has Worked to Ensure Preparedness to Respond to Terrorist Incidents
+
+To ensure the preparedness of the states and other federal agencies to handle the consequences of terrorist incidents, FEMA has assessed the states' response capabilities, increased terrorism preparedness training courses, provided training grants, and coordinated extensively with responsible federal agencies on terrorism issues.
+
+Page 10
+
+GAO-01-15 Combating Terrorism
+
+FEMA Has Assessed State and Local Response Capabilities
+
+To ensure that states are adequately prepared for a terrorist incident, PDD 39 tasked FEMA to assess the states' response capabilities. Initially, FEMA used the National Governor's Association8 to survey the states' capabilities. The Association's primary fact-gathering methodology was focus group discussions with emergency first responders from four metropolitan areas. This survey, which was completed in 1995, concluded that the states' and localities' capabilities could easily be overwhelmed by a terrorist incident. Since then, FEMA and other agencies have worked with state and local authorities to assess the needs of local first responders. In 1996, in hearings before the Senate Committee on Appropriations,9 FEMA's Director committed the agency to (1) developing national-level performance criteria to measure the capability of the states to perform in the areas of mitigation, preparedness, response, and recovery and (2) assessing the states' capabilities to effectively respond to disasters, including terrorist incidents. Subsequently, FEMA and the National Emergency Management Association10 jointly developed the Capability Assessment for Readiness process and FEMA issued a report on its assessment in December 1997.11 In the report, FEMA concluded that the states have the basic capabilities to effectively respond to disasters but were not well prepared for a terrorist incident involving a weapon of mass destruction. The report also noted that FEMA's Chemical Stockpile Emergency Preparedness Program (CSEPP) and Radiological Emergency Preparedness (REP) Program provide emergency management performance standards that strengthen related states' programs. FEMA's Terrorism Preparedness Implementation plan states that CSEPP and REP
+
+8 The National Governor's Association is a bipartisan national organization of governors of the nation's 50 states; the commonwealths of the Northern Mariana Islands and Puerto Rico; and the territories of American Samoa, Guam, and the Virgin Islands. Through the Association, the governors identify priority issues and deal collectively with issues of public policy and governance at both the national and state levels. 9
+
+These Apr. 30, 1996, hearings were on appropriations for the Veterans Administration, the Department of Housing and Urban Development, and independent agencies for fiscal year 1997.
+
+10
+
+The National Emergency Management Association is the professional association of state and Pacific Caribbean insular state emergency management directors.
+
+11
+
+Capability Assessment for Readiness (FEMA, Dec. 10, 1997).
+
+Page 11
+
+GAO-01-15 Combating Terrorism
+
+are also used to support the agency's terrorism-preparedness efforts. (Appendix I contains a discussion of attributes of these programs' exercises.) However, the report also identified two areas that required significant improvement: (1) planning and equipment for response to nuclear, biological, and chemical terrorist incidents and (2) coordination between state emergency management agencies and the private sector. FEMA expects to publish its fiscal year 2000 assessment report by April 2001.
+
+FEMA Has Increased the Number and Scope of Its Terrorism Preparedness Training Courses
+
+Since the Oklahoma City bombing, FEMA has made considerable progress in training its staff and those of other federal agencies, the states, and local entities to ensure their preparedness for a terrorist attack. The agency has developed several terrorism preparedness courses and incorporated terrorism preparedness into its emergency management curriculum. FEMA's terrorism preparedness training funding, including grants to states and local communities, totaled $6 million in fiscal year 1998, $7.6 million in fiscal year 1999, and $10.4 million in fiscal year 2000. FEMA's National Emergency Training Center, in Emmitsburg, Maryland, is a major provider of formal training related to consequence management. The Center offers resident training for its and other federal agencies' personnel and provides course materials to state and local organizations. The Center includes the Emergency Management Institute and the United States Fire Administration's National Fire Academy. The Institute serves as the national focal point for the development and delivery of emergency management training to enhance the capabilities of federal, state, and local government officials, volunteer organizations, and the private sector. Since the Institute focuses on disaster preparedness, its courses are provided to emergency managers and community-level policy officials. (Appendix II contains additional information on the Institute's principal terrorism preparedness courses.) The National Fire Academy serves as the national focal point for fire-related and emergency management training activities. First responders from fire departments across the United States attend the Academy's courses. FEMA uses its Integrated Emergency Management course to immerse senior public officials and emergency management personnel (see app. II, table 3) in an intense, simulated disaster environment. According to FEMA's report on the Oklahoma City bombing, this course proved valuable to numerous Oklahoma City officials who had received the training in 1994. Furthermore, city officials praised the course trainers' willingness to serve
+
+Page 12
+
+GAO-01-15 Combating Terrorism
+
+as on-site mentors to city decisionmakers during response and recovery operations after the bombing. After the Oklahoma City bombing incident, FEMA developed its first course specifically related to terrorism preparedness in 1996 (see table 1). This course, the Integrated Emergency Management Course: Consequences of Terrorism, incorporates all the core elements of the original Integrated Emergency Management Course, but focuses on managing terrorist incidents.
+
+Table 1: Courses and Students in the Integrated Emergency Management Course: Consequences of Terrorism Fiscal year 1996 Courses Students
+Source: FEMA.
+
+1997 3 222
+
+1998 4 309
+
+1999 3 200
+
+2000 9 581
+
+2 185
+
+Although the course was offered nine times in 2000, it is normally presented two to four times a year unless an agency other than FEMA (such as the Department of Justice) funds additional courses.
+
+FEMA Coordinates Extensively to Ensure Preparedness for Consequence Management
+
+FEMA performs many functions with other federal agencies and state and local officials to help prepare for managing the consequences of terrorist incidents. Chief among these functions are (1) coordination of key terrorism preparedness guidance and policy documents, (2) day-to-day coordination of operations and special events, and (3) membership in formal interagency groups and committees.
+
+Page 13
+
+GAO-01-15 Combating Terrorism
+
+Coordination of Key Agency Guidance and Policy Documents
+
+FEMA and the agencies cited most prominently in PDD 39 (the Departments of Defense, Energy, and Health and Human Services and the Environmental Protection Agency) coordinate with the FBI on its Domestic Guidelines12 and on its Concept of Operations Plan. The FBI's guidelines are a road map for government agencies' mobilization, deployment, and use--under PDD 39--in response to a terrorist threat or incident. The FBI's Concept of Operations Plan will guide how the federal government is structured to respond to domestic terrorism incidents. The agencies listed above are now doing a final review of the Plan before the FBI issues it as formal guidance.13 FEMA also developed the State and Local Guide 101 for All-Hazard Emergency Operations Planning (1996) for state and local emergency management agencies to use in developing and updating risk-based, all-hazard emergency operations plans. These plans are the basis for an effective response to any emergency and facilitate coordination with the federal government during catastrophic disasters that require implementation of the Federal Response Plan. The guide describes core functions such as communications, evacuation, mass care, health and medical services, and resource management, as well as unique planning considerations for earthquakes, hurricanes, flooding, and hazardous materials. A new component of State and Local Guide 101, Attachment G: Terrorism, is now being coordinated through the National Security Council's Domestic Contingency Planning and Exercises Subgroup and the National Emergency Management Association, and with the International Association of Emergency Managers.14 It is intended to aid state and local planners in developing and maintaining an appendix to their emergency operations plans on incidents involving terrorists' use of weapons of mass destruction. The attachment addresses various hazards, a concept of
+12
+
+The Guidelines' complete title is "Guidelines for the Mobilization, Deployment, and Employment of U. S. Government Agencies in Response to a Domestic Terrorist Threat or Incidence in Accordance With Presidential Decision Directive 39."
+
+13
+
+The Concept of Operations Plan is formally known as the "United States Government Interagency Domestic Terrorism Concept of Operations Plan." The International Association of Emergency Managers is a nonprofit educational organization dedicated to promoting the goals of saving lives and protecting property during emergencies and disasters. Membership is open to anyone practicing or interested in the field of emergency management and its related disciplines.
+
+14
+
+Page 14
+
+GAO-01-15 Combating Terrorism
+
+operations, organizational responsibilities, logistics, and administrative issues. FEMA expects to publish the attachment on March 30, 2001.
+
+Day-to-Day Coordination of Operations and Special Events
+
+Under the auspices of the National Security Council, FEMA and other agencies coordinate to provide the appropriate preparedness response at important events that may present an attractive target for terrorist attack. Through its active role in this process, FEMA has the opportunity to coordinate and practice with federal, state, and local agencies involved in consequence management. During the past 2 years, FEMA has participated in 17 special events, ranging from high-profile athletic competitions to international conferences (see table 2 for examples).
+
+Table 2: Typical Special Events in Which FEMA Participated Event Visit of the Pope World Trade Organization meeting IMF/World Bank meetings OpSail 2000 Olympic track and field trials
+Source: FEMA.
+
+Location St. Louis Seattle District of Columbia New York and Boston Sacramento
+
+Date Jan. 1999 Nov. 1999 Apr. 2000 July 2000 July 2000
+
+Participation in Interagency and Intra-Agency Groups and Committees
+
+FEMA is a member of numerous interagency groups related to preparedness for domestic terrorism. It participates in the National Security Council's Weapons of Mass Destruction Preparedness Group and two of its subgroups--the Assistance to State and Local Authorities Group and the Contingency Planning and Exercises Group. FEMA maintains a formal liaison with the National Domestic Preparedness Office and supports the Domestic Preparedness Leadership Group and the State and Local Advisory Group. FEMA supports and coordinates with the Department of Justice on its programs for terrorism preparedness training activities, the state and local capabilities assessment project, and the equipment grant program. It also coordinates with and provides support to the Departments of Defense and Justice program managers on the NunnLugar-Domenici Domestic Preparedness Program and participates in the
+
+Page 15
+
+GAO-01-15 Combating Terrorism
+
+Multi-Agency Task Force on Nunn-Lugar-Domenici Exercises,15 which develops policy for domestic preparedness exercises. FEMA also serves on the Secretary of Defense's Weapons of Mass Destruction Advisory Panel, the FBI/Department of State's Interagency Working Group on Domestic/International Counter Terrorism Exercises, and the national and regional response teams concerned with hazardous material and oil spills. FEMA exercises an active leadership role in terrorism consequence management planning. At the national level, it coordinates federal response planning through the Emergency Support Function Leaders Group, the Catastrophic Disaster Response Group (comprising the 27 signatories of the Federal Response Plan), and the Concept Plan Working Group. FEMA issues the National Exercise Schedule after compiling and coordinating information from federal departments and agencies with emergency management responsibilities. In coordination with applicable federal departments and agencies, FEMA also assessed the capabilities of federal agencies to provide consequence management in an incident involving weapons of mass destruction. FEMA and the other agencies identified key critical areas that needed to be addressed, including the need for baseline information on capabilities; combined federal, state, and local planning; and timely federal augmentation of local authorities. The overall results of this assessment were reported in 1997.16 At the regional level, FEMA regional offices coordinate consequence management planning through Regional Interagency Steering Committees. These Committees are comprised of regional representatives from essential response agencies and are responsible for coordinating regional response plans with the Federal Response Plan. Memorandums of understanding between each state and its FEMA regional office are supplemented by the regional response plans.
+
+15
+
+Title XIV of the National Defense Authorization Act for Fiscal Year 1997 (P.L. 104-201, Sept. 23, 1996), commonly known as the Nunn-Lugar-Domenici Act, directs the Secretary of Defense to assist federal, state, and local government agencies with training, advice, equipment, and other actions to shore up local capabilities to respond to and manage consequences of a terrorist incident involving weapons of mass destruction.
+
+16
+
+Report to Congress on Response to Threats of Terrorist Use of Weapons of Mass Destruction (Jan. 31, 1997) and Report to the President: An Assessment of Federal Consequence Management Capabilities for Response to Nuclear, Biological, or Chemical Terrorism (Feb. 1997).
+
+Page 16
+
+GAO-01-15 Combating Terrorism
+
+FEMA Has Increased Support for Exercises That Test States' Response Preparedness Plans
+
+PDD 39 requires FEMA to ensure that states' terrorism response preparedness plans are adequate and tested, and the agency has made progress in meeting this requirement. Through FEMA's and other agencies' efforts, the types, numbers, and complexity of terrorism preparedness exercises to test states' response plans have increased significantly over the past 5 years (see fig. 3). FEMA provides grants to the states and six U.S. jurisdictions17 to help them develop and test their plans. For example, FEMA sponsored 22 of the 28 exercises conducted in the state of Washington during 1996-2000. These exercises employed chemical, biological, radiological, nuclear, conventional high explosive, and combination threat scenarios while highlighting crises and consequence management activities.
+
+17
+
+The six U.S. jurisdictions are American Samoa, District of Columbia, Guam, Northern Mariana Islands, Puerto Rico, and the Virgin Islands.
+
+Page 17
+
+GAO-01-15 Combating Terrorism
+
+Figure 3: Terrorism Preparedness Exercises in the States, by Exercise Type (1996-2000)
+
+250
+
+200
+
+150
+
+100
+
+50
+
+0 1996 Fiscal Year
+Tabletop Functional Full-scale
+
+1997
+
+1998
+
+1999
+
+2000
+
+Note: Includes American Samoa, District of Columbia, Guam, Northern Mariana Islands, Puerto Rico, and the Virgin Islands. Source: FEMA and various states.
+
+In tabletop exercises, participants discuss how their agency or unit might react to a scenario or series of scenarios. These exercises emphasize higher level policy and procedural issues and frequently include more senior-level agency officials. There is no actual deployment of personnel or equipment for tabletop exercises; rather, they are held in a classroom-type setting. Functional exercises are not conducted solely in a classroom environment and generally test an operational function, such as an evaluation of interagency emergency operations capability and response. Full-scale exercises, which are primarily conducted in the field, evaluate operations over an extended period. For field exercises, personnel and their equipment are actually deployed to a field setting where they practice
+
+Page 18
+
+GAO-01-15 Combating Terrorism
+
+tactics, techniques, and procedures that would be used in a real incident; thus, they are the most realistic of the exercises. During 1996-2000, FEMA led or co-led 19 percent of the terrorism preparedness exercises in which it participated. Most of the exercises (70 percent) were of the tabletop type; 30 percent were either functional or full-scale. Figure 4 reflects the focus of the exercises.
+
+Figure 4: FEMA Terrorism Preparedness Exercise Participation, by Focus (1996- 2000)
+
+12%
+
+Crisis
+
+47%
+
+Consequence
+
+41%
+
+Both
+
+Source: FEMA (as of Sept. 2000).
+
+In May 2000, in responding to a congressional mandate that a national combating terrorism field exercise be conducted, FEMA joined with the Department of Justice to sponsor TOPOFF (top officials) 2000.18 TOPOFF 2000 was a large-scale, "no-notice exercise"19 of federal, state, and local organizations', including the American Red Cross, plans, policies, procedures, systems, and facilities to assess the nation's crisis and consequence management capability. In Denver, Colorado, the exercise involved a biological weapons incident, and in Portsmouth, New
+18
+
+This requirement is in House Report 105-825 (Oct. 19, 1998), Making Omnibus Consolidated and Emergency Supplemental Appropriations for Fiscal Year 1999. No-notice exercises are conducted without advance notice to the participants, thus providing the highest degree of challenge and realism.
+
+19
+
+Page 19
+
+GAO-01-15 Combating Terrorism
+
+Hampshire, the exercise involved a chemical incident. In addition, NCR 2000 (National Capital Region), a separate but concurrent exercise, was a no-notice exercise of an incident that involved simulated mass casualties and highlighted the use of radiological devices. (Fig. 5 shows a decontamination team during the exercise.) NCR 2000 consisted of previously planned exercises that complemented the TOPOFF 2000 activities but did not involve agencies' top officials. An assessment of the benefits of these exercises was under way but not available at the time of our review.20
+
+Figure 5: Hazardous Material Decontamination Team in Aurora, Colorado, During TOPOFF 2000
+
+Source: GAO.
+
+During the last 5 years, FEMA has also conducted a series of functional exercises for community-based public officials and emergency personnel as part of its Integrated Emergency Management Course: Consequences of Terrorism. Through the simulation of a realistic crisis scenario, participants are exposed to an increasingly complex and stressful situation within a
+
+20
+
+FEMA does not intend to produce an after-action report for the TOPOFF 2000/NCR 2000 exercises but will provide input for the Department of Justice's after-action report.
+
+Page 20
+
+GAO-01-15 Combating Terrorism
+
+structured learning environment. The course culminates in an emergency exercise designed to test leadership, knowledge, awareness, and interpersonal skills. Figure 6 shows dispatchers participating in an exercise during the course at the Mount Weather Emergency Assistance Center. (See app. II for additional information on the course.)
+
+Figure 6: Operations Group Dispatchers During the Consequences of Terrorism Course Exercise
+
+Source: FEMA.
+
+Agency Comments and Our Evaluation
+
+We provided a draft of this report to FEMA for its review and comment. FEMA agreed with the report's characterization of its terrorism-related activities and provided technical comments for our consideration. We incorporated technical comments as appropriate. A copy of FEMA's letter is included in appendix III.
+
+Scope and Methodology
+
+To determine the extent FEMA has incorporated lessons learned from its response to the Oklahoma City bombing incident, we reviewed FEMA's after-action report and the after-action report prepared by the Oklahoma Department of Civil Emergency Management. To determine the actions taken to address the lessons learned, we interviewed senior FEMA officials and officials in the Preparedness and Response and Recovery Directorates,
+
+Page 21
+
+GAO-01-15 Combating Terrorism
+
+using a survey instrument keyed to the 3 broad and 22 specific recommendations contained in the FEMA report.21 FEMA's Region VI Director, who coordinated federal operations after the bombing, provided a written response to our questions. We also identified and reviewed several actions that FEMA and its partner federal agencies implemented to improve its response to terrorist incidents, for example, the revisions to the Federal Response Plan, the addition of a Terrorism Incident Annex, and improvements to the terrorism training program. We also surveyed FEMA's regions and the states to determine whether the states' and localities' emergency operations plans are current, mirror the Federal Response Plan, and incorporate a section on terrorism. To determine the extent to which FEMA has ensured the preparedness of states and federal agencies to respond to terrorist incidents, we reviewed our prior work on combating terrorism, FEMA's strategic plan, annual performance plans and reports, and the Terrorism Preparedness Strategic Plan. We also reviewed PDDs 39 and 62 and discussed their requirements with top FEMA officials relative to the Federal Response Plan and its Terrorism Incident Annex, FEMA's budget for consequence management, the State and Local Guide for All-Hazard Emergency Operations Planning and its draft section on unique planning considerations for terrorism incidents, special events' operational plans, and the Capability Assessment for Readiness report. We also reviewed FEMA's terrorism grants program, including several state grant proposals and reports. To determine progress in the terrorism preparedness training since the Oklahoma City bombing, we visited and interviewed senior agency officials at the National Emergency Training Center, including the Emergency Management Institute and the National Fire Academy, in Emmitsburg, Maryland. To assess the dispersion and density of FEMA's training program coverage, we used a geographic information systems program to map students' city or zip codes for three selected courses. To assess FEMA's progress in ensuring that states' response plans are adequate and tested, we reviewed our prior work on terrorism preparedness exercises. We analyzed the numbers, types, and threat scenarios of terrorism exercises conducted in the states since 1995. We also discussed the nature, scope, and extent of the terrorism exercise program with several state program managers for the emergency
+
+21 Report of the FEMA EM 3115, DR-1048 Review of the Bombing of the Alfred P. Murrah Building, Apr. 19, 1995, Oklahoma City, Oklahoma, June 12-13, 1995 (Sept. 1995).
+
+Page 22
+
+GAO-01-15 Combating Terrorism
+
+management of terrorist incidents and exercise directors. We interviewed and obtained exercise program data from officials at FEMA headquarters. During our visit to the National Emergency Training Center, we observed a terrorism consequence management exercise conducted as a part of FEMA's Integrated Emergency Management Course: Consequences of Terrorism. We also discussed the course and exercise with some of its participants. We also examined policies, program plans, guidelines, and handbooks; exercise plans and reports; and training course materials. We attended NCR 2000 controller/observer training and observed TOPOFF 2000 and NCR 2000 exercise operations in the FEMA emergency operations center and the Catastrophic Disaster Response Group. We performed our work from March through December 2000 in accordance with generally accepted government auditing standards.
+
+Unless you publicly announce the contents of this report earlier, we plan no further distribution of this report until 30 days after its issue date. At that time, we will send copies to appropriate congressional committees and the federal agencies discussed in this report. We will also make copies available to other interested parties upon request. If you have any questions about this report, please contact me at (202) 512-6020. GAO contacts and staff acknowledgments to this report are listed in appendix IV.
+
+Raymond J. Decker Director, Defense Capabilities and Management
+
+Page 23
+
+GAO-01-15 Combating Terrorism
+
+Appendix I
+
+Federal Emergency Management Agency Programs With Well-Established Consequence Management Exercise Practices
+
+A p p e n d x ie s
+
+A p p e n d x i I
+
+The Chemical Stockpile Emergency Preparedness Program (CSEPP) and the Radiological Emergency Preparedness (REP) Program are Federal Emergency Management Agency (FEMA) programs that conduct consequence management exercises. CSEPP and REP exercises (1) have clearly defined objectives, (2) are resourced with both headquarters and field staff involvement, (3) have consistent schedules and assessment programs, and (4) build on lessons learned through after-action reporting. CSEPP and REP cover 10 and 32 states, respectively, and together conduct about 40 exercises per year.
+
+CSEPP
+
+In 1985, Congress directed1 the Department of Defense to dispose of its premixed (i.e., lethal unitary) chemical agents and munitions while providing
+
+"maximum protection for the environment, the general public and the personnel involved in the destruction of lethal chemical agents and munitions ...." Ten states (8 with storage facilities) and 40 counties are
+involved. In response to congressional direction, the Army sought funds to support a site-specific emergency planning program for communities located near the bases within those 10 states that could be affected by the release of chemicals during storage or destruction. Because the Army had little experience dealing with state and local emergency management authorities and possessed no infrastructure to manage the program, it looked for support from other federal agencies, specifically FEMA, to help meet the mandate. Therefore, FEMA joined the Army in implementing CSEPP through a Memorandum of Understanding signed in August 1988. CSEPP's goal is to improve preparedness to protect the people of these communities in the event of an accident involving U.S. stockpiles of obsolete chemical munitions. The Memorandum of Understanding identified the specific responsibilities of the Army and FEMA, defining areas of expertise and outlining where cooperation would result in a more efficient use of personnel and resources. FEMA is responsible for developing preparedness plans, upgrading response capabilities, and conducting training for communities located near the Army bases.
+
+1
+
+P.L. 99-145, title 14, part B, section 1412, codified at 50 U.S.C. 1521.
+
+Page 24
+
+GAO-01-15 Combating Terrorism
+
+Appendix I Federal Emergency Management Agency Programs With Well-Established Consequence Management Exercise Practices
+
+Local and state emergency services, along with public health, environmental, fire and rescue, law enforcement, and medical service agencies, have major roles, as do elected and appointed officials. The Army and FEMA provide funding, training, guidance, technical support, and expertise. Other federal agencies, including the Environmental Protection Agency and the Department of Health and Human Services, also lend their expertise in specific areas. CSEPP provides planning, training, equipment, emergency operations centers, command and control systems, personnel, cooperative agreement funds, exercises, and more. FEMA administers the local community portion of the program primarily through its regional offices. Each region has a CSEPP program manager. FEMA serves as CSEPP exercise codirector in each region and takes the lead in planning, conducting, evaluating, reporting, and tracking identified findings. CSEPP funds pay for over 200 staff at the state and county levels, including planners, trainers, health and automation experts, and logistical personnel. Comprehensive planning guidance is contained in FEMA's Planning Guidance for the Chemical Stockpile Emergency Preparedness Program. CSEPP was established to test local, installation, and state emergency operations plans and the jurisdictions' capabilities to implement those plans. The program is governed by the Exercise Policy and Guidance for the Chemical Stockpile Emergency Preparedness Program. Exercises are generally conducted on an annual basis at each location. Through 1999, 62 CSEPP exercises had been conducted. For many of the state and local jurisdictions, CSEPP's comprehensive, multijurisdictional exercise program was a new concept. Before CSEPP, communities exercised their emergency preparedness capabilities; however, exercises were generally focused on first responder fire or hazardous materials communities. Thus, multijurisdictional exercises were the exception, rather than the norm. CSEPP included two types of exercises, the Federally Managed Exercise and the Alternate Year Exercise. Localities may conduct additional exercises. The Federally Managed Exercise is a mandatory, federally evaluated readiness assessment of a community's full capabilities to respond to a chemical stockpile accident. This exercise tests the entire emergency response effort and evaluates interaction of all components. It involves mobilization of emergency service and response agencies, activation of communications centers and emergency facilities, such as emergency operations centers and command posts, and field play. An Alternate Year Exercise is used by a community to train participants,
+
+Page 25
+
+GAO-01-15 Combating Terrorism
+
+Appendix I Federal Emergency Management Agency Programs With Well-Established Consequence Management Exercise Practices
+
+evaluate emergency operations plans, evaluate procedures for new equipment or resources, validate corrections to outstanding findings, and address other issues. A community may request varying levels of federal support or management. Many lessons have been learned from the exercises. For instance, FEMA has learned that communication between installations and nearby communities has improved considerably over the years and that assessing threat and meeting notification times for nearby communities has been difficult. The information gained from post-exercise reports allows planners to focus exercises on areas requiring greater attention. Every exercise evaluation ends with a meeting in which exercise evaluators provide immediate feedback to the community. Further, a 45-day review and comment period is provided prior to finalization and distribution of the exercise report, which consists of a plan negotiated by regional, state, and local officials to correct deficiencies and identify responsibility for corrective actions. Problems noted during exercises are addressed in future planning and training activities.
+
+REP
+
+FEMA is the lead federal agency for planning and preparedness for all types of peacetime radiological emergencies,2 including accidents at commercial nuclear power plants. Dating back to the incident at Three Mile Island in 1979, FEMA has worked with state and local governments to ensure that emergency preparedness plans are in place for U.S. commercial nuclear power plants.3 FEMA issues policy and guidance to assist state and local governments in developing and implementing their radiological emergency response plans and procedures. Much of this FEMA guidance is developed with the assistance of the Federal Radiological Preparedness Coordinating Committee and its member agencies. REP has a goal of ensuring that the public health and safety of residents living around commercial nuclear power plants are adequately protected in the event of an accident. The program's responsibilities encompass only "off-site" activities--that is state and local government emergency
+
+2
+
+The Federal Radiological Emergency Response Plan outlines the federal response to any peacetime radiological emergency.
+
+3
+
+There are 104 commercial nuclear reactors at 65 sites licensed by the Nuclear Regulatory Commission to operate in the United States.
+
+Page 26
+
+GAO-01-15 Combating Terrorism
+
+Appendix I Federal Emergency Management Agency Programs With Well-Established Consequence Management Exercise Practices
+
+preparedness activities that take place beyond the nuclear power plant's boundaries. On-site activities continue to be the responsibility of the Nuclear Regulatory Commission. REP is responsible for � reviewing and evaluating off-site radiological emergency response plans developed by state and local governments; � evaluating exercises conducted by state and local governments to determine whether plans are adequate and can be implemented; � preparing findings and making determinations on the adequacy of off-site emergency planning and preparedness and submitting them to the Nuclear Regulatory Commission; � responding to requests by the Nuclear Regulatory Commission under the Memorandum of Understanding between the Commission and FEMA dated June 17, 1993; � coordinating the activities of more than a dozen federal agencies with responsibilities in the radiological emergency planning process; and � chairing the Federal Radiological Preparedness Coordinating Committee and the Regional Assistance Committee. REP evaluates the adequacy of state and local emergency preparedness plans during regular exercises. REP exercises are designed to test the capability of off-site response organizations to protect the public health and safety through the implementation of their emergency response plans and procedures under simulated accident conditions. FEMA's Radiological Emergency Preparedness Exercise Manual and the Radiological Emergency Preparedness Exercise Evaluation Methodology serve as the principal documents that FEMA uses in all aspects of REP exercises. According to FEMA officials, these documents have been valuable tools for assessing the adequacy and implementation of state and local governments' radiological emergency preparedness plans and procedures. The exercise manual provides guidance for planning and conducting REP exercises. It provides basic guidance for the interpretation and application of planning standards and evaluation criteria. These standards and criteria are included in 33 REP objectives that are to be demonstrated by the off-site response organizations at the biennial REP exercises. The exercise objectives address the off-site response organization's capability to carry out specific radiological emergency functions such as communications, mobilization of emergency response personnel, accident assessment,
+
+Page 27
+
+GAO-01-15 Combating Terrorism
+
+Appendix I Federal Emergency Management Agency Programs With Well-Established Consequence Management Exercise Practices
+
+protective action decision-making and implementation, public alerting and notification, and evacuee monitoring and decontamination. Similarly, the exercise evaluation methodology assists FEMA and other federal agencies in the uniform and consistent documentation of the performance of the off-site response organizations during REP exercises. The REP methodology document contains a set of 33 multipage evaluation forms, 1 for each of the 33 REP objectives delineated in the exercise manual. Each evaluation form consists of a series of short questions or prompts (points of review) for each REP objective to facilitate the exercise evaluator's systematic collection and documentation of essential data and information required by FEMA. This information provides the basis for FEMA findings and determinations on the adequacy of plans and preparedness that are submitted to the Nuclear Regulatory Commission for consideration in licensing decisions. Figures 7 and 8 show the level of program funding for the FEMA exercise program and provide indicators for the level of effort required for an exercise program.
+
+Page 28
+
+GAO-01-15 Combating Terrorism
+
+Appendix I Federal Emergency Management Agency Programs With Well-Established Consequence Management Exercise Practices
+
+Figure 7: FEMA Exercise Program Funding, by Major Category
+
+Dollars in millions 8
+
+6
+
+4
+
+2
+
+0 1996 Fiscal Year
+Terrorism
+
+1997
+Radiological
+
+1998
+Chemical
+
+1999
+Other
+
+2000
+
+Source: Analysis of FEMA data.
+
+Page 29
+
+GAO-01-15 Combating Terrorism
+
+Appendix I Federal Emergency Management Agency Programs With Well-Established Consequence Management Exercise Practices
+
+Figure 8: FEMA Exercise Program, by Major Category
+Numbers of Field Exercises Per Year 50
+
+40
+
+30
+
+20
+
+10
+
+0 1996 Fiscal Year
+Terrorism
+
+1997
+
+1998
+
+1999
+
+2000
+
+Radiological
+
+Chemical
+
+Source: Analysis of FEMA data.
+
+Page 30
+
+GAO-01-15 Combating Terrorism
+
+Appendix II
+
+FEMA's Terrorism Preparedness Training Program
+
+A p p e n d x i I
+
+FEMA has developed and expanded a terrorism preparedness curriculum involving several of its organizations. FEMA's Emergency Management Institute, which delivers numerous all-hazards emergency response and related courses, also delivers several courses that focus on the implications of terrorism incidents for emergency management. Similarly, FEMA's National Fire Academy, part of the United States Fire Administration, has developed a series of courses addressing emergency response for terrorism incidents. These courses are primarily for delivery to first fire and rescue responders and to incident commanders.
+
+Emergency Management Institute
+
+As part of its all-hazards emergency response and recovery curriculum, the Emergency Management Institute has developed and delivered numerous emergency response, incident command, and related courses. These courses are offered to federal, state, and local organizations and personnel. The Institute also offers a number of courses that incorporate terrorism preparedness elements. Some of these courses are focused on the Community Emergency Response Team, Radiological Emergency Response Operations, Incident Command System, exercise design, and Mass Fatalities Incident Response. FEMA has also developed a course, Terrorism and Emergency Management, as part of its Higher Education Project. Through the National Fire Academy, FEMA provides several courses in the Emergency Response to Terrorism curriculum. The Institute delivered its first terrorism preparedness course, the Integrated Emergency Management Course: Consequences of Terrorism, in 1996. Since then, the Institute has incorporated terrorism preparedness in its courses as part of the all-hazards approach. Following are other terrorism preparedness courses developed and offered by the Institute: � Emergency Response to Criminal and Terrorist Incidents. A 1-day course that focuses on the interface between law enforcement authorities and emergency management system personnel. It addresses topics such as lifesaving and evidence preservation. This course can be taught by local officials using Institute materials. � Senior Officials Workshop on Terrorism. A 1-day course that addresses special planning and policy considerations related to terrorism preparedness. The workshop is conducted on location, with a 3-hour instructional module followed by a 3-hour exercise. The target audience is the mayor and other senior management officials. (Fig. 9 highlights the locations where officials have received this training.)
+
+Page 31
+
+GAO-01-15 Combating Terrorism
+
+Appendix II FEMA's Terrorism Preparedness Training Program
+
+Figure 9: Locations of Workshops on Terrorism for Senior Officials (1996-June 2000)
+
+Source: Our analysis of FEMA data.
+
+Weapons of Mass Destruction Course. A series of facilitator-led courses intended to improve the ability of senior local government officials to manage and respond to mass casualty terrorism incidents involving the use of weapons of mass destruction. Each course in the series incorporates the same five objectives, with a different weapons of mass destruction scenario introduced during each course. The scenarios include incidents involving nuclear, radiological, chemical, and biological agents or devices. (Fig. 10 shows where this course was given during 1996-June 2000.)
+
+Page 32
+
+GAO-01-15 Combating Terrorism
+
+Appendix II FEMA's Terrorism Preparedness Training Program
+
+Figure 10: Locations of Courses on Weapons of Mass Destruction (1996-June 2000)
+
+Source: Our analysis of FEMA data.
+
+Integrated Emergency Management Course: Consequences of Terrorism
+
+This exercise-based course focuses on preparing local community officials who must respond to the consequences of a terrorist act. The Integrated Emergency Management Course: Consequences of Terrorism is presented at the Institute and on location. Two versions are offered based on the audience. A general iteration is presented to local officials from different venues, while a more tailored program is presented to officials from the same city or community. Table 3 provides a nominal list of the participants for the tailored course.
+
+Page 33
+
+GAO-01-15 Combating Terrorism
+
+Appendix II FEMA's Terrorism Preparedness Training Program
+
+Table 3: Nominal Participants in the Integrated Emergency Management Course: Consequences of Terrorism, by Discipline and Position Government Mayor City/county manager City council County board City/county attorney City clerk/records clerk Finance director Procurement director Planning director Personnel director Risk manager Public works/utilities Public works director Assistant public works director Street superintendent Water superintendent Sewer superintendent Engineering representative Solid waste representative Electric company representative Gas company representative Telephone company representative Building and safety representative- Emergency Operations Center Public works dispatcher Law enforcement Police chief Assistant police chief Police investigations Police operations officer Police dispatcher Sheriff Chief deputy sheriff Sheriff's operations officer Sheriff's dispatcher State police operations officer State police representative in Emergency Operations Center Fire Fire chief Assistant fire chief Fire marshal Fire HAZMAT representative Fire operations officer Fire dispatcher Emergency medical/health Emergency medical coordinator Emergency medical operations officer Emergency medical dispatcher Public director Emergency Management Emergency program manager Assistant emergency program manager National Guard representative Information technology specialist Local transit representative Community services Red Cross representative-Emergency Operations Center Red Cross representative- operations Salvation Army representative School superintendent Assistant school superintendent
+
+Page 34
+
+GAO-01-15 Combating Terrorism
+
+Appendix II FEMA's Terrorism Preparedness Training Program
+
+(Continued From Previous Page) Public health officer Public information officers (PIO) PIO in Policy Group PIO in Emergency Operations Center PIO in Operations Group Assistant public health officer Environmental health representative Mental health representative Hospital coordinator Medical examiner Toxicologist
+Source: FEMA.
+
+Prior to presenting the tailored version on site, the Institute sends an advance team to the receiving location to review its Emergency Operations Plan and design the exercise phase based on the actual environment. Classroom instruction, planning sessions, and exercises are intended to allow for structured decision-making in a realistic environment. Special emphasis is placed on the fact that the disaster area is also a crime scene. In addition to the actual exercise of plans and procedures, participants' skills and abilities are tested. As shown in figure 11, the course has reached a wide audience throughout the nation.
+
+Page 35
+
+GAO-01-15 Combating Terrorism
+
+Appendix II FEMA's Terrorism Preparedness Training Program
+
+Figure 11: Locations of and Participants in the Integrated Emergency Management Course (1996-June 2000)
+
+Source: Our analysis of FEMA data.
+
+To facilitate its training program, FEMA has increased the use of independent study courses and the Internet. FEMA has also implemented a satellite-based distance learning system, the Emergency Education NETwork, that can provide interactive training programs to communities nationwide.
+
+United States Fire Administration's National Fire Academy
+
+The United States Fire Administration is responsible for numerous emergency management activities, including disaster planning, community preparedness, hazard mitigation, and training. In addition to its more traditional role, the Fire Administration is also an active participant in the preparation for and fight against terrorism. The Fire Administration participates as an active member of the FEMA federal response team and its staff members support many of the Federal Response Plan activities.
+
+Page 36
+
+GAO-01-15 Combating Terrorism
+
+Appendix II FEMA's Terrorism Preparedness Training Program
+
+The National Fire Academy, part of the Fire Administration, works to enhance the ability of fire and emergency services and allied professionals to deal more effectively with fire and related emergencies. Along with its federal partners and response shareholders, the Academy has developed a series of courses for delivery to first fire and rescue responders. The Academy has a number of course delivery systems. On the Emmitsburg, Maryland, campus, the Academy conducts specialized training courses and national-level advanced management programs. The Academy also delivers courses throughout the nation in cooperation with state and local fire training organizations and local colleges and universities. Students can attend courses within their geographical regions through the Academy's off-campus, Regional Delivery Program. Through a cooperative working relationship with state and local fire training systems, the Academy's Train-the-Trainer Program provides expanded opportunities for fire service personnel to participate in Academy courses. Personnel of the four branches of the armed services also participate in this program at the state and local level. The Academy began developing its initial Emergency Response to Terrorism courses for firefighters in fiscal year 1996 and delivered its initial course in fiscal year 1997. The numbers of courses have steadily increased. Currently, seven different Emergency Response to Terrorism courses are offered (see table 4). According to FEMA officials, other courses are under development.
+
+Page 37
+
+GAO-01-15 Combating Terrorism
+
+Appendix II FEMA's Terrorism Preparedness Training Program
+
+Table 4: FEMA's Emergency Response to Terrorism Courses and Curriculum Aid Offered Emergency Response to Terrorism: SelfStudy Description This is a self-paced, paper-based course providing basic awareness training to help prepare first responders for terrorism incidents. It is also available online.
+
+Emergency Response to Terrorism: Basic This 2-day course is designed to prepare the first responder to take the appropriate actions at Concepts a potential terrorist incident. Subjects covered include understanding terrorism, types of terrorist weapons, defensive considerations, and command and control. Course focus includes recognition of terrorist incidents, implementation of self-protection measures, and scene security. Emergency Response to Terrorism: Tactical Considerations-Company Officer This 2-day course is designed to build upon the existing skills of the initial first responding supervisor from the self-study and basic concepts courses. The student is trained in security considerations, identifying signs of terrorism, assessing information, and anticipating unusual response circumstances. This 2-day course is designed for the first-on-the-scene emergency medical services personnel with the responsibility of rendering patient care to victims of terrorist incidents. In addition to building upon the skills of the self-study and basic concepts courses, the students also apply their knowledge about responding to a terrorist event. This 2-day course is designed for the first-on-the-scene hazardous materials technician or other person having the responsibility of developing initial hazardous material tactical considerations. The students also apply their knowledge about responding to a terrorist event. This 6-day advanced level course is designed to focus on fire service response to terrorism from an incident management approach. The course presumes a knowledge of the Incident Command System and deals with issues such as recognizing a terrorist incident, preservation of evidence, planning an intelligence, federal response and unified command, hazardous materials, and emergency medical services. It uses simulation exercises and case studies. This 2-day course focuses on the duties and responsibilities of the Command officer of the fire department who may respond to a terrorist incident. The curricula covers strategic planning considerations, interface with counterparts at each level, incident termination, debriefing, and transition to normalcy. The National Fire Academy developed this handbook to support the Emergency Response to Terrorism curriculum. Incidents involving weapons of mass destruction happen infrequently. However, because of the specialized response actions that will likely be required, emergency first responders can benefit from a job aid that helps them make decisions that will not further endanger themselves or the general public.
+Source: FEMA.
+
+Emergency Response to Terrorism: Tactical Considerations-Emergency Medical Services Emergency Response to Terrorism: Tactical Considerations-Hazardous Materials Emergency Response to Terrorism: Incident Management
+
+Emergency Response to Terrorism: Strategic Considerations for Command Officers Curriculum Aid: Emergency Response to Terrorism: Job Aid
+
+Page 38
+
+GAO-01-15 Combating Terrorism
+
+Appendix III
+
+Comments From the Federal Emergency Management Agency
+
+A p p e n d x i I
+
+Page 39
+
+GAO-01-15 Combating Terrorism
+
+Appendix IV
+
+GAO Contacts and Staff Acknowledgments
+
+A p p e n d x i V I
+
+GAO Contacts
+
+Clifton Spruill (202) 512-4531 Roderick Rodgers (202) 512-2897
+
+Acknowledgments
+
+In addition to those named above, Nadine Furr, Jay Willer, and Judy Clausen made key contributions to this report.
+
+(702054)
+
+L e t e r
+
+Page 40
+
+GAO-01-15 Combating Terrorism
+
+Ordering Information
+
+The first copy of each GAO report is free. Additional copies of reports are $2 each. A check or money order should be made out to the Superintendent of Documents. VISA and MasterCard credit cards are accepted, also. Orders for 100 or more copies to be mailed to a single address are discounted 25 percent. Orders by mail: U.S. General Accounting Office P.O. Box 37050 Washington, DC 20013 Orders by visiting: Room 1100 700 4th St. NW (corner of 4th and G Sts. NW) U.S. General Accounting Office Washington, DC Orders by phone: (202) 512-6000 fax: (202) 512-6061 TDD (202) 512-2537 Each day, GAO issues a list of newly available reports and testimony. To receive facsimile copies of the daily list or any list from the past 30 days, please call (202) 512-6000 using a touchtone phone. A recorded menu will provide information on how to obtain these lists. Orders by Internet: For information on how to access GAO reports on the Internet, send an e-mail message with "info" in the body to: info@www.gao.gov or visit GAO's World Wide Web home page at: http://www.gao.gov
+
+To Report Fraud, Waste, or Abuse in Federal Programs
+
+Contact one: � Web site: http://www.gao.gov/fraudnet/fraudnet.htm � e-mail: fraudnet@gao.gov � 1-800-424-5454 (automated answering system)
+
+United States General Accounting Office Washington, D.C. 20548-0001 Official Business Penalty for Private Use $300 Address Correction Requested
+
+Presorted Standard Postage & Fees Paid GAO Permit No. GI00
+
+

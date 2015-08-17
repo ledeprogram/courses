@@ -1,0 +1,188 @@
+:.,:, .! " I:.. t
+
+:
+
+: : i'l.,. .` ,
+
+`..
+
+:.'
+
+.'
+
+r
+
+..
+
+United States
+General Accounting Office Washington, D.C. 20548 National Security and International Affairs Division
+
+B-25439 1 February 24,1994 The Honorable John P. Muttha Chairman, Subcommittee on Defense Committee on Appropriations House of Representatives Dear Mr. Chairman: In May 1992, at your request, we provided your Subcommittee a statement for the record' that discussed the Department of Defense' s (DOD) projections for increased military satellite communication requirements and DOD' S expectations for greater use of commercial satellite communications. This report is in response to your continuing interest in these matters. It S requirements that reduces the potential for discusses (1) a change in DOD' greater use of commercial satellite communications and (2) ineffkiencies in DOD' s commercial satellite leasing practices.
+
+During the past several years, the Congress has been critical of DOD' S management of military satellite communications-a primary concern being high costs. Congressional reports in 1989 and 1990 directed DOD to prepare a comprehensive, affordable architecture that defined all satellite communication requirements and potential solutions to satisfy the requirements,
+
+In November 1991, DOD published its military satellite communications architecture study that identified several alternatives for satisfying requirements, including the use of commercial communication satellites.2 Earlier, in February 1991, the White House had established U.S. commercial space policy guidelines (National Space Policy Directive 3) requiring U.S. government agencies to use commercially available space products and services to the fullest extent feasible. The policy was based on the presumption that potential large economic benefits would result.
+
+` Military Satellite Communications: Potential for Greater Use of Commercial Satellite Capabilities (GAOR-NSIAD-9239, May 22, 1992). 2We discussed DOD' s architecture study and various alternatives in a report entitled Military Satellite Communications: Opportunity to Save Billions of Dollars (GAO/NSUD-93-216, July 9, 1993).
+
+Page 1
+
+GAO/NSJAD-94-48
+
+Military
+
+Satellite
+
+Communications
+
+B-254391
+
+The architecture study described two broad categories of requirements--core and general purpose. Core requiremenb (1) are associated with critical communications for commanding and controlling combatant forces in stressed environments;3 (2) generally call for satellites to be designed to military specifications that would include an antijamming capability-a costly, but essential, survivability feature; and (3) were relatively small compared to the number of general purpose requirements. General purpose requirements (1) are associated with less critical or less time-sensitive communications in unstressed environments that involve, for example, transmissions of logistics, administrative, and intelligence data and (2) do not call for highly jam-resistant capabilities, making commercial communication satellites highly suitable for satisfying such requirements. To explore greater use of commerciaI satellite communications, the Congress provided DOD $15 million for fiscal year 1992. The rationale, as outlined in House Appropriations Committee Report 102-95, dated June 4, 1991, was that, excluding nuclear war, most DOD communications take place in an unstressed environment and, therefore, do not require special survivability features that are provided by military satellites. The report stated that advancements in ckilian communication satellite capacity, capability, and reliability have made commercial satellites attractive and relatively inexpensive. The report also stated that, considering plans to deploy the Milstar system for the most demanding military scenarios, DOD must begin moving aggressively toward maximum use of commercial satellite communication systems.
+DOD representatives informed us that in September 1992, the Office of the Secretary of Defense awarded contracts to three companies to study ways of increasing commercial satellite usage and to estimate the related costs. Subsequent indications from the contractors were that commercial satellites are well-suited for satisfying general purpose requirements. DOD intends to use the study results in making decisions on its communications architecture.
+
+Congressional concerns regarding high military satellite communication costs may become even more important because in 1993, DOD projected that its requirements for 1997 would be 75 percent greater than it had projected in 1991. Despite the decline in U.S. force levels, the Joint Staff stated that there is an increasing need for information to be moved to,
+"Stressed environments refer to the level of ekctronic jamming that is expected or may be encountered.
+
+Page 2
+
+GAO/NSIAD-94-48
+
+Military
+
+Satellite
+
+Communications
+
+B-264391
+
+from, and around the battlefield because of the (1) increased use of imagery and video teleconferencing, (2) demands associated with high technology weapons and sensors, and (3) importance of more timely data
+
+Results in Brief
+
+commercial satellite communications to reduce the cost of military satellite communications. In response to this guidance, DOD is studying ways to increase its use of commercial satellite services. However, a new criterion used by DOD for establishing communication requirements reduced general purpose requirements by over 40 percent. In addition, we noted, and DOD representatives acknowledged, that (1) core requirements may be overstated because users may have favored military communications that are provided at no direct cost to them and (2) general purpose requirements may be understated because users must pay for commercial services through their units' budgets. These factors reduce the potential for using commercial satellite communication services.
+DOD' S current approach to leasing commercial satellite communication services is not centrally managed and does not take advantage of economies of scale. According to DOD, most of this leasing is obtained on an ad hoc basis, reflecting the lack of an adequate plan to obtain cost-effective services. In addition, leasing individual circuits is costly, compared with packaging them into larger quantities and using full satellite transponders4 that have the capacity to handle multiple circuits.
+
+Reduced Potential for Using Commercial Satellites
+
+In 1991, DOD projected that its total 1997 satellite communication requirements would be about 988 million bits per second5450 million bits for general purpose and 138 million bits for core requirements. In 1992, DOD began using additional criteria to define general purpose and core requirements. One new criterion involved users who needed both anti&n and non-antijam communications-referred to as "collocated" requirements. According to DOD representatives, many users with these requirements can only operate and maintain one type of communications
+
+4The equipment, including receiver, transmitter, and antenna, on a communications satellite that receives a signal from an earth station, shifts the signal from the uplink to the downlink frequency, and amplifies and retransmits the signal to another earth station or stations. ` These requirements are measured in terms of throughput capacity-the that can be passed through the satellites per second. number of bits of information
+
+Page 3
+
+GAO/NSIAD-94-48
+
+Military
+
+Satellite
+
+Communications
+
+B-254391
+
+terminal because of physical or affordability reasons. As a result, DOD presumed that terminals used to satisfy collocated requirements needed to be antijam capable because at least part of the terminals' operations might be in a jamming environment. DOD, therefore, defined all collocated requirements as core. In 1993, DOD projected its total 1997 requirements to be over 1.7 billion bits per second. However, it reduced general purpose requirements by over 40 percent from the 1991 projection of 850 million bits to 502 million bits while core requirements increased from 138 million bits to 1,227 million bits. A Defense Information Systems Agency analysis estimated that about 300 miIlion bits that would otherwise be general purpose requirements were collocated with core requirements. This represented an additional amount that could be satisfied by commercial satellites. Figure 1 compares the 1991 projection, which did not include collocated requirements, to the 1993 projection, which did include such requirements.
+
+Page 4
+
+GAOfNSIAD-94-48
+
+Military
+
+Satellite
+
+Communications
+
+B-254391
+
+Figure 1: DOD' s 1991 and 1993 Projections of 1997 Military Satellite Communication Requirements
+
+2000 1800 1600 1400 1200 1000 800 600 400
+
+Millions
+
+of Bits Per Second
+
+98.9
+
+1227
+
+General Purpose
+
+We discussed another factor with DOD representatives that could have accounted for part of the changes in general purpose and core requirements. Military satellite communications are provided to quaMed users by service acquisition activities through central accounts, at no direct charge, whereas commercial communication services we leased and must be paid by the users through their units' operations and maintenance accounts. According to the DOD representatives, the 1991 projection was made by Joint Staff and combatant command staffs, but the 1993 projection was made based on information from unit-level users. Because these users have a vested interest in their budgets, they may have favored military communications when commercial services would have sufficed. Thus, for the 1993 projection, core requirements could be overstated and general purpose requirements understated. Joint Staff and Defense Information Systems Agency representatives agreed that this situation could have occurred.
+
+Page 5
+
+GAO/NSIAIh94-48
+
+Military
+
+Satellite
+
+Communications
+
+B-254391
+
+Inefficient Commercial Satellite Leasing Practices
+
+DOD'S approach to leasing commercial satellite communication services is not centrally managed and does not take advantage of economies of scale. DOD recognizes that cost savings could be realized by consolidating individual circuit leases into larger packages.
+
+Under non Directive 5105.19, the Defense Information Systems Agency is responsible for acquiring commercial communication services for DOD and other federal agencies, as directed. The Agency does this through its Defense Commercial Communications Office (DECCO)--an industrial-funded activity that finances operations on a fee-for-service basis. In 1992, DECCO spent over $670 million on more than 70,000 leases for all types of communication services, Although DECCO does not routinely identify what potion of annual expenditures is for satellite services, the Agency estimated the amount in 1991 to be $160 million.
+DECCO representatives informed us that despite the Agency' s responsibility under the DOD directive, it is not mandatory for alI DOD components to acquire commercial services through DECCO. DOD estimated that most commercial satellite services are obtained on an ad hoc basis, bypassing DECCO, and are funded directly by the activity acquiring the service. An Agency study on the role of commercial system@ stated that ad hoc leasing reflected the lack of a coherent, consistent plan to obtain cost-efficient services and recommended that a master plan be created for centralized system engineering of DOD'S acquisition and use of commercial satellite communications.
+DECCO representatives also informed us that they have no way of knowing or estimating the amount of satellite communication services being leased directly by DOD components. The Agency study stated that although approximately 65 DOD circuits were routed on an international satellite system, the U.S. company associated with this system believed that there were about 500 DOD circuits. This indicated that about 435 circuits were being acquired on an ad hoc basis.
+
+Leasing circuits on an individual basis is costly, compared to packaging them into large quantities. According to the Agency study, the markup on the cost of an individual circuit can be as much as 25 times the markup on the cost of an entire transponder, including the necessary ground equipment. The study recommended that commercial circuit leases be
+"Recommended Role For Commercial Satellite Communication Systems in an Integmted Military --.- -7 Satellite Communications Architecture, Defense Communications Agency (June 14, 1991). On June 25, 1991,the Defense Comrrktii~i6%&$ncy' s name was changed to the Defense Information Systems Agency.
+
+Page 6
+
+GAO/NSIAD-94-48
+
+Military
+
+Satellite
+
+Communications
+
+B-254391
+
+more efficiently packaged to achieve cost savings through bulk buying of transponder capacity. Industry representatives informed us that greater capacities and longer leasing periods would result in significant savings-up to 30 percent for a whole transponder that is leased for a year or more.
+
+Recommendations
+
+communication requirements, considering the new criterion used for making projections and the different means of paying for m ilitary and commercial communications, to ensure that maximum consideration is given to the use of commercial communication services. We also recommend that the Secretary of Defense strengthen commercial satellite communication leasing practices by (1) identifying the extent of commercial services being leased on an ad hoc basis by DOD components; (2) establishing firm policy and procedures for DOD components to coordinate their needs for these services through a central organization, such as the Defense Commercial Communications Office; and (3) directing that requests for commercial services be consolidated into economical packages and long-term leases, to the extent practical.
+
+Scope and Methodology
+
+We reviewed information associated with DOD'S m ilitary satellite communications, including the 199 1 architecture study, requirements data, directives, and correspondence. In addition, we interviewed several DOD representatives responsible for m ilitary satellite communications at the Office of the Secretary of Defense, Joint Staff, and the Defense Information Systems Agency. We also interviewed representatives at selected contractors' plants. As requested, we did not obtain written agency comments. However, we discussed the contents of this report with representatives from the Office of the Assistant Secretary of Defense for Command, Control, Communications, and Intelligence; Joint Staff; Department of the Army; Department of the Navy; and Defense Information Systems Agency. The representatives agreed that (1) commercial satellites could satisfy most of the general purpose requirements; (2) DOD'S approach to leasing commercial services could be more efficient, which could result in lower costs; and (3) centrally managed leasing should be emphasized.
+
+Page 7
+
+GAO/NSIAD-94-48
+
+Military
+
+Satellite
+
+Communications
+
+B-254391
+
+The representatives disagreed with our views concerning the reduced potential for using commercial satellites, stating that our requirements data was incorrect. They agreed to provide additional information to explain the matter. However, based on the information subsequently provided, our conclusion did not change. This was because our analysis showed that DOD had changed its definitions of core and general purpose requirements in 1992. Despite these definition changes, a comparison of 1991 and 1993 requirements data still showed the reduced potential. We performed our review between June 1992 and September 1993 in accordance with generally accepted government auditing standards.
+
+We are sending copies of this report to the Secretary of Defense; the Director, Office of Management and Budget; and other interested congressional committees. We will also make copies available to others upon request. This report was prepared under the direction of Thomas J. Schulz, Associate Director, Systems Development and Production Issues, who may be reached on (202) 512441 if you have any questions about this report. Other major contributors to this report are Homer H. Thomson, Assistant Director; Pierre F. Crosetto, Evaluator-in-Charge; and Brian J. Lipman, Evaluator. Sincerely yours,
+
+Louis J. Rodrigues Director, Systems Development and Production Issues
+
+(395202)
+
+Page 8
+
+GANNSIAD-94-48
+
+Military
+
+Satellite
+
+Communications
+
+

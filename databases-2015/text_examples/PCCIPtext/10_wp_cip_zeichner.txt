@@ -1,0 +1,237 @@
+Use of the Defense Production Act of 1950 for Critical Infrastructure 1 Protection
+Executive Summary
+· Critical infrastructure protection requires an integration of multiple goals, objectives, and policies. Currently, this nation lacks agreement on a comprehensive philosophic and legislative framework that integrates com peting policies for infrastructure protection purposes. · The Defense Production Act of 1950 is a powerful legislative tool for managing critical infrastructure service failures. At the core of critical infrastructure protection philosophy is a concern for national security, national defense, and the public health and welfare. Critical infrastructure preparedness, response, and restoration could all benefit
+
+from using the DPA in a judicious and targeted manner. · Congress has not thoroughly debated using the DPA for critical infrastructure disruptions. During the Year 2000 preparations, the Ad min istra tion was equally di vided on whether, and to what extent, the President could use the DPA in the event of a significant critical infrastructure disruption. · Several complex legal and policy issues permeate the debate. These include the definition of "national defense" in an information age context as well as the execution of Congress's delegation by the Administration, as reflected in Executive Order 12919.
+
+1
+
+© Lee M. Zeichner, All Rights Reserved (2001). I would like to extend my deep appreciation to the National Archives Administration for their support in providing access to original Defense Production Act debates and related resource materials. NARA is a national asset. I would also like to thank my legal assistants, Morgan Allen, Alexis Ovitt, and Jeanne Geers for their superb research skills and capabilities. Finally, my gratitude to John McCarthy (USCG-ret) for his valuable insights in analyzing the activities surrounding Year 2000 policy discussions.
+
+September, 2001
+
+1
+
+This paper should not be cited as a National Research Council report.
+
+Use of the Defense Production Act of 1950 for Critical Infrastructure Protection
+
+Multiple reports, technologists, and commentators have acknowledged the nation's significant reliance on critical infrastructure services. Our economic strength and stability are linked inextricably to the reliable delivery of essential The Defense Production Act and servicesincluding information and commuCritical Infrastructure Protection nications, energy, financial, transportation, As we move beyond the fifty-year anniversary emergency medical and police, and water. Paraof passage of the Defense Production Act of doxically, our robust capacity to deliver critical in fra struc ture serv ices 1950 ("DPA")2, both Conover in for ma tion netgress and the Administraworks leaves the nation . . . the nation lacks an integrated tion should re visit the vulnerable in new and diflegal, policy, and management gene sis of this pro found 3 philosophy to support critical ferent ways. Economic seleg is la tive frame work. curity, long an element of infrastructure protection efforts. Congress debated the DPA national security and naduring a dynamic period in tional defense, depends on our national history. With the re li able de liv ery of these critical infrastructhe memory of Pearl Harbor fresh in the Congress's institutional psyche and an undeclared ture services more than ever. conflict in Korea, both Congress and the Administration cooperated to develop a legislative framework that integrated competing defense, national economic security, and related policy demands. Overhaul of the DPA for Critical Infrastructure Protection Close to five years after the President's Commission on Critical Infrastructure ("PCCIP") issued its report,4 and now into the second Presidential Administration to govern in an information-based economy, the nation lacks However, governance and policy solutions from the "physical world" do not occur seamlessly in cyberspace. Reliance on information systems and networks creates diverse risks-- threats and vulnerabilities that are not ad dressed in traditional plans and processes. Problems and solutions cross over political boundaries and challenge many of the legislative frameworks and philosophies developed during the past 50 years. As a result, managing infrastructure disruptions demands alternative preparedness, response, and restoration strategies.
+
+· If the Defense Production Act is not overhauled for critical infrastructure purposes, Congress should immediately consider alternative legislative frameworks for managing national critical infrastructure disruptions. Absent this framework, the nation will continue to lack a unified approach to managing national cyber emergencies.
+
+an integrated legal, policy, and management philosophy to support critical infrastructure protection efforts.
+
+2
+
+3 4
+
+Defense Production Act of 1950, as amended, 50 USC App. § 2061 et seq. ("DPA"). This paper focuses exclusively on Title I authority to expedite the priority delivery of goods and services for the federal government's critical infrastructure goals and purposes. For an excellent overview and analysis of the DPA, please refer to Defense Production Act: Purpose and Scope , by David E. Lockwood, Congressional Research Service Order Code RS20587 (Updated June 22, 2001). The PCCIP recommended use of the DPA for national critical infrastructure disruptions. See Protecting America's Infrastructures, the Report of the President's Commission on Critical Infrastructure Protection at 81 (October, 1997).
+
+September, 2001
+
+2
+
+This paper should not be cited as a National Research Council report.
+
+Use of the Defense Production Act of 1950 for Critical Infrastructure Protection
+
+most vital defense and security programs.6 A Congressional and Administration strategy that Critical infrastructure protection requires an integrated policy framework. Risk diminishes the full reach of the DPA undermanagement, public-private collaboration, mines our ability to ensure essential operational responsibilities for the nanational defense, law tional se cu rity and deenforcement, intelligence, fense. emergency preparedness Reliance on information systems Year 2000 Cyber-Solutions Dismantled and networks creates diverse and response  all are This paper examines four risks--threats and vulnerabilities significant elements of an issues in support of broadly that are not addressed in integrated solution. In applying the DPA to crititraditional plans and processes. order to prepare for the cal infrastructure protecYear 2000 glitch, this tion activities. nation was forced to piece together an integrated governance framework; 1. Why did the Truman Administration enthe capabilities simply did not exist.5 courage Congress to pass the DPA, and how does history inform the current deMuch of the important work conducted prior to bate? the Millennium Rollover involved developing bridging mechanisms to cross over political 2. What role does the DPA play as a legislaboundaries and programs for the physical tive tool in addressing complex critical inworld. Unfortunately, both the federal governfrastructure challenges? ment and state governments have for the most part dismantled solutions developed in prepara- 3. What are the competing legislative philosophies for managing critical infrastructure tion for the Year 2000 glitch, including physical protection? watch centers as well as integrated policy frameworks. Consequently, there are consider4. Why must Congress and the Administraable deficiencies in the nation's ability to pretion collectively develop an integrated pare for, respond to, and recover from extensive framework that includes and promotes use critical infrastructure service failures. of the DPA? What are the ramifications for the nation if the government fails to resolve DPA as a Component these relevant policy challenges? of an Integrated Framework The DPA is one of the most significant Congressional authorities for supporting critical infrastructure protection efforts. Since President Truman signed the DPA into law in 1950, successive Administrations have stitched the DPA delegations into a safety net of Executive Orders, decision directives, and other significant legal doctrine, most of which implement our
+
+Truman and Clinton: Defense Production Act Philosophies
+Truman Introduces the DPA Framework Slightly over 50 years ago, during the summer of 1950, the Truman Administration's Director
+
+5 6
+
+See Amendment to Executive Order 13073, Year 2000 Conversion, Executive Order 13127 (June 14, 1999). See, e.g., Assignment of National Security Emergency Preparedness Telecommunications Functions, Executive Order 12472 (1984) (Restoring wireline communications for the federal government).
+
+September, 2001
+
+3
+
+This paper should not be cited as a National Research Council report.
+
+Use of the Defense Production Act of 1950 for Critical Infrastructure Protection
+
+of the National Security Resources Board entered the Dirksen Building with his counsel for the first of a three-day hearing on legislation entitled the Defense Production Act of 1950. The Administration proposal combined certain of the emergency economic powers exercised during and after World War II into a permanent legislative framework.7 These powers were necessary to place goods and services where they were most needed. President Truman could exercise these powers during peacetime and absent any declaration of national emergency. The core of the proposal would allow the President to prioritize and expedite delivery (or allocation) of critical materials. If company A contracts to deliver widgets to company B, but the government needs the widgetswhether for itself or for Company Cthe President could so order the prioritization of contract delivery according to terms "necessary to promote the national defense." For three days, members of the Banking and Currency Committee debated a series of questions exploring the relationship between economic sta bility, na tional de fense, and the projection of power and national authority. The Senators' questions revealed deep concerns over both the Cold War and an ongoing need to re struc ture na tional eco nomic pro grams, courses of action, and priorities:
+· Does economic and industrial stability translate into the projection of power and, if so, how does this promote the national defense? · How much extraordinary authority should the Congress delegate to the President during peacetime? That is, do we need a legislative framework if there is no war, significant
+
+military conflict, or Presidential declaration of emergency? Indeed, · Could Congress trust the President to administer the legislative framework? If not, how could Con gress pos si bly per form these responsibilities? The exceptional debate that followed raised complex questions for a nation that had learned more than a little about national defense during the preceding decade. The irony of delegating extraordinary economic powers to preserve a free economy was not lost on the Senate that week, but the complexity of mobilizing after Pearl Harbor (not to mention the perception of the country as weak and vulnerable, which might have precipitated the attack) was fresh on the mind of each and every Senator. The debate conveyed a profound sense of national import where reasonable public servants could differ. Members of the Banking and Currency Committee also understood that the nation was entering the Cold War and by week's end sided with the Truman Administration. There was no solid agreement on how the new world order impacted national defense, but the Senate clearly understood the importance of bridging complex and emerging policy concerns into a single, integrated legislative framework. Clinton Administration Debates Use of DPA for Y2K crisis A half-century later, as the nation prepared for the Year 2000 ("Year 2000" or "Y2K") glitch in the summer of 1999, senior officials in the Clinton Administration and their counsel met to discuss whether the DPA could and should be used in the event a Y2K infrastructure outage resulted in a national crisis. Senior leaders grappled with two questions:
+
+7
+
+See U.S. Senate. Committee on Banking and Currency Congress of the United States. Defense Production Act of 1950 (to accompany by S. 3936), 81st Congress, 2d Session. (S. Rpt. 81-2250) 1950 at 45.
+
+September, 2001
+
+4
+
+This paper should not be cited as a National Research Council report.
+
+Use of the Defense Production Act of 1950 for Critical Infrastructure Protection
+
+1. What is the national philosophy for preparing for, responding to, and recovering from significant critical infrastructure outages? 2. Could the DPA be used to expedite delivery or allocation of goods and services to fulfill these goals? Multiple areas of disagreement emerged in the six-month Y2K discussions. The most significant concerned the relevance of the Federal Response Plan framework in managing critical infrastructure disruptions of national significance and negotiating the roles and responsibilities of multiple agencies in managing a national cyber-crisis.8 Pursuant to Executive order 12919, signed in 1994, FEMA is charged with coordinating plans and programs among the civilian agencies for national defense industrial resource preparedness issues.9 But did it make sense in the Information Age to saddle FEMA with responsibility for both cy ber and traditional natural disaster management? In addition, what was the best process for negotiating and coming to agreement on priorities? If a significant cyber-disruption occurred, how would the consequences be managed and prioritized? Should the federal government seek to restore services as quickly as possible
+
+via the DPA or manage the consequences of the disruption through traditional means, such as via the Federal Response Plan?10 How would law enforcement, intelligence, and defense issues be parsed by FEMA within the framework developed by the Clinton Administration? The lack of any pertinent Congressional testimony, debate, or other legal guidance on use of the DPA unquestionably impaired the Administration's ability to settle these disagreements. 11 Senior administration officials debated the issue late into December, 1999. As the Millennium Rollover came and went, no final agreement was ever reached.12 Answers to these questions have significant impact on whether to use the DPA, and if so how broadly to interpret its terms. In sum: As we enter the 21st century, how does "national defense" re late to the de liv ery of criti cal infrastructure services? Specifically:
+· What is the relationship between national defense and the orderly functioning of the nation's critical infrastructure services? · If the DPA could be used, what prioritization plans and policies were in place to determine which entities benefited from the expedited
+
+8 9 10
+
+11
+
+12
+
+The Federal Response Plan is based on the Robert T. Stafford Disaster Relief and Emergency Assistance Act, as amended, 42 USC § 5121 et seq. ("Stafford Act"). National Defense Industrial Resources Preparedness, Executive Order 12919 (June 7, 1994) (One exception relates to energy issues, which are coordinated by the Department of Energy). As an example, a Federal Response Plan approach ruled out use of other highly responsive and successful programs that service critical infrastructure emergencies. See, e.g., Defense Priorities & Allocations System ("DPAS"). [A highly flexible process for administering critical infrastructure crisis, DPAS is administered by the Office of Strategic Industries and Economic Security, Bureau of Export Administration (Dept. of Commerce) pursuant to the DPA. See 15 CRF Part 700.] Congress has not addressed the basic terms and definitions in the DPA for application in an economy that relies on critical infrastructure services. How, for example, do the terms incorporate the nation's dependence on information services? "Energy" is clearly included in the DPA, but how does the energy infrastructure reliance on communications alter the statutory definition? See DPA definitions at 50 US App. § 2152. This was not the first time senior officials within the Clinton Administration carefully examined the DPA and its implementing programs. See, e.g., Report of the Interagency Subworking Group of the National Security Council's Ad Hoc Interagency Working Group on National Security Emergency Resources Preparedness (December, 1996), Administration working group recommends overhaul of Executive Order 12919, and other authorities, which implement the DPA.
+
+September, 2001
+
+5
+
+This paper should not be cited as a National Research Council report.
+
+Use of the Defense Production Act of 1950 for Critical Infrastructure Protection
+
+This section discusses the need for an integrated governance philosophy for managing critical infrastructure disruptions of national significance. This philosophy is more imporFrom Truman to Clinton: tant than ever, given the lack of Congressional Common Themes and Administration agreement on programs In many ways, the Clinton Administration's de- and processes to manage critical infrastructure bate over use of the DPA for Y2K failures ech- failures at this time. Within the federal government, administration of the Year 2000 glitch reoes the Truman Administration's dialogue with the Senate Banking and Currency Committee. vealed multiple "competing" philosophies. In hindsight, the national Y2K effort was highly As in the 1950 debate, both successful.13 Throughout the camps agreed that the land prepa ra tion pro cess, howscape had changed, whether As we enter the 2st century, ever, it was obvious that the from the emergence of the how does "national defense" nation was not prepared to reCold War or the advent of relate to the delivery of critical spond to and recover from a the Information Age. Howinfrastructure services? national critical infrastrucever, two camps emerged ture failure. reflecting significant philosophical splits within the national security and emergency management communities. The first camp cited the DPA language and legislative intent to demonstrate that Congress had never meant to apply the DPA to information age issues. Absent "scuds and missiles" or a declared national emergency, use of the DPA was both inappropriate and unnecessary. The second camp argued that the DPA might be necessary to prioritize goods and services for fixing and restoring critical infrastructure systems that had failed because of he Y2K bug. This use, they concluded, fulfills the DPA's legislative intent in maintaining a strong industrial and military base. In an effort to define policy and management objectives for critical infrastructure failures, this section examines five legislative models and philosophies: 1. Integrated Risk Management (PDD-63) model, 2. Traditional Emergency Preparedness, 3. Law Enforcement and Intelligence, 4. National Defense, and 5. Consumer Protection.
+
+delivery of goods and services during a crisis? · Did the nation understand interdependencies among infrastructure systems? Was restoration of one type of infrastructure (e.g., electricity) more important than another (e.g., communications)?
+
+What is the Nation's Philosophy for Managing Critical Infrastructure Risk?
+
+13
+
+The nation, including the state and local governments and industry, deserve high praise for resolving a potential crisis. But efforts to address lessons learned and to benefit from the experience have been lost. As soon as the Millennium Rollover passed, the federal government dismantled valuable facilities, partnerships, and institutions, all of which offered significant value; similarly, in many state and local governments, valuable facilities and institutions were set aside.
+
+September, 2001
+
+6
+
+This paper should not be cited as a National Research Council report.
+
+Use of the Defense Production Act of 1950 for Critical Infrastructure Protection
+
+Beyond PDD-63: An Integrated National Risk Management Philosophy Only though an integrated risk management governance philosophy can the nation develop appropriate programs for protecting the nation's critical infrastructures. A legislative program should sup port and fur t h e r this philosophy.
+
+DPA as part of an integrated framework is both prudent and appropriate.
+Critical infrastructure service failures could result in significant catastrophic damage; in many cases, service failures could cascade into multiple other failures in ways that are not fully understood or predictable.
+
+A second characteristic of critical infrastrucSince re lease of Presi den tial De ci sion tures is their interdependency with other critical Directive-63 ("PDD-63") in May, 1998, the in fra struc ture systems and United States has embarked services.14 The prudent use of on an aggressive critical inthe DPA to pre vent cataAdopting alternative consefrastructure program. More strophic downstream or casquence management philosothan any other country, the cad ing dam ages must be phies. . . which includes use of United States has developed considered. Often a failure to the DPA, is vital. a progressive philosophy for restore service will lead to critical infrastructure policy other infrastructure failures. coordination, development, Adopting alternative consequence management and analysis. Significant themes include the philosophies under these circumstances, which following. includes use of the DPA, is vital.
+At the core of critical infrastructure protection is a concern for national security. Critical infrastructure protection is a shared responsibility.
+
+Since its inception in the aftermath of the tragic Oklahoma City bombing, critical infrastructure protection has always focused on widespread and catastrophic damage. In most cases where infrastructures fail, for whatever reason, owners and operators in industry and government are typically able to manage response and recovery efforts through normal business and risk management processes. For purposes of the Defense Production Act analysis, this is a significant distinction. Congress never intended the DPA to be used for general business purposes or for emergencies that could be managed under normal business continuity and disaster preparedness programs. Conversely, however, where such damages could result, use of the
+14
+
+Criti cal in fra struc ture pro tec tion in volves unique partnerships. Not all partnership activities between the public and private sectors support the spe cial ized needs of the criti cal infrastructure community. Critical infrastructures are largely owned and operated by industry and state and local governments. In many cases, the research and development that lead to in fra struc ture ad vance ments is con ducted within particular portions of the academic community. Concerns are highly operational, focusing heavily on service delivery. In contrast, many of the programs established for traditional emergency response purposes focus on first responder capabilities and needs.
+
+For an excellent background on this issue, refer to Preliminary Research and Development Roadmap for Protecting and Assuring Critical National Infrastructures, Transition Office of the President's Commission on Critical Infrastructure Protection and the Critical Infrastructure Assurance Office at Chapter 3 (July, 1998).
+
+September, 2001
+
+7
+
+This paper should not be cited as a National Research Council report.
+
+Use of the Defense Production Act of 1950 for Critical Infrastructure Protection
+
+Emergency medical, police, and fire rescue of ten have dramatically different goals and skills. This is not to say that these divergent communities do not need to be alignedin fact, they do.15 It makes little sense, however, to assume that preparedness and response activities in one community will provide similar value in all others.
+Successful critical infrastructure protection leads to economic stability and a more enhanced national defense.
+
+parameters of the current emergency preparedness and response legal and policy framework. Pursuant to the Stafford Act, and the Federal Response Plan that implements operational responsibility under that law, our nation relies heavily on traditional emergency preparedness programs and policies to manage a range of complex disasters.
+
+As the Year 2000 crisis demonstrated, our nation lacks a similar preparedness, response, and restoration framework specifically constructed The final core attribute of a critical infrastruc- to include critical infrastructure protection. ture policy is that full operational capabil- Many commentators have suggested applying ityan integrated national critical infrastruc- traditional emergency preparedness processes to criti cal in fra struc ture t u r e p r o gram w i t h protection. This is princiimprovements in reliabilSimi lar to tra di tional emer gency pally how the nation manity of service--projects pre par ed ness, a pure law en force aged preparedness for the na tional author ity and ment or in tel li gence phi loso phy will Year 2000 transition. Howpower, economic stabilnot, by itself, resolve complex critiever, the Stafford Act, and ity, and ultimately procal in fra struc ture chal lenges. the programs that are imm o t e s t h e n a tional plemented under the legisdefense. Use of the DPA la tive frame work, were as part of an integrated never in tended or de signed for critical infraphilosophy furthers these goals, which are at 16 structure protection. the core of the DPA's purpose. For purposes of Defense Department functions and operational needs, this should be fairly obvious. The Defense Department relies heavily on infrastructure services, whether conducting operations at home or abroad. A failure to develop reliable service delivery patterns would have catastrophic effects on our ability to project power overseas. Traditional Emergency Preparedness The repeal of the Civil Defense Act of 1950 by the Stafford Act almost 10 years ago set the There are several important distinctions. First, the underlying philosophy for most emergency preparedness policies and programs is to mitigate the damages of a crisis. This framework, which is both successful and well integrated through years of trial and error, does not traditionally include industry critical infrastructure disruptions, which is a private sector concern. This is so even where the disruptions adversely impact the delivery of critical federal government services. As discussed elsewhere, the Y2K Operations Supplement to the Federal
+
+15
+
+16
+
+There is, of course significant overlap. For example, first responders are increasingly under pressure to develop interoperable, more robust, and secure communications. Bandwidth and spectrum problems will increasingly plague first responder capabilities ­ both are critical infrastructure concerns. The Stafford Act repealed the Civil Defense Act of 1950, which centralized emergency response process in the Executive Office of the President. 42 USC § 5121 et seq.
+
+September, 2001
+
+8
+
+This paper should not be cited as a National Research Council report.
+
+Use of the Defense Production Act of 1950 for Critical Infrastructure Protection
+
+Response Plan explicitly excluded core critical infrastructure activities.17 Second, the funding mechanisms for providing federal assistance and aid are set in law. Stafford Act funding for emergency response activity flows from the federal government under conditions set by the Stafford Act and its Administrative guidance. For example, during Y2K, a Presidential "emergency" was needed ­ as opposed to a "major disaster" declaration."18 Third, the amount of aid needed to support critical infrastructure disruptions is unknown. Federal government administrators understand the cost of traditional emergency preparedness activities. The cost of critical infrastructure disrup tions is not well un der stood or eas ily quantifiable. Cyber-related disasters could re sult in enormous damages absent appropriate mitigation programs and processes. Finally, traditional emergency preparedness goals are accomplished in today's legislative framework by aligning federal disaster relief programs with similar operational structures across the federal government and at the state and local levels. Long-term partnerships and relationships ­ which are crucial for disaster management capability, are built on skill sets, goals, and arrangements vastly different than those in the critical infrastructure community.
+
+Law Enforcement / Intelligence Similar to traditional emergency preparedness, a pure law enforcement or intelligence philosophy will not, by itself, resolve complex critical infrastructure challenges. Historically, the nation moved in that direction shortly after the Okla homa City bomb ing with re lease of PDD-39. Two years later, the federal government imported PDD-39 into the Federal Response Plan mecha nism as the Terror ism Annex.19 This policy distinguished between consequence management and crisis management, creating room in the aftermath of an incident for law enforcement to investigate and ful fill its Con gres sional re spon si bili ties. 20 Where the attack is ongoing, law enforcement and intelligence gathering are crucial to locating and stopping the damage. Room for consequence management authorities to conduct their work is negotiated pursuant to the Federal Response Plan mechanism How would a law enforcement philosophy and framework support and fulfill critical infrastructure objectives? In many cases, policy choices may exist in opposition. As in the Year 2000 preparations, it is unclear whether significant infrastructure outages result from a malicious nation- state at tack, teen age hacker, insider mistake, or some other source. Irrespective of the source of the outage, each of the policy choices is valid. The challenge, as argued,
+
+17
+
+18
+
+19
+
+20
+
+These included: (1) Business continuity and contingency planning necessary to ensure that vital services are not disrupted due to Y2K problems, (2) Reconstitution of Y2K-affected State and local information technology systems, (3) Cyber-terrorist attacks (addressed in PDD-63), and (4) National security telecommunications emergencies in industry and in the Federal governmentY2K Operations Supplement to the Federal Response Plan at 8 (1999). For an excellent primer on programmatic particulars, refer to Disaster Assistance: Improvement Needed in Disaster Declaration Criteria and Eligibility Assurance Procedures, Report of the Subcommittee on VA, HUD, and Independent Agencies, Committee on Appropriations, US Senate, GAO-01-837 (August 2001). Terrorism Incident Annex to the Federal Response Plan. ("PDD-39 directs the undersigned departments and agencies to perform specific responsibilities that may affect the performance of their responsibilities under the FRP.") Similarly, PDD-63 requires the National Infrastructure Protection Center to "monitor" reconstitution activities. Where owner/operators are unable to stop an attack in order to restore service, assistance from law enforcement and intelligence operations would be extremely valuable.
+
+September, 2001
+
+9
+
+This paper should not be cited as a National Research Council report.
+
+Use of the Defense Production Act of 1950 for Critical Infrastructure Protection
+
+is integrating them into a cohesive framework that reflects the nation's best interests. National Defense How would a national defense philosophy align with critical infrastructure goals? Since 1995, multiple commentators have encouraged a national defense approach to resolving critical infrastructure protection. These opinions include:
+· Require the Defense Department institutionally to manage and coordinate a national critical infrastructure program; · Require the Defense Department to undertake executive agency responsibility for a coordinated incident response and restoration center; or · Wrap critical infrastructure protection policies under the rubric of Homeland Defense or Homeland Security.
+
+the national defense level that the DPA demands. Summary ­ Philosophic Link to DPA At the core of critical infrastructure protection philosophy is a concern for national security, national defense, and the public health and welfare. Critical infrastructure defines a set of policy priorities, i.e., managing competing policy concerns and, where necessary, prioritizing infrastructure service delivery over other equally plausible policy choices. The Defense Production Act is the principal legislative tool for managing critical infrastructure operational needs. Were the nation to require critical infrastructure service delivery, then the full and robust use of the DPA would be essential. Critical infrastructure preparedness, response, and restoration could all benefit from using the DPA in a judicious and targeted manner.
+
+At a minimum, the Defense Department is a customer of critical infrastructure services and must be able to negotiate a level of performance consistent with its goals. Similar to the other issues above, identifying a critical infrastructure framework will lead to appropriate analysis of how the Defense establishment will align with other stakeholders and constituencies. Consumer Protection The final philosophic and legislative option for managing critical infrastructure is consumer protection. A consumer protection methodology provides, at a minimum, assistance and infor ma tion to sup port con sumer goals and options. Consumer protection was a critical component of the significant work performed by the President's Council on Year 2000 Conversion. One of the valuable lessons from Y2K is the importance of managing consumer confidence, providing information to assist consumer de ci sion mak ing, and sup port ing awareness as a part of any national effort. However, consumer protection issues do not rise to
+
+The Origin and Misperceptions of the DPA
+The debate over application of the DPA for critical infrastructure is ultimately a valid disagreement on how the nation should prepare for, respond to, and recover from critical infrastructure incidents of national significance. The DPA must be one of the tools available to the Administration to manage complex critical infrastructure disruptions. That said, there is lim ited agree ment on whether and to what extent the DPA could be used for those purposes. Some of these disagreements are factual, such as whether critical infrastructure incidents truly rise to the level of national import and significance. Other disagreements are more philosophic, such as whether the nation needs an alternative "preparedness and response" framework to man age criti cal in fra struc ture pro tec tion.
+
+September, 2001
+
+10
+
+This paper should not be cited as a National Research Council report.
+
+Use of the Defense Production Act of 1950 for Critical Infrastructure Protection
+
+The most important legal trigger for use of the DPA is the meaning of the term "national defense." To take advantage of the programs in the DPA, the President must find that a "na tional defense" nexus exists. Thus, in the conThis section argues in favor of using the DPA as text of critical infrastructure disruptions, the part of a larger critical infrastructure legislative President must make a determination that the program. The reasoning and assumptions arexpedited delivery of goods or services are ticulated include: "necessary to promote the national defense." From the first day that President Truman pro· Critical infrastructure incidents can result in posed the DPA, through sig nifi cant na tional Y2K and the recent use damage; of the law by the Bush · The fed eral gov ernFrom the first day that President Administration,22 no sinment relies heavily on Truman proposed the DPA, through gle topic has garnered the reliable supply of Y2K and the recent use of the law by more de bate and discritical infrastructure the Bush Administration, no single agree ment tha n th e services for serving natopic has garnered more debate and meaning of this term. tional defense needs; disagreement than the meaning of and [national defense]. Since 1950, Con gress · The government must has adopted two definicon sis tently proj ect tions. The first, also known as the traditional strength, economic stability, and political cohesion. Reliable delivery of critical infra- definition, includes those "programs for milistructure services is a cornerstone of these tary and energy production or construction, military assistance to any foreign nation, stockgoals. piling, space, and any directly related activThere are multiple misperceptions about the ity"23 The second, added in 1995, links use of DPA, many of which were debated during its the DPA to the Stafford Act, expanding the term introduction in 1950. In 1975, 25 years after in- to include "emergency preparedness activities troducing the DPA, the Congress' Joint Com- conducted pursuant to title VI of the [Stafford mittee on Defense Production again thoroughly Act]."(Em pha sis added). 50 USC App. examined the DPA as well as the overarching §2152(13). framework in which the DPA had been used.21 From these and other discussions, there is a rich Congress's decision to extend the term "nalibrary of original history from which current tional defense" to include "emergency preparedness activities conducted pursuant to the decisions might be measured. [Stafford Act]" has engendered development of two alternative positions. Some have taken the
+
+Finally, some disagreements are technical and legal. These include tracing back the legislative intent of Congress in creating the DPA and applying significant terms such as "national de fense" to information age challenges.
+
+What is "National Defense"?
+
+21 22 23
+
+See, e.g., Hearings Before the Joint Committee on Defense Production, Congress of the United States, 94th Congress, 2nd Session (April 28, 1976). See Memorandum for the Secretary of Energy, Electric Supply Shortage in California (January 19, 2001). DPA, 50 USC App. §§2061, 2152(13).
+
+September, 2001
+
+11
+
+This paper should not be cited as a National Research Council report.
+
+Use of the Defense Production Act of 1950 for Critical Infrastructure Protection
+
+The second misperception is that the DPA is limited only to preparedness activities. The DPA provides the President with broad authority to expedite delivery of goods and services. Priority contracting and allocation powers, for example, may be used in response and restoration as well as preparedness activities. In many ways, the DPA provides a type of insurance program, which can be used when needed. For response and restoration of critical infrastructure, the use of the DPA is essential. There are Misperceptions no similar Congressional authorities that proDebates over the meaning of national defense vide a framework for managing restoration and recovery efforts through expedited delivery of during the Y2K discusessential goods and servsions suffered from lack of ices. tangible legislative history A failure to apply the DPA to and context. As a result, critical infrastructures leaves this The third misperception is mul ti ple mis per cep tions nation unprotected from a cyber that the DPA may only be inappropriately drive polattack or significant critical used after Congress or the icy and decision-making. infrastructure disruption. Presi dent de clares a naposition that the amendment only grants Presi dential authority to engage in certain activities that the Director of FEMA is authorized to engage in, as enumerated in Title VI of the Stafford Act. Others, looking to Title VI in its entirety, adopt a more expansive view, arguing that "emergency prepar ed ness" is defined broadly in Title VI, and that it includes, but is by no means limited to, those activities specified in Title VI. The first significant misperception is that the President may activate the DPA solely for war or mobilizing to go to war. As the discussion on national defense demonstrates, the President must, at a minimum, make a national defense determination. However, Congress has never limited the application to wartime necessity. In fact, many of the Senators during the initial debates in 1950 queried the Truman Administration on this point. The importance of developing an integrated approach to economic security, defense production, and national defense convinced the Senate that such restrictions were not in the best interests of the nation. To date, the DPA makes available materials, services, and facilities in both peacetime and during crisis. For critical infrastructure purposes, this is an especially important aspect of the DPA. In most cases, critical infrastructure outages will not result from war or an act of war, although this is certainly possible. Rather, the DPA provides a far more practical framework for managing infrastructure outages far short of all-out war. tional emergency; this, too, is false. For many Senators involved in the original debates, this was the most troubling component of the Truman legislative proposal. Why should Congress delegate to the President broad peacetime and wartime authority based only on a national defense determination? However, ever since the 1950 debates, Congress has not required a national emergency determination as a trigger for use of the DPA. For critical infrastructure purposes, the ability to activate the DPA absent a formal national emergency finding is practical and useful. Many critical infrastructure outages could lead to national emergencies, and this is part of the attraction for using the DPA. Having to first declare a national emergency would impinge on use of this significant authority.
+
+Conclusion
+This paper argues for Congress and the Administration to examine an integrated legislative and policy framework to manage significant
+
+September, 2001
+
+12
+
+This paper should not be cited as a National Research Council report.
+
+Use of the Defense Production Act of 1950 for Critical Infrastructure Protection
+
+critical infrastructure disruptions. There is no framework in place that integrates multiple policies, such as traditional emergency preparedness, law enforcement, national defense, and risk management programs that prioritize restoration of infrastructure services. The DPA is an important tool for use in managing criti cal in fra struc ture dis rup tions of
+
+national significance. A failure to apply the DPA to critical infrastructures leaves this nation unprotected from a cyber attack or significant critical infrastructure disruption. Critical infrastructure supports the national defense in multiple ways. Absent use of the DPA, Congress should begin work immediately on developing alternative legislative frameworks for managing national critical infrastructure disruptions.
+
+September, 2001
+
+13
+
+This paper should not be cited as a National Research Council report.
+
+

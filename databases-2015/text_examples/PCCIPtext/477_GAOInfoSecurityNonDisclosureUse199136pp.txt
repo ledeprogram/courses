@@ -1,0 +1,940 @@
+--.
+
+--I
+
+---
+
+lJnit.cld
+
+St.at.es GenrAral
+
+Accounting
+
+Office
+
+GAO
+-_~.-..--.-.-.."--.---
+
+Fact Sheet; for the Chairman, Legislation and National Security Subcommittee, Committee on Government Operations
+
+,January
+
+1991
+
+INFORMATION SECURITY Federal Agency Use of Nondisclosure Agreements
+
+-- ..- ..- -.-_.-_-..-_---.-..---
+
+GAO
+
+United States General Accounting Office Washington, D.C. 20648 National Security and International Affairs Division
+
+R-215075
+January 18,199l
+
+The Honorable John Conyers, Jr. Chairman, Legislation and National Security Subcommittee Committee on Government Operations House of Representatives Dear Mr. Chairman: As you requested, we reviewed federal agencies'implementation of classified information nondisclosure agreements, including Standard Form 312 and Form 4355, and prepublication reviews of employee manuscripts and other submissions that might contain classified information. Specifically, we obtained data on (1) the number and the cost of nondisclosure agreements executed by federal and contractor employees, (2) the number and the cost of prepublication reviews performed by federal agencies, and (3) the expenditures made by the Information Security Oversight Office to implement Standard Form 312.
+
+Background
+
+States against unauthorized disclosure of classified national security information, have been in existence for many years. Their use did not become policy until 1983, when the President issued National Security Decision Directive 84, which, among its requirements, directed the Information Security Oversight Office to develop standardized agreements. Executive Order 12356, effective August 1, 1982, prescribed a uniform system for classifying, declassifying, and safeguarding national security information. It recognizes that it is essential that the public be informed of the activities of its government, but that the interest of the United States and its citizens require that certain national defense and foreign relations information be protected against unauthorized disclosure. The executive order assigns the Director, Information Security Oversight Office, responsibility for developing governmentwide directives for implementing the order. Classified information nondisclosure agreements have long been a source of controversy. Their use has raised complex questions about such issues as the President' s ability to protect national security information, the Congress'ability to obtain the information it needs to oversee federal agencies, and an individual' s right to free speech. Use of
+
+Page 1
+
+GAO/NSIAD-91-106FS
+
+Information
+
+Security
+
+B-215075
+
+these agreements has been restricted by the Congress through legislation and challenged by Members of Congress and unions representing government employees in courts of law. In a recent case, a United States District Court genera.lly sustained the government' s use of nondisclosure agreements for federal employees with access to classified information. It also, however, found unconstitutional nondisclosure forms whose prohibitions were overly broad. Of the 54 federal agencies that received your questionnaire, 48 responded that government and contractor employees signed about 144,000 and 98,000 nondisclosure agreements, respectively, between October 1, 1989, and March 31, 1990. According to the agencies, their costs to implement the signing of these agreements during this 6-month period were about $433,000 for government employees and about $12,000 for contractor employees. The 48 agencies reported that government and contractor employees signed about 338,000 and 1,279,OOO nondisclosure agreements, respectively, during 1988. They reported that government employees signed about 241,000 agreements and contractor employees signed about 176,000 agreements in 1989. The total number of nondisclosure agreements signed between 1984 and 1989 is shown in figure 1.
+
+Results in Brief
+
+Page 2
+
+GAO/NSLAD-91-lOtIFS
+
+Information
+
+Security
+
+,,
+
+Figure 1: Number of Nondlsclosure Agreements Signed Annually, 1984-l 989
+
+1KNt
+
+Numbor ot agraomanta (In thouamds)
+
+loo0
+
+600
+
+I
+
+Government Contractor
+
+The dramatic increases in nondisclosure agreements signed by government employees in 1986 and 1987, and by contractor employees in 1988 were the result of efforts to meet December 31, 1987 and 1988 deadlines for having all employees requiring accessto classified information to sign the agreements. These deadlines were established by the Information Security Oversight Office in December 1984. The 48 agencies reported that they conducted about 10,000 prepublication reviews during the 6-month period at a cost of about $750,000. The Information Security Oversight Office estimated that it spent about $402,000 to implement the Standard Form 312 from the form' s inception in *June 1988 through mid-October 1990. Of this amount, about $276,000 was for the salaries of Oversight Office employees who worked on the form and about $126,000 was for developing, printing, publishing, duplicating, and distributing training aids for implementing the form.
+
+Page 3
+
+GAO/NSIAD-91-106FS
+
+Information
+
+Security
+
+B-215075
+
+Scopeand Methodology
+
+We compiled the results of a questionnaire on classified information nondisclosure agreements and prepublication review activities that you sent to 64 agencies that handle classified information. The resulting information includes actual figures, as well as estimates where actual data were not available, from the 48 agencies that responded. We did not verify the information reported by the agencies. We also obtained information on the Information Security Oversight Office' s expenditures to implement the Standard Form 312. As you requested, we did not obtain agency comments on this fact sheet. Unless you publicly announce its contents earlier, we plan no further distribution of this fact sheet until 30 days from its issue date. At that time, we will send copies to all agencies that provided information. Copies will also be made available to others on request. Appendix I lists the questionnaire recipients, appendix II provides a more detailed discussion of nondisclosure agreements; appendix III provides more details on agencies'responses to your questionnaire; and appendix IV, as you requested, provides examples of nondisclosure agreement forms. An agency by agency breakdown of all data reported will be provided in a separate report. This fact sheet was prepared under the direction of Victor Zangla, Assistant Director, Logistics Issues; Donald H. Lentz, Evaluator-in-Charge, Logistics Issues; and Irving T. Boker, Adviser, Logistics Issues. Please contact me on (202) 275-8412 if you or your staff have any questions. Sincerely yours,
+
+--
+
+Donna M. Heivilin Director, Logistics Issues
+
+Page 4
+
+GAO/NSIAD-91-106ES
+
+Information
+
+Security
+
+Page 6
+
+GAO/NSIAD-91-106FS
+
+Information
+
+Security
+
+,'
+
+"
+
+Contents
+
+Letter Appendix I Questionnaire Recipients Appendix II The Use of Nondisclosure Agreements Appendix III Responses to Questionnaire
+Question Question Question Question Question 1 2 3 4 5 Recipients Responding to the Questionnaire Recipients Not Responding to the Questionnaire
+
+1 8 8 9 10
+
+14 14 17 18 19 20 22 22 24 26 28 30 32 15 16 17 18 19 20
+
+Appendix IV Sample Nondisclosure Standard Form 312 Form 4355 Agreement Forms DD Form 1847-1
+NSA Form 6-170 NSA Form 6-170B Addendum to Standard Form 312 and Form 4355
+
+Tables
+
+Table III. 1: Nondisclosure Agreements Signed by Federal and Contractor Employees Table 111.2: Nondisclosure Agreements Administered by Each Agency From October 1989 Through March 1990 Table 111.3: Agency Costs to Implement, Administer, and Execute Nondisclosure Agreements Table 111.4: Agency Costs to Implement Nondisclosure Agreements From October 1989 Through March 1990 Table 111.5: Reasons for Prepublication Review Table 111.6: Costs of Prepublication Reviews by Type of Material
+
+Page 6
+
+GAO/NSIAD91-166F!3
+
+Information
+
+Security
+
+Contents
+
+Table 111.7: Nondisclosure Agreements Signed by Federal and Contractor Employees in 1988 and 1989
+
+20
+
+Figures
+
+Figure 1: Number of Nondisclosure Agreements Signed Annually, 1984-1989
+
+3
+
+Abbreviations
+SC1
+
+Sensitive Compartmented Information
+
+Page 7
+
+GAO/NSIAD-91-lOtIFS
+
+Information
+
+Security
+
+Appendix I
+
+Questionnaire Recipients
+
+Recipients Responding to the Questionnaire
+
+Arms Control and Disarmament Agency (ACDA) Board for International Broadcasting (BFIB) Central Intelligence Agency (CIA) Department of Agriculture (USDA) Department of Commerce (Commerce) Department of Defense (DOD) Department of Education (ED) Department of Energy (DOE) Department of Health and Human Services (HHS) Department of Housing and Urban Development (HUD) Department of Interior (Interior) Department of Justice (Justice) Department of Labor (Labor) Department of State (State) Department of Transportation (DW) Department of Treasury (Treasury) Department of Veterans Affairs (VA) Environmental Protection Agency (EPA) Export-Import Bank (EXIMBANK) Farm Credit Administration (FCA) Federal Bureau of Investigation (FBI) Federal Communications Commission (FCC) Federal Emergency Management Agency (FEMA) Federal Maritime Commission (FMC) Federal Reserve System (FRS) General Services Administration (GSA) Immigration and Naturalization Service (INS) International Trade Commission (ITC) Interstate Commerce Commission (ICC) Marine Mammal Commission (MMC) Merit Systems Protection Board (MSPB) National Aeronautics and Space Administration (NASA) National Archives and Records Administration (NARA) National Science Foundation (NSF) Nuclear Regulatory Commission (NRC) Office of Management and Budget (OMB) Office of Personnel Management (OPM) Office of Thrift Supervision (01%) Overseas Private Investment Corporation (OPIC) Peace Corps (IX) Securities and Exchange Commission (SEC) Selective Service System (SSS)
+
+Page 8
+
+GAO/NSIADdl-106FS
+
+Information
+
+Security
+
+Appendix I Questionnaire
+
+Recipients
+
+Small Business Administration (SBA) Tennessee Valley Authority (TVA) US. Information Agency (USIA) U.S. Postal Service (USPS) 1J.S.Trade Representative (USTR) Council of Economic Advisers (CEA) Executive Office of the President (EOP) National Security Council (NSC) Office of Science and Technology Policy (OSTP) President' s Foreign Intelligence Advisory Board (PFIAB) President' s Intelligence Oversight Board (PIOB)
+
+Recipients Not Respondingto the Questionnaire
+
+Page 9
+
+GAO/NSIAD-91-106FS
+
+Information
+
+Security
+
+Appendix
+
+II
+
+The Use of NondisclosureAgreements
+
+Nondisclosure agreements are intended to protect the United States against unauthorized disclosure of classified national security information, The agreements are to be in a form determined by the Justice Department to be enforceable in a civil action brought by the United States in a court of law. AI1 government and contractor employees are required to sign a nondisclosure agreement as a condition of access to classified information. Nondisclosure agreements have been in use for many years; however, the President did not make them a formal policy until March 1983, when he issued National Security Decision Directive 84. National Security Decision Directive 84 requires each executive branch agency that originates or handles classified information to adopt internal procedures to safeguard against unlawful disclosure of classified information. At a minimum, these agencies should require each person with authorized access to (1) classified information to sign a nondisclosure agreement as a condition of access and (2) Sensitive Compartmented Information (SCI)' to sign a nondisclosure agreement with a prepublication review provision as a condition of access to SCI. The directive also requires the Information Security Oversight Office to develop standardized nondisclosure agreements. Various agencies use different nondisclosure forms. In response to the 1983 directive, the Oversight Office issued Standard Form 189 in September 1983 for use by government employees and Standard Form 189-A in November 1986 for use by contractor employees. The Director, Central Intelligence adopted the agency' s existing Form 4193, which had been in use since 1981, as the nondisclosure agreement for persons with authorized access to SCI. The Department of Defense uses DD Form 1847-1 as its nondisclosure agreement for SCI. SCI nondisclosure agreements contain a prepublication review provision to assure deletion of SCI and other classified information from materials prepared for public disclosure. Although the President suspended the directive' s prepublication review provision in February 1984, employees were still required to sign a Form 4193 or DD Form 1847-1 as a condition of access to SCI. Other government agencies require specialized agreements to be signed before granting access to the government' s non-%1 special access programs.2
+` SC1 includes all information and materials requiring special controls indicating restricted handling within present and future intelligence collection programs and their end products. "A special accessprogram requires need-to-know or accesscontrols beyond those normally required for accessto confidential, secret, or top secret information.
+
+Page 10
+
+GAO/NSIAD-Sl-106FS
+
+Information
+
+Security
+
+",. _I
+
+,,
+
+.d' , ` ,i
+
+Appendix II The Use of Nondisclosure
+
+Agreements
+
+In December 1987, the Congress included language prohibiting the continued use of Standard Form 189 and Form 4193 in the "Treasury, Postal Service, and General Government Appropriations Act, 1988." Section 630 of the act states that No funds appropriated in this or any other act for fiscal year 1988 may be used to implement or enforce the agreements in Standard Form 189 and Form 4193 of the Government or any other nondisclosure policy, form, or agreement if such policy, form, or agreement: (1) concerns information other than that specifically marked as classified; or, unmarked but known by the employee to be classified; or, unclassified but known by the employee to be in the process of classification determination; (2) contains the term "classifiable;" (3) directly or indirectly obstructs, by requirement of prior written authorization, limitation of authorized disclosure, or otherwise, the right of any individual to petition or communicate with Members of Congress in a secure manner as provided by the rules and procedures of Congress; (4) interferes with the right of the Congress to obtain executive branch information in a secure manner as provided by the rules and procedures of Congress; (5) imposes any obligations or invokes any remedies inconsistent with statutory law; provided, that nothing in this section shall affect the enforcement of those aspects of such nondisclosure policy, form, or agreement that do not fall within subsection (l)-(5) of this section. Appropriations bills passed in September 1988 and November 1989 contain essentially the same language. In response to the December 1987 legislation, the Oversight Office instructed government agencies to stop using Standard Forms 189 and 189-A until further notice. The legality of nondisclosure agreements has also been challenged in court. A principal issue is the constitutional conflict between the executive branch' s obligation to safeguard national security information and the individual' s right to freedom of speech under the U.S. Constitution. In May 1988, the U.S. District Court for the District of Columbia ruled
+that section 630 impermissibly restricted the President from fulfilling
+
+Page 11
+
+GAO/NSIADSI-106FS
+
+Information
+
+Security
+
+Appendix II The Use of Nondisclosure
+
+Agreements
+
+his express obligations under the U.S. Constitution and from exercising his role in foreign relations.3 In July 1988, in the same case, the court generally sustained the government' s use of nondisclosure agreements for employees with access to classified information. The court found, however, that federal employees who had signed agreements not to disclose information "classifiable" had to be provided either (1) a copy of the Information Security Oversight Office' s definition of "classifiable" or (2) a notice that the term "classifiable" was stricken from all agreements. The court held that without a definition, the term "classifiable" was far too broad to satisfy the constitutional requirement that free speech be restrained no more than is necessary.4 In September 1988, the Oversight Office replaced Standard Form 189 and 189-A with Standard Form 312 and lifted its moratorium on the signing of nondisclosure agreements. The most significant difference between Standard Form 189 and Standard Form 312 is in the way "classified information" is defined. Standard Form 189 defined classified information as information that is either classified or classifiable under the standards of Executive Order 12356. The word classifiable was excluded from Standard Form 312 to comply with the court decision. The Oversight Office also advised government agencies to notify employees of the deletion of the word classifiable from signed copies of Standard Form 189. This also prompted (1) the Central Intelligence Agency to delete the word classifiable from Form 4193 and reissue it as Form 4355 and (2) the Department of Defense to delete the word classifiable from DD Form 1847-1. The Congress has included language in the "Treasury, Postal Service, and General Government Appropriations Act, lQQl", enacted on November 5, 1990, that is intended to eliminate the nondisclosure agreement controversy. Section 617 of the act contains a provision to be added to Standard Form 312 and Form 4355 that limits how the forms may be used. The purpose of the addition is to assure that the restrictions in nondisclosure policies, forms, and agreements do not supersede,
+3This ruling was appealed to the U.S. Supreme Court, In April 1989, the Supreme Court returned this ruling to the District Court since the term "classifiable" had been deleted from all nondisclosure forms and other parts of the case were best left to the District Court for resolution. 4The July ruling was appealed to the U.S. Court of Appeals for the District of Columbia. That court returned the case to the District Court for further proceedings consistent with the Supreme Court' s April 1989 ruling. Subsequently, these cases were greatly simplified.
+
+Page 12
+
+GAO/NSIAD-91-106FS
+
+Information
+
+Security
+
+Appendix II The Use OP Nondieclosure
+
+Agreements
+
+conflict with, alter employee obligations, rights, or prohibitions, otherwise provided by law, to disclose information to the Congress.
+
+Page 13
+
+GAO/NSIAD-91.100F' S
+
+Information
+
+Security
+
+Appendix III
+
+Responses to Questionnaire
+
+Of the 54 federal agencies that received the questionnaire, 48 responded. The responses are summarized below.
+
+Question 1
+
+312, Form 4355, or a similar form requiring nondisclosure of classified information during the period beginning October 1, 1989, and ending March 31, 1990? How many federal and contractor employees signed the Standard Form 312, Form 4355, or a similar form during October 1989? Federal agencies reported that 143,631 federal employees and 98,093 contractor employees signed nondisclosure agreements during this 6month period. The agencies reported that 13,857 federal employees and 18,384 contractor employees signed nondisclosure agreements during October 1989. The types and numbers of nondisclosure agreements signed are shown in table III. 1. Table III.2 shows, by type of agreement, the number of nondisclosure agreements administered by each agency from October 1989 through March 1990.
+
+Response
+
+Page 14
+
+GAO/NSIADdl-106FS
+
+Information
+
+Security
+
+-
+
+Appendix III I&aponm3 to Queetiounaire
+
+~
+
+_~ _~~ ~~ ~~ ~~
+
+~
+
+~
+
+Table 111.1: Nondisclosure Agreements Signed by Federal and Contractor Employees
+
+Type of agreement October 1,1989, through March 31 ,199O --____-.__-~SF312 Form4355 __-FR 1406a _. __-----_ ___-. DD1847-lb _---_-.-__~-NSAG170C _--_.-..-----.---.-.---FEMA12-38d
+
+Federal employees
+120,709 1,181 101 19,895 1,644 1
+
+Contractor employees
+87,586 111 0 8,680 1,716 0
+
+Total October 1989
+SF 312 Form4355 FR1406 DD 1847-1 NSAG170 __._..._.. __..- - .----.FEMAlZ-38
+.____--
+
+143,531 -
+
+98,093 -.---16,289 50 3 1,776
+269
+
+10,606 231 11 2,738 271 0
+
+__
+
+___
+
+0
+
+Total
+aFR - Federal Reserve bDD - Department of Defense CNSA - National Security Agency dFEMA. Federal Emergency Management Agency
+
+13,857
+
+18.384
+
+Page 16
+
+GAO/NSIAPSl-106E%
+
+Information
+
+Security
+
+Appendix III Responses to Questionualre
+
+Table 111.2: Nondisclosure Agreements Administered by Each Agency From October 1989 Through March 1990 Agency
+ACDA ~,b BFIB Commerce DOD DOE DOT ED EPA EXIMBANK FBI FCC FEMA FMC FRS GSA HHS HUD INS Interior Justice Labor f%PB N&IA NASA NRC NSF OMB OPIC OPM PC SBA SEC State Treasury TVA USDA USIA ..- --.-..---~368
+
+Type of aareement SF 312
+16
+
+FM 4355
+3 0 0 0 0 130 0 0 0 0 539
+
+DD 1847-l
+
+--.--__ ._~~. 1 527 183,215 8,150 7.043 2 60 7 820 25 150 6 0 91 30 26 ~-~ -..-..----------278 129 0 10 39 51 ---~~~---..- ~-----43i 207 4 50 100 37 33 34 4 .---___.. 2.436 3,368 11 130 ~~~. .~~__._ 108
+
+0 0 0 0 0 __--- 0 0 0 28,575 3,360 0 0 -___ 0 0 0 0 0 0 .-.0 0 ___. 0 0
+
+0 0 0 0 0 ------.---...-___ 0 0 0 0 0 0 0 0---- ___ 0 0 0 39 0 89 0 0 0 0 0 0 0 28 0 .~...5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 310 0 131 0 0 0 0 0 18 0 -
+
+OtheP ---0 0 ---.-. 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 102 0 0 -~0 0 0 0 0 0 0 0 0 0 0 0 0 0 .~. 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 __---__ 0 0 0 0 0 0 0 0 0 0 0 0 0 ____ ~----.- _____- ~. 0 0 (continued)
+
+NSA 0170
+
+Page 16
+
+GAO/NSIAD91-106F!3
+
+Information
+
+Security
+
+Appendix III Response8 to Queetlonndre
+
+Type of agreement Agency
+USITC USPS USTR --.-VA
+
+SF 312
+46 22 46 62
+
+FM 4355
+0 0 0 0
+
+DD 1847-i
+0 0 0 cl 28,575
+
+NSA 0170
+0 0 0 0 3,360
+
+Other'
+0 0 0 ___~0 102
+
+Total
+
+-
+
+208,194
+
+1,292
+
+aThe Federal Reserve System reported that 101 FR 1406 and 1 FEMA 12-38 agreements were signed
+
+Question 2
+
+How much did federal agencies spend to implement, administer, and execute the signing of forms requiring nondisclosure of classified information during the period beginning October 1, 1989, and ending March 31, 1990 and during October 1989? Federal agencies reported that they spent $433,031 for nondisclosure agreements for federal employees and $12,414 for contractor employees. The agencies reported that they spent $16,643 for federal employees and $7,192 for contractor employees in October 1989. The costs for each type of nondisclosure agreement are shown in table 111.3. Table III.4 shows each agency' s costs.
+Federal employees
+$358,064 2,657 2,184
+70,126
+
+Response
+
+Table 111.3: Agency Costs to Implement, Administer, and Execute Nondisclosure Agreements
+
+Type of agreement October -..-____ 1,1989, through March 31,199O
+SF 312 Form 4355 NSA G170
+DD 1847-1
+
+Contractor employees
+$4,123 853 2,348 5,090
+
+~-
+
+Total October 1989 %312 Form 4355 N&A 0170 DO 1847-1 Total
+
+$433,031
+
+$12,414
+
+$12,975 396 2,880
+
+$6,136 420
+275
+
+$18.643
+
+$7,192
+
+Page 17
+
+GAO/NSIAb91-106FS
+
+Information
+
+Security
+
+Appendix III Responses to Questionnaire
+
+Table 111.4: Agency Costs to Implement Nondisclosure Agreements From October 1989 Through March 1990
+
+Agency
+AID BFIB __ _. . . ..~._. ~--.~ Commerce DOD DOE DOT .. .~ ED EPA FMC _
+
+NSA G170 $120 $0 $0 _ ___ -.-.m.-mo .-...----_-0 0 10 0 -._--.----__.__~ 527 0 0 0 273,389 0 75,216 4,532 4,100 1,100 0 0 56,000 0 0 --_-____ - -~- ~~-0 51 0 0 0 3,500 0 0 0 ___.___..._ __---~ .~--._ -.-..-~~-~. 550 0 0 0
+
+SF 312
+
+Type of agreement DD 1847-l FM 4355
+
+INS . . .._ -~~~. Interior Justice NARA NASA
+
+5.100 2,333 0 153 600
+
+0 975
+150 83
+
+0 0 .~...~.~~.~-~.-~ 0 0 0 0
+
+0 ..--..-. _-.--.-~ _..--.-.-__
+
+0 0
+
+0 0
+
+sss Treasury -fiA -. USDA USITC USTR VA
+
+_ _.._ .._- ._...
+
+~~...
+
+~~ --.~.
+
+~~~
+
+..~._.~. -..~--
+
+408-~ 10,181 106 644 100 250 141
+
+.-. -~..--..
+
+--__ o 0 0 ._---.____-~ 952 0 0 0 ~_..~.. 0 0 ~~. -0 0 0 .~ _.._._ .----.~~~ ...~~.~-. ~-0 0 0
+
+0
+0 $3,510
+
+0
+0 $75,216
+
+0
+0 $4,532
+
+Total
+
+$362.167
+
+Question 3
+
+Approximately how many books, articles, speeches, and other materials received prepublication review between October 1, 1989, and March 3 1, 1990, and in October 1989? What were the reasons for prepublication review? The agencies responded that they conducted 10,598 reviews between October 1, 1989, and March 31, 1990, and 1,598 in October 1989. Table
+
+Response
+
+w
+
+Page 18
+
+GAO/NSIAD-Ql-lOGI%
+
+Information
+
+Security
+
+Appendix Ill Respouees to Queetiounaire
+
+III.5 shows the number of prepublication reviews and the reasons for them. The table does not include manuscripts reported by the Central Intelligence Agency because they were reviewed for multiple reasons.
+Table 111.5: Reasons for Prepublication Review Reasons Regulation SCI agreement Non-SC1 ._--..___. agreement Other Total Items reviewed October 1,1989, through March 31,199O Books Articles Speeches Other
+143 13 6 183 2.783 127 0 1.736 10 0 1,752 5.309 41 204 5,554
+
+2,915
+
+October 1989 -.-._ ~_..__...__ _~~_--..--_-Regulation .~__.-.---SCI agreement _.-...-_-..__-...-~-. .--.____ Non-SC1 agreement _.~ ~.. ---..-.--...~~~--.-. Other Total
+
+_____
+8
+
+0
+1
+
+462 18 5
+
+322 0 8
+
+0 9
+
+0
+485
+
+0
+330
+
+755 _.____--.-~ 1 ---__0 -18 774
+
+Question 4
+Response
+
+How much did federal agencies spend on prepublication reviews between October 1, 1989, and March 31, 1990, and in October 1989? Federal agencies reported that they spent about $750,722 between October 1, 1989, and March 31, 1990, and $51,055 in October 1989 to perform these reviews. These costs are summarized in table 111.6.
+
+Page 19
+
+GAO/NSIADBl-196FS
+
+Information
+
+Security
+
+-.--
+
+.~
+Appendix III Rfsponees to Queettonnah
+
+Table Iii.& Costs of Prepubiication Reviews by Type of Material
+
+-.Reviews performed October 1,1989, through March 31,199O kooks Articles -Speeches -.. Other _____-_---Total October 1989 __-____-_-__ .--- -Books ________ p--.--..-Articles Speeches .._- _-- _.._ __- ___ ..-..--~ .--Other ___.-..~--Total ---
+
+$50,414 388,036 174,832
+-
+
+$750,722 -__ $3,256 36,780 1,746 9,273 $51,055
+
+136,640 -___
+
+Question 5
+Response
+
+SF 189-A, SF 312, Form 4193, Form 4355, DD Form 1847-1, or other nondisclosure agreement during calendar years 1988 and 1989? During 1988, federal agencies reported that agency and contractor employees signed 338,342 and 1,279,269 nondisclosure agreements, respectively. During 1989, federal employees signed 241,412 nondisclosure agreements and contractor employees signed 176,161 such agreements. The number of nondisclosure agreements signed, by type, is summarized in table 111.7.
+1989 1988 Federal Contractor Federal Contractor employees Type of agreement_~-- ____employees employees --- employees -___1 0 566 SF189 8,298 _~--___----SF 189-A 0 1,265,543 0 12,000 ______-_______ SF312 276,609 5,329 181,370 ___--..-154,636 __.__-Form4193 182 0 2,310 2 -___ _. ~. -~-- . ..- ~-. Form4355 1,843 315 2,125 378 -_____._. .-~ .~.-~-.~~.. ___. ___DD 1847-l 47,175 4,620 50,804 4,692 &her 4,235 3,461 4,237 _--__- 4,453 Total 338,342 1.279.289 241.412 176,161
+
+--Table 111.7: Nondisclosure Agreements Signed by Federal and Contractor Employees in 1988 and 1989
+
+Page 20
+
+GAO/NSIAD-91-lOBF!3
+
+Information
+
+Security
+
+Page 21
+
+GAO/NSIADBl-106FS
+
+Information
+
+Security
+
+L?,
+
+Appendix IV
+
+SampleNondisclosureAgreementForms
+
+Standard Form 312
+CLASSIFIED AN AGREEMENT BETWEEN INFORMATION NONDISCLOSURE AGREEMENT AND THE UNITED STATES
+
+1. lntrndlng to be legally bound, I hereby accept the obligations contalnrd In this Agrramant ln consldrratlon of my balng grantrd accass to clas&lflod Informatlon. As used In thls Agrrrmrnt, claaaiflrd lnforrnatlon la marked that Is claaslflad under the atandsrds of or unmarkrd claralfled Informstlon, lncludlng oral communications, Executlvs Order 123SB, or under any other Exrcutlve order or statute that prohibits the unauthorlrrd dlacloaurr of lnformatlon In ths Intsrsat of natlonal arcurlty; snd unclasaltlod Informatlon that mosta the atandardr for claaalflcatlon end lo In tho procoro of a clrsolflcatlon dotsrmlrmtlon 88 provldod In Soctlona 1.1(c) and 1.2(s) of Exocutlvo Ordor 12368, or under any other Exocutlvs ordor or atatuto that raqulroa protactlon for such Informetlon in tho Interoat of national security. I undorotand and accept that by bolng grantod a~coss to ciaarlflod Inforrmtlon, apoclal confldonco and trust shall bo placed In mo by tho Unltod Statar Govrrnmsnt. 2. I hereby acknowlodgo the1 I have rocalvod a aocurlty Indoctrlnstlon concernlng ths IUtUrO and protrctlon of clarrlflod intorrmtlon, lncludlng tho procedures to bo followed In adcortsining whether other persona to whom I contrmplato dlrcloalng thls lnformtlon havs bson approved for aocosa to It, and that I undorrtand thrso procsduror. 3. I havs boon advlood that the unauthorized dbcloouro, utmuthorlzrd rrtentlon, or nogllgant handllng of classlflod Information by mo could cauao darmgr or Irroparablo Injury to the Unltrd Stator or could bo uaod to advantage b a foreign nation. I horoby agros that I will never dlvulgo claoslflad lnformatlon to anyono urhs: (ai I havo o r flclally vrrlflad that tho roclplont har boon properly authorlzod by tho Unltod States Govornmont !o rocolvo It; or (b) I have been glvon prlor wrltton notlcr of authorlzstlon from tho Unltrd States Government Dopartmont or Agency (hsrolnaftor Dspartmsnt or Agency) rosponslblo for tha claaalflcatlon of tho lnformatlon or laat grantlng mr a soourlty clorrsncs that such dlscloauro la prrmlttrd. I understand that If I am uncortsln rbout tho claaslflcatlon status of Inforrmtlon, I am raqulrod to conflrm from an authorlzod offlclal that tho Inforrnatlon la unclaasltlrd boforo I may dlscloao It, except to a person 88 provldod In (a) or (b), abovo. I further understand that I am obllgatod to comply with laws and ragulatlona that prohlblt tho umuthorlzed dlsclosura of claaalflrd Intorrnatlon. 4. I havo boon advlsrd that any broach of thlr Agrormrnt may roault In tho tsrmlnatlon of any aoourlty clrsrancoa I hold; removal from any poaltlon of apoclal contldonco and trust roqulrlng such clearances; or tho termlmtlon of my sm loymont or other rolatlon8hlpa with the Departments or Agrncloa that grantod my of claasltlod oosurlty cloarmce or c P oarancos. In l ddltlon, I hrve born advlaed that any uneuthorlzed dlsclosuro of Unltsd Sates crlmlnal laws, lncludlng tho lnforrmtlon by mo msy conatltuto a vlolatlon, or vlolatlona, of provlolona of Soctlona 641, 793, 794. 798. and "952, Tltlo 18, Unitsd States Cods, Yho provlolona Soctlon 783(b), Tltlo 60, Unlted Stats8 Coda, and tho provlalons of ths Intrlllgonco ldantltlrs Protoctlon Act of 1882. I rscognlts that nothlng In thls Agrormrnt conatltutoo a walvor by the Unltod Stat88 of the rlght to proascuta mr for any atatutory vlolstlon. 5. I hrroby aarlgn to the Unltod Statra Govrrnmant rooultod. will rorult or may rosult from any dlsclosurr, conslatent wlth the terrna of this Agrsemont. rll royaltlas, publlcatlon, remunoratlow, or rovslatlon of snd amolumsnta that classlflsd lntorrrutlon have not
+
+avallrble to It to enforce thls 6. I undaratand that thr Unltad States Government my amok an romsd Agreement Including, but not llmltod to, rppllcatlon for a court or I or prohl z ltlng dlrcloaure of lntormetion In broach of thla Agraomont. 7. I undorstand that all clrasltlrd lnformatlon to which I may obtaln actss8 by rlgnlng thla Agrromont In now and will romeln tho property of, or under tho control of the Unltad Stetoa Government unloas and until othorwlas dstrrmlnrd by an authorlrod offlclal or tlnal ruling of a court of law. I do not now, nor will I ovor, to ouch Informatlon. I agroe that I shell return all poraorr any rlght, Intorort, tltlo, or claim whrtrorvrr clraalflod rmtorlala which hsvr, or may coma Into my posrrrslon or for which I am rssponalblo brcauao of rtrch accsss: (11 upon domnd by an authorlzed roprosrntstlvo of tho Unltrd Stetos Govrrnmont; 0~) upon tho conclusion of my omploymont or othor rslatlonahlp wlth the Department or Agency that lart rantod me a P security cloaranco or that provldod me access to clasalfled Informatlon; or (cl upon the concuslon of my smploymont or other relatlornhlp thrt requlrrr accasa to clasrlfled Inforrnatlon. If I do not return such mstorlala upon roquast, I undorstand that thla nmy be a vlolstlon of Sectlon 793, Tltlr 18, Unltrd States Cods, a Unltod Stat08 crlmlml law. 8. Unlras and until I am rolrasod In wrltlng by sn authorltrd rrprorrntatlvo of the Unltod Stator undsratand thet sll condltlon and obllgatlona lmporsd upon me by thla Agrsrmont apply durlng grrntod s~coas to classlflod Inforrnatlon, and at all tlmsr tharaaftor. Govornmont, I the tlmo I em to bs
+
+0. Each provlslon of thls Agrosmsnt la srvorablr. If a court should find any provlslon of thls Agroamrnt unenforcrablo, all other provlalons of thls Agrrem.snt shall rrmaln In full force and rffrct.
+
+Page 22
+
+GAO/NSIAD91-106FS
+
+Information
+
+Security
+
+Appendix IV Sample Nondisclosure
+
+Agreement
+
+Forms
+
+10. I have road thlr Agreement carefully and my qusstlons, If any, have bssn wavered. I acknowledge that the brlrflng offlcor haa mada wrllrbla to me SactlonS 841, 793, 784, 795, and "952, Title 15, Unltsd States Coda, *Srctlon 783(b), Tltlr 50, Unlted States Code, the lntolllgsncs Identitles Protection Act of 1982, Exscutlvr Ordrr 12358 or Itr w~cceasor, and Sectlon 2003.20, Title 32, Code of Federal Regulations, so that I my rrrd them #t thlr time, If I 80 choose. lIoN*l"M D.lE SOCIAL SEC"RI1" NUMBER m* NOtlSIb.lOd
+
+WITNESS THE EXECUTION OF THIS AGREEMENT WAS WITNESSED By THE UNDERSIGNED. sIw*lYae mrt
+
+I
+
+ACCEPTANCE THE UNDERSIGNED ACCEPTED THIS AGREEMENT ON BEHALF OF THE UNITED STATES GOVERNMENT. SICNI4T"RI DATf
+
+SECURITY DEBRlEFlNG ACKNOWLEDGMENT
+
+"NOT APPLICABLE 10 NON-GOVERNMENI
+
+PERSONNEL SIQNING THIS AGREEMENT.
+
+"
+
+STANDARD
+
+FORM 312 BACK (0-W
+
+----.
+
+-.-
+
+---._-.____
+
+Page 23
+
+GAO/NSIAB91-lOBI%
+
+Information
+
+Security
+
+Appendix IV Sample Nondisclosure
+
+Agreement
+
+Forma
+
+Form 4355
+SENSITIVE COMPARTMENTED INFORMATION
+(iVmc - Printed
+
+NONDISCLOSURE AGREEMENT
+and the United Stales
+
+or TyMdj
+
+1. Intending to k Icgrlly bound, 1 hereby accept the obligerioN containedin thii Agrament in canridcration of my being granted acceu to information or malerial protezted within Special Access Programs, hcreinlltcr referred to in tbir Agrccmenl as Sensitive CompanmentedInformation WI). I have beenadvised&at SC1 involvesor deriva from intelligencesource or methodsand ir classified or is in the proct~ of a clauification de1erminntionunder the standards of Executive Order 12356or other Executive order or statute. I undcnund and roctpt 1hshtt by being granted accus to SCI, rpo&l oon5dencc and trust shall be plncod in me by the United Suta Cwcmment. 2. I herebyreknonorvledgo that 1 have receiveda security indoctrination concerningthe nature and protootion of SCI. including the proczdurm to k followed in ascertaining whether other penmu to whom I cuutsmplrte diiloring thii information or material have beenapprovedfor ~cegl to it. md I und&stand thou pracdura. 1 understand(hail may be re&ircd to sign cubsoqusntrgrecmenll upon being grantedame41to different c#ogoria of SCI. I further underWand that alI my obligationaunder this Agreement continue to cgbt whether or not 1 am required to sign such subsequentagramcnu. 3. I bavs ksn advisedthat the unmtthorixd diilaurc, unrutborized retantio~ or negligent handling of SCI by me could oaufe inept&lo injury to the United Suta or be used to advanuge by L foreign nrtion. I hcrcby agroc that I wilI never divulge anythiig mukal m SCt or that I know to be SC1 to myone who is not muhorizod to rocoivs it witbouc prior rrilten auUmtir.ation from ths United SUWJ Gwcrnmem deprtment or sgctxy fhwcinaftcr Dopnrtment or Agency) that but ruthorized my aooua to SCI. I underrund Carl it is my rapoNibility lo co~ult with appropriatemanagementmttboritia in the Department or Agency that last nulhorized my *cool to SCI. whetheror nor I rm still employedby or usocirtul with that Depwtmcnt or Agency or a mntractor thereof. in order to CNW that I know whothorinformation or material within my knowledgeor oontrol that I have reason lo believe might k SCI, or related to or derived from SCI. i conridered by such Dopartmcnt or Agency to be SCI. 1 further understandthat 1 am also obligated by law and regulation not to diilme any cllvifmd infortnation or material in an unruthotizcd fashion. 4. In mtuidcration of king granted Lto SC1 and of king assignedor retained in a paition of special con6denceand trust rmuiting acool to SCI. I herebyagree to submit for stcurity review by the Deoutment or Agency that lut Whorizod SOY 8%~ to such inf&nution or rmtctil. any kiting or other prcpention in soy lorat, i&ding a worcof &tion, that co&N or purprnr to contain any SC1 or dmcription of actMa that produce or relate to SC1 or that I have rruon to believe UC detivd from SCI, that 1 contemplatedisclosingto my ptaon not ruchorizcd to have accas to SC1 or that I have prepared for public disclosure. 1 undoratand and agreetbrl my obligation to submit such prepmtio~ for review applia during the count of my IOCQ( to XI md thereafter. and J agreeto make my required submission, prior to diswsing the preparatioo with, or showing it to, anyone who L oot ruthotizd to haveacceu to SCI. 1 further rgree that 1 will not disolae the mntcnta of such preparationto my pamoooot author&d to have LCCCU (0 SC1 until I have rcoeivcd written authorilatioo from the Dopmlment or Agency that last authorized my accua to SC1 that sue6 dislaure h permitted. 5. I understandthat the purpac of the review daoritai in pngrapb 4 b to gin the United Suta a rusomble opportunity to determinewhcthcr tbc propration submitted punuant to paragr&pb4 sets forth my XI. I further understandthat tbc Departmentor A&my IO which I have nude l rubmisaioo will act upon it, wordInaling within the 1oteUIgcoscCommunity when appmpriats+and nuke a rcsgo~~ IO au within s ruaonable lkne. not tn cxceul30 working &n from Lte of receipt. 6. I have baa rdvbed UUI any breach of this Agreement may vault in the terminatioo of my a& SC1 and removal fmm I positionof sptoial maddLnoal td trust requiring tush wxu, u well w the @tmination of my unploymcn1 or o&r nltionship with my Dcpucmcnt or Agency rbrt p&da me with WUI to SCI. In addition, I have LWCOrdvircd that any unauthorized disclceureof SC1 by me nuy mfirtitutc violrtion~ of United Stata cdmituI laws. includiig the prwiaions of Scctiam 793.794.798, rud 9% Title 18. United Suca Code. l nd of Section 783@),Title 50, United SWm Code. Nothing in this Agreement amstituto a waiver by the United Suto of the righ1 10 praeouta mc for my rututory vioIatioo. 7. I uodenund th1 the Uoittd States Government may seek any romcdy available to it to enforoethis &moment includm~, but not limited to, rp&ation for a ceurl order prohibiting dilaure ofiafom~tion ia bruch of this Agreement. I have beenadvisedthat the r&n an be brought against me in any of the wveml appropriateUnited States Ditrict Counr where the UnIted SUta Government may c&1 to file the action. Court axtr md reasonable Women lea incurrod by the United SI&Y Governmen may k assod apiNt mc if I lac tucb action. 8. I undcntand that all information to which I may obtain acoe~ by signing this Agreement is now and will remain the property of the United Suta Governmentuolou and until otherwisedeterminedby m appropriate05Xrl or &MI ruling of a mun of law. Sub ject to such dcurminldon. 1 do no1 now, nor will I ever. powr any right. interat. title! or cl&n whrtsoevcr to such information. I agreethat I shall return 111 mrterirls that my have wmc into my poucuion or for w&h I am rmpousiblc booause of such aecus. upon demandby an ruthorizrd rcpmcntative of the United SUIU Government or upoo tbc wnclwion of my employmentor other rchlionrhip with the United SUCCIGovernment entity prwiding mc ato rush materi&. If I do not return such materials upon rcquest, I understand&ii may be L violation of Section 793, Title 18, United States Cede. 9. Unless and until I am releasedin writing by an authorized representativeof the Department or Agency that last provided me with seemsto SCL. I undcnund that all conditionr and obligations imwsed UFO~ me by this Agreement apply during the time I am granted wxw to $CI, and at all times thereafter. IO. Each provisionof lhii Agreement is scvcrablc. If 4 COUTI should find any provision of this Agrccmcot to be unenforceable. all other provisioN of this Agreementahall remain in full force and effect. This AgreementSoncorN SCI and doesnot ret forth IV+ other conditionsand obliptkms not related to SC1 u may now or hereafter pertain to my employmentby or assignmentor rclPtionsixp with the Deprtmenc or Agency. I I. 1 haverud tbii A@racmml orcfully and my questions.il any, have beenanrucrcd lo my WIsfaotion. I rcknowledge that the briefing oRicer ha1 made availrblc &.otioN 793. 794.798. and 952 of Title 18. United Stata Code, and Section 783(b) of Title SO, United Suta Code, end Exooutive Order 12356.u amended.so that I may read tbem at this time. if 1 so chmso.
+
+Page 24
+
+GAO/NSIAD-Sl-106FS
+
+Information
+
+Security
+
+Appendix rV Sample Nondisclosure
+
+Agreement
+
+Forms
+
+Page 26
+
+GAO/NSIAD-91-l&W?3
+
+Information
+
+Security
+
+Appendix IV Sample Nondisclosure
+
+Agreement
+
+Forms
+
+DD
+
+Form 1847-l
+
+1. IntrndfnS to be Irplly bornd. I hereby rssept rhr oblimthu eosrahwd in this A&resm*nr in coneid*nt&a of my being UmUd ,CCW 10 lnbmUon mOr*Cttb vitbh SPWU ACCeY -~OPUM. brminrfIer r*ferred.lo La tfUe As~W&nt ** Senritivr Camputmrnrrd Inlormrtlon. I bevr been edvlrtd that SenaItIve Comprnm*nt*d Informedon lnvolvet or dcrirtr from inttlligrncr IOYICP of mrlhodr and ie clusiffed or clweifiebl~ under Ihe rundude of &rcuUn Order I23 J6 Q, ouwr Execudve order or IUNU. 1 uodrnund end eccep~ rbrf by bein Sre.nr*d rcea, to confidence end kneifln Comprnmenitd Infonnrtion twt dull be phud ln me by thr Uni(*d Swa Governmew.
+
+bcve nahd rrlcten rurhor&aUon from rbe Depertment Or &my abet Ia whorired my *ewe ro S*nritk* Cornpenmated Informe~on !her eucb dtslcwre b 9wmittrd. 5. I undtnC*nd the< the 9ur~or. of chr review ducrlbed in penmpb 4 Ir to dvr thrllnired Stem e ntiaeblr 099ortunit~ to determine whether the inform*Uon or meterlab submilled punurnt to pvlylph 4 *et fond eny Serltive Compurmcntcd lrdommion. I Itier undtntsnd tbet the Depertmmc or A;*ncy to rblcb I Iwe eubmicted metrrfale will *cc upon them. cwrdirudng witi chr localllpner Communlcy rhrn rppmpriet.. end meke * meponee to me wit& I raeotublr time, not to exceed 30 workinS deye from dll* of nceipt. 6. I iuw bwn *d?ie*d chef any breech of thee Amrmcnr nuy mnlt h I* temhU00 of my asme to Seneltiv* Compertmatted lnfornwion end retention in I poeitioa~of special confldsnce end trust nquir&S such ecceu. u well es the termination of my rmploymrnt 01 0th~ nbUonahtm vdth my Dapertment 01 Atew thkt provide3me with wove to Serttivr Comp*nmented Informedon. In addWon. I hr*r beat edrirrd chic any uneutlwiz8d die&ewe of Sasid*r Comp*rtm*ntrd InformrUoa by ma mey conedere rloleUon, of United Swn ~tiinal lew. IneludinS the provislooe of Seedone 793.794.791. end 952,TiUo 111,United Stew Code. end Of Secdon 783(b). Tirlo SO:Unlr*d Slew Code. Nothing in this Apvsmen~ eonsWJrn I WdWr by tie Wttd Sutee of lhe r@ht to prO(*Cufe me for *"y tututwy rfdrtlon. 1. I undrnund thet rbr United Suta Cc.vemmcnt imy reek enY remedy *wil*blr to it to enforce thie Aueamtnt Including. bur noI lfmiled to. rppUc*tlon fore COW aider prohIbl:inS dieclos~n of bfotmtlon In breech of We A~rwn!*nt. I luve been Idtied that ths Wion an br broyht euinsc me in my of the emmU rp9roprla.rc United Stew Dietrtc1 Counr where the United Stew Covemment mq elect lo me the Non. Court c-n end neeoneblr *ttorney* fen inclvrrd by the United Stata Oonrnmmt mry bo maeed *&et me If I lore euch *et&n 1. I undentend tbt elf hfomwian to which T mey oblein wein the broperty of rhe United Strtor Government. I do dot no% DOW ti I ever. 90rrar isy tight. incereu, We. or sleim wbucever m such infonnrdon. I r-e Uur I eh& return ell nW*rW. which mry her*5onublto my poeseeiion oi for Which 1wil nspansMe because of such ICCCU. upon drmend by en eutborized npruentr~ire of the United Sutu Govtmmrnl or upon the conclwion of iny employmmc or orher reIetfonehip wich the U&cd Strtrr Govemmcnt rntlty 9mvidIn~ mr access 10 ruch me~eriele. If I do not return rucb mereriele up011 request, I undunend thir mey be * rioledon of Section 793, Tltlo I a, Unhed State: Code. I United S~errr crtminrl lew.
+
+rprdel
+
+2. I hereby ieknovle6Se dtrr I he** receivsd * recuricy indocUitudon conchUn# the IU,",, end 9rotecUon of SenrlliW Campmmeawd InfomuUoa, includln) rhr proctduree to b* loUowed in rr*rtelnLn( vhttbrr other 9enon~ to whom I con. bmpleu dlrdaln~ Ude lnformnrdon twe been approved for kccm to It. ~6 I undenteod lbae proctduru I understand ther I MY k nqulnd to d@ en 1p9ropNte *skno*bdvh*nc upon being ucnteu eccms co ush utr~oy of S*arltlr* Cornpen. awnted Informrrioo. I funbtr uadtntend thet alI my oblipdolv under rhb .+emtnt conllnue to exist wkh ru9w to archeaaptir vbwhr o, not I em required to *iSn tuck en se. IraarhdmriW. 3. I hrre km rd*itrd fhrt dIrtsI or indirect uneutharired dL~lacwr. uneuthorired rrrtndon, or n*W*nr hendUn& of Jcneitive Compwmenttd lnfonnedon by me could "we irwurblo injury to tie United Jutes 01 be used to edvenuS* by 1 fif@tUl mUon. I hereby *ues rhrr I will never dIvulg* rush lnformrtioa 10enyonrwhoII iol *orhoNed to recel** ir w&bout prfor witm euu~otiUon from the United Stan Comnment depwmrnr or rpacy fhnrlruftrr DaptNm~t or A/mCY) Iha lut *whorlred my WCQI to SewWe Compenmrntrd Informetioh 1 further undrnund chef I em obllpred by lw end r*Iul*don not 80 die&e* my cluefIled infonne~ion ln 111uneuchoti8d hIMOR. 4. In mmddmUtm rm (0 Stnsltive Corn. ..-...._.._ - of -. b&c _.- __mnltd e` puvnwrd Infonned~n end of being *signed or ntainod in L Wdth of mdd eonfldence end truet requlrtnr *ccLII 10 Seb IIuI* Com9utm*or*d tafomzdo~l hereby r#rer (0 rubndr for mcwity miev by UN Depertmrnl or Agency the1 LUC rochO?hrd my eccme to eucb lnf~muon. III infonnerlon or mmieh. includinS works of fktlon, whlcb conlein or 9ur90n 1o coauln say S~nsUvaCompuasanad Infomudon ot description of *Cdvidrr char produce or nlen to Stndtirr Comperon*nr*d Infor tmlon or tit I hwe WIWI to klwe m derived from Suuidw Compmm*n~*d Monnrtion. tba I cont*mpl*t* dLclo*inr lo eny pusml nol eothorietd to hew eccul LO S*IUitiv* Cornpu?m*nted lnfonnetloo or t&t I be** prepend for public dL dowe. I underwend end wee whet my obWfon (0 *ubmir such Informalon end meudsls for review e99Kcr du&S the Coune of my eccem co semidry Compertmrnred Inf~r~~~*tion and th*rw tfUr. end I r#rr m mrkr cay required rubmieeione prior to dircwln# Uu hkmclon or muedels wlth. or rhotinS Ihem to enyon. who ie not *uthod;r*d to heve ecceee (0 StneM~e Corn-pmmrmsd Infomwion. I further we* that I will not df&oa wch hfom~don or nw&~r to my penon not *whoNed lo hvr eccue to ~end~rr Comperrmenctd fnformr~ion unlu I
+r
+
+ecco( by al&h: this Apemem h now end till forew
+
+9. Ualeu end una 1 em rrleurd la wrItin by en *uChori*cd npmstnceUve of the Dawcmmr or Arenff rhet lest protided mo with eccae to S*neitive Compenmintrd Infonne~lon. 1 undmcend thet ell fhe conditions an6 oblIgetion* impoetd upon me by this ~grtrmrnt apply durinS the time I em umtrd *wee 10 Seneltlre Comperrmenred Inbrnwtion. enda ail dmM there*B*r. - . . ._-__ . .-l i... I
+
+..- . "i
+
+Page 26
+
+GAO/NSIAJI-91-1OfJFS Information
+
+Security
+
+Appendix IV Sample Nondieclosure
+
+Agreement
+
+Forms
+
+10. Each pwhlon of thin Aqa~~tat h svwablr. If I court &ould !Ind any prorirlon of this Agermmt co br unmforc~ablr. ai! OthW PrOmiON Of Lhk ASWWIWILt shti rrmlin by fti row and dfm. Thh Agrarmant COIICWN knsltin Compmmrnrld lnformrtkm rod doa not w forth rush othrr sondltioar md ObiiIiIdON not rhwd to kndJw Computmrntrd Infornudon a may now or hrrrJta p&r to my rmpbyntrat by or udamrnt or rrIdonthlp rv(tb th4 D0plcUtIlat or &lacy. I I, I hwr read TheaA$twnmt curfully and my quattoos. U my. have bnn mawred to my utlsfrcclon. 1 rcknorl@d~ t&t &r brlrfin$ofkrrhu nuda mikbl~Sasllo~793.791.798,
+
+and 952 of Title IS, United StlCes Code. and S~stton 785(b) of ntle SO, Unitrd Strta Coda. and ~xocutivr Ordrr 17316. Y unended, so that I may rrrd them at this rim*, if 1 so choose.
+
+12.1 hanby asign to the United Suta ~ownmcnt all d&u, duo ud ~ttfat, and alI mylltia. nmu~ndo~. and rmolu~ pent8 t&t Iwo ruultrd. wUI rauk. or mlY raauk from my dircloture, publieadon, or nvlkion not sONi3ttnt With rho tOtIN of this mrmmt.
+If. I mrt0 rhh &roement without mY mental nrrmtioa or pulpor of wldon.
+
+si$Nnw
+
+olpniuuoll
+
+?nnwd' Typed Saru lLut. FItss Wlddk Inickl)
+
+UN (Sa Nona BabW
+
+ImklCrsdr
+
+Bllk~ Nmnbrr &W~NUO Dote WY, MM, DO) FOR USE BY MILlTARY AND GOYERNMEW CIWLIAN PERSONNEL Wlmn id Accrptutcr: The rxceucion of thir Ayrrmrnt wn MrtMod by the undrrsigtted who accepted it 08 behalf of rhc United States Government Y J prior condltlon of ww to SeNitiw Comprmnentcd Information.
+
+flfNtun
+
+brpniulbn
+
+MnadKy~d
+
+NMIM GUI.
+
+F&SC. Mlddk
+
+Inkit.
+
+Dw I-Y-V, MM. DO) PERSONNEL
+
+FOR LBE BY COKIRA~ORSICONSULTANTSINON40MRNMEKT witness: The extcution of this Aywtttrnt was wknessetl by the undcoigned.
+
+Jlth &retmcm war accepted by the undersigned on behalf of the United States Government as a prior condition O~~CC@SS . to Sen&ive Comprrtntented Infotmrtion.
+
+Page ` 27
+
+GAO/NSIAD-91-106FS
+
+Information
+
+Security
+
+Appendix IV Sample Nondioclosure
+
+Agreement
+
+Forms
+
+NSA Form 0170
+
+In conridcrarion of bcin assigned or detailed to, or employed in, or having :cccss to Protected Information al the National Security Agency (N 8 A), ,and recognizing that this assignment, detail, employment or ?ccess involves a positior of special trust and confidence Involving the national se:urity, I hereby agree to the oblrgarrons ser forth in thi: Agreement. 1. I have been advised that Protected Information which I obtain as a result of my relationship with NSA: includes information in one or both of the following categories
+
+(a) Classified Information: This category consists of information classified or classifiable pursuant to rl drrds of Executive Order 12356, or any successor order, fnd implementing regulations. It includes but IS not lin intelligence and inrelligence.relrrcd information, sensnlve compartmented information (information cancer derturd from intelIt cnc# SOYICCIand methoda), and c rolo ic information information concerning communi security and s&no& f ntelll#cncr) protected by Section 73 of e ~tlc 18, United 5 tales Code. This category of Protected Information consists of classifil (b) Other Sensitive Information: unclassified Information relating to the orgrnizarion, funczionr, activities, and personnel of the NSA. It includes not limited 10 the names, Jitles, salaries., and numbers of persons em loyed by or detailed or assigned to the NSA communications security Information Involving codes, ciphers, an d cryptographic systems used by the United Gpvernmenr or any forclgn governments. I understand that the burden is upon me to determine whether information or materials within my control arc considered by the NSA to be Protected Information, and whether the person(s) to whom disclosure is to be made is/an authorized to receive it, 2. I understand fhal all classified and classifiable Protected Information as well as unclassified ProWte: Information rcgardin the functions, activities, !nd organization of NSA and numbers and identities of persons epplo CL by or detailed to the R SA, to which I may obnm access during the course of my employment or other service with N 5 A !I and will remain the roperty of the United States Government. I a rce rhat upon demand b an ruthorizec re resentative of the NS 61 or upon the conclusion of my employmenr or ot K cr relationship with the N I A, I shall return al P material containin such Protected Information in my possession, or for which I am responsible because of suck access. I understand t f .af failure to return such materials may be a violation of Scclion 793 of Title 18, United States Code, and may constitute a crime for which I may be prosecuted. 3. I affirm my undersundiq that em lo mbnt In, or assignment or detail to the NSA, and accefs to Protected tnformrtion is subject to the provlsions of tuub Ic Law M-290 and Public Law 66-36, the National Security Agency Act of 1959. I further understand that the unauthorized disclosure of Protected Information ma invoke the crimina! sanctions prescribed by one or more of Ihe followin rraturer - Sections 793,794,798, or 952 of + ltle 18, United State: Code, and Section 783 of Title 50, United States Co %e. 4. I understand rhrt any breach of this Agreement by me may result in termination by the NSA of my employment in, or m assignment or detail to, NSA 2nd or my access to Protected Information. The NSA may, in.accordance with rppticrb re law, including Public Law 88.29 d , terminate my employment in, or my urignmenr or dctall t?, the NSA, or may wlthdraw my access to my or all Protected Information at any rime it determines such action to be In the interesi of national security. 5. I agree not to discuss matters pertaining to Protected Information except when necessary f?r the prope' performance of my duties and only with persons who are currently authorized to receive such informatlon and have : need-teknow. 6. I agree thar I will report without dela 10 an NSA security representative the details and circumrlances of an? possible unauthorized disclosure of Protecte dy Information or of any unauthorized person obtaining or attemptlng tC obtain Protected Information.
+
+Page 28
+
+GAO/NSIAD-91.106PS
+
+Information
+
+Security
+
+Appendix TV Sample Nondisclosure
+
+Agreement
+
+Forma
+
+7. I agree that I will submit for security review in accordance with NSA/CSS Regulation 10-63, "NSA/CSS +licarion Review Procedure," all information or materials, including works of fiction, that I have prepared for ..E disclosure which contain or purpon to contain, refer to, or are based upon Protected Information, as defined in ;arapraph 1 of this Agreement. I understand that the term "public disclosure " includes any disclosure of Protected Information to one or more persons not authorized to have access to it. In addition, I agree to: (a) Submit such information and materials for prepublication review during the course of my employment or other service with the NSA and thereafter; (b) Make any required submissions prior to discussing the information anyone who is not authorized to have access to them; or materials with,,or showing them to,
+
+(c) Not disclose such information or materials to any person who is not authorized to have access to them until 1 have received written authorization from the NSA that such disclosure is permitted; and (d) Assign to the United States Government all rights, title and interest and all royalties' ; remuneration, or emoluments of whatever form that have resulted, will result, or may result from any public disclosure of Protected Information not consistent with the terms of this Agreement. I understand that the purpose of the prepublication review procedure is to determine whether material contemplated for public disclosure contalns classified or classifiable information and, if so, to give the NSA an opportunity to prevent the public disclosure of such information. I also understand that drsclosure of unclassified Protected Information may be affected by other applicable Ie al restrictions including, but not limited to, government contractual obligations, the exemptions of the Privacy and ! rccdom of Information Acts, and the National Security Agency Act of 1959. I understand that the NSA is obligated pursuant to this agreement and in accordance with the terms of NSA/CSS Regulation 1063 to conduct the prepublication review in a reasonable time, to consult as necessary with me through the review process, and to provide an opportunity for me to appeal initial review determmattons. I also .understand that, as is necessary to conduct my personal affairs, and unless specifically informed to the contrary, I may reveal unclassified information as to where I am employed, assigned or detailed, the eneric nature of my employment, assignment or detail in accordance with the descriptions provided for in Annex Q to NSA/CSS Regulation 10-11, "Release of Unclassified NSA/CSS Information," and the amount of salary I receive in connection therewith. I understand that I should exercise discretion and care in revealing such information and that by releuing such information, I have not violated this Agreement. 8. In addition to other conditions imposed on me as a result of my employment yrec to: or other service to the NSA, I
+
+(a) Notify the Office of Security, NSA of any unofficial foreign travel which I contemplate during the period of my employment, assignment or detail to the NSA; (b) Accept such restrictions on unofficial foreign travel as may be deemed necessary to prevent unacceptable risk to the national security, to the NSA, to personnel associated with the NSA or to Protected Information. 9. I understand that each of the provisions In this Agreement Is severable, i.e., all other provisions of this Agreement will remain in full force should it be determined that any provision of this Agreement does not apply to me or Is unenforceable. 1 also understand that if I am a member of a military service, I assume by this agreement only the obligations not imposed by a similar government nondisclosure agreement which I may have signed as required by my military department. 10. I have read this Agreement and my questions, H any, have been answered. I acknowledge that the briefing officer has made available Sections 793, 794, 198, and 952 of Title 18, United States Code; Section 783(b) of Title 50, United States Code; Public Law 88-290; Section 6 of Public Law 86-36, the National Securjty A ency Act of 1959; pertinent sections of Executive Order 12356, or any successor order; and NSA/CSS Reguiatlon 1d 63 "NSA/CSS Prepubllcation Review Procedures," so that I may read them at this time, if I so choose. I understand and accept that unless I am released in writing by an authorized representative of the NSA, this Agreement applies during the time I am granted access to Protected Information and at all times thereafter, and applies to all categories of Protected Information to which I may be granted access.
+
+Page 29
+
+GAO/NSIAD-91-196FS
+
+Information
+
+Security
+
+Appendix N Sample Nondiscloeure
+
+Agreement
+
+Forms
+
+NSA Form 01706
+
+CONTRACTOR
+
+SECURITY AGREEMENT
+
+In consideration of being granted access to Protected Information under a U.S. Government agency contract and recognizing that this access Is subject to statutory requirements and penalties and involves a special trust and confidence involving the national security, I hereby agree to the obligations set forth in this Agreement. 1. I have been advised that Protected Information which I obtain as a result of my relationship with NSA: includes information in one or both of the following caregorier
+
+(a) Classified Information: This category consists of information classified or classifiable pursuant to the standards of Executive Order 123.56, or any successor order, and implementing regulations. It includes but is not limited to intelligence and inteiligence~relatcd information, sensitive compartmented Information (Infermotion concerning or derftred porn intrlllgenct sources and mtthodr). and cryptologic information (information concerning comrpuniccltions ttcurby and tip~als inMllpnct) prottctcd by Stcrion 798 of Title 18, United States Cods. This category of Protected Information (b) Other Sensitive Information: unclassified information rtlating to the organization, functions, activities, and ptrsonnel of not limited to, the names, titlts, saiarits, and numbers of persons employed by or detailed communications stcurlty information involving codes, ciphers, and cryptographic systems Govtrnmtnt or any foreign governments. consists of classifitd and the NSA. It includes, but is or assigned to NSA and to used by the United trar*s
+
+I understand that the burden is upon me to dettrmine whether information or materials within my con considtrtd by the NSA to be Protected Information, and whether the person(s) to whom disclosure is to be mat authorized to receive it. 2. I undtrstand that all classified and classifiable Protected Information, as well as unclassified Pr Information regarding the functions, activitits, and organization of NSA, and numbers and idtntities of employed by or dctailtd to the NSA, to which I may obtain access htrcafttr, is now and will remain the propert; Y, I+Jnittd States Government. I agree that upon demand by an authorized reprtrentative of the NSA or upon the conclusion of my authoriztd acctss to Protected Information, I shall rtturn all material containing such Protected Information in my possession, or for which I am responsible btcaust of such access. I understand that failurt to rttm such mattrials may bt a violation of Stction 793 of Title 18, Unittd States Codt, and may constitute a trimt for which I may bt prostcuttd. 3. I affirm my understanding that disclosure of Protected Information is subject to the provisions of Section 6 of Public Law 86.36, the National Security Agency Act of 1959, which protects from disclosure information petiining to NSA, Its organization, personnel and activities. I further understand that the unauthorized disclosure of classifiad information may invoke the criminal sanctions prescribed by one or more of tht following statutes - Sections 793, 794, 798, or 952 of Tirlt 18, Unittd States Codt, and Section 783 of Title 50, Unittd States Code. 4. I undtrstand that any breach of this Agreement by me may, in accordance with applicable law, result in termination by the NSA of my access to any or all Protected Information at any time it determines such action to be In the inttrtst of national stcurlty. S. l agree not to discuss matters pertaining to Prottcttd Information except when necessary for the Proper performance of my &tits and only with persons who are currtntly authorized to receive such information and have a need-to.know.
+
+Page 30
+
+Appendix IV
+Sample Nondisclosure Agreement
+
+Forms
+
+6: I agree that I will report without delay lo my company security officer or to a security representaUve of NS; the details and circumstances of any possible unauthorized disclosure of Protected Information or of any unauthorized person obtaining or attempting to obtain Prorected Informarion. 7. I agree that I will submit for security review in accordance with NSA/CSS regulation 10-63, "NSA/CSS Prcpublicatlon Review Procedure," all information or marcrials, including works of fiction, that I have prepared for public disclosure which contain or purport to contain, refer to, or are based upon Protected Information, u defined in paragraph 1 of the Agreement. I understand that the term "public di5clorure " includes any disclosure of Protected lnformarion to one or more persons not authorized to have accc55 to it, In addition, I agree to: (a) Submit such information and material5 for prepublication review during rhe course of my employment or ocher service with the NSA and thereafter; (b) Make any required submissions prior to discussing the information anyone who is not authorized 10 have access to rhem; or materlals with, or showing them to
+
+(c) Not disclose such information or materials fo any person who is not authorized to have access to them unli I have received written authorizarion from the NSA that such disclosure is permitted; and (d) Assign to rhe United States Government aIt rights, title, and interest and all royalties, remuneration, or emoluments of whatever form that have resulted, will result, of may result from any public disclosure of Protected Information nof consistent with the terms of this Agreement. ' I understand that the purpose of the prepublication review procedure is to determine whether material contemplated for public disclosure contains classified or cla5slfiablc information and, if so, 10 give the NSA an opportunity to prevent the public disclosure of such information. I also understand that disclosure of unclassified Protected Information may be affected by other applicable Ie al restriction5 including, but not limited to, government contractual obligations, the exemptions of the Privacy and IJrcedom of Information Acts, and the National Security Agency Act of 1959. I undersrand that rhc NSA is obligated pursuant to this agreement and in accordance with the terms of NSA/CSS Regulation 10.63 to conduct rhe prepublication review in a reasonable rime, to consult as necessary with me through the review process, and to provide an opportunity for me to appeal initial review determinations. 8. In addition to orher conditions imposed on me as a result of my employmcnr agree to: or other service wirh
+
+theNSA,
+
+I
+
+(a) Notify the Office of Security, NSA, of any unofficial foreign travel which I contemplate during the period Of my employment, assignment or detail to the NSA; (b) Accept such restrictions on unoffical foreign zravel as may be deemed necessary to prevent unacceptable risk to the national security, to the NSA, to personnel associared with the NSA or to Protected Information. 9. I understand that each of the provisions in this Agreement is severable, ix., all other provision5 of bhis Agreement will remain in full force should ir be determined that any provision of this Agreement does not apply to me or is otherwise unenforceable. l also understand that this Agrerment applies to me even though I may have t?.ecuUd a similar govcrnmcnt non-disclosure agreement. 10. I have read this Agreement and my questions, if any, have been answered. I acknowledge that the briefing officer has made available Sections 793, 794, 798, and 952 of Title 18, United States Code; Sccrion 783(b) of Title 50, United Stares Code; Section 6 of Public Law 86.36, the Narional Security Agency Act of 1959; pertinent sections of Executive Order 12336, or any succwor order; and NSA/CSS Regulation 10-63, "NSA/CSS Prepublicarion Review Procedures," so that I may read them at this time, if I so choose. I understand and accept that unless I am released in writing by an authorized representative of the NSA, this Agreement applies during the time I am granted acce5s t0 Protected Information and at all times thereafter, and applies to all categories of Protected Information to which I may be granted access.
+
+Page 31
+
+GAO/NSIALbSl-106FS
+
+Information
+
+Security
+
+Appendix IV Sample Nondiecloaure Agreement Forma
+
+Addendum to Standard Form 312 and Form 4355 ADDENDUM
+
+Pursuant to the Treasury, Postal Service and General Government Appropriations Act of 1991, the following language shall be incorporated into and considered a part of the attached nondisclosure agreement: "These restrictions are consistent with and do not 6uQersede conflict with or otherwise alter the employee obligations rights or liabilities created by Executive Order section 7211 of title 5, United States Code (governing 12356; disclosures to COnpreSS); section 1034 of title 10, United States Code, as amended by the Military Whistleblower Protection Act (governing disclosure to Congress by members of 2302(b)(8) of title 5, United States the military) i section Code, as amended by the Whistlebiower Protection Act (governing abuse or public health disclosures of illegality, waste, fraud, or safety threats); the Intelligence Identities Protection Act of 1982 (50 USC 421 et aeq.)(governing disclosures that could expose confidential Government agents), and the statutes which protect against disclosure that may compromise the national security, including section 641, 793, 794, 798, and 952 of 4(b) of the title 18, United States Code, and section Subversive Activities Act of 1950 (50 U.S.C. section 783(b)). The definitions, requirements, obligations, rights, sanctions and liabilities created by said Executive Order and listed statutes are incorporated into this Agreement and are controlling."
+
+Signature
+
+Date
+
+Witness
+
+Date
+
+(8w3043)
+
+Page 32
+
+GAO/NSIAD-91-lOBI%
+
+Information
+
+Security
+
+-~".--
+
+-._..
+
+--.
+
+-.-.
+
+-
+
+-..._
+
+.
+
+.
+
+.._
+
+.._--..
+
+.-
+
+-
+
+I
+
+.-.
+
+-.-...
+
+_"
+
+I..
+
+.._".
+
+_..
+
+_."
+
+._-.
+
+..-..
+
+` i 1
+
+

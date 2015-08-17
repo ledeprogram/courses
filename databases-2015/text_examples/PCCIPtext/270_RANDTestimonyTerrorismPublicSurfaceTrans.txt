@@ -1,0 +1,139 @@
+TESTIMONY
+
+CHILDREN AND ADOLESCENTS CIVIL JUSTICE EDUCATION ENERGY AND ENVIRONMENT HEALTH AND HEALTH CARE INTERNATIONAL AFFAIRS POPULATION AND AGING PUBLIC SAFETY SCIENCE AND TECHNOLOGY SUBSTANCE ABUSE TERRORISM AND HOMELAND SECURITY TRANSPORTATION AND INFRASTRUCTURE U.S. NATIONAL SECURITY
+
+This PDF document was made available from www.rand.org as a public service of the RAND Corporation. Jump down to document6
+
+The RAND Corporation is a nonprofit research organization providing objective analysis and effective solutions that address the challenges facing the public and private sectors around the world.
+
+Support RAND
+Browse Books & Publications Make a charitable contribution
+
+For More Information
+Visit RAND at www.rand.org Explore additional RAND Testimony View document details
+
+Limited Electronic Distribution Rights
+This document and trademark(s) contained herein are protected by law as indicated in a notice appearing later in this work. This electronic representation of RAND intellectual property is provided for non-commercial use only. Permission is required from RAND to reproduce, or reuse in another form, any of our research documents for commercial use.
+
+TESTIMONY
+
+Terrorism and the Security of Public Surface Transportation
+BRIAN MICHAEL JENKINS
+
+CT-226 April 2004 Testimony presented to the Senate Committee on Judiciary on April 8, 2004
+
+This product is part of the RAND Corporation testimony series. RAND testimonies record testimony presented by RAND associates to federal, state, or local legislative committees; government-appointed commissions and panels; and private review and oversight bodies. The RAND Corporation is a nonprofit research organization providing objective analysis and effective solutions that address the challenges facing the public and private sectors around the world. RAND's publications do not necessarily reflect the opinions of its research clients and sponsors. is a registered trademark.
+
+Published 2004 by the RAND Corporation 1700 Main Street, P.O. Box 2138, Santa Monica, CA 90407-2138 1200 South Hayes Street, Arlington, VA 22202-5050 201 North Craig Street, Suite 202, Pittsburgh, PA 15213-1516 RAND URL: http://www.rand.org/ To order RAND documents or to obtain additional information, contact Distribution Services: Telephone: (310) 451-7002; Fax: (310) 451-6915; Email: order@rand.org
+
+Statement of Brian Michael Jenkins1 Before the Committee on Judiciary United States Senate April 8, 2004 After every major terrorist attack in any part of the world, security officials and the American public alike turn to the question of what can be done to deter or prevent a similar attack from occurring here. Unfortunately, it often requires a major disaster to arouse concern sufficiently to mobilize the political will to take needed action. Useful things are often accomplished in the shadow of tragedy.
+
+It is not because those charged with security are unable to imagine what terrorists might do. It is rather that people seldom support costly and potentially disruptive measures to protect them against things that haven't occurred. The reality is that because terrorists can attack anything, anywhere, any time, while we cannot protect everything, everywhere, all the time, security, tends to be reactive. Certainly we must try to protect targets that terrorists show a proclivity to attack.
+
+A NEW PRIORITY TARGET FOR TERRORISM
+
+Terrorist attacks on public transportation are nothing new. Since the early 1990s, those concerned with the security of public surface transportation have been increasingly worried that trains and buses were becoming highly attractive targets for terrorists bent upon body counts.
+
+The opinions and conclusions expressed in this testimony are the author's alone and should not be interpreted as representing those of RAND or any of the sponsors of its research. This product is part of the RAND Corporation testimony series. RAND testimonies record testimony presented by RAND associates to federal, state, or local legislative committees; government-appointed commissions and panels; and private review and oversight bodies. The RAND Corporation is a nonprofit research organization providing objective analysis and effective solutions that address the challenges facing the public and private sectors around the world. RAND's publications do not necessarily reflect the opinions of its research clients and sponsors.
+
+1
+
+1
+
+Only the month before the Madrid bombings, a terrorist bomb killed 39 people and injured more than 100 on Moscow's Metro. In 2001, authorities in Singapore discovered a terrorist plot to bomb various sites, including the city's subways; and we know now that jihadists in Europe planned to detonate a bomb at Milan's central rail station.
+
+In recent years, terrorists linked with global jihad killed nine people and injured 60 on Manila's Metro and threatened to release toxic gas in Moscow's subways, inspired no doubt by the 1995 sarin attack on Tokyo's subways that left 12 dead and over 5,000 seriously ill. Islamic extremists launched a bombing campaign on the commuter trains of Paris, and since 2000, suicide bombers have killed scores of people on Israeli buses.
+
+For those determined to kill in quantity and willing to kill indiscriminately, trains, subways and buses are ideal targets. They offer terrorists easy access and escape. Congregations of strangers guarantee anonymity.
+
+Crowds in contained environments are especially vulnerable to both conventional explosives and unconventional weapons. Terrorist attacks on public transportation systems also cause great disruption and alarm ­ the traditional goals of terrorism.
+
+The terrorists who target transportation systems are often seeking slaughter. An analysis of nearly 1,000 terrorist attacks on transportation found that the percentage of those involving fatalities ­ 37 percent ­ was much higher than the percentage for terrorist attacks in general. Two-thirds of the surface transportation attacks clearly were intended to kill; 74 percent of the fatal attacks involved multiple fatalities; and 28 percent involved 10 or more fatalities.i
+
+Could such an attack happen here? Of course it could, and it nearly did in 1997, when Islamic extremists planned to carry out suicide bombings on New York City's subways. A lucky tip enabled police to foil the plot.
+
+2
+
+AN AVIATION SECURITY MODEL INAPPROPRIATE
+
+Surface transportation cannot be protected in the same way commercial aviation is protected. Nearly 60,000 screeners are needed to check the 2 million passengers who fly from U.S. airports daily. An equivalent nationwide screening system for the approximately 26 million passengers traveling on trains, subways, and buses on an average day would require hundreds of thousands of screeners and would cost tens of billions of dollars.
+
+Trains, subways, and buses must remain readily accessible, convenient, and inexpensive. The deployment of metal detectors, X-ray machines, explosive sniffers, and armed guards, which have become features of the landscape at airports, cannot be transferred easily to subway stations or bus stops. The delays would be enormous and the costs prohibitive ­ public transportation would effectively be shut down.
+
+The alternative ­ making commuters use private vehicles ­ is impractical, would increase gridlock, and would raise the nation's death toll from traffic accidents.
+
+Moreover, any new set of security measures should provide a net security benefit; it should not merely displace the risk toward other equally vulnerable targets. For example, it would make little sense to protect only buildings on the north side of the street when terrorists could just as easily set off bombs on the south side. Keeping terrorists off airliners provides a net security benefit. As terrorists demonstrated on 9-11, a hijacked airliner can be turned into a missile that kills thousands. Security measures to protect airport lobbies, however, provide fewer net benefits. The same situation applies to trains and buses.
+
+Transportation facilities are public places. Other public places that offer terrorists similar body counts--shopping malls, crowded streets, or the lines of people waiting to get through security measures--are just as vulnerable. Erecting a protected perimeter around
+
+3
+
+every public place, from department stores to bus depots, from subways to supermarkets, is not only impractical, it destroys an open society.
+
+And since the nature of the threat means that whatever steps we take now are likely to become permanent ­ can anyone imagine a systematic reduction in airline security ­ we must ensure that new security measures are not only effective, but are also sustainable and efficient.
+
+WHAT CAN BE DONE?
+
+This does not mean that nothing can be done to increase surface transportation security. Security officials in countries that have been subjected to terrorist attacks have developed some effective countermeasures. Good security can make terrorist attacks more difficult, can increase their likelihood of being detected, can minimize casualties and disruption, can reduce panic, and can reassure passengers.
+
+Analyses of previous terrorist attacks and campaigns against mass transit systems have provided a growing catalog of lessons learned and best security practices. These include measures intended to deter or prevent attacks, assist in detection and diagnosis, and mitigate casualties and disruption through design and preparedness.ii
+
+Visible security patrols and staff have a deterrent effect. Closed-circuit television coverage has been used extensively in Europe with good results. And enlisting employees and the public in surveillance can also be very effective.
+
+The public, however, cannot be expected to assist unless communications are facilitated and calls bring a rapid, visible response. That requires emergency phone boxes, good security camera coverage, and patrolling officers near the scene.
+
+Detection and diagnosis are essential to both keeping passengers out of harm's way and minimizing needless disruption. New technology is giving us the ability to detect and
+
+4
+
+diagnose more effectively. Chemical, biological, and radiological detection equipment has been deployed on an experimental basis on some subway systems. But again, detection must be coupled with rapid-response procedures.
+
+Much can be done through the design of vehicles and facilities to eliminate hiding places, facilitate surveillance, and reduce casualties by removing materials that explosions may turn into shrapnel or that burn with toxic fumes. Adequate ventilation to remove deadly smoke, a leading killer in tunnels, must be ensured.
+
+Safe areas can be created to protect passengers during bomb threats when evacuation is not feasible. Facilities should be designed to make emergency response as rapid and effective as possible.
+
+Exercises and drills involving transportation staff, police, and other emergency responders are crucial. This was demonstrated dramatically on September 11, when the 60,000 passengers and 300 employees below the World Trade Center were all safely evacuated.iii
+
+A "BEST PRACTICES" APPROACH
+
+While there are many good ideas, there is no single best way to implement them. The nature of commercial aviation obliges us to treat security in the same way at all 430 commercial airports. But surface transportation is not a single national system. It is a complex quilt of networks that vary in size, mode, and means of providing security. A "best practices" approach may be the most effective model for surface transportation security, because it allows local authorities and operators to learn from one another's best practices and to decide what works best for them.
+
+In a "best practices" approach, the federal government supports research and development, subsidizes the deployment of experimental technology, provides intelligence, augments security with additional resources and specialized equipment when
+
+5
+
+the threat warrants, and assists with emergency response and investigation in the event of a terrorist attack.
+
+The legislation offered by Senator Sessions (Attacks Against Mass Transportation Systems and Railroad Carriers) and the proposal of Senators Biden, Specter, and Hatch (Reducing Crime and Terrorism at America's Seaports) expand the area of criminal law and facilitate intelligence collection and investigations.
+
+Local authorities assist with intelligence, security, crisis planning, and immediate response. Transportation operators, either public commissions or private companies, have the front-line responsibility for implementing security measures, responding to threats, crisis planning, and restoring operations.
+
+Years ago, I was asked by a member of Congress whether, if I were given all the resources I wanted and all the authority I needed, I could guarantee that no airplane would ever again be hijacked or sabotaged. "That's easy," I answered, "I could ground all the planes." But as long as we must fill thousands of airplanes with millions of passengers and fly them around the country every day at an affordable price, we must accept some risks.
+
+That is even more applicable in the case of public surface transportation. We can and should improve security, but in effective and practical ways that also protect the vital function of these lifelines.
+
+A NATIONAL TRANSPORTATION SECURITY STRATEGY
+
+Since the beginning of the republic, security considerations have been major factors in the development of the nation's transportation system, from the building of the first national road to the construction of railroads to the digging of the Panama Canal to the creation of the interstate highway system. Under current circumstance, we need to think again about a national transportation security strategy.iv
+
+6
+
+This involves more than expanding laws and mandating increased security. It makes security a criterion in the design of new transportation facilities. It may encourage the construction of new transportation infrastructure that is inherently more robust, or that reduces current vulnerabilities, or that has built-in redundancies to reduce disruption. It may be determined that one mode of transportation offers net security benefits over another. Is the nation safer with high-speed rail or with more commuter flights?
+
+The transfer of the Transportation Security Agency from the Department of Transportation to the Department of Homeland Security, while practical from the standpoint of consolidating security functions, separates transportation security from the broader considerations of transportation strategy. It should not lead to an exclusive reliance on regulation and enforcement as the only ways to mitigate risk, nor should it be allowed to discourage creative approaches.
+
+This brings me to a final observation. We must do all we can to enhance the ability of our intelligence efforts and law enforcement officials to uncover and thwart terrorist plots, increase security around vulnerable targets, and improve our ability to respond to attacks when they occur.
+
+At the same time, we must be realistic about the acceptance of risk. We cannot allow fear to become the framework of American governance. We should be wary of slouching toward a "security state" in which protected perimeters, gates, and guards dominate the landscape and irrevocably alter everyday life. Even this august body cannot legislate an end to terrorism; it cannot eliminate all vulnerabilities from an open society or transfer all risks from its citizens to its government, nor should it try.
+
+Ultimately, the strength of this nation depends not on the thickness of its concrete walls or the severity of its criminal code, but upon the courage, self-reliance, and inherent creativity of its free citizens.
+
+7
+
+Brian Michael Jenkins and Larry N. Gersten, "Protecting Public Surface Transportation Against Terrorism and Serious Crime: Continuing Research on Best Security Practices," Mineta Transportation Institute, September 2001. ii Brian Michael Jenkins, "Protecting Public Surface Transportation Against Terrorism and Serious Crime: An Executive Overview," Mineta Transportation Institute, October 2001. iii Brian Michael Jenkins and Frances Edwards-Winslow, "Saving City Lifelines: Lessons Learned in the 911 Terrorist Attacks," Mineta Transportation Institute, September 2003. iv Brian Michael Jenkins, "Improving Public Surface Transportation Security: What Do We Do Now?" The Lexington Institute, July 2003.
+
+i
+
+8
+
+

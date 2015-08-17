@@ -1,0 +1,355 @@
+. 1 **I
+
+United
+
+St+&3
+
+G&4
+
+Accounting
+
+Office
+
+/3/6Q
+
+"GAO
+October 1986
+
+" ' Briefing Report to the Chairman, Subcommittee on Defense, Committee on Appropriations, House of Representatives
+
+INFORMATION SYSTEM Status of the Continental Army Management Information System
+
+.. .
+
+United
+
+States
+
+Gkeral
+
+Accounthg
+
+Office
+
+,&A0
+October 1986
+
+Briefing Report to the Chairman, Subcommittee on Defense, Committee Appropriations, House of Representatives
+
+INFORMATION SYSTEM Status of the Continental Army Management Information System
+
+5x&&
+GAO/NSIAD-87-23BR
+
+...
+
+GAO
+
+United States General Accounting Office Washington, D.C. 20548
+
+NationalSecurity
+International
+
+and Affairs Division
+
+B-224989 October 24,
+1986
+
+The Honorable Bill Chappell, Jr. Subcommittee on Defense Chairman, Committee on Appropriations House of Representatives Dear Mr. Chairman:
+
+As requested in your June 4, 1986, letter, we provided information on requirements, acquisition, deployment, and funding on the Continental Army Management Information the Developmental Army Readiness and System (CAMIS), Mobilization System (DARMS), and their replacement, called the Reserve Component Automation (RCA), in a briefing to Subsequent to the your Office on August 25, 1986. briefing, we were asked to provide a status report on the issues facing RCA. This briefing management and funding report summarizes the background of CAMIS and DARMS and the management and funding issues facing the RCA program. PROGRAM BACKGROUND The CAMIS program initiated in 1979 was intended to automate the mobilization management functions of the Army --DARMS--was developed reserve component. A CAMIS prototype in 1982 to provide limited basic automation capabilities to support mobilization and to validate CAMIS requirements. From 1979 through 1985, about $50 million was expended to develop CAMIS and DARMS. In November 1985, the Army suspended the acquisition of CAMIS and directed that the program be restructured. In December 1985, DARMS' status was changed from developmental to operational so that its limited automation capabilities could be used until a new system was developed. the Army revalidated CAMIS' peacetime requirements but changed the system to a three part approach, including provisions to automate wartime mobilization execution functions, and continued support for wartime command and control after mobilization. This restructured approach was named RCA and has the following major components:
+1986,
+
+In August mobilization acquisition
+
+--
+
+Mobilization application
+
+Command and Control software development
+
+(MOB C2), which to automate the
+
+is
+
+an
+
+*i
+
+::
+
+B-224909 reserve component mobilization planning and execution management functions. It will be developed as a new Standard Army Multi-Command Management Information System (STAMMIS).
+--
+
+STAMMIS Extension incorporates reserve component functional specifications into the software for STAMMIS' dealing with personnel, finance, logistics, and other management support functions. Unit Administration, which will use commercially available microcomputers and software to automate the reserve component administrative functions at Reserve Centers and National Guard Armories.
+
+--
+
+The computer and telecommunications equipment requirements of the RCA will be determined and provided by the Standard Army Network (STARNET) Management Activity of the U.S. Army Information Systems Engineering Command. MANAGEMENT AND FUNDING ISSUES The RCA program faces some management and funding which need to be resolved as the program proceeds. issues
+
+The MOB C2 STAMMIS requires the review and approval of its need, concept, funding, definition, and design by both the Army's and the Department of Defense's (DOD'S) Major The Automated Information System Review Council (MAISRC). Army's MOB C2 MAISRC is currently scheduled for October 24, 1986. No specific date has been scheduled for the DOD MAISRC. DOD officials told us that the DOD MAISRC would include not only MOB C2, but the total RCA program and its associated requirements. Another management issue is implementing the MOB C2, They will STAMMIS Extension, and STARNET interfaces. require extensive coordination among the staff at Headquarters, Department of the Army, the affected Army Commands, and the various program offices of the that Information Systems Engineering Command. We were told the Army Chief of Staff will establish a high priority for this effort. Army officials said that they consider RCA funding critical short-term issue that must be resolved. funding issues are briefly summarized below. the most The key
+
+2
+
+B-224989 The estimated funding requirement for MOB C2 STAMMIS for fiscal year 1987 is $1.5 million for the program office to develop the statement of work and the request for proposal Under this funding schedule, to develop MOB C2 software. software development will not start until fiscal year 1988. if MOB C2 is not approved Also, Army officials said that, by the DOD MAISRC or if this MAISRC review slips beyond early December 1986, funding for fiscal year 1988 may not be available because the requirement would not be included in the President's Budget for fiscal year 1988. The STAMMIS Extension is currently unfunded for fiscal year 1987. The Army is in the process of determining what STAMMIS modifications are required and developing costs and time schedules for making the changes. Preliminary estimates indicate that the funding requirement for STAMMIS Extension is about $6 million for fiscal year 1987. Unit Administration is not requirement in fiscal year $27 million. The STARNET, which telecommunications about $16.9 million funding requirement about $4.6 million budgeted. 1987 for The estimated funding Unit Administration is
+
+RCA depends on for data processing and hardware support was to be budgeted for in fiscal year 1987, but the RCA is estimated at $21.5 million, leaving not budgeted for fiscal year 1987.
+
+When annual schedules and total costs for RCA requirements are known, unbudgeted fiscal year 1987 requirements would have to be met by reprogramming funds from other Army programs if the RCA is to make any progress in fiscal year 1987. Funding shortfalls and schedule changes in any RCA component or STARNET will affect other RCA components because of the complex interrelationships and interdependencies among them. Additional details on the results of our work is included in the appendixes. Our review included interviewing responsible Army officials and examining program and budgetary documents in the offices of the Assistant Chief of Staff for Information Management and the Deputy Chief of Staff for Operations and Plans, Department of the Army: the CAMIS and DARMS Program Office, Information Systems Engineering Command; and the Office of the Chief of Staff, U.S. Army Forces Command.
+
+3
+
+B-224909 We discussed the contents of this briefing report with agency officials and we have included their comments where appropriate. we did not obtain official As requested, agency comments on this report. Unless you publicly announce its contents earlier we plan no further distribution of this report until 30 days from time we will At that the date of this briefing report. send copies to interested parties and make copies available If you have any questions, please to others upon request. call me on 275-4841. Sincerely yours,
+
+'Associate
+
+Director
+
+4
+
+Contents APPENDIX I II III IV TABLES I.1 III.1 IV. 1 CAMIS funding profile responsibilities RCA costs by program CAMIS BACKGROUND
+
+' Page 7 9
+
+RCA BACKGROUND RCA MANAGEMENT RCA ESTIMATED STRUCTURE COSTS
+
+11 12
+
+8 11 12
+
+RCA program Estimated
+
+ABBREVIATIONS ACSIM CAMIS DARMS DOD FORSCOM ISC MAISRC MOB C2 MPA NGB NGPA OCAR Assistant Management Continental Developmental System Department U.S. Army of Forces Chief Army of Staff for Information Information and
+System
+
+Management Readiness
+
+Army Defense
+
+Mobilization
+
+Command Command System Control Review
+COUnCil
+
+Information Major
+
+Systems
+
+Automated
+
+Information Command and Army
+
+Mobilization Military National National Office of
+
+Personnel, Guard Guard the Bureau
+
+Personnel, Chief of Army
+
+Army Reserves
+
+OMA OMANG OMAR OPA RCA RPA STAMMIS STARNET
+
+Operations Operations Operations
+Other
+
+and Maintenance, and Maintenance, and Maintenance, Army Automation Army
+
+Army Army National Army Reserve Guard
+
+Procurement, Component Procurement,
+
+Reserve Reserve Standard
+System
+
+Army Multi-Command Army Network
+
+Management
+
+Information
+
+Standard
+
+6
+
+APPENDIX I
+
+APPENDIX I
+
+CAMIS BACKGROUND In June 1979, U.S. Army Forces Command, initiated the CAMIS program and established a program office at Fort McPherson, Georgia. In October 1979, the CAMIS Mission Element Needs identifying the need to automate the Statement was approved, planning and execution functions of mobilizing the Army reserve components. The command structure involved in reserve component mobilization included Headquarters, Army Forces Command, the Continental United States Army Commands, Readiness Groups, and Army Reserve and National Guard units. Mobilization Stations, The estimated cost of the original system was uncertain, ranging In 1982, the Army estimated that from $5 million to $100 million. CAMIS would have a life-cycle cost in excess of $600 million. In June 1982, the Assistant Secretary of the Army for Financial Management approved advanced fielding of a partially developed system, called the Demonstration CAMIS Validation System. This system was to provide limited, basic automation support for a mobilization exercise and also be used as a test bed to continue CAMIS development. This Demonstration System was installed at Headquarters, Army Forces Command, 3 Continental United States Army headquarters, and 47 mobilization stations. Use of the system in the Mobilization Exercise 83 proved the need to automate the reserve component mobilization functions. In November 1983, the Assistant Secretary of the Army for Financial Management approved the revised CAMIS acquisition plan. In June 1984, the Demonstration System was renamed the One Developmental Army Readiness and Mobilization System (DARMS). month later a request for proposal was released to industry for CAMIS development.
+1985, the Army had received proposals from Boeing By January Corporation, Sperry Corporation, and Systems Development Corporation. During bid evaluation in June 1985, the mobilization mission of the Continental United States Army was expanded to include mobilization training and the Secretary of the Army approved an expanded CAMIS program. Two months later the responsibility for CAMIS development was transferred from the Army Forces Command to the Army's Information Systems Command.
+
+In November 1985, the CAMIS acquisition program was suspended, when the Under Secretary of the Army canceled the request for proposal and directed the Army to:
+
+CAMIS
+
+7
+
+`.
+
+APPENDIX --
+
+I create service through a secure and a non-secure under a 3 tier architecture an intermediate command data
+
+APPENDIX processing utility (major command level level to unit level); and Control System DOD telecommunications
+
+I
+
+--
+
+use the World Wide Military the Defense Data Network, standards: standardize and acquire microcomputer hardware computer (installation acquire software application contractors:
+
+Command following
+
+and
+
+--
+
+competitively tier 3 (unit level) and, if feasible, tier 2 miniand command level) hardware; competitively contractor systems from to with competent integrate the utility
+
+---
+
+software and
+
+use competitively an integration and validate application software network services. the budget for fiscal 1.1: CAMIS FY89 ---$ 0.9 5.4 4.5 1.1 23.2 10.1 ---w$45.2 ----38.7 -3--w $83.9 =====
+
+In November 1985, appropriation account shown in table 1.1. Table Appropriation ------MPAa RPAb NGPAC OMAd OMARe OMNGf Total OPAg Total a b
+C
+
+request for CAMIS years 1987 through Funding Profile
+
+by 1991
+
+was
+
+as
+
+PY87 FY88 -------------------------(in $ 0.2 $ 0.2 3.4 3.5 0.6 2.1 1.6 1.1 27.4 18.3 1.7 7.7 -----m-w$34.9 $32.9 --------6.5 17.2 -------$41.4 $50.1 ----D-m-----_
+
+FY90 FY91 ------millions)------------------$ 1.6 $ 1.6 7.2 7.2 6.0 6.0 0.8 0.4 18.2 12.6 12.1 10.2 -w-m-v--$45.9 $38.0 -------we 37.2 8.2 ---mm --v-w $83.1 $46.2 ---------
+
+Total ----$ 4.5 26.7 19.2 5.0 99.7 41.8 --m-$196.9 ----107.8 -M-w$304.7 -----
+
+d e f g
+
+Military Personnel, Army. Reserve Personnel, Army. National Guard Personnel, Operations and Maintenance, Operations and Maintenance, Operations and Maintenance, Other Procurement, Army.
+
+Army. Army Army Reserve. National Guard. 8
+
+APPENDIX II RCA BACKGROUND
+
+APPENDIX II
+
+In August 1986, the Army announced that the restructured the CAMIS Mission CAMIS program would be called RCA. RCA retains Element Needs Statement requirements, but the acquisition and funding profile are approach, management structure, CAMIS, a stand alone system acquisition significantly different. was to be totally provided by a program under one program manager, RCA involves three single competitively selected contractor. major programs and it will not be totally provided by a single contractor. RCA will include provisions to support peacetime and support of command and control after automation, mobilization, mobilization. Also, the acquisition of related computer and telecommunications equipment essential to the RCA is in a separate but related program. These major components are described below. An application software development program, called MOB C2, is intended to develop a STAMMIS software package to automate both the management planning and execution functions needed to mobilize The Army's Information Systems Command the reserve components. An updated CAMIS has responsibility for this development program. Mission Element Needs Statement and a new MOB C2 Program Management Charter are being reviewed by Army Staff. The program management office for this program is budgeted for only fiscal year 1987 while the software development requirement is not budgeted. The modification of existing STAMMIS software, called "STAMMIS Extensions," is being done to incorporate reserve component specifications and to improve the current software with a state-of-the-art programming to permit data base sharing by authorized reserve component users. The Army's Information Systems Command, Office of the Chief of Staff of the Army, and using Army Commands share responsibilities for completing this portion of the RCA. The Armyis Vice Chief of Staff is expected to notify all Army Deputy Chiefs of Staff and appropriate Commands that the Army Chief of Staff places high priority on this effort and that the Assistant Chief of Staff for Information Management is designated as the Department of the Army coordinator and the focal point for the STAMMIS Extensions. This program is unfunded. A microcomputer acquisition project, called "Unit Administration" is intended to obtain modern commercial microcomputers and off-the-shelf software to provide capabilities for the reserve components to automate a variety of unit administrative functions performed at Reserve Centers and National Guard Armories. The Office of the Chief of Staff for Army Reserves and the National Guard Bureau have the responsibility to fund and manage the Unit Administration project. This program is unfunded. 9
+
+APPENDIX II
+
+APPENDIX II
+
+The separate but related hardware and telecommunications program essential to RCA is the STARNET. The Army Information Systems Command has established the STARNET Management Activity and charged it with the responsibility to develop and manage the network, including the determination and acquisition of the hardware and telecommunications needed to accommodate the MOB C2 and STAMMIS Extensions programs on STARNET. In fiscal year 1987 the Army's budget request included $16.9 million for STARNET, but the RCA requirement is estimated at $21.5 million, leaving $4.6 million not budgeted for fiscal year 1987. RCA cost estimates for provided in appendix IV. fiscal years
+1987
+
+through
+
+1992 are
+
+10
+
+_I
+
+APPENDIX
+
+III RCA MANAGEMENT STRUCTURE among
+
+APPENDIX
+
+III
+
+groups
+
+Responsibilities as illustrated Table III.l:
+
+for RCA are dispersed in table 111.1. RCA Program STAMMIS Extension Army Staff
+
+a variety
+
+of
+
+Responsibilities Unit Admin STARNETa ISCd
+
+Requirement Functional specifications Materiel development Program funding System operation
+
+MOB C2 Army Staffb
+
+FORSCOMC NGBe OCARf FORSCOM NGB
+
+ISC ISC ISC
+
+ISC Army ISC Staff
+
+ISC ISC ISC
+
+OCAR NGB USARg ARNGh
+
+a b : e f
+
+Not in the RCA program but RCA depends on STARNET for data and telecommunications services. processing Various staff elements of Headquarters, Department of the Army and Major Army Commands. U.S. Army Forces Command. Information Systems Command. National Guard Bureau. Office of the Chief of Army Reserves, Department of the Army. U.S. Army Reserve units. Army National Guard units.
+
+11
+
+APPENDIX
+
+IV RCA ESTIMATED COSTS for fiscal 1986. by Program
+
+APPENDIX
+
+IV
+
+Table IV.1 through 1992 by Table
+
+shows estimated program, as of IV.l: Estimated
+
+RCA costs October 7, RCA Costs
+
+years
+
+1987
+
+FY87 FY88 --e--v-------------STAMMIS Extension MOB C2 DARMSa Operation Unit Admin $ 6.0 1.5 4.7 2790 21.5 -m-e-$60.7 ------mm--were $15.0 11.0 4.7 50.3 17.1 ---___ $98.1 --__ -----s== not
+
+FY89 $ 16.6 8.8 4.7 65.4 18.1 -----$113.6 -----_-------
+
+(in
+
+FY91 FY90 millions)-------------------$16.0 4.5 0 59.7 $14.2 2.6 0 54.4 3.3 -w---$74.5 --_--------
+
+FY92 $14.2 1.6 0 34.9 3.3 -----$54.0 ------
+
+Total $ 82.0 30.0 14.1 291.7 71.3 ------$489.1 ------------by
+
+STARNET Total a
+
+8.0 -----$88.2 --____-----_the estimated
+
+DARMS costs the Army.
+
+included
+
+RCA costs
+
+provided
+
+(395054)
+
+12
+
+Requests for copies of GAO reports should be sent to: U.S. General Accounting Office Post Office Box 60 15 Gaithersburg, Maryland 20877 Telephone 202-275-6241 The first five copies of each report are free. Additional $2.00 each. copies are
+
+There is a 25% discount on orders for 100 or more copies mailed to a single address. Orders must be prepaid by cash or by check or money order made out to the Superintendent of Documents.
+
+Requests for copies of GAOreports should be sent to: U.S. General Accounting Office Post Office Box 6015 Gaithersburg, Maryland 20877 Telephone 202-275-6241 The first five copies of each report are free. Additional $2.00 each. copies are
+
+There is a 25% discount on orders for 100 or more copies mailed to a single address. Orders must be prepaid by cash or by check or money order made out to the Superintendent of Documents.
+
+United States General Accounting Offke Washington, D.C. 20548 Offkial Business Penalty for Private Use $300 Address Correction Requested Permit No. GlOO
+
+

@@ -1,0 +1,271 @@
+United States General Accounting Office
+
+GAO
+For Release on Delivery Expected at 10:00 a.m. EDT Thursday, April 22, 2004
+
+Testimony Before the Committee on Government Reform, House of Representatives
+
+CONTINUITY OF OPERATIONS Improved Planning Needed to Ensure Delivery of Essential Services
+Statement of Linda D. Koontz Director, Information Management Issues
+
+GAO-04-638T
+
+April 22, 2004
+
+CONTINUITY OF OPERATIONS Improved Planning Needed to Ensure Delivery of Essential Government Services
+
+Highlights of GAO-04-638T, a testimony before the Committee on Government Reform, House of Representatives
+
+To ensure that essential government services are available in emergencies--such as terrorist attacks, severe weather, or building-level emergencies-- federal agencies are required to develop continuity of operations (COOP) plans. Responsibility for formulating guidance on these plans and for assessing executive branch COOP capabilities lies with the Federal Emergency Management Agency (FEMA), under the Department of Homeland Security. FEMA guidance, Federal Preparedness Circular (FPC) 65 (July 1999), identifies elements of a viable COOP capability, including the requirement that agencies identify their essential functions. This statement summarizes the findings of a February 2004, GAO report, for which GAO was asked to determine the extent to which (1) major civilian executive branch agencies have identified their essential functions and (2) these agencies' COOP plans follow FEMA guidance.
+
+Based on an assessment of 34 COOP plans against FEMA guidance, GAO found that most agencies' plans identified at least one function as essential. However, the functions identified in each plan varied widely in number-- ranging from 3 to 399--and included functions that appeared to be of secondary importance, while at the same time omitting programs that had been previously defined as high-impact programs. For example, one department included "provide speeches and articles for the Secretary and Deputy Secretary," among its essential functions, but did not include 9 of 10 high-impact programs for which it was responsible. Several factors contributed to these shortcomings: FPC 65 did not provide specific criteria for identifying essential functions; FEMA did not review the essential functions identified when it assessed COOP planning; and it did not conduct tests or exercises to confirm that the essential functions were correctly identified. Unless agencies' essential functions are correctly and completely identified, their COOP plans may not effectively ensure that the most vital government services can be maintained in an emergency. Although all but three of the agencies reviewed had developed and documented some of the elements of a viable COOP plan, none of the agencies could demonstrate that they were following all the guidance in FPC 65. As the figure shows, there is a wide variation in the number of agencies that addressed various elements identified in the guidance. A contributing cause for the deficiencies in agency COOP plans is the level of FEMA oversight. In 1999, FEMA conducted an assessment of agency compliance with FPC 65, but it has not conducted oversight that is sufficiently regular and extensive to ensure that agencies correct the deficiencies identified. Because the resulting COOP plans do not include all the elements of a viable plan as defined by FPC 65, agency efforts to provide services during an emergency could be impaired.
+Elements That Were Included in Agency COOP Plans in Place as of October 1, 2002
+
+In a February 2004 report, GAO recommended that the Secretary of Homeland Security take steps to improve agency COOP plans and FEMA's process for assessing these plans. DHS agreed that improvements were needed in the COOP planning process, and that FEMA could do more to ensure such improvements were made.
+
+www.gao.gov/cgi-bin/getrpt?GAO-04-638T. To view the full product, including the scope and methodology, click on the link above. For more information, contact Linda Koontz at (202) 512-6240 or koontzl@gao.gov.
+
+Mr. Chairman and Members of the Committee: I appreciate the opportunity to participate in the Committee's hearing on federal continuity of operations planning. As you know, events such as terrorist attacks, severe weather, or building-level emergencies can disrupt the delivery of essential government services. To minimize the risk of disruption, federal agencies are required to develop plans for ensuring the continuity of essential services in emergency situations. The Federal Emergency Management Agency (FEMA), which was designated executive agent for executive branch continuity of operations (COOP) planning, issued planning guidance in July 1999. This guidance, known as Federal Preparedness Circular (FPC) 65, states that in order to have a viable COOP capability, agencies should identify their essential functions. Identifying essential functions is the first of eight elements of a viable COOP capability, and provides the basis for subsequent planning steps. At your request, we analyzed the continuity of operations plans in place at 20 major civilian departments and agencies1 as of October 1, 2002. We reported the results of our analysis to you in February.2 My remarks today will summarize those results. Specifically, I will discuss
+·
+
+the extent to which agencies have identified their essential functions, and the extent to which their plans follow the guidance provided in FPC 65.
+
+·
+
+In conducting the analysis for our February report, we obtained and evaluated the headquarters contingency plans in place as of October 1, 2002, from 20 of the 23 largest civilian departments and agencies, as well as the headquarters plans for 15 components of civilian cabinet-level departments, selected because they were responsible for programs previously deemed high impact by the Office of Management and Budget (OMB). (The major departments and agencies reviewed are listed in attachment I.)3 We also reviewed supporting documentation and
+
+Three of the selected major agencies did not have documented COOP plans in place as of October 1, 2002.
+2
+
+1
+
+U.S. General Accounting Office, Continuity of Operations: Improved Planning Needed to Ensure Delivery of Essential Services, GAO-04-160 (Washington, D.C.: Feb. 27, 2004.)
+
+Attachment II provides a list of the high-impact programs and the component agencies responsible for them. Attachment III identifies the 15 components whose COOP plans we reviewed and the high-impact programs for which they are responsible.
+
+3
+
+Page 1
+
+GAO-04-638T
+
+interviewed the agency officials responsible for developing these plans, obtained and analyzed FEMA guidance and documents describing its efforts to provide oversight and assessments of the federal continuity planning efforts, and interviewed FEMA officials to clarify the activities described in these documents. This testimony is based on previously published work, which was conducted in accordance with generally accepted government auditing standards, from April 2002 through January of this year.4
+
+Results in Brief
+
+Twenty-nine of the 34 COOP plans5 that we reviewed identified at least one essential function. However, the functions identified in these plans varied widely in number--ranging from 3 to 399--and included functions that appeared to be of secondary importance. At the same time, the plans omitted many programs that OMB had previously identified as having a high impact on the public. Agencies did not list among their essential functions 20 of the 38 high-impact programs that had been identified at those agencies. For example, one department included "provide speeches and articles for the Secretary and Deputy Secretary" among its essential functions, but it did not include 9 of its 10 high-impact programs. In addition, although many agency functions rely on the availability of resources or functions controlled by another organization, more than three-fourths of the plans did not fully identify such dependencies. Several factors contributed to these governmentwide shortcomings: FPC 65 does not provide specific criteria for identifying essential functions, nor does it address interdependencies; FEMA did not review the essential functions identified in its assessments of COOP planning or follow up with agencies to determine whether they addressed previously identified weaknesses; and it did not conduct tests or exercises that could confirm that the identified essential functions were correct. Although the agency has begun efforts to develop additional guidance and conduct a governmentwide exercise, these actions have not yet been completed. Without better oversight, agencies are likely to continue to base their COOP plans on illdefined assumptions that may limit the utility of the resulting plans.
+
+We also reported on the human capital considerations relevant to COOP planning and implementation in U.S. General Accounting Office, Human Capital: Opportunities to Improve Federal Continuity Planning Guidance, GAO-04-384 (Washington, D.C.: Apr. 20, 2004). One COOP plan covered two components. As a result, the 34 COOP plans we reviewed covered 35 departments and agencies, including components.
+5
+
+4
+
+Page 2
+
+GAO-04-638T
+
+While all but three of the agencies that we reviewed had developed and documented some elements of a COOP plan, none of the agencies provided documentation sufficient to show that they were following all the guidance in FPC 65. FEMA conducted an assessment of agency compliance with FPC 65 in 1999, but it has not conducted oversight that is sufficiently regular and extensive to ensure that agencies correct deficiencies identified. This limited level of oversight was a contributing cause for the deficiencies in agency COOP plans. FEMA officials told us that they plan to improve oversight by providing more detailed guidance and developing a system to collect data from agencies on their COOP readiness. However, the officials have not yet determined how they will verify the agency-reported data, assess the essential functions and interdependencies identified, or use the data to conduct regular oversight. If these shortcomings are not addressed, agency COOP plans may not be effective in ensuring that the most vital government services can be maintained in an emergency. In our report, we made several recommendations to the Secretary of Homeland Security to enhance the ability of the federal government to provide essential services during emergencies. In response to a draft of our report, the Under Secretary for Emergency Preparedness and Response agreed that better planning is needed to ensure delivery of essential services, and that the department could do more to improve. He added that the department has begun to correct the identified deficiencies and stated that the federal government is currently poised to provide services in an emergency. Once the department assesses and independently verifies the status of agencies' plans, it will have convincing evidence to support such statements about readiness in the future.
+
+Background
+
+Federal operations and facilities have been disrupted by a range of events, including the terrorist attacks on September 11, 2001; the Oklahoma City bombing; localized shutdowns due to severe weather conditions, such as the closure of federal offices in Denver for 3 days in March 2003 due to snow; and building-level events, such as asbestos contamination at the Department of the Interior's headquarters. Such disruptions, particularly if prolonged, can lead to interruptions in essential government services. Prudent management, therefore, requires that federal agencies develop plans for dealing with emergency situations, including maintaining services, ensuring proper authority for government actions, and protecting vital assets.
+
+Page 3
+
+GAO-04-638T
+
+Until relatively recently, continuity planning was generally the responsibility of individual agencies. In October 1998, Presidential Decision Directive (PDD) 67 identified FEMA--which is responsible for responding to, planning for, recovering from, and mitigating against disasters--as the executive agent for federal COOP planning across the federal executive branch. FEMA was an independent agency until March 2003, when it became part of the Department of Homeland Security, reporting to the Under Secretary for Emergency Preparedness and Response. PDD 67 is a Top Secret document controlled by the National Security Council. FPC 65 states that PDD 67 made FEMA, as executive agent for COOP, responsible for
+· ·
+
+formulating guidance for agencies to use in developing viable plans; coordinating interagency exercises and facilitating interagency coordination, as appropriate; and overseeing and assessing the status of COOP capabilities across the executive branch.
+
+·
+
+According to FEMA officials, PDD 67 also required that agencies have COOP plans in place by October 1999. In July 1999, FEMA issued FPC 65 to assist agencies in meeting the October 1999 deadline. FPC 65 states that COOP planning should address any emergency or situation that could disrupt normal operations, including localized emergencies. FPC 65 also determined that COOP planning is based first on the identification of essential functions--that is, those functions that enable agencies to provide vital services, exercise civil authority, maintain safety, and sustain the economy during an emergency. FPC 65 gives no criteria for identifying essential functions beyond this definition. Although FPC 65 gives no specific criteria for identifying essential functions, a logical starting point for this process would be to consider programs that had been previously identified as important. For example, in March 1999, as part of the efforts to address the Y2K computer
+
+Page 4
+
+GAO-04-638T
+
+problem,6 the Director of OMB identified 42 programs with a high impact on the public:
+·
+
+Of these 42 programs, 38 were the responsibility of the 23 major departments and agencies that we reviewed. (Attachment II provides a list of these 38 high-impact programs and the component agencies that are responsible for them.) Of these 23 major departments and agencies, 16 were responsible for at least one high-impact program; several were responsible for more than one.
+
+·
+
+Programs that were identified included weather service, disease monitoring and warnings, public housing, air traffic control, food stamps, and Social Security benefits. These programs, as well as the others listed in attachment II, continue to perform important functions for the public. The Y2K efforts to support such high-impact programs included requirements for COOP planning and the identification of interdependencies. Specifically, agencies were tasked with identifying partners integral to program delivery, testing data exchanges across partners, developing complementary business continuity and contingency plans, sharing key information on readiness with other partners and the public, and taking other steps to ensure that the agency's high-impact program would work in the event of an emergency. In addition to requiring agencies to identify their essential functions, FPC 65 also defined an additional seven planning topics that make up a viable COOP capability. The guidance provided a general definition of each of the eight topics and identified several actions that should be completed to address each topic. Table 1 lists the eight topic areas covered in FPC 65 and provides an example of an action under each.
+
+The need to ensure that computers would handle dates correctly in the year 2000 (Y2K) and beyond resulted in a governmentwide effort to identify mission-critical systems and high-impact programs supported by these systems.
+
+6
+
+Page 5
+
+GAO-04-638T
+
+Table 1: Eight COOP Planning Topics Defined by FPC 65 and Examples of Actions FPC 65 planning topic Essential functions should be identified to provide the basis for COOP planning. Plans and procedures should be developed and documented to provide for continued performance of essential functions. Orders of succession should identify alternates to fill key positions in an emergency. Delegations of authority should identify the legal basis for officials to make decisions in emergencies. Alternate facilities should be able to support operations in a threatfree environment for up to 30 days. Interoperable communications should provide voice and data communications with others inside and outside the organization. Vital records should be identified and made readily available in an emergency. Tests, training, and exercises should occur regularly to demonstrate and improve agencies' COOP capabilities.
+Sources: FPC 65, FEMA.
+
+Example of action (element of viable COOP plan) The agency should prioritize its essential functions. These plans should include a roster of personnel who can perform the essential functions. Succession lists should be developed for the agency head and other key positions. Delegations should include the circumstances under which the authorities begin and end. These facilities should provide sufficient space and equipment to sustain the relocating organization. The agency should be able to communicate with agency personnel, other agencies, critical customers, and the public. Electronic and paper records should be identified and protected. Individual and team training should be conducted annually.
+
+Many COOP Plans Did Not Address Previously Identified Essential Functions or Interdependencies with Other Entities
+
+The identification of essential functions is a prerequisite for COOP preparation because it establishes the parameters that drive the agency's efforts in all other planning topics. For example, FPC 65 directs agencies to identify alternative facilities, staff, and resources necessary to support continuation of their essential functions. The effectiveness of the plan as a whole and the implementation of all other elements depend on the performance of this step. Of the 34 agency COOP plans that we reviewed, 29 plans included at least one function that was identified as essential. These agency-identified essential functions varied in number and scope. The number of functions identified in each plan ranged from 3 to 399. In addition, the apparent importance of the functions was not consistent. For example, a number of essential functions were of clear importance, such as
+·
+
+"ensuring uninterrupted command, control, and leadership of the Department"; "protecting critical facilities, systems, equipment and records"; and "continuing to pay the government's obligations."
+
+· ·
+
+Other identified functions appeared vague or of questionable importance:
+Page 6 GAO-04-638T
+
+· · ·
+
+"provide speeches and articles for the Secretary and Deputy Secretary"; "schedule all activities of the Secretary"; and "review fiscal and programmatic integrity and efficiency of Departmental activities."
+
+In contrast to the examples just given, agencies did not list among their essential functions 20 of the 38 "high-impact" programs identified during the Y2K effort at the agencies we reviewed. Another important consideration in identifying essential functions is the assessment of interdependencies among functions and organizations. As we have previously reported,7 many agency functions rely on the availability of resources or functions controlled by another organization, including other agencies, state and local governments, and private entities. (For example, the Department of the Treasury's Financial Management Service receives and makes payments for most federal agencies.) The identification of such interdependencies continues to be essential to the related areas of information security and critical infrastructure protection. Although FPC 65 does not use the term "interdependencies," it directs agencies to "integrate supporting activities to ensure that essential functions can be performed." Of the 34 plans we reviewed, 19 showed no evidence of an effort to identify interdependencies and link them to essential functions, which is a prerequisite to developing plans and procedures to support these functions and all other elements of COOP planning. Nine plans identified some key partners, but appeared to have excluded others: for instance, six agencies either make or collect payments, but did not mention the role of the Treasury Department in their COOP plans. The high level of generality in FEMA's guidance on essential functions contributed to the inconsistencies in agencies' identification of these functions. In its initial guidance, FPC 65, FEMA provided minimal criteria for agencies to make these identifications, giving a brief definition only. According to FEMA officials, the agency is currently developing revised
+
+7
+
+U.S. General Accounting Office, Year 2000 Computing Challenge: Lessons Learned Can Be Applied to Other Management Challenges, GAO/AIMD-00-290 (Washington, D.C.: Sept. 12, 2000).
+
+Page 7
+
+GAO-04-638T
+
+COOP guidance that will provide more specific direction on identifying essential functions. They expect the guidance to be released this Summer. Further, although FEMA conducted several assessments of agency COOP planning between 1995 and 2001, none of these addressed the identification of essential functions. In addition, FEMA has begun development of a system to collect data from agencies on the readiness of their COOP plans, but FEMA officials told us that they will not use the system to validate the essential functions identified by each agency or their interdependencies. According to these officials, the agencies are better able to make those determinations. However, especially in view of the wide variance in number and importance of functions identified, as well as omissions of high-impact programs, the lack of FEMA review lowers the level of assurance that the essential functions that have been identified are appropriate. Additionally, in its oversight role, FEMA had the opportunity to help agencies refine their essential functions through an interagency COOP test or exercise. According to FPC 65, FEMA is responsible for coordinating such exercises. While it is developing a test and training program for COOP activities, it has not yet conducted an interagency exercise to test the feasibility of these planned activities. FEMA had planned a governmentwide exercise in 2002, but the exercise was cancelled after the September 11 attacks. It is currently preparing to conduct a governmentwide exercise in mid-May 2004. Improper identification of essential functions can have a negative impact on the entire COOP plan, because other aspects of the COOP plan are designed around supporting these functions. If an agency fails to identify a function as essential, it will not make the necessary arrangements to perform that function. If it identifies too many functions as essential, it risks being unable to adequately address all of them. In either case, the agency increases the risk that it will not be able to perform its essential functions in an emergency.
+
+Page 8
+
+GAO-04-638T
+
+Agency COOP Plans Addressed Some, but Not All, of FEMA's Guidance
+
+As of October 1, 2002, almost 3 years after the planning deadline established by PDD 67, 3 of the agencies we reviewed had not developed and documented a COOP plan. The remaining 20 major federal civilian agencies had COOP plans in place, and the 15 components8 that we reviewed also had plans. However, after analyzing these plans, we found that none of them addressed all the guidance in FPC 65. Of the eight topic areas identified in FPC 65, these 34 COOP plans generally complied with the guidance in one area (developing plans and procedures); generally did not comply in one area (tests, training, and exercises); and showed mixed compliance in the other six areas. Specifically, when examining the governmentwide results of our analysis of the eight planning topics outlined in FPC 65, we found the following:
+·
+
+Essential functions. Most agency plans identified at least one function as essential. However, less than half the COOP plans prioritized the functions, identified interdependencies among the functions, or identified the mission-critical systems and date needed to perform the functions. Plans and procedures. Most plans followed the guidance in this area, including a roster of COOP personnel, activation procedures, and the appropriate planning time frame (12 hours to 30 days). Orders of succession. All but a few agency plans identified an order of succession to the agency head. Fewer plans included orders of succession for other key officials or included officials outside of the local area in the succession to the agency head. Most plans did not include the orders of succession in the agency's vital records or document training for successors on their emergency duties. Delegations of authority. Few plans adequately documented the legal authority for officials to make policy decisions in an emergency. Alternate facilities. Most plans documented the acquisition of at least one alternate facility, and many include alternate facilities inside and outside of the local area. However, few plans documented that
+
+·
+
+·
+
+·
+
+·
+
+We reviewed 14 component plans: 1 plan covered a building that houses 2 components. Attachment III identifies the 15 components and the high-impact programs for which they are responsible.
+
+8
+
+Page 9
+
+GAO-04-638T
+
+agencies had adequate space for staff, pre-positioned equipment, or appropriate communications capabilities at their alternate facilities.
+·
+
+Redundant emergency communications. Most plans identified at least two independent media for voice communication. Few plans included adequate contact information or information on backup data links. Vital records. About one-quarter of plans fully identified the agency's vital records. Few plans documented the locations of all vital records or procedures for updating them. Tests, training, and exercises. While many agencies documented some training, very few agencies documented that they had conducted tests, training, and exercises at the recommended frequency.
+
+·
+
+·
+
+Limitations in FEMA's Oversight Contribute to Noncompliance
+
+The lack of compliance shown by many plans can be largely attributed to limited guidance and oversight of executive branch COOP planning. First, FEMA has issued little guidance to assist agencies in developing plans that address the goals of FPC 65. Following FPC 65, the agency issued more detailed guidance in April 2001 on two of FPC 65's eight topic areas: FPC 66 provides guidance on developing viable test, training, and exercise programs, and FPC 67 provides guidance for acquiring alternate facilities. However, it did not produce any detailed guidance on the other six topic areas. In October 2003, FEMA began working with several members of the interagency COOP working group to revise FPC 65. Agency officials expect this revised guidance, which should incorporate the guidance from the previous FPCs and address more specifically what agencies need to do to comply with the guidance, to be released this summer. In addition, a member of the staff of the White House Homeland Security Council told us in March that the Council was also working on a new policy framework for federal COOP activities. Second, as part of FEMA's oversight responsibilities, its Office of National Security Coordination is tasked with conducting comprehensive assessments of the federal executive branch COOP programs. With the assistance of contractors, the office has performed assessments, on an irregular schedule, of federal agencies' emergency planning capabilities:
+·
+
+In 1995, it performed a survey of agency officials (this assessment predated FPC 65).
+
+Page 10
+
+GAO-04-638T
+
+·
+
+In 1999, it assessed compliance with the elements of FPC 65 through a self-reported survey of agency COOP officials, supplemented by interviews. In 2001, it surveyed agency officials to ask, among other things, about actions that agencies took on and immediately after September 11, 2001.
+
+·
+
+Of these three assessments, only the 1999 assessment evaluated compliance with the elements of FPC 65. Following this assessment, FEMA gave agencies feedback on ways to improve their respective COOP plans, and it made general recommendations, not specific to individual agencies, that addressed programwide problems. However, it did not then follow up to determine whether individual agencies made improvements in response to its feedback and general recommendations. Besides inquiring about actions in response to the September 2001 attacks, the 2001 assessment was designed to provide an update on programwide problems that had been identified in the assessments of 1995 and 1999. FEMA did not address whether individual agency COOP plans had been revised to correct previously identified deficiencies, nor did it provide specific feedback to individual agencies. According to FEMA officials, the system it is developing to collect agencyreported data on COOP plan readiness will improve its oversight. The system is based on a database of information provided by agencies for the purpose of determining if they are prepared to exercise their COOP plans, in part by assessing compliance with FPC 65. However, according to agency officials, while they recognize the need for some type of verification, they have not yet determined a method of verifying these data. Without regular assessments of COOP plans that evaluate individual plans for adequacy, FEMA will not be able to provide information to help agencies improve their COOP plans. Further, if it does not verify the data provided by the agencies or follow up to determine whether agencies have improved their plans in response to such assessments, FEMA will have little assurance that agencies' emergency procedures are appropriate. Agency officials attributed the limited level of oversight that we found to two factors. First, they stated that before its transition to the Department of Homeland Security, the agency did not have the legal or budgetary authority to conduct more active oversight of the COOP activities of other agencies. However, FPC 65 states that PDD 67 made the agency
+
+Page 11
+
+GAO-04-638T
+
+responsible for guidance, coordination, and oversight in this area, in addition to requiring agencies to develop COOP plans. Accordingly, although it cannot determine how agencies budget resources for such planning, it does have the authority to oversee this planning. Second, according to these officials, until last year, the agency devoted roughly 13 staff to COOP guidance, coordination, and oversight, as well as the development of FEMA's own plan. According to the official responsible for COOP oversight, the agency now has 42 positions authorized for such activities, 31 of which were filled as of December 31, 2003. The agency expects to fill another 4 positions in fiscal year 2004.
+
+In summary, Mr. Chairman, while most of the agencies we reviewed had continuity of operations plans in place, those plans exhibited weaknesses in the form of widely varying determinations about what functions are essential and inconsistent compliance with guidance that defines a viable COOP capability. Agencies could experience difficulties in delivering key services to citizens in the aftermath of an emergency as a result of these weaknesses. A significant factor contributing to this condition is FEMA's limited efforts to fulfill its responsibilities first by providing guidance to help agencies develop effective plans and then by assessing those plans. Further, FEMA has done little to help agencies identify those functions that are truly essential or to identify and plan for interdependencies among agency functions. FEMA has begun taking steps to improve its oversight, by developing more specific guidance and a system to track agency-provided COOP readiness information, and it is planning a governmentwide exercise. However, although the proposed guidance and exercise may help agencies improve their plans, the database that FEMA is developing to collect infromation on COOP readiness is weakened by a lack of planning to verify agency-submitted data, validate agency-identified essential functions, or identify interdependencies with other activities. Without this level of active oversight, continuity planning efforts will continue to fall short and increase the risk that the public will not be able to rely upon the continued delivery of essential government programs and services following an emergency. In our report, we made several recommendations to the Secretary of Homeland Security to enhance the ability of the federal government to provide essential services during emergencies. In response to a draft of our report, the Under Secretary for Emergency Preparedness and Response agreed that better COOP planning is needed to ensure delivery
+Page 12 GAO-04-638T
+
+of essential services, and that the department could do more to improve COOP planning. He added that FEMA has begun to correct the identified deficiencies and stated that the federal government is currently poised to provide services in an emergency. Once FEMA assesses and independently verifies the status of agencies' plans, it will have convincing evidence to support such statements about readiness in the future. Mr. Chairman, this concludes my statement. I would be pleased to respond to any questions that you or other members of the Committee may have at this time.
+
+Contacts and Acknowledgements
+
+For information about this testimony, please contact Linda D. Koontz at (202) 512-6240 or at koontzl@gao.gov, or Mirko Dolak, Assistant Director, at (202) 512-6362 or dolakm@gao.gov. Other key contributors to this testimony include Barbara Collier, Neela Lakhmani, Susan Sato, James R. Sweetman, Jr., Jessie Thomas, and Marcia Washington.
+
+Page 13
+
+GAO-04-638T
+
+Attachment I: Major Civilian Departments and Agencies Selected for Review
+Department of Agriculture Department of Commerce Department of Education Department of Energy Department of Health and Human Services Department of Housing and Urban Development Department of Justice Department of Labor Department of State Department of the Interior Department of the Treasury Department of Transportation Department of Veterans Affairs Agency for International Development Environmental Protection Agency Federal Emergency Management Agency General Services Administration National Aeronautics and Space Administration National Science Foundation Nuclear Regulatory Commission Office of Personnel Management Small Business Administration Social Security Administration
+
+Page 14
+
+GAO-04-638T
+
+Attachment II: 38 High-Impact Programs and Responsible Agencies Included in Our Review
+Agency Department of Agriculture High-impact programs Food safety inspection Child nutrition programs Food stamps Special supplemental nutrition program for women, infants, and children Department of Commerce Department of Education Department of Energy Department of Health and Human Services Patent and trademark processing Weather service Student aid Federal electric power generation and delivery Disease monitoring and warnings Indian health services Medicaid Medicare Organ transplants Child care Child support enforcement Child welfare Low income home energy assistance Temporary assistance for needy families Department of Housing and Urban Development Community development block grants Housing loans Mortgage insurance Section 8 rental assistance Public housing Department of Justice Department of Labor Department of State Department of the Interior Department of the Treasury Department of Transportation Department of Veterans Affairs Federal prisons Immigration Unemployment insurance Passport applications and processing Bureau of Indian Affairs programs Cross-border inspection services Air traffic control system Maritime search and rescue Veterans' benefits Veterans' health care
+
+Page 15
+
+GAO-04-638T
+
+Agency Federal Emergency Management Agency Office of Personnel Management
+
+High-impact programs Disaster relief Federal employee health benefits Federal employee life insurance Federal employee retirement benefits
+
+Social Security Administration
+Source: GAO analysis of OMB guidance.
+
+Social Security benefits
+
+Page 16
+
+GAO-04-638T
+
+Attachment III: Component Agencies Reviewed, with High-Impact Program Responsibilities
+Department Department of Commerce Component National Oceanic and Atmospheric Administration Patent and Trademark Office Department of Health and Human Services Centers for Disease Control and Prevention Center for Medicare and Medicaid Services Food and Drug Administration Indian Health Service Department of Housing and Urban Development Government National Mortgage Association Office of Community Planning and Development Office of Housing Office of Public and Indian Housing Department of the Interior Department of the Treasury Department of Transportation Department of Veterans Affairs
+Source: GAO analysis of OMB guidance.
+
+High-impact programs Weather service Patent and trademark processing Disease monitoring and warnings Medicare and Medicaid Organ transplants Indian health services Housing loans Community development block grants Section 8 rental assistance and mortgage insurance Public housing Indian affairs programs Cross-border inspection services Air traffic control system Maritime search and rescue Veterans' benefits
+
+Bureau of Indian Affairs U.S. Customs Service Federal Aviation Administration U.S. Coast Guard Veterans Benefits Administration
+
+(310708)
+
+Page 17
+
+GAO-04-638T
+
+This is a work of the U.S. government and is not subject to copyright protection in the United States. It may be reproduced and distributed in its entirety without further permission from GAO. However, because this work may contain copyrighted images or other material, permission from the copyright holder may be necessary if you wish to reproduce this material separately.
+
+GAO's Mission
+
+The General Accounting Office, the audit, evaluation and investigative arm of Congress, exists to support Congress in meeting its constitutional responsibilities and to help improve the performance and accountability of the federal government for the American people. GAO examines the use of public funds; evaluates federal programs and policies; and provides analyses, recommendations, and other assistance to help Congress make informed oversight, policy, and funding decisions. GAO's commitment to good government is reflected in its core values of accountability, integrity, and reliability. The fastest and easiest way to obtain copies of GAO documents at no cost is through the Internet. GAO's Web site (www.gao.gov) contains abstracts and fulltext files of current reports and testimony and an expanding archive of older products. The Web site features a search engine to help you locate documents using key words and phrases. You can print these documents in their entirety, including charts and other graphics. Each day, GAO issues a list of newly released reports, testimony, and correspondence. GAO posts this list, known as "Today's Reports," on its Web site daily. The list contains links to the full-text document files. To have GAO e-mail this list to you every afternoon, go to www.gao.gov and select "Subscribe to e-mail alerts" under the "Order GAO Products" heading.
+
+Obtaining Copies of GAO Reports and Testimony
+
+Order by Mail or Phone
+
+The first copy of each printed report is free. Additional copies are $2 each. A check or money order should be made out to the Superintendent of Documents. GAO also accepts VISA and Mastercard. Orders for 100 or more copies mailed to a single address are discounted 25 percent. Orders should be sent to: U.S. General Accounting Office 441 G Street NW, Room LM Washington, D.C. 20548 To order by Phone: Voice: TDD: Fax: (202) 512-6000 (202) 512-2537 (202) 512-6061
+
+To Report Fraud, Waste, and Abuse in Federal Programs Public Affairs
+
+Contact: Web site: www.gao.gov/fraudnet/fraudnet.htm E-mail: fraudnet@gao.gov Automated answering system: (800) 424-5454 or (202) 512-7470 Jeff Nelligan, Managing Director, NelliganJ@gao.gov (202) 512-4800 U.S. General Accounting Office, 441 G Street NW, Room 7149 Washington, D.C. 20548
+
+

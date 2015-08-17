@@ -1,0 +1,54 @@
+II
+
+1
+
+UNITED STATESGENE& ACCGWT~NG OFFICE
+WASHINGTON, D.C. 2Q548
+
+NATIONAL IMIERNATIONAL
+
+SECURITY AFFAlRS
+
+AND DlVlS1ON
+
+B-220762
+
+OCf 15 1985
+
+II Ill II ll,ll~~
+128229
+
+The Honorable Glenn English Chairman, Subcommittee on Government Information, Justice, and Agriculture Committee on Government Operations House of Representatives Dear Mr. Chairman: Subject:
+
+'
+
+Concerns Regarding the National Security Agency Secure Telephone Program (GAO/NSIAD-86-7)
+
+On September 24, 1984, you requested that we evaluate the use of TEMPEST and similar technologies--such as secure telephones-for the protection of national security information. As requested by your office on July 26, 1985, this letter identifies the major issues regarding secure telephones that we have identified to date. The STU-II is the secure telephone in use today. These telephones are to be replaced by lower cost STU-III telephones. Development contracts for the STU-III telephones were awarded 'in March 1985 to AT&T, Motorola, and RCA to develop an easy to use, low cost (target price about $2,000) secure telephone, deliverable by early 1987. Current plans are to award production contracts to all three contractors (if they successfully develop a product) in March 1986, with deliveries to begin in April 1987. The number of units awarded to each contractor will depend on their price and degree of success in performance tests. A contract has also been awarded to GTE Sylvania for systems integration and testing. The total cost to the government for this developmental effort is about $82 million. This program is very unique because, in addition to having applicability to national security information, this secure telephone will also have a commercial market, that is, banks, brokerage firms, and other businesses interested in securing (395037)
+
+B-220762 The three developmental contractors their communications. It is perceive this cummarrcial market to be quite large. anticipated that this large commercial market will benefit government by effecting a reduction in the unit price. The following .are the major issues we are pursuing regarding the secure telephone proNgram. `1. Whether the government should continue purchasing higher cost STU-II telephones when lower cast STU-IIIs will be available in a short time. Whether the criteria being developed to justify the numbcfkr of new secure telephones government agencies will be purchasing is appropriate. Whether secure telephones purchased directly by defense contractors on a reimbursable basis will cost more than if these units are provided to the cantractors as gwernment furnished equipment.
+
+the
+
+2.
+
+3.
+
+ADDITIQNAL ACQUISITION OF STU-TIs IS QUESTS0WABLE '~ The STU-IX was developed and is currently being produced The unit Over 4,000 units have been delivered to date. ITT. price for these telephones has ranged from about $17,000, to about $12,000 today. initially, contract was awarded to Bendix In April 1984, a production The unit price as a second source and to provide competition. Deliveries under this contract is expected to be about $8,000. are currently scheduled to begin about September 1986, and in continue for about 2 years, provided Bendix is successful The total cost of this contract, producing a viable product, Ear about 3,400 STU-IIs, is over $34 million. In addition to the above contracts, the Department of Defense (DOD) was planning to award an additional contract in December 1985 for STU-11s and an initial production contract for The STU-IIM is the militarized version of the the STU-IIM. DOD has decided to cancel these After our inquiries, STW-II. procurments because deliveries from these contracts would not begin until about the same time as the STU-IIIs. This decision will save aver $300 million. by
+
+2
+
+B-220762 A recent decision was also made to continue deliveries of STU-IIs from the present contracts with ITT and Bendix. According to the National Security Agency, deliveries of these STU-11s are necessary to satisfy urgent requirements for secure communications. Proposed plans are to cut-off installation of STU-11s around November 1986, about 6 months before the scheduled first deliveries of STU-111s.
+are .Bcrwever, deliveries of STU-IIs from the Bendix contract not currently scheduled to begin until September 1986 which is only 2 to 3 months before the planned installation cut-off date. Thus, only a small number of the Bendix deliveries would ble made before the installation cut-off date. There will be no need for the much larger number scheduled to be delivered after November 1986. It is also unlikely that alternative uses will be found for them.
+
+CRZTERIA POP DETERMIXING TBE NUMBEROF NEW PHC%ESNEEDED DOD has established three priorities for the use of the new secure telephones (STU-111s). The first and second priorities state that these telephones are to be used to protect classified voice and data communications. The third stated priority for use of these telephones is to protect unclassified but sensitive national security related information. Our major concern in this area focuses on this third unclassified but priority and the definition of the term: sensitive national security related information. A high degree of confusion exists regarding this definition. The National Telecommunications and Information Systems Security Committee, established under National Security Decision Directive 145, is responsible for defining this term. ,m,"' Cn June 27, 1985, and September 18; 1985, we testified on this issue before the Subcommittee on Transportation, Aviation, and Materials, House Committee on Science and Technology and the Subcommittee on Legislation and National Security, House Cammittee on Government Operations. At these hearings, we stated that information considered to be unclassified but sensitive and in the national security interest should be protected. However, we expressed concern that the National Telecommunications and Information Systems Security Committee, which is chaired by DOD, might define this category too broadly. This could result in excessive expenditures to protect unclassified information.
+
+3
+
+B-220762 We plan to monitor the progress being made to define this term and the effect it will have on government expenditures. GOVERNMENT COSTS FROM DIRECT CONTRACTOR PURCHASEOF PHONESON A REIMBURSABLE BASIS MAY BE EXCESSIVE Secure telephones purchased directly by defense contractors on a reimbursable basis might cost more than if they are provided to the contractors as government furnished equipment. Under the present acquisition plans for the STU-IIIs, the National Security Agency will buy an initial large volume of secure telephones for DOD and other government agencies. However, government contractors will be able to buy directly from the telephone manufacturers and charge it to their government contracts as they do for other security equipment. We believe this arrangement may result in higher unit prices being paid by the government contractors due to their lower volume orders. These higher prices will be borne by the government through the reimbursement method. We plan to examine this issue in greater detail, including an exploration of the advantages and/or disadvantages of providing the telephones to the contractors as government furnished equipment. We trust that this information meets your immediate needs and we will keep you informed as we gather additional information on these issues. We discussed these issues with responsible agency officials, but did not obtain official agency comments. As arranged with your office, unless its contents earlier, we plan no further report until 30 days from the date of the we will send copies to interested parties available to others upon request. Sincerely you publicly announce distribution of this report. At that time and make copies yours,
+
+Frank C. Conahan Director
+
+4
+
+

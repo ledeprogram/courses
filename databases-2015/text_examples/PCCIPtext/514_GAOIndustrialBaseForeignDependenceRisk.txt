@@ -1,0 +1,953 @@
+United
+
+States
+
+General
+
+Accounting
+
+Offke
+
+GAO
+-April 1994
+
+Report to the Chairman, Subcommittee on Defense Technology, Acquisition, and Industrial Base, Committee on Armed Services, U.S. Senate
+
+INDUSTRIAL BASE. Assessing the Risk of DOD's Foreign Dependence
+
+GAO
+
+United States General Accounting Office Washington, D.C. 20648 National Security and International Affairs Division
+
+B-256339 April 1,1994 The Honorable Jeff Bingaman Chairman, Subcommittee on Defense Technology, Acquisition, and Industrial Base Committee on Armed Services United States Senate Dear Mr, Chairman: Concerned that the Department of Defense (DOD) had not established criteria for determining acceptable levels of dependence on foreign sources, you asked us to propose a framework for evaluating the national security risk of purchasing military products and technologies from foreign sources. In response to your request, we addressed four questions:
+l
+
+l
+
+l
+
+What basic factors determine the national security risks of buying from foreign sources? How can these factors be measured and evaluated? Is appropriate data for assessing foreign sourcing being collected? . What are some U.S. policy options for dealing with the risks of buying goods and technologies from foreign sources? Analyzing the implications of buying goods from foreign sources requires determining what is a domestic versus a foreign source. TraditionaIly, DOD has defined a domestic or foreign source in terms of where the production facilities are located.' Some analysts have suggested broadening the deG.nition of what constitutes a foreign source to consider (1) firm ownership and control and (2) other factors, such as location of research and development activities.' Although DOD generally does not know the extent of foreign sourcing of defense goods, case studies of several weapon systems indicate varying degrees of foreign sourcing exist at different levels, or tiers, of the defense industrial base. The tiers range from suppliers of simple components and raw materials to the
+
+Background
+
+`Foreign sourcing, as defined by a National Defense University report, is the use of sources of supply, manufacturing capacity, or technology that are located outside the United States or Canada. See U.S. Industrial Base DependenceNulnerability, a 1987report of the Mobilization Concept Development Center of the National Defense University. The 1992amendments to the Defense Production Act require DOD to consider, among other factors, the location of research and development activity in determining whether firms located in the United Sta.tesqualify as domestic sources.
+
+Page 1
+
+GAO/NSIAD-94-104 Industrial
+
+Base
+
+B-256339
+
+manufacturers of complete weapon systems. (See app. I for a fuller description of the defense industrial base.) There can be advantages of using foreign sources: manufacturers seek out suppliers based on factors other than location, such as cost, quality, performance, and delivery time. In addition, buying from foreign suppliers can entail political and military advantages. Despite these advantages, the increased use of foreign suppliers can, in some instances, create a risk or vulnerability for the United States3 For example, a high degree of risk would exist if the United States were to become so dependent on a foreign source that its ability to produce a weapon system deemed critical to national security and/or secure the most advanced technology for the development of a critical future weapon system were to become compromised. We interviewed a variety of experts and also convened a panel of authorities from industry, academia, and the government to discuss risks of foreign dependencies. (See app. II.) In addition, we reviewed several studies that develop various approaches to assessing the risk of foreign sourcing. (See apps. III thru VI.) Assessing whether U.S. dependence on a foreign source for a particular miIitary item entails substantial national security risk requires answering two questions. First, how critical is the item to various national security needs--for example, engaging in a short-term conflict, if necessary, or continuing development of some technological capability? And second, how great is the likelihood that the United States will not have access to the item or technology when needed? The risk of buying defense goods from foreign sources can vitry signil?cantly according to the time frame being considered. The short-term risk of foreign sourcing is interrupted or delayed access to items critical to engaging in conflicts. Over a longer time frame, the concern is that the United States will not have access to the technologies, including equipment, needed to meet new or existing threats to national security. To narrow the set of DOD purchases and militarily relevant technologies to a group most likely to entail unacceptable risk, a measure or screen can be
+31na previous report, Industrial Base: Significance of DOD's Foreign Dependence (GAO/NSIAD-91-93, Jan. 10, 1991),we referred to foreign dependence as a foreign source for which there is no immediately available alternative. In this report, we focus on the risk associated with foreign sourcing; foreign dependence is one key determinant of foreign sourcing risk.
+Q
+
+Results in Brief
+
+Q
+
+Page 2
+
+GAO/NSlAD-94-104 Industrial Base
+
+B-256339
+
+Q
+
+used. Screening for criticality to the defense mission is a natural first step in identifying potential risks, although it does require adequately reliable indicators of criticality. Measures of supplier concentration-the number and relative market shares of supplying firms-have also been proposed as vulnerability screens. Experts we consulted agreed that the data on defense suppliers necessary to assess the risk of foreign dependence is not being collected, particularly at the lower tiers of the defense industrial base. The consensus among these experts was that the costs of selective data collection on critical items would not be prohibitive, particularly compared with the price of major DOD acquisitions or the potential consequences of the lack of military preparedness. Where substantial foreign dependency risks are identified, policy options range from those designed to reduce the national security risks of supply disruptions or lost access-such as stockpiling-to those geared toward encouraging or establishing new sources of supply. Because the nature of vulnerabilities varies, optimal policies vary also. Experts we consulted pointed out the long-term importance to the U.S. technology base and to national security of the overall economic and business environment in sustaining innovative domestic industries. The risk of buying defense goods from foreign sources depends on a number of factors related to, among other things, supplier location, pohtical alliances, military function, and substitute availability. The risk determinants fall into two categories: criticality of items and the likelihood of loss of access. More specifically, how critical is the item to various national security objectives, such as engaging in short-term conflicts, if necessary, or continuing development of certain technoIogical capabilities? And how great is the likelihood that the United States will not have access to the item or technology when needed? Table 1 shows a number of risk factors we identified from existing studies and interviews with experts. Some apply to evaluating the risks of procuring defense goods from any domestic or foreign supplier or suppliers, and others apply only to assessments of foreign sourcing. The factors are listed in four categories; the first one relates primarily to criticality and the next three relate primarily to lost access.
+
+Risk Assessment Considers Criticality and Risk of Lost Access
+
+Page 3
+
+GAO/NSIAD-94-104 Industrial
+
+Base
+
+I
+
+B-256339
+
+Table 1: Risk Factors Criticality -The importance of the item or technology to the specific weapon system and the overall defense mission. -Stockpiling potential, the ability to stockpile adequate amounts of a product (given obsolescence concerns). -Technical substitution possibilities-the existence of feasible technical substitutes or the ability to develop them in an acceptable time frame. -Linkages to other goods, industries, or technologies in terms of industrial or technological spillovers from domestic production that could affect the nation's ability to compete in other important areas. -In the case of technologically sophisticated goods, the degree to which the technology is considered mature as opposed to fast moving. Disruption of supply from foreign sources -Distance from source, in terms of required shipping time. -Location of engineering and manufacturing facilities, if different from assembly and shipping facilities, -Transportation exposure.
+
+--Risk of natural disturbances interrupting supply. --Political stability of supplying country or region, including political and diplomatic ties to the United States. -Country economic stability in terms of foreign debt, exchange rate control, labor strife, or other factors. -Trade stability-potential interrupted. for the supplier's own supply from another country to be
+
+-Country's internal business environment, such as the nature of the regulatory environment. -Supplying firm's economic stability. Availability of alternative supply sources -Supply concentration-the extent to which a few sources worldwide control the production of goods or distribution of technology. -Dual-use options, or potential availability of the same or similar good from a commercial supplier. -Scale effects on U.S. industry-the from U.S. firms. potential negative impact of decreased purchases
+
+-The potential for a U.S. industry to be reconstituted if lost. Adequacy of surge capabilities -The ability to acquire additional units of a good from an existing supplier during a crisis. -The timely availability of additional units of a good from other suppliers during a crisis.
+Page 4 GAOINSIAD-94-104 Industrial Base
+
+B-266339
+
+Assessing the risk associated with buying defense goods from foreign sources requires weighing the impact of various factors, both individually and together. For example, if localion or political conditions affect the reliability of a supplier, the availability of other suppliers or feasible substitutes will be important in determining whether the risk to national security is too great4
+
+Risk Assessments Depend on the Time F'rarne Being Considered
+
+The risks of using foreign sources for defense goods, and the ability to identify and possibly mitigate them can be significantly different when viewed from a short-term perspective versus a long-term one. The consensus of the panel members and studies we reviewed is that, for the short term, details about the specific scenarios that could threaten U.S. security, such as the location, nature, and length of potential conflicts, are not necessary for assessing the risks of foreign sourcing. However, as the time frame expands, uncertainty grows in terms of (1) the nature of threats to U.S. national security and the foreign vulnerability concern and (2) how foreign dependence will affect the U.S+ability to develop and maintain technologically sophisticated military items. In the short term, a period of time spanning several years into the future, foreign sourcing could lead to lack of access to critical items during a crisis. Given the current world order and the Vome-asyou-are" war phiios~phy,~ this concern focuses on how the United States would be affected if it could not obtain critical items to fight a relatively short war, particularly one where DOD lacked a long preparatory period and had low inventories of such items. The critical items that would need to be obtained during a short conflict are primarily expendable items. Expendables include a broad range of items that can be used up during military activity and are less durable than end items. Examples include fuel, ammunition, and large items such as the tactical missiles, as well as items that support the troops (food supplies and medicines). Also included are spare parts that come from offshore.
+
+The Short-Term Risk of Foreign sourcing
+
+`How much weight an individual factor carries in a risk assessment is beyond the scope of this report. This task falls to DOD and involves considering the relevant characteristics of military procurement and strategy. In fact, changes in the nature of threats to national security may cause the importance of particular factors to shift over time. SThecome-as-you-are philosophy deemphasizes concerns related to surge and mobilization capabilities and emphasizes the need to have on hand, or within ready access, supplies adequate for engaging in likely conflicts.
+
+Page 6
+
+GAO/NSLAD-94-104 Industrial Base
+
+B-256339
+
+Expendable items and spare parts are required for actual combat activities and support of production surge capabilities before, during, and after a conflict. For example, in the Desert Shield period, there was an attempt to significantly increase the production of expendable items and it became recognized that there was a considerable dependency on foreign parts for this increase. The probability of acquiring additional major end items, such as aircraft or tanks, during or in anticipation of a short-term conflict is quite low. Experts we consulted said the United States will confront threats with existing equipment, particularly in the case of large, complex end items. The question of having enough tanks in the short term, for example, then becomes a question of overall planning rather than risk of supply disruption during conflict. The Medium-Term Foreign Sourcing Risk of Beyond the short term, there is an issue of whether foreign sourcing could impair the ability of the United States to acquire large, complex end items. Experts we consulted maintained that in light of cut-rent threats, the national security risk of disruptions in the production of large items due to foreign sourcing is minimal. However, if a new large threat to national security were to emerge, the extent to which domestic manufacturing equipment, technology, and expertise has been lost could impact on the ability to produce certain items. Over a longer time frame, the potential risk of procuring defense items from foreign sources includes not having access to advanced technologies. As the time frame expands, fundamental elements in assessing the risk of using foreign sources become increasingly harder to predict: the potential enemy, the nature of the war, the weapons to be used, and the relevant technologies. Experts we consulted expressed concern that the United States, by not maintaining domestic capabilities in some technologies, will lose the technological leadership that has undergirded its military strategy for several decades. Concern over technology dependence can be segmented into risk (1) from lags in availability and loss of control inherent in depending on another country for the supply of certain technologically sophisticated items and (2) of losing domestic research and development capabilities in technologies that could be militarily important in the future, although some are not now identified as such.
+
+The Long-Term Risk of Foreign sourcing
+
+Page 6
+
+GAO/NXAD-94-104 Industrial Base
+
+! 1
+
+B-266339
+
+In addition to general determinants such as military criticality and the existence of alternative suppliers, risks of using foreign sources for leading-edge and emerging technologies depend on several factors. These include how fast the technology is evolving, since delayed access to a rapidly advancing technology can bear greater military consequences than delayed access to a slow-moving one; the increased likelihood of a foreign-supplied technology being available to potential enemies; and the nature of the working relationships between the supplying foreign firm and either DOD or defense suppliers. Several experts we consulted maintained that the greatest future technology risk concerns technologies that may have military uses 20 or 40 years from now. Over such a long time, there is significant uncertainty regarding political alliances and threats to the United States, as well as what technologies will have military importance. Some technologies are likely to be radically different from those now identified as having miht.ary importance, according to one panelist. In addition, some experts we consulted mentioned that generic technologies-that is, technologies with wide applicability in the economy-are areas where the United States might have a long-term national security interest in maintaining an active presence. The technologies mentioned include electronics, compact energy sources, nanotechnologies (the art of making extremely small items), software, and manufacturing technology. Several panelists maintained that access to the most advanced technology worldwide does not require the United States to be a leader in every technology, but rather sufficiently strong in key areas to have some leverage with other countries. The extent to which technologies have both defense and commercial applications could increase DOD'S ability to turn to domestic commercial sources if foreign sources became unreliable or inadequate. Several experts we consulted stressed the importance of manufacturing technologies as well as product technologies to national security. Manufacturing capabilities, such as flexible manufacturing techniques and computer-integrated manufacturing, and logistics systems may facilitate both more efficient production and conversion from commercial to military production when necessary.
+
+A Screening Measure Can Be Useful for Assessing Risk
+
+A screening measure can help narrow the universe of foreign-supplied products and technologies to those most likely to entail unacceptable risk. The studies we reviewed proposed different types of screening based on
+
+Page7
+
+GAO/NSlAD-94-104 Industrial
+
+Base
+
+B-256339
+
+one or more specific vulnerability factors, such as military criticality and the concentration of supply sources. Three studies6 narrow the items to be examined based on such factors as mission criticality, location and number of suppliers, and time required to gear up domestic supply. + One of these studies advocated a two-stage process to identify potential problem areas, with the first stage involving the assessment just described and the second stage involving the calculation of measures of supplier concentration. . Another study7 did not advocate screening based on criticality/access factors, but instead proposed using a measure of supplier concentration to narrow the products warranting further analysis.
+
+Criticality as a Screen
+
+A reasonable first step in identifying the vulnerability associated with an item is to examine how critical it is to the overall defense mission; this helps to eliminate from further consideration items and technologies that are marginally important. Criticality-based screening does, however, require reliable indicators, but some experts question whether such indicators exist. One existing DOD list cited by some experts as a useful starting place for identifying short-term critical items and technologies is the Commanders' in Chief Critical Items List, composed of critical weapon systems and components identified for the Joint Chiefs of Staff by field commanders. For identi@ing technologies with critical defense applications, existing sources are the Defense Key Technologies List and lists from the military services, which are constructed with input from the military, industry, interested federal agencies, and academia. Examples of technoIogies currently on the list include computer technology, propulsion/energy conversion, and design automation. For identifying future technologies with potential military applications, one panelist suggested considering technologies identified by the Advanced Research Projects Agency. Using such lists to identify critical items and technologies can increase the objectivity of the screening process. However, critics have argued that (I) the technologies listed are too broad and therefore of limited
+
+6Dependence of the U.S. Defense Systems on Foreign Technologies (Dec. 1990),Institute for Defense Analysis (IDA); Foreign Vulnerability of Critical Industries (Mar. l%O), The Analytic Sciences Corporation (USC); and U.S. Industrial Base Dependence/Vulnerability (Nov. 1987),the National Defense University. ?The Globalization of America's Defense Industries: Managing the Threat of Foreign Dependence, by Theodore Mom (International Security, Summer 1990).
+
+Page 8
+
+GAWNSIAD-94-104 Industrial
+
+Base
+
+B-266339
+
+useftiess and (2) domestic defense manufacturers can effectively lobby to have various products included.
+
+Supply Concentration as a Screen
+
+Two of the studies we reviewed advocated placing considerable weight on concentration measures-measures of the number and relative market shares of supplying firms-in identifying potential foreign supply vulnerabilities. One study proposed using the Herfindahl-Wchman Index (HHI) to measure the worldwide supply concentration of items, both overall for firms and with firm market shares grouped by country of ~rigin.~ Another study proposed a "4/4/50 rule," whereby if four foreign firms or nations control more than 50 percent of an international market, then that market is considered "vulnerable" and should be monitored. (The study's author has pointed out that the 44/50 rule could be adapted for expression as a threshold HHIvalue.) The use of concentration measures in screening for foreign supply vulnerabilities is based on the belief that the less concentrated the supply for an item is, the lower the risk of losing access to supply. More countries mean more alternative sources of supply and, according to proponents of supplier concentration measures, the less concentrated the supply, the less able foreign firms are to collude to restrict the supply. Proponents of these concentration measures maintain they are relatively straightforward, quantifYable, and resistant to spurious claims of vulnerability. Others, however, have questioned whether markets for defense goods can be defined so that concentration measures are both meaningful and obtainable. Two experts pointed out that for the short term, DOD requirements are often very specific and almost every market will contain a very small number of potential suppliers; thus, concentration measures will not eliminate many items from further evaluation. Also, obtaining information on potential foreign suppliers is especially difficult, according to experts. This limitation may be particularly applicable to technologies, limiting the value of concentration screens for the longer term.
+
+&HHI for an industry is calculated by summing the squares of the percentage market shares of individual firms in a particuku market. This concentration measure emphasizes the role of the largest firms; the number of very small firms has little impact on measured concentration.
+
+Page 9
+
+GAO/NSIAD-94-104 Industrial
+
+Base
+
+B-266339
+
+Risk Assessments Will Require Some Data Collection
+
+Assessing the risks of using foreign sources requires informtion on current and alternative supply sources for critical items that is not now readily available to DOD. Despite DOD'S current efforts to determine the extent of foreign sourcing,g existing databases on defense suppliers are, for the most part, narrow, uncoordinated, and minimally funded. Further, most current databases concentrate on DOD prime contractors. Many specific characteristics of firms comprising the defense technology and industrial base are not readily known, particularly at the lower tiers. These characteristics include the firm's location, ownership, products manufactured, production capacity, suppliers, technologies developed, market share, and financial conditions. For identifying foreign sourcing vulnerabilities, basic information on direct and indirect suppliers to DOD could be systematically collected and maintained either for all DOD purchases or selectively for critical items and technologies. Data on foreign sourcing is part of the overall data on the defense industrial base that is needed for various assessments, such as evaluating whether certain sole-source domestic suppliers pose potential reliability problems. Information on some risk factors, such as the existence and location of alternative suppliers and the feasibility of substitute items, would likely require additional collection and analysis and could be done only for those items and technologies critical to national security. Some analysts have proposed using nationally collected production and trade data to determine the extent of foreign presence in defense-relevant markets. However, although such data may be useful as one crude indicator in assessing risk, its value is limited primarily because it is too aggregated, since defense product markets are often very specific and can involve rapidly changing technology and specialized equipment. Just as the potential risks of foreign sourcing vary with the time horizon considered, the complexity of the data requirements for evaluating those risks is greater for longer term assessments than for shorter term ones. Over the long term, for example, not only are existing and potential suppliers unlmown, but also the nature of the products and technologies
+~ ~~~~.gFor example, at the request of the Navy, the Department of Commerce examined sources of supply for three Navy systems, tracing sources to the raw materials level. The Commerce study found that the proportion of domestic suppliers is high at the subassembly tier but low at the basic component and raw material tiers of the defense industrial base. Also, a contractor is doing data collection projects for the Army and the Air Force that focus on critical parts of major weapon systems. In addition, DOD is now collecting information on production capacity from existing contractor databases on manufacturing, purchasing, and engineering capabilities.
+
+Page 10
+
+GAO/NSUD-94-104 Industrial
+
+Base
+
+B-256339
+
+that will be of greatest importance to identity of adversaries and allies.
+
+DOD,
+
+the types of conflicts, and the
+
+Given the uncertainty surrounding the long-term risks of foreign sourcing, a task of the defense planner is to monitor the sources of defense-critical technologies worldwide. lo Information of special interest includes (1) existing and potential sources of technologically sophisticated products for systems in various stages of development and (2) the nature and location of research and development with military relevance. Some of these data could be obtained by (1) surveying engineers, the technical literature, and U.S. government organizations in other countries and (2) capturing the results of U.S. participation in international research projects. While collecting, maintaining, and analyzing information on foreign supply of defense goods can be costly, the general consensus among our expert panel was that if the screening is properly done, these costs would not be prohibitive, particularly compared with the price of major DOD acquisitions, or, even more importantly, with the possible consequences of the lack of military preparedness. Given declining real defense budgets, an increasingly interdependent global economy, and the loss of American preeminence in certain key sectors, an expectation of self-sufficiency or total domestic production capability across all industries does not appear to be realistic or desirable. However, understanding the instances in which foreign sourcing of defense goods may entail unacceptable national security risks is important and deserves more attention. It is important to differentiate between (1) understanding the potential risks of foreign sourcing and (2) implementing policies to reduce them. A careful assessment of such risks may reveal only a limited number of cases when government intervention is called for. We identified several key elements of an assessment of foreign sourcing risk. They include consideration of criticality of items or technologies to the defense mission and the likelihood of loss of access. Screening based on some measure of criticality is an important part of assessments. Although the studies we reviewed and the ideas presented by experts we
+`OForadditional information on selected U.S. organizations that monitor foreign technology information, see Foreign Technology: Collection and Dissemination of Japanese Information Can Be Improved (GAONZAD-93-251, Sept 30, 1993).
+
+Observations and Policy Options
+
+Page 11
+
+GAO/NSIAD-94-104 Industrial
+
+Base
+
+B-266339
+
+consulted are valuable contributions to understanding how to assess risk, we found no framework that we could identify as fully developed or completely refined. In many cases, the data needed to implement suggested aspects of a vulnerability assessment are not readily available to DOD. &perks generally believe that additional data collection efforts would be cost-effective considering the cost of weapon systems or the potential consequences of military unpreparedness." Where substantial foreign dependency risks are identitled, policy options range from those designed to reduce the national security risk of supply disruptions or lost access to those geared toward encouraging or establishing new sources of supply. One expert noted that the likely effectiveness of measures designed to decrease foreign sourcing risks might be greatest for the short term. The further into the future lies the risk, the more uncertain is the nature of the risk, and the greater the possibihty that one might misidentify the required technology, the type of conflict, or the identity of adversaries or allies. Stockpiling is one option to minimize national security risk~3.`~ If short-term access could be ensured through stockpiling, then lack of domestic or adequately reliable foreign sources might not entail unacceptabIe vulnerability. Some experts question the feasibility of stockpiling items because of (1) the rapid obsolescence or physical depreciation of many items and (2) the expense of stockpiling. However, one of our panelists emphasized that the costs of maintaining a carefully monitored inventory of certain items, such as those needed to produce precision-guided munitions during a conflict, could be a fraction of the overall production costs. To prevent useless inventory buildup that we have reported on a number of occasions, stockpiling requires careful monitoring.13
+
+R
+
+I'Recently, DOD requested the services and the Defense Log&tics Agency to provide information on current pmctices that are used for selecting those products and services that are procured only from domestic sources. This is one effort to establish DOD policy and criteria for identifying and maintaining critical domestic industrial capabilities. %tc&piimg ca.nbe considered both in terms of an option for reducing national security risks of dependence on foreign sources and a determinant of that risk. If a critical item can be adequately stockpiled at low cost, for example, a full analysis of foreign sourcing risk might not be neceszary. %ee Defense Inventory: DOD Needs to Continue Efforts to Improve Its Requirements Determination and Ordering
+
+Page 12
+
+GAOINSIAD-94-104 Industrial
+
+Base
+
+B-256339
+
+Several types of policies are designed to favor or encourage additional sources of domestic ~upp1y.r~The Defense Production Act,i' for example, authorizes the use of various financial incentives to expand domestic production capacity or supply, particularly for items with a limited commercial demand. It also provides for the development of new manufacturing processes and technologies. In addition, under section 232 of the Trade Expansion Act, U.S. fums can petition the government to restrict foreign imports in cases where the erosion of domestic capacity is alleged to harm national security. Other measures are directed at potential risks associated with foreign ownership of domestically located firms. For example, the Committee on Foreign Investment in the United States and the security classification system can be used to limit foreign investment in US. defense-related kns, although the Committee has raised concerns on only a few occasions. Expanding DOD'S reliance on domestically available commercial alternatives is another way to expand the supplier base in some instances. Other options for creating domestic capacity include directly subsidizing industry or establishing government-owned production facilities. Currently, these activities are receiving very little government support. For long-term concerns regarding the domestic technology base, policy options include direct government funding or other types of encouragement of domestic capability. Research and development consortia, for example, both private and government-supported, have been tried over the past several years with varying success. Our panelists emphasized the importance of the Advanced Research Project Agency's efforts in dual-use technology as well as funding joint industry-government projects, such as the U.S. semiconductor consortium (SEMATECH). Our expert panel also pointed out the long-term importance to the technology base of a thriving commercial technology sector and emphasized the role of the overall economic and business environment in sustaining innovative domestic industries. Our analysis suggests that assessing the risk-s of foreign dependence requires an effective system of data collection and analysis. Such an effort might begin with a multi-tier assessment of risks for a critical class of expendables, a category where our analysis suggests that an evaluation is
+`One panelist commented that extensive sources of supply that ultimately drive companies out of business are also a concern. %ee Defense Production Act: Foreign Involvement and Materials Qualification in the Title III Program (GAOMUD-74, Mar. 19, 1994).
+
+t
+
+Page 13
+
+GAOiMUAD-94-104 IndustrialBase
+
+B-266339
+
+important, feasible, and likely to be cost-effective. Through such an assessment, DOD can significantly further its understanding of the broader issues of foreign dependence risks. In developing this report, we
+l
+
+5
+
+Scope and Methodology
+
+analyzed published materials on the subject; + selected four studies that provided frameworks for assessing the risks of foreign sourcing (the studies were developed by (1) The Analytic Science Corporation (TWX), (2) Institute for Defense Analysis (IDA), (31 National Defense University, and (4) Professor Theodore Moran of Georgetown University); interviewed experts and convened a panel of authorities from industry, academia, and the government; and analyzed the results of the panel discussion and submitted a list of key themes of the panel and a questionnaire to additional experts to obtain their views on the panel results.
+l l
+
+In addition, we (1) analyzed other reports that addressed the issue of foreign dependence, such as the Department of Commerce report on three Navy weapon systems and (2) requested that Commerce provide additional information regarding lower tiers of production. We performed our review intermittently from November 1991 to February 1994 in accordance with generally accepted government auditing standards. Although we did not obtain written agency comments on this report, we discussed the report's contents with DOD officials and have included their views where appropriate. We are sending copies of this report to the Chairmen, Senate and House Committees on Armed Services. We will also make copies available to others upon request.
+
+Page14
+
+GAO/NSIAD-94-104IndustrialBase
+
+B-266339
+
+Please contact me at (202) 512-4587 if you or your staff have any questions concerning this report. Major contributors to this report are listed in appendix VII. Sincerely yours,
+
+David E. Cooper Director, Acquisition Policy, Technology, and Competitiveness Issues
+
+Page 15
+
+GAO/NSlAD-94-104 industrial
+
+Base
+
+Contents
+
+Letter Appendix I Tiers of the Defense Industrial Base Appendix II Biographical Sketches of Panel Members Appendix III The Analytic Science Corporation: Foreign Vulnerability of Critical Industries Appendix IV Institute for Defense Analysis: Dependence of U.S. Systems on Foreign Technologies Appendix V National Defense University: U.S. Industrial Base Dependence/ Vulnerability
+19
+
+22
+
+1 1 f f I
+29
+
+I I I
+35 fi
+
+Page 16
+
+GAO/NSIAD-94-104 Industrial
+
+Base
+
+j
+
+Contents
+
+Appendix VI The Globalization of America's Defence Industries: Managing the Threat of Foreign Dependence by Theodore Moran Appendix VII Major Contributors to This Report Tables Figures
+Table 1: Risk Factors Table III. 1: Categories of Possible Government Actions Identified by TASC Figure III. 1: TASC Framework for Assessing Risk of Foreign Sourcing Figure IV. 1: IDA Framework for Assessing Risk of Foreign sourcing Figure V, 1: NDU F'ramework for Assessing Risk of Foreign
+sourcing
+
+42
+
+4 26
+
+35 42
+
+Figure VI. 1: Moran's Framework for Assessing Risk of Foreign
+sourcing
+
+Abbreviations
+DARPA DOD HHI IDA NDU SEMATJXH TASC
+
+Defense Advanced Research Projects Agency Department of Defense Herfindahl Hirschman Index Institute for Defense Analysis National Defense University Semiconductor Manufacturing Technology The Analytic Science Corporation
+GAO/NSLAb94-LO4 Industrial Base
+
+Page 17
+
+Appendix I
+
+Tiers of the Defense Industrial Base
+
+Tier
+
+Name of product System Subsystem
+
+Product definition The end product
+
+ljl
+
+Component
+
+IV
+
+Element
+
+v
+VI
+
+Material
+
+Product examples Ship, aircraft, tank, missile A subassembly of the end Engine, bilge, airproduct; a major subdivision of the end product conditioning unit, gun, avionics A fundamental constituent of a Carburetor, subsystem or an end product; a pump, heat exchanger, number of elements joined together to perform a specific audiofunction and capable of frequency disassembty amplifier A fundamental constituent of a Screw, gear, component or a subsystem; one rotor, front piece or a number of pieces wheel bearing joined together that are not frame normally subject to disassembly without destruction The basic ingredient (material) Fuel, oil, wire, from which an element is casting produced Ore mineral, crude oil
+
+Key activity at each level Assembling system Assembiing subsystem
+
+Assembling component
+
+Making element
+
+Raw material The mined (or untransformed) material
+
+Refining and/or forming material Extracting raw material
+
+Page 18
+
+GAO/NSIAD-94-104 Industrial Base
+
+Appendix II
+
+Biographical Sketches of Panel Members
+
+This appendix contains biographical sketches of the experts from industry, academia, and government that were on the panel we convened and/or were interviewed to discuss the elements of an analytic framework for assessing the risks of foreign dependencies. An asterisk (*) by the name indicates participation as a panelist. Dr. Costello works as a consultant to public and private organizations. He held a wide variety of executive positions in a 27-year career with General Motors Corporation, including Executive Director of Purchasing; Director of Materials Management; and various program and research management positions for missile systems, armored vehicles, and technology transfer. Dr. Costello served as Under Secretary of Defense (Acquisition) in previous administrations. He has also been associated with the Hudson Institute, where he developed innovative concepts to enhance the U.S. industrial base and to improve its economic performance. Dr. Fields is President and Chief Executive Officer of Microelectronics and Computer Technology Corporation. In this position, he has operating responsibility for research programs, planning, and human resources. During a 14year tenure, Dr. Fields served in several positions within the Defense Advanced Research Projects Agency, including the Agency's Director, Dr. Gansler is a Senior Vice President and Director of The Analytic Science Corporation. Dr. Gansler has served as Deputy Assistant Secretary of Defense (Material Acquisition) and has held research and engineering management positions with several major corporations. Dr. Gansler is also a visiting scholar at Harvard University. General Hansen is Vice President of Airlift Programs for Lockheed Aeronautical Systems Company. General Hansen retired from the U.S. Air Force in 1989. During his last assignment, he served as Commander of the Air Force Logistics Command at Wright Patterson Air Force Base. General Hansen was responsible for developing and implementing the first total quality management program in the Air Force. General Hansen joined Lockheed in 1990 to become Vice President for Total Quality Management and Support Operations.
+
+Robert Costello
+
+Craig Fields
+
+Jacques Ganslefl
+
+Alfred Hansen*
+
+Page 19
+
+GAO/NSIAD-94-104 Industrial
+
+Ease P
+
+Appendix II Biographical Sketches of Panel Members
+
+Erlmd Heginbothan?
+
+Mr. Heginbotham works as a consultant for various public and private organizations. Mr. Heginbotham is a former Director of the U.S. Commercial Service, Department of Commerce. He has served as Deputy Assistant Secretary of State for Economic and Commercial Affairs, East Asii Bureau, and he has worked as the Director of the Office of Industry, U.S. Trade Commission. Admiral Inman serves on various public and private boards and committees. He has served as the Director of Naval Intelligence, Director of the National Security Agency, Deputy Director of the Central Intelligence Agency, and Chairman and Chief Executive Officer of Microelectronics and Computing Corporation. He was also the President and Chief Executive Officer of Westmark Systems, Inc. Dr. Libicki is a Senior Fellow at the National Defense University. He has served as a transport analyst for the Department of Transportation. He has also worked as an economist for the Department of the Interior and GAO. Dr. Libicki also has served as Director of the Naval Industrial Mobilization
+pr0gEUt-l.
+
+Robert Inman
+
+Martin Libicki*
+
+Robert Marsh
+
+General Marsh serves as a director and consultant for Thiokol Corporation. He retired from the U.S. Air Force in 1984 as Commander of the Air Force Systems Command. General Marsh has worked as a member of the board of directors at several major corporations. He retired as Chairman of the Board of Thiokol in 1991. Dr. Moran is a Senior Advisor on the Policy Planning Staff, Department of State. He has also been a professor at Georgetown University, SchooI of Foreign Service, and Director of the Landegger Program in International Business Diplomacy. He has held teaching positions at several other major institutions, including the Johns Hopkins University and served at the Brookings Institute. Dr. Niskanen is Chairman of the CAT0 Institute. He has served in the government as an Assistant Director, Office of Management and Budget, and as a member of the Council of Economic Advisers. He has also been
+
+Theodore Moran*
+
+William Niskanen*
+
+Page 20
+
+GAO/NSJAD-94-104 Industrial
+
+Base
+
+Appendix II BiographlcaI Sketches of Panel Members
+
+employed as an economist for several major corporations, including the Ford Motor Company, where he held the position of Chief Economist. Mr. Num works as a Senior Associate at the U.S. Office of Technology Assessment. He has served in the military as a Special Forces Advisor and as a U.S. Army Foreign Area Officer, He held several positions in the private sector in research and engineering management. He returned to government as a Senior Fellow and Acting Director of the Mobilization Concepts Development Center, National Defense University, and professor of Resource Strategy, Industrial College of the Armed Forces. Dr. Perry is now Secretary of Defense and was the Deputy Secretary of Defense. He has previously served as Chairman and Chief Executive Officer of Technology, Strategies and Alliances Corporation. He has extensive government-related experience, holding positions as Under Secretary of Defense for Research and Engineering, Director of the Acquisition Task Force for the Packard Commission, and as a member of the Defense Science Board. Dr. Perry was also Chairman and Chief Executive Officer of H&Q Technology Partners. Dr. Platt is a consultant on issues involving internationaI security affairs. Dr. Platt has held a number of defense-related assignments, including Chief, Arms Transfer Division, U.S. Arms Control and Disarmament Agency, and senior staff member of the RAND Corporation. Dr. Winter is a Professor of Management at the Wharton School, University of Pennsylvania. He has also served as Chief Economist of GAO. He has previously served on the faculties of several universities, including the University of California, Berkley; the University of Michigm, and Yale University. Dr. Winter was a staff member of the RAND Corporation and the Council of Economic Advisers,
+
+,
+
+Jack Nunn*
+
+William Perry
+
+t
+!
+
+I 1
+
+Alan Platt*
+
+Sidney Winterzi'
+
+Page 21
+
+GAO/NSIAD-94-104 Industrial
+
+Base
+
+1
+
+Appendix III
+
+The Analytic Science Corporation: Foreign Vulnerability of Critical Industries
+
+Figure III.1 : TASC Framework for Assessing Risk of Foreign Sourcing
+
+TASc's methodology
+
+Qualitative
+
+analyaia
+
+a Defense criticality criteria used as filter to establish vulnerability.
+l l l
+
+Criteria derived from previous research. Identifies potential candidates for action. Industrial controllers, numerically controlled machining centers, and electronic test equipment meet crfteria (as examples).
+
+Quantitative
+
+analysis
+
+Determines degree of foreign source vulnerability. Uses Herfindahl-fiirschman Index (measures access to competitive markets) as example methodology. Based on published survey data.
+
+1
+l
+
+Results modified by other qualitative factors.
+
+Policy options Specific actions for government and industry.
+
+Page 22
+
+GAO/NSIAD-94-104 Industrial
+
+Base
+
+Appendix III The Analytic Science Corporation: Foreign Vulnerability of Critical Industries
+
+Figure III.1 illustrates the framework used to assess the risks of buying Department of Defense (DOD) goods from foreign sources.
+
+Objectives of the Study
+
+l
+
+l
+
+Develop methodology for assessing vulnerability. 9 Identify and test objective measures of vulnerability. 9 Determine extent of threat to national security. Establish priorities for government action. Develop foreign dependency action plans. . Provide industry and governmentwide options. . Add to the current knowledge of foreign dependencies. . Perform case studies of three process technologies. . Conduct thorough survey of literature.
+l
+
+Summary of Approach
+
+This study (1) proposes measures to distinguish between foreign dependencies that pose little or no threat to national securi~ and those on national security, (2) suggests actions that could have critical impacts that DOD could take to identify evidence on the scope and nature of foreign dependence, and (3) identifies actions that DOD could take to avoid foreign dependence problems.
+
+Definitions
+Foreign Sourcing Even though foreign sourcing is not specifically defined in the study, it is defined in a separate report prepared by The Analytic Science Corportation (TASC) as the purchase of goods, services, or technologies from sources outside the United States or Canada The authors state that foreign sourcing is pervasive and part of DOD'S normal way of doing business and an important way of obtaining the highest quality goods and services for DOD. It may or may not lead to a condition of foreign dependence or vulnerability that requires monitoring or action by DOD. A situation where goods and services are purchased from a foreign source of supply with no adequate alternative source or substitute within the United States or Canada A situation where a foreign dependency exists and national security could be threatened by a disruption in supply. In many cases, a few &ms in foreign countries can control access to state-of-the-art parts, components, processes, and technologies.
+
+Foreign Dependency
+
+Foreign Vulnerability
+
+Page23
+
+GAO&WAD-94-104
+
+Industrial
+
+Base
+
+Appendkx III The AnaIytic Science Corporation: Foreign Vulnerability of Critical Industries
+
+Initial Screening
+
+The initial screening process suggested by TASC begins with a qualitative analysis of an item's criticality to national security based on a number of considerations derived from several sources. One set of criteria used in the report was developed for the Under Secretary of Defense for Acquisition's report, Bolstering Defense Industrial Competitiveness. Other factors of criticality considered appeared in the 1983 study by K. Myers, "U.S. Vulnerability to Non-Fuel Mineral Supply Problems." A final criticality listing considered in the report came from the Defense Manufacturing Board's Task Force on Critical Industries. Specific factors contributing to criticality of an industry or technology include its essentiality; its ability to be reconstituted once lost; the ease with which the know-how embodied in an industry can be defused, the rate of technological change and research and development expenditures; linkages between one industry and another; spillover effects in which the loss of one capabihty would damage or lead to the loss of others; and industry structure, which permits or precludes the entry of alternative suppliers. Additional criticality factors considered included geographical location, various types of reliability (e.g., political, financial condition, and diversity of sources), and the ability to stockpile and substitute items. Applying these criticality criteria, TASC selected three process technology areas as case studies: the industrial contioller, electronic test equipment, and numerically controlled machine tool industries. Once criticality has been established, the authors of the TASC report perform a quantitative assessment of vulnerability based on the HerG.ndahl-Hirschman Index (IW), a measure of the number of firms and distribution of market shares among them in a well-defined market. As used by TASC, the index serves as an indicator for the potential for effective collusive activity on the part of foreign nations to deny the United States access to products and services. The HHI for an industry is calculated by summing the squares of the market shares of individual firms in a particular market. Squaring market shares emphasizes the relative power of firms in a market. In this study, an HHI of 1,000 or less is considered indicative that a market is relatively secure and that the likelihood of disruption through collusive action is low. An HHI of 1,800 or more (with no prominent U.S. or Canadian producers) indicates a vulnerable market, since high concentration gives strong market power to current suppliers and restricts the potential access by new suppliers. Results for HHIS between 1,000 and 1,800 are inconclusive.
+
+Dependence/Vulnerability Assessment
+
+Page24
+
+GAO/NSIAD-94-104 Industrial
+
+Base
+
+Appendix III The Analytic Science Corporation: Foreign Vulnerabitlty of Critical lndustries
+
+,
+
+According to TASC, HHI was a key element of the study because (1) HHI is a flexible, simple-to-apply, and appropriate tool for assessing foreign dependencies and vulnerabilities; (2) its wide use by the Department of Justice and Federal Trade Commission in anti-trust cases attests to HHI'S acceptance as a practical analytical tool; and (3) although similar but simpler measures have also been applied to assess foreign dependencies, these cannot match the robustness of HHI; additional work must be done to verify its accuracy and to identify appropriate threshold values. After defining the boundaries of the industry by identifying competing products and close substitutes, the next step in the quantitative portion of the analysis involves a `static" assessment based on three different measures calculated using HHI and different groupings of market share. The first measure is a "geographical index," calcuIated by grouping market shares by nation of origin. This index measures U.S. vulnerability to the denial of critical parts by individual foreign nations. Second, a "foreign dependence" index is calculated by grouping international producers' shares of the U.S. market by nation and excluding the US. share of the domestic market from the calculation. This index measures the extent of U.S. dependence on foreign nations, highlighting instances where US. reliance is concentrated in only a few foreign nations for its supply of a particular material or technology. Finally, an "entry barrier index" is derived from international firms' (U.S. and foreign) international market shares. This index measures the extent to which production of a commodity is concentrated in only a few firms worldwide, The last step in the quantitative portion of the analysis involves capturing the dynamics of market share by measuring the rate and direction of change in HHI in order to identify trends that may Iead to greater or lesser vulnerability in the future. For example, changes in shares of total industry research and development spending may be a leading indicator of future changes for product market share. Finally, the TALC approach identifies government actions for markets found to be vulnerable according to results established in the qualitative and quantitative analyses. Table III. 1 shows the categories of action.
+
+, /
+'
+
+j ! e
+
+,
+
+Page 25
+
+GAO/NSJAD-94-104 Industrial
+
+Base
+
+Appendix III The Analytic Science Corporation: Foreign Vulnerability of Critical Industries
+
+Table 111.1: Categories of Possible Government Actions Identified by TASC
+
+Highest priority policy treatment HHI > 1800 and &year change in market share is not negative or 1000 < HH1 < 1800 and 5-vear chanae in market share is > +lOO Second priority policy treatment 1000 c HHI < 1800 and 5-year change in market share is > 0 but < 100 or HHI> 1800 and 5-year change in market share is negative Low priority policy treatment 1000 < HHI < 1800 and 5year change in market share is < 0 or
+HHI < 1000
+
+Once a hierarchy for policy action has been established, options can then be considered to remedy vulnerabilities. TASC outlines several alternatives in its study, including import restrictions, capacity creation, research and development initiatives, consortia, and dual-use requirements, as various means of mitigating the potential threat created by foreign sourcing. Implicit in the use of the technique is a policy option not stated in the TASC report That policy option is the reduction of the index level through purchases from a more widely dispersed group of foreign suppliers. The authors of the report point out that these solutions can be implemented separately or in various combinations as part of an overall national strategy to build domestic capabilities in key areas. What is needed, the report argues, is the assignment of a single government agency to coordinate the development of a meaningful industrial base strategy. F'inally, the TASC study states that, although for many causes of foreign dependence, solutions must be implemented through broad national policies, development of such policies is not enough to ensure access to selected parts, components, technologies, and processes critical to the U.S. defense industrial base. Individual industries face very specific problems that require tailored solutions. The report states that a total solution, therefore, would require the incorporation of these individual industry approaches to resolve specific vulnerability issues where they exist.
+
+Data Required to Implement the Approach
+
+The data required to perform the HHI analysis comes from published sources as well as industry surveys. The cost and difficulty of obtaining the data depends on the definition of the market (narrow or broad) and the availability of information on that particular segment Too broad an
+
+Page 26
+
+GAO/NSIAD-94-104 Industrial
+
+Base
+
+Appendix III The Analytic Science Corporation: Foreign Vulnerability of Critical Industries
+
+industry definition (e.g., microelectronics) would provide little, if any, insight into DOD'S vulnerability in critical product areas.
+
+Required Frequency for Conducting the Analyses
+
+The report establishes no specific time frame outlining any required frequency for conducting a vulnerability analysis. One could suggest that it would initially be performed on an ad hoc basis, as questions of potential vulnerabihty arise. According to TAX, there is a strong potential to implement the assessments more systematically as part of the defense acquisition process. Measures can be developed to identify critical industries and technologies and degree of foreign vulnerability. . Developing a strategy for alleviating unacceptable vulnerabilities requires in-depth understanding of specific industries, including their structure, processes, and technologies. It also requires identifying ongoing commercial trends and capitalizing on U.S. strengths. Government strategy can be effective but must be csrried out in partnership with industxy. . Advanced technologies and process/equipment (not only current product dependencies) should be a high priority. These have the strongest impact on future U.S. capabilities. "Buy American" restrictions are not especially useful to resolve most important dependencies because they 9 do not apply to lower tiers of the industrial base; are difficult to apply to critical areas, such as advanced processes and technologies; may be counterproductive by subsidizing the losers; and 9 provide few incentives to attain world-class status or promote long-term viability. . Creative strategy must be developed for selected critica.l sectors, with a focus on advanced technologies and production equipment.
+l l l l
+
+General Findings
+
+l
+
+Suggested Revisions and Comments by Authors
+
+According to the authors, it has become increasingly apparent that the government is focusing its limited resources on simply identifying dependencies; it must determine which vulnerabilities are more serious and then take action to alleviate them. The purpose of the study was to identify and apply a methodology that DOD could use to measure and compare situations where there are perceived vulnerabilities. HHI showed itself to be a useful tool for gaining insight into why a vulnerability exists
+
+Page 27
+
+GAO/NSIAD-94-104 Industrial
+
+Base
+
+Appendix III The AnaJytic Science Corporation: Foreign Vulnerability of CriticaI Industries
+
+and how severe it may be. However, this study involved only the initial application of the method, and more extensive development and testing are required before it can be widely applied by DOD (as it is now with the Justice Department and the Federal Trade Commission). Particular areas of research include guidelines for appropriately defining the market (a key element in anti-trust cases as well), the identification of appropriate threshold values for foreign vulnerability applications, and the definition of a more limited group of criticality factors that can be used in the qualitative ssessment. To avoid potential confusion with other anti-trust measurements, the authors also suggest naming the resulting analytic measure the Foreign Vulnerability Index.
+
+Page 28
+
+GAO/NSIAD-94-104 Industrial Base
+
+I
+
+Appendix IV
+
+Institute for Defense Analysis: Dependence of U.S. Systems on Foreign Technologies
+
+Figure lV.l: IDA Framework for Assessing Risk of Foreign Sourcing
+
+IDA'8 mrlhoddogy
+
+# Representativeof txftlcal technology areas.
+l
+
+Currently used technology with signlflcant role In future. I
+
+0 Procured by different services.
+
+I
+
+Lc
+
+CoIlact dats a Known foreign sources and contract terms. a Identify foreign parts, equipment, or processes used.
+l
+
+Why foreign sour&g
+
+used.
+
+a Importance of foreign-sourced item, process, or equipment. a Difficulties encountered if foreign sourcing is interrupted.
+l Cost, abstscles, and delays for domestic sources. l
+
+Military standards which affect system.
+
+-4
+l
+
+Analyza data Detmine technology areas in whkh U.S. depends on foreign technology.
+
+Page 29
+
+GAO/NSIAD-94-104 Industrial Base
+
+Appendix IV Institute Poor Defense Analysis: Dependence of U.S. Systems on Foreign Technologies
+
+Figure IV. 1 illustrates the framework used by the Institute for Defense Analysis (IDA) to assess the risks of buying DOD goods from foreign sources.
+
+Objectives of the Study
+
+The objectives of the study were to (1) identify the extent and nature and quantify the importance of U.S. defense systems' dependence on critical foreign technologies and (2) assess the significance for defense capabilities that these dependencies affect. The Defense Advanced Research Projects Agency (DARPA), now called The Advanced Research Project Agency, requested IDA to study selected defense systems to determine and quantify the extent of their dependence on foreign technology. Four defense systems chosen by IDA were (1) cockpit displays, (2) aircraft radar, (3) air-to-air missiles, and (4) heavy combat vehicle engines. IDA teams interviewed and collected data from system program offices, prime contractors, subcontractors, and other relevant sources for each of the four systems. On the basis of their analysis of the data collected, the study teams were to (I) determine technology areas in which U.S. defense systems depend on foreign sources and (2) provide factual and, where possible, quantitative measures of foreign dependence for the systems reviewed.
+
+Approach
+
+Definitions
+Foreign Sourcing
+The project team used a broad definition that included sources of supply using foreign-owned facilities located outside the United States and Canada, U.S.-owned facilities outside the United States and Canada, or foreign-owned facilities located in the United States and Canada. The study team applied this term without any prejudgment that it automatically connoted dependence or vulnerability, any more than domestic sourcing does. Foreign dependence was considered context-specific in that a key consideration was the abiity of the United States to obtain alternative supplier(s) when necessary. Foreign vulnerability was considered a function of dependence; of political, military, and economic relations with source countries; and of such factors as proximity, technology options, and alternatives for
+
+Foreign Dependence
+
+Foreign Vulnerability
+
+Page 30
+
+GAO/NSIAD-94-104 Industrial
+
+Base
+
+Appendix IV Institute for Defense AnaIy~~is: Dependence of U.S. Systems on Fore@ Technologies
+
+responding to possible supply disruptions. Like dependence, vulnerability was considered highly context specific and distinguishing between them was considered a matter of judgment. In general, the study team tended to consider that a condition of dependence raising questions of vulnerability existed if items for a system being studied were provided by only two or three foreign sources; concentration of suppliers in a single country was taken as further reinforcement of a condition of dependence to the point that it raised sbrong possibilities of vulnerability.
+
+Initial Screening
+
+Because of severe time limits on conducting the study, the study team used a Delphi technique' to select critical weapon systems for review, relying on several convocations of experts to discuss alternatives within the context of selection criteria The DAFPA selection criteria stressed systems that would (1) be representative of critical technology areas, (2) cover technology currently used in important defense systems and expected to have significant roles in the future, and (3) include systems procured by different armed services. The project team efforts resulted in selecting systems that would
+l
+
+l
+
+l
+
+l
+
+be multigenerational, involving at least one major upgrade to permit examination of any trends in foreign sourcing in the system over time; include current technologies by choosing systems with a recent upgrade entering into low rate initial production or into final stages of prototyping as recently as possible, to include the latest fielded technologies; involve minimal overlapping or duplication with other selected systems, but include a multiplicity and diversity of technologies that could be considered, and include some dual-use technologies, anticipating that defense systems will be influenced by technologies developed initially for civilian applications.
+DARPA further influenced the system selection process by requiring IDA to provide both quantitative and qualitative responses to vulnerability issues. Finally, the availability of data also influenced the selection of defense systems reviewed.
+
+I *
+
+1
+
+F'urther Assessment of the Extent of Risk
+
+Instead of attempting to formulate and apply a general definition of vulnerability, the study emphasized the facts, circumstances, and reasons involved in current sourcing decisions, as well as the alternatives for
+IThe Delphi technique is an attempt to elicit expert opinion in a systematic manner, usually involving iterative questionnaires administered to individual experts with feedback of results accompanying each iteration of the questionnaire.
+
+Page 31
+
+GAO/NSIAD-94-104 Industrial Base
+
+AppendixIV Institute for Defense Analysis: Dependence of U.S. Systems on Foreign Technologies
+
+responding to possible supply disruptions. A listing of 26 vulnerability factors was developed for application to specific contexts or scenarios. This listing included (1) three location factors, (2) four political-military factors, (3) four economic-commercial factors, (4) seven supply and technology factors, and (5) eight procurement and program factors.
+
+Data Requirements
+
+The study found no defense database useful in identifying foreign sourcing in the four systems studied. In practice, determining the extent of technology from foreign sources meant that the four system teams had to follow an elaborate data collection process down several tiers in the procurement chain. The study teams visited system program offices, prime contractors, subcontractors, and other related sources to obtain information related to the following:
+l
+
+l
+
+Know-n instances of foreign sourcing of procurement and/or technology and contract terms. Identification of foreign parts, equipment, or processes used by prime
+contractors.
+
+l
+
+Reasons foreign sourcing was used. . Importance of foreign-sourced items, processes, or equipment to the system. . Difficulties system production would encounter if foreign sourcing were interrupted. Costs, obstacles, and delays that would be encountered in developing alternative domestic sources. 9 Military standards that affect the system.
+l
+
+The study concluded that the lack of systems to track the sourcing of parts and components makes it prohibitively difficult and costly to determine the extent, let alone the significance, of defense system sourcing of foreign technologies on a broad scale.
+
+Frequency of Risk Assessment
+
+There was no mention in the study of how often a risk assessment of systems should be done. However, according to the Project Director, due to the complexity of weapon systems and the ambiguity of potential military contingencies, it would not be practical to try to develop a generic analytical framework for assessing the national security risk of foreign dependence. In IDA'S experience, by the time a system is fielded, its technology is usually out of date, and therefore, a system approach is not the best technique for assessing dependence on advanced technologies.
+
+Page 3 2
+
+GAO/NSIAD-94-104 Industrial
+
+Base
+
+Appendix IV Institute for Defense Analysis: Dependence of U.S. Systems on Foreign Technologies
+
+Instead, the Project Director believes that resources for assessing national security risk should be directed toward examining the development of future weapon systems rather than currently fielded weapon systems.
+
+Suggested Revisions and Comments
+
+As discussed in the previous section, the Project Director urged DARPA to allow the IDA team to use a technology-based approach rather than a system-based assessment+ The team recommended that DARPA permit it to select a series of technologies known or expected to be important in defense applications or to use a combined approach studying several systems and several technologies. It was the IDA'S team opinion that a technology focus would permit more of an anticipatory look at dependence. Emerging technologies often involve extraordinary degrees of dependence and vulnerability because the first country to develop and apply a technology can establish an exclusive position more easily than countries with maturing technologies where they must compete with other technology holders for market advantage. In the study, an analysis of high-definition flat panel displays was used to represent an emerging technology. The Project Director of the IDAstudy stated that for practical purposes, it would be wise to focus attention on a few technologies that would be at the core of any vulnerability analysis due to their dominance in the makeup of critical weapon systems. He specifically mentioned electronic components, as being an important area for consideration in a vulnerability analysis because they make up about 60 percent of the cost of advanced weapon systems. The Project Director also cited semiconductor manufacturing equipment, machine tools, and process control. Since DAWA did not specify a context or scenario or want IDA to propose any, the Project Director emphasized that in conducting the analysis, consideration of vulnerability factors gives an opportunity to make judgments based on circumstances applicable to a myriad of possible scenarios. Regarding the information necessary to focus the U.S. government's attention on technologies, the Project Director said that there was a need to constantly monitor technology developments. He stated that applying a much simplified version of Project Socrates would be usefuL2
+`Project Socrates was a Defense Intelligence Agency program (19&i-90) designed to enable officials to (1) limit the flow of technology to potential adversaries, (2) identify strong market areas for U.S. businesses, and [3) identify emerging technologies with the best opportunities for U.S. investment.
+
+Page 33
+
+GAO/NSlAD-94-104 Industrial
+
+Base
+
+Appendix N Institute for Defense AnalyaLs: Dependence of U.S. Systems on Foreign Technologies
+
+Study Conclusions
+l
+
+On the basis of the four systems studied, the following conclusions:
+
+IDA
+
+team reached the
+
+l
+
+The most significant concentrations of foreign technology sourcing were in microelectronics, certain types of production equipment, advanced and specialty mater-i&, and high-resolution flat pane1 displays. Foreign sourcing of technology exhibited an increasing trend in microelectronics, machine tools, lithography equipment, and high-resolution systems. . There was no imminent vulnerability from foreign denial or delay of technology in the systems studied under the procurement conditions prevailing during the study. Heavy dependence existed on a few highly concentrated foreign sources in four mature technologies.
+l
+
+The IDA report found that an assessment of fielded systems more easily provides hindsight into the supply state of aging technologies than foresight on trends in advanced technologies.
+
+Page 34
+
+GAO/NSIAD-94-104 Industrial
+
+Base
+
+P L
+
+Appendix V
+
+National Defense University: U.S. Industrial Base Dependence/Vulnerability
+
+Assessing Risk of Foreign Sourcing NDU's methodotogy
+
+Weapons production Crlterla Scenario Threat Time-urgency Alternatives Unfilled requests
+
+prioritization Priority High Precision-guided munitions Ammo Spares Platforms Command, control, and communications Strategic systems Low (illustrative)
+
+I
+Dependence/vulnerability Criteria Sources: location, number Probability of disruption Reversibility Urgency Technology trends High Integrated circuits Materials Optics Forging Fasteners Cloth analysis Priority (i~lustratlve)
+
+I
+
+Options precislonguided munitions Stockpile Sourcing Capacity
+
+b
+
+Options (Integrated
+
+Develop
+
+Page 36
+
+GAOINSIAD-M-104 Industrial
+
+Base
+
+Appendix Y National Defense University: U.S. Industrial Bsse Dependence/Vulnerability
+
+Figure V. 1 illustrates the framework used by the National Defense University (NDU) to assess the risks of buying DOD goods from foreign sources.
+
+Objectives
+
+In 1986, the Under Secretary of Defense (Policy), in his role as Chairman of the Department of Defense Mobilization and Deployment Steering Group, tasked the Mobilization Concepts Development Center to examine the potential national security problems of (1) the reported growing dependence of the U.S. defense industry on foreign sources for a wide range of manufactured goods and (2) the potential dependence on foreign sources for advanced technology. The Center was directed to conduct a two-phase study. In phase I, it was to survey recently completed and ongoing studies of foreign dependency and assess the conclusions of the studies. In phase II, it was to identify and evaluate actions that might be taken to mitigate U.S. national security vulnerabilities resulting from a cutoff of foreign sources, Ultimately, phase II focused on (1) defining the nature of the vulnerability problem, (2) developing a framework for identifying and assessing the degree of foreign vulnerability, and (3) suggesting methods for dealing with identified vulnerabilities. The phase I survey of the literature concluded that there were extensive studies of cases that revealed foreign dependence, but these dependencies were mostly limited to a single weapon system, a group of similar systems, or a single industrial sector. It further concluded that this ad hoc approach to studying foreign dependence had limited use in determining where to make additional efforts to identify critical foreign vulnerabilities or when to spend federal funds to address these vulnerabilities. Phase II defined foreign sources, foreign dependence, and foreign vulnerability and examined ways to develop priorities for weapon systems and components to be analyzed. DOD priorities were considered together with other analyses that sought to determine the aggregate potential use of a system by analyzing a range of national security contingencies, Phase II also included an analysis of three case studies of foreign dependence. Each case examined a particular aspect of the issue. The first case examined foreign dependence as it relates to the capability to surge the production of precision-guided munitions and the risk of an unanticipated cutoff in supplies. The second case examined the effects of foreign dependence in a general mobilization and discussed the risks of insufficient capacity for materials (including energy and minerals). The
+
+Summq
+
+of Approach
+
+Page 36
+
+GAO/NSIAD-94-104 Industrial
+
+Base
+
+Appendix V National Defense University: US, Industrial Base DependenceNulnerability
+
+third case examined the effects of foreign dependence and technological vulnerabilities by focusing on the potential consequences of losing the U.S. technological edge in the production of integrated circuits. The study provided a methodology for placing priorities on areas needing further study and for evaluating where potential vulnerabilities exist in systems selected for further study. The approach emphasizes the importance of subjective judgment about factors such as probabilities of conflict and probabilities of disruption, but makes these considerations explicit so that they can be discussed.
+
+Definitions
+Foreign Source Foreign Dependency
+Any source of supply, manufacture, or technology outside the United States or Canada Any source of supply, manufacture, or technology outside the United States or Canada for which there is no immediately available alternative source in the United States or Canada Any source of supply, manufacture, or technology outside the United States or Canada for which there is no immediately available source and whose lack of reliability and substitutability jeopardizes national security by potentially precluding the production, or significantly reducing the capability of a critical weapon system. The study considers three categories of vulnerabilities: surge capability, mobilization capabilities, and the technology base. Surge vulnerability exists when a foreign dependency has a high probability of preventing the rapid increase of production within a given time frame, thus causing fielded systems to be less effective than required, and thereby jeopardizing the planned mission. Mobilization vulnerability exists if there is a high probability that the production of key weapon systems and supporting systems or a range of systems will be prevented or slowed, thus jeopardizing the capability of the United States to support its actual or potential wartime objectives. Technology base vulnerability exists when there is a high probability that the United States will not have sufficient access to essential technology and that this lack of access will prevent the United States from developing
+
+Foreign Vulnerability
+
+Page 37
+
+GAOINSLAD-94-104 Industrial
+
+Base
+
+Appendix V National Defense University: U.S. Industrisl Base Dependence/Vulnerability
+
+and producing weapon systems critical for maintaining deterrence or winning a war. The concern in this kind of vulnerability is not time dependent, but is focused on the inability to retain a technological edge over potential enemies.
+
+Initial Screening
+
+The evaluation framework requires criteria to assist in both the selection of key systems and the priority ranking of systems selected for further analysis. The following selection criteria were considered: 1. Degree to which the system is considered critical to success in a contingency and the importance of the contingency for which the system is required. Is the system critical in the most important scenario or in many contingencies? This criterion provides insight into the relative importance of the system to the overall U.S. national security mission. 2. Production requirements of the system: numbers, time criticality of production, and sophistication. A system may be judged critical to performing a mission but have small wartime production requirements. (Strategic nuclear weapons, for example, have relatively small surge or mobilization requirements.) Further, while peacetime manufacturing dependencies are unlikely to be vulnerabilities, peacetime technology dependencies could be. While this criterion addresses surge and mobilization, it does not address the technology base issue, where the focus is on the sophistication of the weapon system and the availability of the technology for it. 3. Location and number of sources of supply and likelihood of supply disruption. A single source of supply is of particular concern. Sources in some geographical areas are less secure than others. Disruption may occur through either direct attack, sea lines of communication interdiction, political decisions, or general instabilities. The number of sources is important even when these sources are in the United States. Multiple sources abroad might be highly useful for overall survivability and proximi~ to the conflict in some contingencies. 4. Effect of the identified dependency on the specified or envisioned weapon systems or other items/technoIogies. How and to what degree does the dependency slow or preclude the United States from fielding a particular system?
+
+Page 38
+
+GAO/NSIAD-94-104 Industrial
+
+Base
+
+Appendix V National Defense University: U.S. Industrial Base DependencdVuIuerability
+
+5. Reversibility of identified dependency. To what degree is it reversible? This criterion ties in with the criticality of time: How soon and in what quantities are the weapon systems needed? In determinin g the criticality of systems, this approach considers deterrence to nuclear war as the most important U.S. mission, and thus, strategic nuclear weapons and systems remain the most important class of systems in the US. arsenal.
+
+Range of Contingencies
+
+Since the United States was faced with the need to prepare for a number of contingencies and required a range of forces, the study examined several types of contingencies, rather than concentrating on a single scenario. The study argued that any framework for assessing foreign dependencies and potential vulnerabihties must include a range of contingencies that can be analyzed in sufficient detail to determine U.S. and allied force requirements, their corresponding material requirements, and their production requirements. Specific contingencies were considered in the study, including, for example, a global conventional conflict with the Soviet Union and the U.S. support of an allied conflict. The study indicated that once a manageable group of selected systems has been identified, they can be examined in detail for potential foreign vulnerability in the areas of surge, mobilization, and technology base. A single system might be vulnerable in all three areas, or several systems might share the same vulnerability in areas such as key subcomponents, manufactured tools, or procedures. According to the NDW study, the first level of analysis is the end product. Does the United States buy the entire end item from abroad? The second level of analysis is the purchase of subcomponents such as integrated circuits. The third level of analysis is an examination of the mobilization production requirements for the system, to understand whether current internal mobilization constraints might in reality be foreign dependency related or whether foreign sourcing may remove these constraints. Identifying a foreign dependency is a necessary but not sufficient condition for vulnerability. Only in the first two cases must there be a potential for disruption; in the case of technological dependence, there may be costs even without disruptions. Such disruptions are a function of military action, political decisions, general instabilities (e.g., labor strife or local revolution), and natural disaster. Considering relative probabilities of
+
+Page 39
+
+GAO/NSIAD-94-104 InaustriaI
+
+Base
+
+Appendix V National DePenae University: U.S. Induetrlal me DependenceJVulnerabllity
+
+the types of disruption from a particular geographic source of supply during selected security contingencies is a way of thinking about the potential for disruption. This is determined by the number and location of sources of supply. A final consideration is that the effectiveness of any particular disruption is a function of both its duration and its thoroughness. This analysis involves considering the opponent's capability to enforce the disruption and the U.S. ability to overcome it. The study briefly comments on the threat of a technology cutoff. It states that access to foreign technology is an asset as well as a potential problem and that there is no clear evidence that the United States will not continue to have access to foreign technology, although that access might not be as rapid as desired.
+
+Data/Updating Requirements Study Conclusions
+
+The study concluded that the required data might be relatively limited, based on the small number of actual vulnerabilities that might be identified. Based on the three case studies of foreign dependence, the authors concluded the following: 9 Foreign vulnerabilities exist but are a small subset of all foreign sources. Once identified, actions can be taken to manage the risks. Ensuring availability for conflicts with low probability but high risks, is very expensive, but there are some policy options, such as stockpiles, that entail reasonable costs. . The vulnerabilities associated with the security of the U.S. technology base exist across the spectxum of possible conflicts. They are more difficult to resolve than those associated with continuous production because they affect weapon systems not yet in existence. It is important to remember that although disruptions are possible due to military or political causes, allied support is likely in most cases. Nevertheless, foreign sources may require action to hedge against the possibility of disruption.
+l l
+
+The study describes the purchase of military goods and services from foreign sources as both an opportunity and a potential problem. Foreign purchases may provide access to products and technologies not available
+
+Page 40
+
+GAO/NSIAD-94-104 Industrial Base
+
+Appendix V National Defense University: Base DependenceNuherability
+
+U.S. Industrial
+
+in the United States. However, these purchases may also have the following effects: (1) to the extent that foreign sources are less reliable than domestic ones, continuous production flow is jeopardized; (2) domestic capacity is reduced; and (3) the development of domestic technology may be retarded.
+
+Suggested Revisions and Subsequent Comments by Authors
+
+The authors pointed out that the study was conducted during a period of concern about the military threat from the Soviet Union. With the demise of that threat, the contingencies might be reduced to (1) theater conflict, (2) global conventional conflict, and (3) nuclear conflict.
+
+Page 41
+
+GAO/NSIAD-94-104 Industrial
+
+Base
+
+Appendix VI
+
+The Globalization of America's Defence Industries: Managing the Threat of Foreign Dependence by Theodore Moran
+Figure VI. 1 illustrates the framework used by Dr. Theodore Moran to assess the risks of buying DOD goods from foreign sources.
+
+Figure WI: Moran's Framework for Assessing Risk of Foreign Sourcing
+
++ Collect date Do four or less countries or four or less companies control 50 percent or more of supply? If yes, the industry can be considered concentrated.
+
+Analyze data
+
+Examine alternative responses
+
+Page42
+
+GAO/NSIAD-94-104IndustrialBase
+
+Appendix VI The Globalization of America's Defence Industries: Managing the Threat of Foreign Dependence by Theodore Moran
+
+Summary of Approach
+
+In his article, entitled "The Globalization of America's Defence Industries: Managing the Threat of Foreign Dependence," Moran concludes that vulnerability (risk) in the defense industrial base is directly related to the amount of foreign control in a particular industry or technology. This control arises from market concentration. Moran defines market concentration using a 4W50 rule. That is, parts, components, or technologies purchased from four or fewer foreign countries or from four or fewer foreign companies that supply over 50 percent of the market should be monitored. He incorporates this quantitative measure into a "national strategy." The strategy comprises three key elements: (1) promoting cutting-edge industries, (2) preserving threatened industries, and (3) regulating foreign acquisitions and foreign investments. In addition, the article addresses possible vulnerabilities resulting from the concentration of supply among domestic sources. The article seeks to provide a new framework for assessing (1) the adequacy of the defense industrial base and (2) the risk of foreign control of the supply of defense goods and technologies.
+
+Objective
+
+Definitions
+Foreign Sourcing A foreign source includes any firm or industry outside the United States, Canada, and-with the implementation of the North American Free Trade Act-Mexico. Moran does not specifically define foreign dependence. He states, however, that foreign dependence is not a public policy issue unless suppliers are concentrated. Foreign vulnerability is defined according to a set of supplier concentration rules. Foreign vulnerability exists when either four foreign firms or foreign countries control 50 percent or more of a particular market. According to the author, the 4/4/50 rule could be adapted for expression as a threshold HHI value. Moran advocates the implementation of the 4/4/50 rule for concentration as a means of initially screening for vulnerability. This framework does not provide for an initial screening based on criticality to national security.
+
+Foreign Dependence
+
+Foreign Vulnerability
+
+Initial Screening
+
+i
+
+Page 43
+
+GAO/NSIAD-94-104 Industrial
+
+Base
+
+Appendix VI The Globalbation of America's Defence Xndustries: Mamglng the Threat of Foreign Dependence by Theodore Moran
+
+Further Assessing the Extent of Risk
+
+Moran argues that while strictly determining the concentration of supply is the most important factor in the process, the breakout between foreign and domestic suppliers should also be considered. Moran does not distinguish among various foreign sources in terms of political reliability. A greater extent of concentration is acceptable if the suppliers are primarily domestic, although reliance on a large number of foreign suppliers is preferable to reliance on a small number of domestic suppliers. 1. Promoting cutting-edge technologies. As a first step toward achieving a goal of protecting the defense industrial base from foreign dependence, Moran advocates the use of government funds for innovation. He recommends that these resources be distributed according to the degree of a project's usefulness to the military. The first priority for funding would be projects with high potential defense payoffs and limited, or no, commercial prospects. The lowest priority would be those projects with a "dual use"-that is, projects where commercial prospects are especially high. Once appropriate projects are funded, Moran believes that the United States should then allow companies from allied and quasi-allied nations to participate in the development of these high-technology programs. He would require, however, that ah foreign firms associated with these projects, along with any U.S. participants, carry out any proposed research and development at facilities in the United States. Furthermore, he would stipulate that subsequent production be located either in the United States or a neutral third country. 2. Preserving industries threatened by foreign competition. Moran states that, whenever possible, trade protectionism should be avoided. When it becomes in the U.S. national interest to impose trade restrictions, he recommends the quick implementation of a tariff. Moran cautions that this action is warranted only when external concentration in an industry (as defined by the 4/4/50 rule) threatens U.S. national security. Without this threat, there is no need to take actions to preserve the continuation of a domestic industry. Moran is opposed to the use of quotas and voluntary restraint agreements as a means of restricting foreign countries from U-S. markets. Moran states that these measures only encourage inefficiency in the marketplace by fling the amounts that external producers can supply to the domestic market, no matter how high domestic prices rise. Moran especially dislikes voluntary restraint agreements, which are self-administered export
+
+Policies for Addressing Risk
+
+Page 44
+
+GAO/NSIAD-94-104 Industrial
+
+Base
+
+Appendix VI The Globalization of America's Defence Industries: Managing the Threat of Foreign Dependence by Theodore Moran
+
+limitations among foreign producers, as he believes that their use further encourages the oligopolistic structure of an external industry and inhibits new entrants into the market. Moran opposes the implementation of a set "strategic trade policy" as a means of combating foreign dependence by restricting imports and promoting exports. He argues that such a policy would eventually encourage retaliation and potentially destroy any chance for the development of a domestic industry. He favors the promotion of an alternative approach, which he calls a "push for parity" of access to national markets. Moran asserts that cooperation among nations would benefit the entire marketplace and eventually lead to higher productivity, innovation, and efficiency. 3. Regulating foreign acquisitions and foreign investment, Moran notes that foreign direct investment can be considered a penetration of the defense industrial base and that acquisition of a U.S. defense company by a foreigner can represent a loss to the base. U.S. policy has traditionally stressed the need for regulation of classified materials and has recently moved further toward restrictions by advocating industrial policies that attempt to keep foreigners from `burrowing into" the U.S. defense industrial base through foreign direct investment. Moran argues that in an era in which technological leadership in industries of vital importance to defense are shared more broadly than in the past, these restrictions may no longer be appropriate. He therefore outlines three instances where foreign investment/acquisition may be warranted. 9 When foreign direct investment into the United States creates subsidiaries that seek to extend their product line into defense-related activities. Moran contends that obstructing a foreign country's entrance into a new market would force the company to produce its products off shore, further minimizing US. control over its conduct of business. + When a prospective foreign buyer of a U.S. firm a@ees to divest itself of all defense-related activities. 9 When a proposed foreign acquisition of a U.S. firm results in the intention of the new owner to continue operating a business of direct importance to the U.S. defense industry. In this case, the #4/50 rule provides a useful screening device for determining potential vulnerability caused by the acquisition. Finally, Moran notes that the approach described above, by itself, would not totally protect the United States against the prospects of "foreign i I
+
+$
+I
+
+Page 46
+
+GAO/NSIAD-94-104 Industrial
+
+Barre
+
+The Globalization of America's Defence Industries: Managing the Threat of Foreign Dependence by Theodore Moran
+
+influence, foreign manipulation, and foreign control." He, therefore, calls for the convening of an international conference to negotiate a convention on extra-territoriality backed by a dispute settlement mechanism to handle disagreements. Here Moran reafiirms his belief that international cooperation is the most efficient means to promote both industrial progress and national security.
+
+Data Requirements
+
+Moran believes that DOD should collect data on concentration from all alternative supply sources for particular categories of products. Further research is needed to determine how narrowly the market should be defined, but the subcontractor level is pticularly worthy of surveillance. Moran states that the mechanics of collecting the data are not a consideration in this study. Moran mentions, however, that several proposals for creating a database have been suggested to DOD. Updating should be done on a regular basis. Vulnerability in the defense industrial base is directly related to the amount of foreign control in a particular industry or technology.
+
+Updating Requirements Conclusions
+
+Page 46
+
+GAO/NSLAD-94-104 Industrial
+
+Base
+
+Appendix VII
+
+Major Contributors to This Report
+
+National Security and International Affairs Division, Washington, D.C.
+
+Rosa M. Johnson Celia Thomas Marilyn Mauch Ned Nazzaro Cwolyn Blocker
+
+(336041)
+
+Page 47
+
+GAO/TWIAD-94-104 Industrial
+
+Base
+
+Ordering
+
+Information
+
+The first copy of each GAO report and testimony is free. Additional copies are $2 each. Orders should be sent to the following address, accompanied by a check or money order made out to the Superintendent of Documents, when necessary. Orders for 100 or more copies to be mailed to a single address are discounted 25 percent. Orders by mail: U.S. General Accounting Office P.O. Box 6016 Gaithersburg, MD 20884-6016 or visit: Room 1000 700 4th St. NW (corner of 4th and G Sts. NW) U.S. General Accounting Office Washington, DC Orders may also be placed by calling (202) or by using fax number (301) 258-4066. 512-6000
+
+PRINTED ti
+
+RECYCLEli PAPER
+
+3
+
+

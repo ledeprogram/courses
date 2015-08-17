@@ -1,0 +1,761 @@
+Journeys Through the Teacher Pipeline:
+Recapitalizing American Education
+
+Partial Cost Estimates for Road Map for National Security
+
+May 15, 2001
+
+U.S. Commission on National Security/21st Century
+
+Prepared by: Dr. Lyntis H. Beard, Jr., Dr. Charles B. Johnson and Dr. Pat Pentland Study Group Members USCNS/21st Century
+
+U.S. Commission on National Security/21 Century
+
+st
+
+Contents
+
+Preface . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . iii Executive Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1 USCNS/21 Recommendations on Education . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4 Public and Private School Student and Teacher Pipelines . . . . . . . . . . . . . . . . . . . . 6 The Science and Mathematics Teacher Pipeline . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12 Modernizing Assessment Capability . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16 Addressing the Science and Mathematics Teacher Shortage . . . . . . . . . . . . . . . . . . . 18 Addressing Government Science and Math Personnel Shortages . . . . . . . . . . . . . . . 22 Implications . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24 Appendix A, Commission Science and Math Teacher Tabular Estimates . . . . . . . . 25
+
+ii
+
+Journeys Through the Teacher Pipeline
+
+U.S. Commission on National Security/21 Century
+
+st
+
+Preface
+National Security Study Group (NSSG) is a chartered entity that provides basic The research and analytical support for the U.S. Commission on National Security/21
+st
+
+Century (USCNS/21). The NSSG has issued documents through the medium of "Supporting Research" or "Addenda" associated with specific Commissioner reports. The NSSG staff prepared this supporting research document at the direction of the Commission. Education, particularly science and mathematics education, is crucial to national security and to our nation's future. The Commission and Study Group considered it important to provide a cost estimate of the education reform recommendations in the Phase III report, Road Map for National Security: Imperative for Change. The pertinent recommendations are those in section IIB of the main Commissioner report, "Education as a National Security Imperative." The full-time NSSG staff, a collection of national security scholars and practitioners, has prepared this report. The interpretation of the education statistics and data herein is that of the NSSG staff, and not that of the Commissioners. Moreover, this report informs a different audience than that of the original Phase III report; those concerned with the implementation requirements for the Commission's recommendations. The report should also assist interested parties in further understanding the Commission's recommendations. Stemming from the last distinction--the intended audience--this report offers more in-depth guidance to accountable authorities. A clear view of the current and near future state of the nation's educational system is critical. Although a significant amount of information is available on the public and private school systems, the material is dispersed throughout many sources. Worse, it is not always suitable for the "operational" analyses required to target and solve the many problems faced by the nation's educational system. For this reason many indirect estimates and assumptions were necessary in the preparation of this addendum. This report makes a strong effort to be very explicit and transparent in all its assumptions. The estimates are intended to be approximate. Detailed estimates are beyond the resources and time constraints faced by the Commission.
+
+Charles G. Boyd, General, USAF (Retired) Executive Director USCNS/21
+
+Journeys Through the Teacher Pipeline
+
+iii
+
+U.S. Commission on National Security/21 Century
+
+st
+
+iv
+
+Journeys Through the Teacher Pipeline
+
+U.S. Commission on National Security/21 Century
+
+st
+
+Executive Summary
+
+T
+
+his report provides cost estimates for several of the education recommendations made by the U.S. Commission on National Security/21st Century (USCNS/21). The estimates
+
+are based on an evaluation of the public school teacher and student pipeline as projected by the U.S. Department of Education's National Center of Education Statistics for the coming decade. These statistics indicate that significant hurdles will have to be overcome to address future education requirements. Key among these is the tremendous increase in teacher retirements that are projected by 2010. Today roughly 57,000 teachers retire per year; by 2010 that number will grow close to 88,000. On average each year there will be 3,448 more teachers retiring than the year before. Upwards of two million new teachers will be needed over the next decade. In the areas of science and mathematics, the situation is even worse given the needs of today's technology-oriented private sector where job opportunities are significantly more attractive than teaching in both compensation and working conditions. The National Commission on Mathematics and Science Teaching for the 21st Century estimated that within the two million total new teachers, 240,000 new science and mathematics teachers are needed in the coming decade. Even with the required number of new teachers, critical shortfalls will likely exist in many rural and economically depressed urban areas. The second major problem faced by the education system is the insufficient number of students opting to enter science and technology fields, particularly in the pursuit of graduate education. A shortage of personnel with technical skills already exists today in government, in the military, and in industries critical to national security. In the absence of public policy remedies, this shortage is likely to grow worse. The cost estimates in this report address two problems; the science and mathematics teacher shortage, and the inducements necessary to encourage more students to pursue science and technology related fields. These include incentives needed to induce those majors who pursue science and technology careers to enter education, government, and military service. Various options are considered to include targeted salaries, scholarships, and loan forgiveness. Costs are approximated below and are meant to provide rough estimates adequate for the purpose of the Commission. Our low and high-end projections bracket the estimates of the National Commission on Mathematics and Science Teaching for the 21st Century (hereafter referred to as the Glenn Commission) on the need for 240,000 new science and mathematics teachers over the next decade. Adopting this conservative figure, the USCNS/21 supports the associated $174 million funding
+Journeys Through the Teacher Pipeline
+
+1
+
+U.S. Commission on National Security/21 Century
+
+st
+
+recommendation of the Glenn Commission to bring additional science and math teachers into the teaching profession. Beyond attracting new teachers, the Glenn Commission recommends providing other funding initiatives to improve teacher training and professional development. Including the aforementioned $174 million, they propose $5 billion in expenditures, $3 billion of which should be provided by the Federal government, and the rest provided by State/Local and the public/private sector. The USCNS/21 endorses these estimates. The USCNS/21 further recommends differential salary pay as a step to bring the salaries of public school secondary science and mathematics teachers to competitive levels. Currently, the average salary of an entering science and math professional in the private sector is $50,000. Using the current $25,000 starting teacher salary as a baseline, it would take about $6.4 billion annually to raise the salaries of all public secondary school science and mathematics teachers to a comparable level with the private sector. For comparison, an alternate proposal would reward the top quartile teachers to fully competitive salaries and second quartile teachers to a half salary differential increase. This would cost $2.4 billion annually. The need to recruit and retain science and technology personnel into government service must also be addressed. The USCNS/21 estimates that the four-year cost of reinvigorating government with needed undergraduate and graduate scientists using the National Security Science and Technology Education Act would amount to a total of $105 million. This would provide funds to attract 8,400 additional graduates into government service over four years. The annual cost from that four-year point forward would amount to approximately $41 million per year. The USCNS/21 considers this a reasonable price to help ensure our national security and national prosperity.
+
+T
+
+he preparation of this report revealed several worrisome problems and deficiencies concerning U.S. Department of Education statistics. In turn, this generated the following
+
+recommendations: ·= The U.S. Department of Education, with the support of the Executive and Legislative Branches, needs to reassess how the nation's school systems are evaluated, how statistics are gathered, and to what purpose. This is essential if scarce resources are to be properly targeted. ·= The U.S. Department of Education should devote greater analytical capability to develop new operational measures of effectiveness to address year-to-year local and regional educational
+
+2
+
+Journeys Through the Teacher Pipeline
+
+U.S. Commission on National Security/21 Century
+
+st
+
+problems as well as long-term deficiencies in the nation's school system. This would entail a shift in its organizational culture and as well a significant increase and reallocation of resources. ·= Many current projections are based on dated education statistics, spanning a period of significant demographic change. Funds should be devoted to an Internet-based data collection system to provide data automatically from each school district across the nation to serve the statutory needs of Federal, State, and local governments.
+
+Journeys Through the Teacher Pipeline
+
+3
+
+U.S. Commission on National Security/21 Century
+
+st
+
+USCNS/21 Recommendations on Education
+
+T
+
+he Commission views education as critical to the nation's security and its future, and stresses the imperative to recapitalize America's strength in science and education as a
+
+major national security challenge. The scale and nature of the ongoing revolution in science and technology implies the need for human capital of unprecedented quality in the 21st century. The Phase III report states: "Second only to a weapon of mass destruction detonating in an American city, we can think of nothing more dangerous than a failure to manage properly science, technology, and education for the common good over the next quarter century." 1 Furthermore, the USCNS/21 points out the harsh reality that the nation's need for the highest quality human capital in science, mathematics, and engineering is not being met by its education system. Various reasons exist. Perhaps foremost among them is that American students see professional careers in basic science and mathematics as requiring considerable preparation and effort, while salaries are often more lucrative in areas requiring less demanding training. Non-U.S. nationals, however, find these professions attractive, and thanks to science, math, and technical preparation superior to that of many Americans, they increasingly fill American university graduate studies seats and commercial careers. Just as important, but more troubling, the American kindergarten through 12th grade (K-12) education system is not performing as well as it should in preparing students for college education or the commercial sector. The fact is that too few American students are qualified to take these slots, even were they so inclined. 2 In a knowledge-based future, only an America that remains at the cutting edge of science and technology will sustain its current world leadership. In such a future, only a well-trained and educated population can thrive economically and prosper. Complacency with our current achievements and educational standards will put all of this at risk. To address these concerns the USCNS/21 made the following recommendations:3 1) The President should propose, and Congress should pass, a National Security Science and Technology Education Act (NSSTEA) with four sections: reduced-interest loans and scholarships for students to pursue degrees in science, mathematics, and engineering; loan forgiveness and scholarships for those in these fields entering government or military service; a
+
+1
+
+Road Map for National Security: Imperative for Change, Phase III report of the United States Commission on National Security/21st Century, March 15, 2001, Section II, p. 29. 2 Ibid. 3 Ibid., pp. 40-44.
+
+4
+
+Journeys Through the Teacher Pipeline
+
+U.S. Commission on National Security/21 Century
+
+st
+
+National Security Teaching Program to foster science and math teaching at the K-12 level; and increased funding for professional development for science and math teachers. 2) The President should direct the Department of Education to work with the states to devise a comprehensive plan to avert a looming shortage of quality teachers. This plan should emphasize raising teacher compensation, improving infrastructure support, reforming the certification process, and expanding existing programs targeted at districts with especially acute problems. 3) The President and Congress should devise a targeted program to strengthen the historically black colleges and universities in our country, and should particularly support those that emphasize science, mathematics, and engineering.
+
+A
+
+cting on the above recommendations, this addendum provides cost estimates to redress the teacher shortage in science and mathematics. For that purpose, student and
+
+teacher pipelines are analyzed. Cost estimates are also made for the incentives needed to attract greater numbers of students into the science and mathematics teaching profession, and to attract students into science, engineering, and technology-related fields for the purpose of government and military-related service.
+
+Journeys Through the Teacher Pipeline
+
+5
+
+U.S. Commission on National Security/21 Century
+
+st
+
+Public and Private School Student and Teacher Pipelines
+
+T
+
+he public and private elementary and secondary school teacher and student pipelines must be understood in order to make sound estimates of future teacher requirements.
+
+Both of these pipelines vary over time because of social and demographic changes. Our knowledge of these pipelines is limited to the occasional statistical snapshots taken by the U.S. Department of Education. The last major snapshot of the teacher pipeline was done for the 1993-94 school year.4 Unfortunately, the scheduled 1997 survey was delayed. Our projected characterization of future teacher requirements must be based on the 1993-94 data, assuming that similar statistics apply. Given that there are over 2.5 million teachers in the public school system, this assumption should provide approximate teacher pipeline requirements adequate for making the USCNS/21's cost estimates. These estimates are rough, however, and cannot be viewed as actual predictions.
+
+The Student Pipeline
+
+T
+
+he demand for teachers is tied to the teacher supply and to the demands placed upon it by the student population. According to U.S. Department of Education statistics, the
+
+public school student population rose significantly from approximately 39 million in 1985 to about 47 million in the 1990s, and is projected to remain at that level in the upcoming decade.5 These statistics are illustrated in Figure 1.
+
+50,000
+
+Number (in Thousands)
+
+45,000
+
+40,000
+
+35,000
+
+30,000 1985
+
+1990
+
+1995
+
+2000
+
+2005
+
+2010
+
+Figure 1. Projected Public School Student Population
+
+4
+
+Stephen P. Broughman and Mary R. Rollefson, Teacher Supply in the United States: Sources of Newly Hired Teachers in Public and Private Schools, 1987-88 to 1993-94, U.S. Department of Education, Office of Educational Research and Improvement, NCES 2000-309. 5 Projections of Education Statistics to 2008 and Projections of Education Statistics to 2010 as obtained from W. J. Hussar, National Center of Education Statistics, U.S. Department of Education.
+
+6
+
+Journeys Through the Teacher Pipeline
+
+U.S. Commission on National Security/21 Century
+
+st
+
+These projections indicate that the overall teacher population we currently have of approximately 2.9 million should be an adequate "floor" upon which to base future teacher pipeline levels. The term floor is used because of the known inadequate number of teachers in many of the nation's school districts.
+
+The Teacher Pipeline
+
+E
+Figure 2.6
+
+ach year, fluctuations in the teacher pipeline occur due to the influx of newly prepared teachers, teachers delaying entry into the system, retiring teachers, teachers leaving the
+
+profession, teachers transferring between jobs, and former teachers reentering to the profession. The health of the pipeline depends on maintaining teacher levels required to meet the needs of the student population, and a reasonable equilibrium in teachers entering and leaving the pipeline. Based on the 1993-1994 U.S. Department of Education data, the teacher pipeline can be characterized as shown in
+
+Newly Prepared 59,098
+29.16%
+
+Delayed Entrants 33,655
+16.61%
+
+First Time 92,753 Reentrants 46,277
+22.86% 45.76%
+
+Retiring (Unpublished Data) 51,433
+
+Teacher
+
+2,191,863 Continuing + 202,679 New Hires
+
+2,394,542 Total
+
+Transfers 63,597
+31.38%
+
+Total New Hires = First Time Teachers + Reentrants + Transfers Percentages are relative total new hires.
+
+Figure 2: 1993-94 Public School Teacher Pipeline
+
+6
+
+William J. Hussar, Predicting the Need for Newly Hired Teachers in the United States to 2008-2009, National Center for Education Statistics, U.S. Department of Education, NCES 1999-026, 1999. And see Stephen P. Broughman and Mary R. Rollefson, Teacher Supply in the United States: Sources of Newly Hired Teachers in Public and Private Schools, 1987-88 to 1993-94, U.S. Department of Education, Office of Educational Research and Improvement, NCES 2000-309. Journeys Through the Teacher Pipeline
+
+7
+
+U.S. Commission on National Security/21 Century
+
+st
+
+Figure 2 portrays new hires as teachers transferring, teachers reentering the pipeline after a year or more of absence, or as first time teachers. First time teachers are newly prepared teachers or delayed entrants that chose to wait, or work elsewhere before entering the teacher pipeline. In 199394 a total of 2,394,542 teachers were in the pipeline, excluding the 51,433 retirees. Analysis of U.S. Department of Education projections on the teacher pipeline highlights two major concerns. First is the graying of the teacher population. Second is the problem of attracting a sufficient number of teachers into the profession. This year the number of retirees is expected to rise to roughly 57,000 teachers per year. By 2010 that number will grow to about 88,000 retirees annually.7 This is illustrated in Figure 3.
+
+100,000
+
+90,000
+
+80,000
+
+Slope = 3,448
+70,000
+
+60,000
+
+50,000
+
+2000
+
+2002
+
+2004
+Year
+
+2006
+
+2008
+
+2010
+
+Figure 3. Retirees ­ Public Schools 2000 to 2010
+
+The data indicate that on average about 3,448 more teachers will retire each year than the previous year, and many teachers are retiring as early as possible in their early sixties. The reason for this large slope can be seen in the age distribution of the current teacher population, which reflects the demographic realities of the "baby boom" generation (shown in Figure 4 below). 8 This growth
+
+7
+
+Unpublished data obtained from William J. Hussar, based on "School and Staffing" and "Common Core of Data" surveys, National Center of Education Statistics, April 2001. 8 William J. Hussar, Predicting the Need for Newly Hired Teachers in the United States to 2008-2009, National Center for Education Statistics, U.S. Department of Education, NCES 1999-026, 1999.
+
+8
+
+Journeys Through the Teacher Pipeline
+
+U.S. Commission on National Security/21 Century
+
+st
+
+in retirement numbers will place tremendous pressure on efforts to maintain an adequate teacher supply.
+
+140000 120000 100000 Number 80000 60000 40000 20000 0 0 20 40 Age 60 80 100
+
+Figure 4. Age Distribution of Public School Teachers
+
+Retirement pressures on the teacher supply will be compounded by the second major concern, failure to attract and retain sufficient numbers of teachers in today's economy. The Commission pointed out in its Phase III report that increasing numbers of teacher-qualified candidates opt to pursue other more attractive and monetarily rewarding fields.9 Based on these numbers the U.S. Department of Education estimates that 2.4 to 2.7 million new public school teachers will be needed in the coming decade.10 Each year 220,000 to 260,000 new teachers must be hired. Since the student population is relatively stable, as discussed earlier, the current teacher numbers will be used as a baseline to estimate future teacher requirements. Currently there are 2,887,000 teachers for public schools and 397,000 teachers for private K-12 schools.11 Table 1 summarizes the 1993-94 reference statistics and the 1999-2000 estimated statistics derived from
+
+9
+
+Road Map for National Security: Imperative for Change, Phase III report of the United States Commission on National Security/21st Century, March 15, 2001. 10 William J. Hussar, Predicting the Need for Newly Hired Teachers in the United States to 2008-2009, National Center for Education Statistics, U.S. Department of Education, NCES 1999-026, 1999, Table 7, p. 35. 11 Thomas D. Snyder and Marlene M. Hoffman, Digest of Education Statistics 2000, U.S. Department of Education, Office of Educational Research Improvement, NCES 2001-034, January 2001, Table 65, p. 74. Journeys Through the Teacher Pipeline
+
+9
+
+U.S. Commission on National Security/21 Century
+
+st
+
+them. Numbers in italic are those estimated by the USCNS/21 for this report, those without italic are U.S. Department of Education statistics.
+
+Table 1. 1999-2000 Base Estimates for Teacher Pipeline
+
+1993-94
+Public
+K-12 Totals Continuing New Hires Newly Prepared Delayed Entrants Transfers Reentrants 2,394,542 2,191,863 202,679 59,098 33,655 63,597 46,330
+
+Estimated 1999-2000+
+Public
+2,887,000 2,642,638 244,362 71,252 40,576 76,676 55,858
+
+Private
+337,228 281,040 56,188 11,830 12,016 19,266 13,076
+
+Private
+397,000 330,853 66,147 13,927 14,146 22,681 15,394
+
+These estimates clearly show that if the current trend continues, about 85,000 newly minted teachers are needed to maintain the pipeline if the retirement rate was constant. However, as highlighted earlier, each succeeding year will require on average an additional 3,400 teachers. The estimate of 244,362 new hires per year conforms with the U.S. Department of Education estimates that 220,000 to 260,000 new hires per year are needed, taking into account retirement rates. Depending on scenario assumptions, a total of 2.2 to 2.7 million new public school teachers, and 520,000 to 620,000 private school teachers are needed over the next decade.12 This also assumes that current teacher retention rates do not decline. If they do, higher numbers of newly prepared teachers will be required. Unfortunately, there are already indicators that increasing numbers of current and potential teachers are leaving for the private sector.
+
+12
+
+Note that these are teachers in the new-hire category and are a mix of newly made, delayed entrants, reentrants and transfers. See William J. Hussar, Predicting the Need for Newly Hired Teachers in the United States to 2008-2009, National Center for Education Statistics, U.S. Department of Education, NCES 1999-026, 1999, Table 7, p. 35 and Table 9 p. 37. Journeys Through the Teacher Pipeline
+
+10
+
+U.S. Commission on National Security/21 Century
+
+st
+
+Today the United States produces about 106,000 education majors with a bachelor's degree.
+13
+
+Excluding science and math, this raw number should be sufficient to serve most of the
+
+nation's needs, but many choose not to go into education. The National Education Association points out that 30 percent of graduates never enter teaching, and of those who do, 30 percent leave within the first five years.14 In major cities the problem is much worse; 50 percent leave within the first five years. Of greater concern is the loss of high quality graduates. Novice teachers scoring in the top quartile on college-entrance examinations are nearly twice as likely to leave the profession.15 Continuation rates and new entrant rates--especially of science and math teachers--must to be improved through effective salary and scholarship incentives. These incentives are explained in later sections of this report.
+
+13
+
+Thomas D. Snyder and Marlene M. Hoffman, Digest of Education Statistics 2000, U.S. Department of Education, Office of Educational Research Improvement, NCES 2001-034, January 2001, Table 257, p. 300. 14 NEA Today, The Magazine of the National Education Association, May 2001, p. 10. 15 "A Picture of the Teacher Pipeline: Baccalaurate and Beyond," Quality Counts 2000: Who Should Teach, http://www.edweek.org. Journeys Through the Teacher Pipeline
+
+11
+
+U.S. Commission on National Security/21 Century
+
+st
+
+The Science and Mathematics Teacher Pipeline
+
+T
+
+eacher statistics for specific subject areas is generally quite limited. Those statistics available are sufficient to provide only a rough, if not crude, view of the science and
+
+mathematics teacher pipeline. As in the previous estimates, the 1993-94 U.S. Department of Education statistics must serve as a base reference for current and projected estimates. Again, numbers in italic are those estimated for this report, those without italic are U.S. Department of Education Statistics. The estimates are presented in Table 2. Note that the total K-12 teacher numbers are different than in Table 1. This is due to the different statistical survey data sets used at the National Center for Education Statistics.16 From these rough estimates we can see that there are currently about 260,000 science and mathematics teachers in public secondary school and about 31,000 in private secondary schools. The number in elementary schools is very small by comparison.
+
+Table 2. 1999-2000+ Base Estimates for the Science and Mathematics Teacher Pipeline 1993-9417 Public Number K-12 Totals Elementary (K-8) General Mathematics Other Areas Secondary (9-12) Mathematics Science Other Areas 2,561,294 1,331,281 938,646 3,372 389,263 1,230,013 141,051 132,179 956,783 51.98 70.51 0.25 29.24 48.02 11.47 10.75 77.79 %
+19
+
+Estimated 1999-2000+18 Private Public % Number 2,877,000 58.42 69.53 0.25 30.21 41.58 14.77 11.69 73.54 1,733,000 1,221,886 4,390 506,725 1,154,000 132,334 124,011 897,655 60.03 70.51 0.25 29.24 39.97 11.47 10.75 77.79 % Private Number 397,000 281,000 195,385 712 59,035 116,000 17,134 13,566 85,301 70.78 69.53 0.25 30.21 29.22 14.77 11.69 73.54 %
+
+Number 378,365 221,036 153,691 560
+20
+
+66,785 157,329 23,238 18,399 115,692
+
+16
+
+The previous table was base on statistics found in William J. Hussar, Predicting the Need for Newly Hired Teachers in the United States to 2008-2009, National Center for Education Statistics, U.S. Department of Education, NCES 1999-026, 1999, which does not provide a breakdown into teacher subject areas. 17 Thomas D. Snyder and Marlene M. Hoffman, Digest of Education Statistics 2000, U.S. Department of Education, Office of Educational Research Improvement, NCES 2001-034, January 2001, Table 68, p. 77. 18 Ibid., Table 65, p. 74. Estimates are based on the analogous statistics in the previous two columns. 19 Elementary and Secondary percentages are relative to total K-12 totals. Subcategory percentages are relative to either elementary or secondary totals as applicable.
+
+12
+
+Journeys Through the Teacher Pipeline
+
+U.S. Commission on National Security/21 Century
+
+st
+
+In order to estimate the total number of science and mathematics teachers over the next decade, the U.S. Department of Education predictions for the yearly number of new hires will be used. The government estimates cover the total number of teachers needed, but are not broken down by educational subject area. We estimate the number of science and mathematics new hires based on the percentages shown in Table 2. We do this by estimating required math and science teacher numbers based on different "percentages of teachers" who are teaching these subjects in the public and private sector. All of the Commission's detailed estimates can be found in Appendix A, in Tables A-1 through A-4. Tables A-1 and A-2, for example, show these estimates for public and private schools respectively.21 Extrapolating from Table 2, the USCNS/21's initial raw estimates show that over the next decade the public secondary schools will need roughly 223,000 new hires in science and mathematics. An additional 44,000 science and math new hires will also be needed by private secondary schools.
+
+A
+
+major concern, however, arises over the number of science and mathematics teachers in elementary schools, particularly in the 7th and 8th grades. From Table 2 above, the
+
+percentage of math subject area teachers is 0.25 percent for elementary schools (K-8). The percentage of science teachers in elementary schools is not available from the U.S. Department of Education. Either science is taught entirely by generalists, or the statistics are not tracked. Generalists at this level normally teach both math and science. The USCNS/21 believes that it is absolutely essential to improve the quality of science and mathematics education in this country as early as possible. When compared to international tests, the performance of American school children often suffers going from the 4th to the 8th grade.22 To remedy this situation the percentage of science and mathematics teachers at the junior high level should approximate those found in high school. Hence, the Commission added the estimated number of new hires needed to meet this higher goal to improve the quality of science and math teachers in junior high schools. With this addition, a total approximate number of 297,000 science and math new hires are needed for public 7-12 education and about 68,000 for private 7-12 education.
+This number is not provided in the reference table; it was estimated using the analogous public school numbers in the first column. 21 We note that the Digest of Education Statistics 2000 defines elementary school as K-8. However, secondary school is defined as either 7-12 or 9-12. If so, what is called "secondary" in many of the U.S. Department of Education tables may be mixed. We have assumed that elementary is K-8 and secondary is 9-12. We have inferred the population of junior high school teachers based on a uniform distribution of teachers K-8, i.e. the number of 7th and 8th teachers is 2/9 of the total number of elementary school teachers. 22 "Lessons from the World: What TIMSS Tells Us About Mathematics Achievement, Curriculum, and Instruction," AFT Educational Issues Department, Washington, DC, Education Policy Brief, Number 10,
+20
+
+Journeys Through the Teacher Pipeline
+
+13
+
+U.S. Commission on National Security/21 Century
+
+st
+
+Even these estimates, however, potentially fail to capture another quality-related problem. The U.S. Department of Education estimates that 34 percent of public school mathematics and nearly 40 percent of science teachers lack even an academic minor in their primary teaching field.23 Department of Education data for "teaching field in which largest portion of time was spent" also indicates that 12.6 percent is spent teaching science and 17.2 percent is spent on mathematics in public secondary schools.24 This is further evidence that a significant number of teachers without strong science and mathematics backgrounds are teaching these subjects. It indicates that curricula needs actually exceed the number of both qualified and non-qualified science and mathematics teachers by a significant percentage.25 However, the U.S. Department of Education's data captures none of this; it must be extrapolated. If the actual percentage of teachers in science and mathematics assumed for public junior high and secondary schools is modified to reflect the higher 12.6 and 17.2 teaching percentages (as discussed above), a total of 399,000 science and mathematics new hires may be needed by public schools vice 297,000. (See Table 3 below.)
+
+Table 3. High Estimated Number of Public School Math and Science New Hires (in Thousands) [Jr. High and Secondary with 12.6% Science and 17.2% Math Teachers]
+
+Year
+2000 2001 2002 2003 2004 2005 2006 2007 2008 2009
+
+Public Total
+235 233 244 252 253 256 256 259 261 261
+
+K-8
+141 140 146 151 152 154 154 155 157 157
+
+7-8
+31 31 33 34 34 34 34 35 35 35
+
+9-12
+94 93 98 101 101 102 102 104 104 104 Totals Total Sec.
+
+Math 7-8
+5.4 5.3 5.6 5.8 5.8 5.9 5.9 5.9 6.0 6.0 57.6 299 399
+
+Math 9-12
+16.2 16.0 16.8 17.3 17.4 17.6 17.6 17.8 18.0 18.0 172.7
+
+Science 7-8
+3.9 3.9 4.1 4.2 4.3 4.3 4.3 4.4 4.4 4.4 42.2
+
+Science 9-12
+11.8 11.7 12.3 12.7 12.8 12.9 12.9 13.1 13.2 13.2 126.5
+
+Total 7-12
+Note: Rounding may cause sums to not appear exact
+
+November 1999. For greater discussion see the National Commission on Mathematics and Science Teaching for the 21st Century Report, Before It's Too Late, September 27, 2000. 23 U.S. Department of Education, National Center for Education Statistics, 1993-1994 Schools and Staffing Survey (Teacher Questionnaire), Washington, DC: 1997, p. 26. 24 Thomas D. Snyder and Marlene M. Hoffman, Digest of Education Statistics 2000, U.S. Department of Education, Office of Educational Research Improvement, NCES 2001-034, January 2001, Table 71, p. 80. 25 Excess curricula needs may produce additional negative consequences. These include larger class sizes and over-worked science and math teachers, which helps to explain the further exodus of talent from this teaching career field.
+
+14
+
+Journeys Through the Teacher Pipeline
+
+U.S. Commission on National Security/21 Century
+
+st
+
+Ultimately, all these numbers illustrate what it will take to address the deficit involved. This significant difference may be required to improve and provide high-quality science and mathematics teachers in junior and senior high. However, we will focus on the more moderate accepted estimates.
+
+A
+
+ll the estimates given above are for the number of new hires. Recall that this includes new teachers--those who delayed their entry into teaching, reentrants who have been
+
+away from teaching a year or more, and transfers. Tables A-3 and A-4 in Appendix A provide an estimated breakdown of data for each of the above new hire categories, using high and low percentages for the required number of science and mathematics teachers. Thus, the Commission notes that 136,000 to 183,000 new public school science and mathematics teachers are needed (newly prepared plus delayed entrants). We also estimate that 68,000 to 91,000 reentrants are needed. This of course assumes that continuation, retirement, and reentry rates will remain as currently projected by the Department of Education. In today's economy this may not be the case, particularly for science and mathematics teachers. If new teachers and reentrants are combined, we estimate that 204,000 to 274,000 science and mathematics teachers are needed that are not in the current pipeline. These numbers can be compared to the 240,000 estimate of the Glenn Commission.26 If the reentry rate remains stable the Glenn Commission estimate of 240,000 appears adequate and would actually improve current shortages in the status quo.
+
+The National Commission on Mathematics and Science Teaching for the 21st Century, or Glenn Commission Report, Before It's Too Late, September 27, 2000. Journeys Through the Teacher Pipeline
+
+26
+
+15
+
+U.S. Commission on National Security/21 Century
+
+st
+
+Modernizing Assessment Capability
+
+I
+
+t is unavoidable that statistics will vary according to survey, particularly when statistics are gathered only periodically over a limited population sample. Significant differences
+
+can be found depending on the source and the specific survey. The statistics are only as good as the quality of the survey estimates. Much better operational statistics are needed. At present, great emphasis is placed on "social statistics" and general qualifications. Far more knowledge is required of the teacher pipeline and its behavior over time, to include accurate numbers for the categories of teachers entering and leaving the profession. This is particularly true for critical information on teacher statistics by educational subject area. Only then can the impact of Federal, State and local policies be measured. The last major survey by the Department of Education was in 19931994. The 1997 survey was postponed and the currently available statistics are dated. Significant changes in demographics and the economy have occurred since then. To put this problem into its proper context, consider the case of the military Services. Bulk statistics on personnel are simply not useful. Because of their operational responsibilities, each of the Services must also gather data on each of its many job and skill categories. For example, the Air Force needs to know how many pilots of different categories, how many weapon systems operators, and how many avionics technicians, flight mechanics and so forth are in its current and future pipelines. Furthermore, many different measures of effectiveness based on exercises and real world operations are required. The military uses data to improve its human capital to meet current and future missions. In the private sector similar human resource information is gathered for the purpose of competitive analysis and long-range planning. Improving "operational performance" is recognized as essential to insure greater profits and productivity. The U.S. Department of Education, with the support of the Executive and Legislative Branches, needs to reassess how the nation's school systems are evaluated, how statistics are gathered, and to what purpose. This is essential if scarce resources are to be properly targeted.
+
+Perhaps nothing illustrates the need for better data than the situation regarding available statistics on science and mathematics education in elementary schools, particularly in middle schools. According to Department of Education statistics, there are only 0.25 percent mathematics teachers within elementary school faculties. 27 The number of science trained teachers is not given. Earlier we noted that secondary school statistics may contain 7th to 12th grade or 9th to 12th grade statistics. This is understandable given that some large secondary schools include middle school
+
+16
+
+Journeys Through the Teacher Pipeline
+
+U.S. Commission on National Security/21 Century
+
+st
+
+grades. Unfortunately, this confusion opens up more questions than it answers. If the elementary school statistics are correct they point to the sad shortage of elementary school mathematics and science teachers. It is for this reason that the USCNS/21 expanded its earlier secondary school science and mathematics statistical estimates to include the junior high school grades. In any case, a better measure is needed of how much time is spent on science and mathematics teaching versus the number of properly trained teachers for all grades K-12. If the situation exists as it appears, significant investment in new science and mathematics teachers is needed. However, without adequate data, estimating the necessary investments will be a shot in the dark. Both the Commission's Phase I and Phase III reports point out that America faces an era of great opportunity in which distributed scientific instrumentation and information technologies will greatly expand our ability to understand and improve our complex work environment.28 We currently possess an unprecedented capability to gather information instantaneously via the Internet. Given that Internet connectivity is rapidly becoming an integral part of today's schools, the opportunity exists to collect data directly and instantaneously from the vast majority of the nation's public schools. Hence, we recommend that the Executive and Congress devote funds to a userfriendly, Internet-based data collection system to provide improved student and teacher pipeline data automatically from each school district across the nation to serve the needs of Federal, State, and local governments. Too many of the U.S Department of Education's projections are based on dated statistics, spanning a period of significant demographic and socio-economic change. Likewise, too much teacher pipeline data is ambiguous and often focused on "social characteristics" at the expense of necessary operational data. Of course adequate safeguards must also be included to protect personal privacy. The efforts recommended above would complement the President's initiative to measure performance in education since they would help capture data to better diagnose teacher and resource problems in the nation's schools. With the appropriate analytical capability and greater budgetary flexibility, both States and the Federal government would posses enhanced means to target education funds in a more timely and effective manner.
+
+See Thomas D. Snyder and Marlene M. Hoffman, Digest of Education Statistics 2000, U.S. Department of Education, Office of Educational Research Improvement, NCES 2001-034, January 2001, Table 68, p. 77, or Table 2 in this report. 28 New World Coming: American Security in the 21st Century, Supporting Research & Analysis, Phase I report of the United States Commission on National Security/21st Century, September 15, 1999; and, Road Map for National Security: Imperative for Change, Phase III report of the United States Commission on National Security/21st Century, March 15, 2001. Journeys Through the Teacher Pipeline
+
+27
+
+17
+
+U.S. Commission on National Security/21 Century
+
+st
+
+Addressing the Science and Mathematics Teacher Shortage
+
+B
+
+oth the Glenn Commission and the USCNS/21 proposed a combination of fellowships, loans, and scholarships to redress the shortage of science and mathematics teachers.29
+
+Our low and high end projections bracket their estimate of the need for 240,000 new science and mathematics teachers over the next decade. Adopting this conservative figure, this Commission supports the associated $174 million funding recommendation of the Glenn Commission. The details are summarized in Table 4.
+
+Table 4. Glenn Commission Funding Recommendations to Increase the Number of New Science and Mathematics Teachers 3,000 fellowships per year ($30,000 each) with $10,000 per fellow per school district Total .................................................................... 6,000 loans with forgiveness for teaching ($6,000 per loan) 1,500 scholarships for exemplary candidates ($12,000 each) Total Funds required from the Federal Government ......................................... $ 90,000,000 $ 30,000,000 $120,000,000 $ 36,000,000
+
+$ 18,000,000
+
+$174,000,000
+
+However, if teaching continues to be an unattractive profession, these funding estimates will be inadequate. The Glenn Commission provides other funding initiatives to improve teacher training and professional development based on three "Goals:" first, to establish an ongoing system to improve the quality of math and science teaching grades K-12; second, to increase significantly the number of math and science teachers and improve the quality of their preparations; and third, to improve the working environment and make the teaching profession more attractive for K-12 math and science teachers.30 In total (including the $174 million above) they propose $5 billion in expenditures, $3 billion of which should be provided by the Federal government, and the rest
+
+See, The National Commission on Mathematics and Science Teaching for the 21st Century, or Glenn Commission Report, Before It's Too Late, September 27, 2000, and USCNS/21 Road Map for National Security: Imperative for Change, pp. 40-43. 30 Ibid., pp. 8-9.
+
+29
+
+18
+
+Journeys Through the Teacher Pipeline
+
+U.S. Commission on National Security/21 Century
+
+st
+
+provided by State/Local and the public/private sector. Their proposal is recreated in Table 5 below.31
+
+Table 5. Glenn Commission Total Cost Estimate in First Year
+[Prepared by the U.S. Department of Education Budget Office] Action Strategy Federal State/Local $7,660,000 $606,060,000 $786,300,000 Business Public/Private
+
+Goal 1 Needs Assessment1, 2 $15,340,000 Summer Institutes1, 4 $1,214,000,000 Inquiry Groups1, 5 1,574,950,000 3 $112,000,000 Leadership Training Internet Portal $50,000,000 Coordinating Council Rewards Program Goal 2 Scholarships6 Loan Forgiveness7 Academies/Fellows8, 9 $18,000,000 $36,000,000 $120,000,000
+
+$4,000,000 $500,000,000
+
+Goal 3 Induction/Partnerships/Incentives/Salaries Sub Total:
+
+To be determined locally $4,000,000
+
+$3,140,290,000 $1,400,020,000 $500,000,000
+
+Total: $5,044,310,000
+NOTES: 1. Current authorizing legislation for the Eisenhower Professional Development State Grants (ESEA,IIB) requires that each participating Local Education Agency match every two dollars of federal funding with one dollar of its own resources. Such local resources can come from other federal programs or from non-federal sources. The same ratio is used here for those Strategies in which it is most appropriate. 2. First year, one time cost. 3. First year, one time cost for 15,000 leaders. 4. One-fifth of the math/science teaching force (340,000 per year) 5. All K-12 math/science teachers (1.7 million) 6. Scholarships offered (1,500/year) 7. Loans offered (6,000/year) 8. Stipends and operating expenses (3,000 Fellow/year) 9. Beginning in second year, an additional $30,000,000 needed for induction programs
+
+Ultimately, the key to recapitalizing the science and mathematics teacher pipeline is to stabilize and improve the retention of teachers. The Glenn Commission cites "poor salary" as the primary reason (66 percent) for science and math teachers leaving the profession.32 A potential solution is to use differential pay for teachers in these critical demand areas. The typical salary of an entry-level bachelors degree teacher is $25,000 whereas a mathematics major can earn $40,000 to
+
+31 32
+
+Ibid., p. 42. Ibid., p. 33. Journeys Through the Teacher Pipeline
+
+19
+
+U.S. Commission on National Security/21 Century
+
+st
+
+$50,000 in the private sector.33 Furthermore, college debt burdens prevent many from entering the teaching profession. This same difficulty is found in recruiting college graduates for the government and the military. If differential salaries are acceptable, the first step should be to bring the salaries of public school secondary science and mathematics teachers to competitive levels. Using the $50,000 private sector salary and the $25,000 starting teacher salary as baselines, it would take about $6.4 billion annually to raise the salaries of all public secondary school science and mathematics teachers (as shown in Table 6 below). For comparison, a less ambitious proposal to reward the top quartile teachers to fully competitive salaries and second quartile teachers to a half salary differential increase would cost $2.4 billion annually. Needless to say, these estimates are cursory, but they Table 6. Cost Estimate for Secondary Science and Mathematics Teacher Salary Differential Pay [Overhead and benefits costs not included.]
+Public School Reference Starting Salary Private Sector Reference Starting Salary Full Salary Differential Half Full Salary Diffential $25,000 $50,000 $25,000 $12,500
+
+Mathematics Science
+
+1999-2000+ Secondary Teachers 132,334 124,011
+Total
+
+25% Full Raise $827,087,500 $775,068,750 $1,602,156,250
+
+25% Half Raise $413,543,750 $387,534,375 $801,078,125 $2,403,234,375
+
+Total Additional Salary Requirements ................... Total Additional Salary Requirement for all Secondary Science and Math Teachers ......
+
+$6,408,625,000
+
+illustrate the annual costs that might have to be faced if the current salary imbalance continues for these professionals. Bonuses could be considered, but the results would likely be short-lived. Because most education funding comes from state and local governments, they will have to be persuaded to accept a portion of the costs involved. The Glenn Commission placed funding responsibility at those levels, as does the USCNS/21. However, the U.S. Department of Education should be involved in developing and incentivizing innovative partnerships with the private sector
+33
+
+Ann Bradley, "States' Uneven Teacher Supply Complicates Staffing of Schools," http://www.edweek.org. Journeys Through the Teacher Pipeline
+
+20
+
+U.S. Commission on National Security/21 Century
+
+st
+
+that can assist this effort and share the financial burden. This is explained in the Commission's main Phase III report and in the Glenn Commission report. The USCNS/21 emphasizes that both the private sector and the nation will benefit from a highly trained workforce, and science and mathematics teachers are a critical ingredient in achieving that workforce. As a legislative vehicle to redress the nation's critical needs in science and technology, the Commission proposes the National Security Science and Technology Education Act (NSSTEA). Funding proposals such as those above should be incorporated into this legislation.
+
+Journeys Through the Teacher Pipeline
+
+21
+
+U.S. Commission on National Security/21 Century
+
+st
+
+Addressing Government Science and Math Personnel Shortages
+
+T
+
+he depletion of math and science expertise in the government's civilian and military work force is of critical concern. At the exact time that American science and
+
+technology is most valued and integral to ensure U.S. national security and continued prosperity in the world, it is placing its greatest demands on government. The USCNS/21 calls this a true "crisis in competence in government." Nowhere is our competence more challenged than the science, math, and engineering brain drain that is taking place within government ranks at an ever-increasing rate. In addition, government service is not attracting new talent, as was the case in previous generations. While Americans still appear to admire selected government institutions such as the Foreign Service and the Military, they are increasingly less likely to serve in them. Without a renewed call, particularly to scientists, mathematicians, and engineers, the government, both civilian and military, will neither cope with 21st century security requirements, nor keep pace in a world increasingly characterized by its singular reliance on science and technology expertise. The National Security Science and Technology Education Act (NSSTEA) has another crucial objective beyond improving education. It will also provide a substantial and much needed incentive for math, science, and engineering graduates to choose civilian or military government service as an alternative to K-12 teaching. The USCNS/21 developed estimates based on existing scholarship programs in government and the statistics of annual personnel turnover, together with projected retirement rates (especially for civilian scientists). The Commission estimates that the four-year cost of reinvigorating government with needed undergraduate and graduate scientists using the NSSTEA would amount to a total of $105 million. 34 (See Table 7 below.) In the military, officer accessions are a known figure for any given year. The number of new officers coming into service via the military academies, the Reserve Officer Training Corps (ROTC), and other specialized accession programs provide an indication of the requirement that could be filled effectively by the NSSTEA source. For civilian government service, and particularly the national security elements of government, the costing variables are both different and more difficult to quantify. A graying civilian scientific workforce, together with a downsized and everreorganizing research and development (R&D) force, makes predictions precarious.35 Table 7
+
+34
+
+The cost estimates are based on 840 scholarships per year for all majors in the military and the civilian workforce. Forty percent of the scholarships would be offered through the NSSTEA to math, science, and engineering students. Ten percent of that civilian math and science pool could qualify for post-graduate degrees. 35 The Commission had access to the Air Force's science Ph.D. goals and estimated the other services. On the civilian side, the Office of Management and Budget (OMB) provided the number of scientist GS 9 through GS 15's hired annually in the government (31,000). However, the Commission could not get statistics for those
+
+22
+
+Journeys Through the Teacher Pipeline
+
+U.S. Commission on National Security/21 Century
+
+st
+
+provides cost estimates using a planning figure of 400 undergraduate scholarships for the military and 400 for government. In addition, the table provides the estimated cost of 40 three-year postgraduate math and science scholarships for civilian candidates. This would provide funds to attract 8,400 additional graduates into government service over four years. The annual cost from the fouryear point forward would amount to $41 million per year. The USCNS/21 considers this a
+
+reasonable price to ensure our national security and national prosperity. Table 7. National Security Science and Technology Education Act
+
+Government Participants (Civil and Military)
+Tuition/Room/Board % Split Private: $22,541 25 Public: $8,470 75 Participants Scholarship Average $11,987.75 Loan Debt Average $14,000*
+
+Year and Quantity YR1 YR2 YR3 YR4 Total Cost Over 4 Years** Annual Operating Cost***
+
+Military-Technical
+
+400
+
+800
+
+1,200
+
+1,600
+
+Civilian-Technical Civilian-Graduate Subtotal Cost Administrative Costs TOTAL COST
+
+400 800 1,200 1,600 40 80 120 120 $10,549,220 $21,098,440 $31,647,660 $41,237,860 $300,000 $50,000 $50,000 $50,000
+
+$104,533,180 $41,237,860 $450,000 $50,000
+
+$10,849,220 $21,148,440 $31,697,660 $41,287,860
+
+$104,983,180 $41,287,860
+
+* Average College debt based on composite of public and private school mean debt. Debt relief provisions covered in separate legislation expanding NSEA at an estimated cost of 33.6M when fully operational. ** Annual tuition increase approximately 7%. ***Total Operating costs based on FY 2001 dollars. Operating estimates not adjusted for inflation.
+
+specifically entering only the national security elements of government, and OMB could not give the number of scientists in R&D labs and elsewhere. The Commission also used figures from the National Science Board on the graying government scientist population, which is similar to the civilian force as a whole.
+
+Journeys Through the Teacher Pipeline
+
+23
+
+U.S. Commission on National Security/21 Century
+
+st
+
+Implications
+
+T
+benefits.
+
+he U.S. Commission on National Security/21st Century did not approach its tasks with the attitude of an accountant. Some of its recommendations cost money; others promise
+
+to save money. In the former case, the Commission considers such costs as investments in first-order U.S. national security priorities. In the latter case, the Commission considers saving as second-order
+
+In the area of education, which is, after all, a special if broader facet of the personnel issues addressed in Section IV of the Phase III report, the investments required seem significant--but they pale by orders of magnitude when contrasted against the cost of other national security programs. The total additional Federal investments implied by the Commission's recommendations on education come to a little over $3 billion initially, and over a decade average about $715 million per year. This latter figure is one fourth of one percent of the annual defense budget. Such comparisons are prone to abuse by polemicists of various sorts, but in this case, given that the Commission sees education as a national security issue, we believe the contrast to be a meaningful one. In the course of estimating the magnitude of the investment in education that the Commission's recommendations entail, the USCNS/21 ran into surprising and worrisome analytical problems regarding basic data. Discussions with analysts on the Glenn Commission revealed they had a similar problem, which forced them to resort to many in-house estimates. The Department of Education is simply not in a position to do the analytical work required to make sensible estimates of future needs in science and math education. Without such abilities, the capacity of the government to plan sensibly for meeting the challenge of education is severely jeopardized. Thus, in addition to the specific investments noted above, additional energies and resources need to be devoted to improving the Department of Education's statistical capacity. Unfortunately, the USCNS/21 is at a loss to estimate what that would cost. But it is not too much to suggest that this is a fitting--and, indeed, urgent--subject of scrutiny for both the Office of Management and Budget and the General Accounting Office.
+
+24
+
+Journeys Through the Teacher Pipeline
+
+U.S. Commission on National Security/21 Century
+
+st
+
+Appendix A, Commission Science and Math Teacher Tabular Estimates
+Table A-1. Estimated Number of Public School Math and Science New Hires (in Thousands) [Jr. High and Secondary with 10.75% Science and 11.47% Math Teachers]
+
+Year
+2000 2001 2002 2003 2004 2005 2006 2007 2008 2009
+
+Public Total36
+235 233 244 252 253 256 256 259 261 261
+
+K-8
+141 140 146 151 152 154 154 155 157 157
+
+7-8
+31 31 33 34 34 34 34 35 35 35
+
+9-12
+94 93 98 101 101 102 102 104 104 104 Totals Total Sec.
+
+Math 7-8
+3.6 3.6 3.7 3.9 3.9 3.9 3.9 4.0 4.0 4.0 38.4 223 297
+
+Math 9-12
+10.8 10.7 11.2 11.6 11.6 11.7 11.7 11.9 12.0 12.0 115.2
+
+Science 7-8
+3.4 3.3 3.5 3.6 3.6 3.7 3.7 3.7 3.7 3.7 36.0
+
+Science 9-12
+10.1 10.0 10.5 10.8 10.9 11.0 11.0 11.1 11.2 11.2 107.9
+
+Total 7-12
+Note: Rounding may cause sums to not appear exact
+
+Table A-2. Estimated Number of Private School Math and Science New Hires (in Thousands) [Jr. High and Secondary with 14.77% Science and 11.69% Math Teachers]
+
+Year
+2000 2001 2002 2003 2004 2005 2006 2007 2008 2009
+
+Public Total37
+55 55 57 57 58 57 58 58 58 58
+
+K-8
+39 39 40 40 41 40 41 41 41 41
+
+7-8
+8.7 8.7 9.0 9.0 9.1 9.0 9.1 9.1 9.1 9.1
+
+9-12
+16.1 16.1 16.7 16.7 16.9 16.7 16.9 16.9 16.9 16.9 Totals Total Sec.
+
+Math 7-8
+1.3 1.3 1.3 1.3 1.3 1.3 1.3 1.3 1.3 1.3 13.3 44 68
+
+Math 9-12
+2.4 2.4 2.4 2.5 2.5 2.5 2.5 2.5 2.5 2.5 24.6
+
+Science 7-8
+1.0 1.0 1.0 1.0 1.1 1.0 1.1 1.1 1.1 1.1 10.5
+
+Science 9-12
+1.9 1.9 1.9 1.9 2.0 1.9 2.0 2.0 2.0 2.0 19.5
+
+Total 7-12
+Note: Rounding may cause sums to not appear exact
+
+36
+
+William J. Hussar, Predicting the Need for Newly Hired Teachers in the United States to 2008-2009, National Center for Education Statistics, U.S. Department of Education, NCES 1999-026, 1999, Table 7, p. 35. Note the 2009 entry corresponding to the 2009-2010 school year was taken to be equal to the year before. 37 Ibid., Table 9, p. 37. The 2009 entry corresponding to the 2009-2010 school year was taken to be equal to the year before. Note, comparing Table A-1 to Table A-2 that private schools have a higher percentage of science and math teachers than public schools. Journeys Through the Teacher Pipeline
+
+25
+
+U.S. Commission on National Security/21 Century
+
+st
+
+Table A-3. Estimate of Public School Science and Mathematics Pipeline [10.75% Science, 11.47% Mathematics Teacher Mix]
+Source of New Hires New Teachers Experienced Teachers 29.16% 16.61% 22.86% 31.38% Newly Delayed Prepared Entrants Reentrants Transfers 6,366 8,738 8,120 4,624 8,051 4,585 6,312 8,664 8,431 4,801 6,610 9,073 8,708 4,959 6,827 9,371 6,854 9,408 8,742 4,979 8,846 5,038 6,935 9,519 8,846 5,038 6,935 9,519 8,950 5,097 7,016 9,631 9,019 5,136 7,070 9,705 9,019 5,136 7,070 9,705 86,731 204,117 136,123 161,329 49,392 67,994 93,334
+
+Year 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009
+
+Math Math Science Jr. High Secondary Jr. High 3,594 10,782 3,368 3,563 10,690 3,340 3,732 11,195 3,497 3,854 11,562 3,612 3,869 11,608 3,626 3,915 11,745 3,669 3,915 11,745 3,669 3,961 11,883 3,712 3,992 11,975 3,741 3,992 11,975 3,741
+
+Percentage Science Secondary 10,105 10,019 10,492 10,836 10,879 11,008 11,008 11,137 11,223 11,223
+
+100% Total New Hires 27,849 27,612 28,916 29,864 29,982 30,338 30,338 30,693 30,930 30,930 297,452
+
+Total New Hires 2000-2010
+
+Total Reentrants + New Teachers 2000-2010 Total New Teachers 2000-2010
+
+Total Experienced Teachers 2000-2012
+
+Table A-4. Estimate of Public School Science and Mathematics Pipeline [12.6% Science, 17.2% Mathematics Teacher Mix]
+Source of New Hires New Teachers Experienced Teachers 29.16% 16.61% 22.86% 31.38% Newly Delayed Prepared Entrants Reentrants Transfers 10,890 6,202 8,538 11,719 8,465 11,620 10,798 6,149 11,307 6,439 8,865 12,168 11,678 6,651 9,155 12,567 11,724 6,677 9,192 12,617 11,863 6,756 9,301 12,767 9,301 12,767 11,863 6,756 12,003 6,835 9,410 12,916 12,095 6,888 9,482 13,016 9,482 13,016 12,095 6,888 116,318 273,749 182,559 216,364 66,241 91,190 125,174
+
+Year 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009
+
+Math Math Science Jr. High Secondary Jr. High 5,389 16,168 3,948 5,343 16,030 3,914 5,596 16,787 4,099 5,779 17,338 4,234 5,802 17,406 4,250 5,871 17,613 4,301 5,871 17,613 4,301 5,940 17,819 4,351 5,986 17,957 4,385 5,986 17,957 4,385
+
+Percentage 100% Science Total Secondary New Hires 11,844 37,349 11,743 37,031 12,298 38,780 12,701 40,051 12,751 40,210 12,902 40,687 12,902 40,687 13,054 41,164 13,154 41,482 13,154 41,482 398,923
+
+Total New Hires 2000-2010
+
+Total Reentrants + New Teachers 2000-2010 Total New Teachers 2000-2010
+
+Total Experienced Teachers 2000-2012
+
+26
+
+Journeys Through the Teacher Pipeline
+
+

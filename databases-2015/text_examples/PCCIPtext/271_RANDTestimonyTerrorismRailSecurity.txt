@@ -1,0 +1,137 @@
+TESTIMONY
+
+CHILDREN AND ADOLESCENTS CIVIL JUSTICE EDUCATION ENERGY AND ENVIRONMENT HEALTH AND HEALTH CARE INTERNATIONAL AFFAIRS POPULATION AND AGING PUBLIC SAFETY SCIENCE AND TECHNOLOGY SUBSTANCE ABUSE TERRORISM AND HOMELAND SECURITY TRANSPORTATION AND INFRASTRUCTURE U.S. NATIONAL SECURITY
+
+This PDF document was made available from www.rand.org as a public service of the RAND Corporation. Jump down to document6
+
+The RAND Corporation is a nonprofit research organization providing objective analysis and effective solutions that address the challenges facing the public and private sectors around the world.
+
+Support RAND
+Browse Books & Publications Make a charitable contribution
+
+For More Information
+Visit RAND at www.rand.org Explore additional RAND Testimony View document details
+
+Limited Electronic Distribution Rights
+This document and trademark(s) contained herein are protected by law as indicated in a notice appearing later in this work. This electronic representation of RAND intellectual property is provided for non-commercial use only. Permission is required from RAND to reproduce, or reuse in another form, any of our research documents for commercial use.
+
+TESTIMONY
+
+Terrorism and Rail Security
+JACK RILEY
+
+CT-224 March 2004 Testimony presented to the Senate Commerce, Science, and Transportation Committee on March 23, 2004
+
+This product is part of the RAND Corporation testimony series. RAND testimonies record testimony presented by RAND associates to federal, state, or local legislative committees; government-appointed commissions and panels; and private review and oversight bodies. The RAND Corporation is a nonprofit research organization providing objective analysis and effective solutions that address the challenges facing the public and private sectors around the world. RAND's publications do not necessarily reflect the opinions of its research clients and sponsors. is a registered trademark.
+
+Published 2004 by the RAND Corporation 1700 Main Street, P.O. Box 2138, Santa Monica, CA 90407-2138 1200 South Hayes Street, Arlington, VA 22202-5050 201 North Craig Street, Suite 202, Pittsburgh, PA 15213-1516 RAND URL: http://www.rand.org/ To order RAND documents or to obtain additional information, contact Distribution Services: Telephone: (310) 451-7002; Fax: (310) 451-6915; Email: order@rand.org
+
+Statement of Jack Riley1 Director of RAND Public Safety and Justice Before the Committee on Commerce, Science, and Transportation United States Senate March 23, 2004
+
+Introduction
+Chairman McCain, Ranking Member Hollings, and members of the Committee, I am very pleased to be here today to testify about our state of knowledge on terrorism and rail security. As the recent events in Madrid, Spain demonstrate, terrorist acts against our rail system can have deadly consequences. My testimony today is built on the RAND Corporation's long involvement in analyzing the dynamics of terrorism. Since the 1970s, RAND has maintained databases of terrorism incidents now containing information on more than 16,000 terrorist attacks. Our contributions to terrorism studies prior to the attacks of September 11 included analysis of the rise of extremist religious motivations in terrorist attacks, the first independent and empirical assessment of national preparedness for domestic terrorism, and support for the Gilmore Commission (formally, the Advisory Panel to Assess Domestic Response Capabilities for Terrorism Involving Weapons of Mass Destruction). Since the attacks of September 11, RAND has advised on terrorism risk at the highest levels of the public and private sectors, including our support for the Department of Homeland Security's development of the National Response Plan/National Incident Management System, our modeling of national smallpox vaccination strategies, and our
+
+1
+
+The opinions and conclusions expressed in this testimony are the author's alone and should not be interpreted as representing those of RAND or any of the sponsors of its research. This product is part of the RAND Corporation testimony series. RAND testimonies record testimony presented by RAND associates to federal, state, or local legislative committees; government-appointed commissions and panels; and private review and oversight bodies. The RAND Corporation is a nonprofit research organization providing objective analysis and effective solutions that address the challenges facing the public and private sectors around the world. RAND's publications do not necessarily reflect the opinions of its research clients and sponsors.
+
+1
+
+development of a Center for Terrorism Risk Management Policy that conducts policy analyses on complicated aspects of terrorism risk, liability and compensation. Prior to the recent Madrid and Chechen terrorist train bombings, RAND also initiated terrorism risk reduction studies for the Federal Railroad Administration (FRA) and for Amtrak. Because this work is still in progress, my comments today will focus on only published RAND research results and information from other sources.
+
+Terrorist Attacks on Rail Transportation Targets
+Between 1998 and 2003, there were approximately 181 attacks on trains and related rail targets such as depots, ticket stations and rail bridges worldwide.2 Attacks on light rail systems and subway systems are included in these estimates. Attacks have occurred in all corners of the globe, including Venezuela, Colombia, India, Pakistan, Spain and the United Kingdom. These attacks resulted in an estimated 431 deaths and several thousand injuries. Bombs were the most frequently used weapon in these attacks, although firearms and arson have also been used. Table 1 summarizes terrorist incidents and deaths from attacks on rail facilities for 1998-2003.
+
+Table 1: Terrorist Rail Attacks, 1998-2003
+
+Year 1998 1999 2000 2001 2002 2003 TOTAL
+
+Incidents 48 5 13 41 60 14 181
+
+Deaths
+
+Notable incident
+
+92 Train bomb in Pakistan killed 23. 2 Two die in Ethiopia; only fatal rail attack of year. 0 No rail deaths from terrorist acts. 275 Angolan rebels kill 252 with bomb, gunfire. 41 Track sabotage kills 20 in India. 21 Bomb in Mumbai, India commuter train kills 10. 431
+
+These estimates are taken from the RAND-MIPT Terrorism Incident Database, which covers terrorist incidents from 1998 to the present. The database can be accessed at: http://db.mipt.org/mipt_rand.cfm. Given the short time available to prepare this testimony, the figures used from the database should not be regarded as precise counts.
+
+2
+
+2
+
+The recent attack in Madrid, thought to be the work of al Qaeda sympathizers, ranks among the most sophisticated rail terrorist attacks, with its near simultaneous detonation of 10 charges. In terms of overall casualties, it would rank second to an August 2001 attack by Angolan separatist rebels who, using a combination of remote detonation of explosives and directed gunfire, killed 252 rail passengers. Such attacks are outliers among those of recent years. Aside from the 2001 Angola attack, for example, Table 1 shows that the average rail attack between 1998 and 2003 resulted, on average, in about one death per incident. Rail in Comparison to Other Transportation Targets Rail attacks are more numerous and deadly than those on airports and airplanes, but have not been as numerous or resulted in as many deaths as those on buses and related infrastructure such as ticket offices and depots. Table 2 summarizes terrorist attacks on other transportation targets between 1998 and 2003. Buses and related infrastructure such as ticket offices and depots have been attacked by terrorists half again as often as trains and their related infrastructure, with about 1.6 deaths per incident. A large proportion of the bus incidents involve sniper fire at Israeli vehicles moving through the Occupied Territories. Spain, Colombia, India and Pakistan are other frequent locations of bus attacks. Most modern terrorist attacks on transportation systems can be tied to ongoing separatist conflicts, including those by Chechen rebels in Russia, Basque guerillas in Spain, Irish Republican Army terrorists in the United Kingdom, and Palestinians in Israel and the Occupied Territories. There appears to be little significance in the year-to-year trends of attacks against transportation targets.
+Table 2: Terrorist Attacks against Transportation Targets, 1998-2003
+
+Year 1998 1999 2000 2001 2002 2003 TOTAL
+
+Trains/Rail Incidents Deaths 48 92 5 2 13 0 41 275 60 41 14 21 181 431
+
+Airports/Airplanes Incidents Deaths 15 2 6 0 2 0 11 3 24 3 11 25 69 33
+
+Buses and Other Incidents Deaths 57 150 21 8 38 2 57 52 96 159 24 96 293 467
+
+3
+
+Rail Vulnerabilities and Issues
+Like air and bus transportation, rail transportation has several unique features making it inherently vulnerable to attack. Rail passenger facilities in particular rely on open architecture and the rapid and easy movement of patrons in and out of facilities and on and off trains. In addition, both freight and passenger rail networks traverse dense urban landscapes that may offer multiple attack points and easy escape as well as vast rural stretches that are difficult to patrol and secure. Below we consider further some of the specific vulnerabilities of, and security issues regarding, passenger and freight rail systems. Passenger Rail Passenger rail facilities present potentially inviting targets for terrorists for a variety of reasons. They are easily penetrated and may have high concentrations of people. The logistics of a passenger rail attack are comparatively simple. For example, given the typical passenger density in a passenger rail station, substantial casualties can be inflicted with a backpack-sized bomb. This is a substantially lower logistical burden than the one faced by the terrorists who committed the September 11 attacks. In addition, terrorists likely perceive psychological benefits to attacking passenger transportation networks. Rail transportation, like air travel, necessitates the passengers' willingness to put personal safety in the hands of others. An attack is likely to leave passengers reluctant, however temporarily, to travel on the passenger rail system. The measures used to secure airports and airplanes are likely to be impractical with passenger trains. Airports make extensive use of passenger profiling, passenger screening, metal detectors, X-ray machines, explosives sniffers, hand searchers, and armed guards.3 Such measures necessarily add to costs and travel times. Passengers expect rail transportation,
+3
+
+Brian Michael Jenkins and Larry N. Gersten, "Protecting Public Surface Transportation Against Terrorism and Serious Crime: Continuing Research on Best Security Practices," Mineta Transportation Institute, College of Business, San Jose State University, September 2001.
+
+4
+
+including commuter lines and subways, to be fast and inexpensive. Security measures resulting in increased fares or longer travel times would likely lead to losses in ridership. Physical space constraints in some locations, coupled with commuter densities, make it nearly impossible to construct rail station "safe zones" like those separating check-in counters from departure gates at airports. At the same time, while passenger rail facilities and networks in and of themselves may be attractive targets, it seems unlikely that terrorists could exploit the passenger rail network as a weapon in the way that the air transportation network was exploited on September 11. Given that trains travel dedicated routes, they are less likely to be diverted to specific targets. In recent decades, there are few examples of train hijackings, and apparently none that have been identified since 1998. Freight Rail Freight rail does not offer terrorists high densities of passenger targets, but it does provide terrorists with some opportunities that passenger rail does not afford. In particular, freight rail is used to transport hazardous materials and dangerous cargoes. An estimated 40 percent of inter-city freight, including half of the nation's hazardous materials (based on tonmiles), moves by rail.4 In some circumstances, these cargoes are transported through densely populated urban areas. Two accidents involving freight rail help illustrate some of the potential issues associated with hazardous cargoes: · A train carrying liquid fertilizer derailed in a small North Dakota town in January 2002. The incident killed one and hospitalized 15. The accident punctured 18 cars and resulted in a toxic cloud. Residents within a 3-mile radius of the incident were evacuated.5 · In July 2001 a railcar caught fire in a tunnel under downtown Baltimore. The fire, which took five days to extinguish, involved chemicals and other cargo on the train. Rail movements throughout the Northeast Corridor, fiber optic communications, light rail
+
+"Freight Railroad Security Plan," Association of American Railroads at www.aar.org/rail_safety/rail_security_plan.asp accessed on August 8, 2003. 5 "Derailed Train Leaks Gas in ND City." NBC News.com. January 18, 2002.
+
+4
+
+5
+
+passenger trains in the downtown area, and Amtrak passenger trains were all disrupted during the incident.
+
+What Has Been Done to Secure Rail Transportation?
+In the aftermath of the September 11 terrorist attacks, rail transportation and security officials undertook a variety of measures to improve passenger and freight rail security. Passenger Rail Even before the September 11 terrorist attacks, the FRA had required passenger trains to have emergency plans in place. One reason for this requirement, and for the attention the Railroad Administration has had to give such general issues, is that passenger train accidents are not infrequent. According to FRA statistics, there were 265 passenger train accidents in 2000 and 201 in 2001.6 The emergency response skills that operators of passenger trains had acquired were crucial to limiting casualties in the immediate aftermath of the September 11 terrorist attacks, when Port Authority Trans-Hudson (PATH) trains helped evacuate more than 5,000 persons from the basement of the World Trade Center. Since the September 11 terrorist attacks, passenger systems have conducted further drills, testing, and preparation for emergency situations. Some systems are experimenting with chemical and biological detection systems. The sarin attacks in the Tokyo subway system are one reminder that the next attack on transportation systems may not involve conventional weapons. The Washington, D.C. subway system recently initiated a program for identifying suspicious packages in its system. It is unclear how much training non-security personnel have had in this program, but such a program can be an important element in increasing public awareness about the dangers of such packages, and thereby in reducing the danger from them. Freight Rail In the aftermath of the September 11 attacks, the leadership of the freight rail industry generated more than 100 action items, a multi-stage alert system, and round-the-clock
+
+6
+
+Accessed at http://www.railroad-accident.com/html/stats.html, March 22, 2004.
+
+6
+
+communications with homeland security and national defense officials. 7 These action items were based on the results of a strategic review of the transportation of hazardous materials, the security of the industry's information infrastructure, freight rail operations and infrastructure, and military needs relating to the rail network. The critical action items included the need to:8 · · · Integrate protective housings, valves and fittings into hazardous transport infrastructure to prevent tampering and facilitate emergency response. Increase surveillance of freight equipment, through training of staff on observation and the installation of video surveillance equipment. Improve operations by monitoring for signal tampering; requiring crews and dispatchers to verify communications for train movements and dispatches; and locking locomotive doors to prevent hijackings. · · Secure the information infrastructure that terrorists could use to enhance attacks or cause systemic shutdowns. Collaborate with the Department of Defense (DoD) to ensure the viability of STRACNET (Strategic Rail Corridor Network)-designated rail lines that are capable of meeting unique DoD requirements, such as the ability to handle heavy, high or wide loads.
+
+What Can Be Done to Improve Rail Security?
+Because few rail systems have been confronted with sustained terror campaigns, it is difficult to evaluate the effects of security measures. The United Kingdom's experience with IRA attacks on rail infrastructure offers one of the better opportunities to understand both terrorist behavior and the value of security measures. Analysis of the IRA bombing campaigns in London shows that the terrorists sought to exploit simple gaps in security.9 Examples of such gaps included breaks in fencing allowing access to certain targets, poor lighting allowing concealment of actions, and litter bins allowing hiding of packages.
+Freight Railroad Security Plan," Association of American Railroads at www.aar.org/rail_safety/rail_security_plan.asp accessed on August 8, 2003. 8 Curt Secrest, "Railroad Security Issues," presented to the Pennsylvania Joint Rail Freight Seminar on May 9, 2002, Philadelphia, PA. 9 Brian Michael Jenkins and Larry N. Gersten, "Protecting Public Surface Transportation Against Terrorism and Serious Crime."
+7
+
+7
+
+The analysis of these incidents led to the development of a broad security strategy that addressed some of the more glaring weaknesses exploited by the terrorists. The security elements included: · · · Repairing gaps in fencing to provide more control around the perimeter of rail facilities. Improving lighting, both to deter terrorists and to improve facility observation. Installing blast resistant trash containers to reduce the utility of placing bombs in trash containers while ensuring that passengers had a place to dispose of trash (and that bombers would be less able to hide explosives among accumulated trash). · · · Installing close-circuit television to provide stationmasters and security personnel with better visibility throughout the facilities. Installing signage to increase awareness about the danger of unattended packages and to improve the ability to evacuate facilities during emergencies. Training of personnel and passengers to have a role in security by reporting suspicious behavior, identifying suspicious (especially unattended) packages and luggage, and improving readiness for evacuation and emergency actions. Other methods used in Britain included covert testing of security measures, increased presence of armed personnel and security officers, and the use of public communication strategies to advise on threats, service disruptions and the availability of alternate routes and transportation methods. It is also important to prepare for hoaxes and false alarms, both of which can disrupt rail operations. If there were to be a passenger rail attack in the United States, it seems likely that there would be an increase in false alarms in the aftermath (as, for example, happened in the aftermath of the anthrax letters of 2001). It is therefore important for rail officials to develop policies and procedures for dealing with hoaxes and false alarms so that these would not unduly burden rail operations.
+
+8
+
+The U.K. security measures are broadly applicable to the US passenger rail system. Nevertheless, there are two important gaps in our knowledge. First, it is not clear how much should be spent on rail security relative to security at other potential targets. Second, the costeffectiveness of these rail measures has not been assessed. Threat assessments are required to address both of these issues. Improving Freight Rail Security Many of the elements identified as improving security for passenger rail are applicable to freight rail as well. To a considerable extent, the security of the nation's freight rail system is in the hands of the private sector. At the same time, freight rail competes with trucks and other transport modes for business, and thus it is important that the size and incidence of security costs be considered, and how the private sector might be provided with incentives to improve security. There is concern about the resilience and robustness of the freight rail system. Many key freight corridors are heavily used, compete with passenger trains for track space, and suffer from a lack of alternative routes. Attacks on critical freight nodes or functions could therefore create substantial bottlenecks and throughput pressures. Some characterize the freight rail system as "growing simultaneously more robust and more fragile."10 Robustness is evident in the considerable growth in the freight rail industry, and the relatively large shares of freight by tonnage and value that the rail system carries.11 Concerns about fragility arise from the continued focus on just-in-time manufacturing and logistics, and the freight rail industry's corresponding need to build capacity that serves these manufacturing patterns.12 Some, however, are more confident that the national transportation infrastructure is resilient and that the system is unlikely to collapse because of any single attack. The National Research Council concluded that surface transportation systems are more vulnerable to point attacks than systemic attacks "because of the decentralized, multimodal character of surface transportation, mounting a system-wide attack with large spatial and temporal impact would be
+Michael Wolfe, "Freight Transportation Security and Productivity," paper for the FHWA Office of Freight Management and Operations, April 2002. 11 "Freight-Rail Bottom Line Report," American Association of State Highway and Transportation Officials (AASHTO), 2003? 12 AASHTO, 2003, pp. 46-47.
+10
+
+9
+
+difficult."13 In particular, experience with natural disasters that have affected multiple elements of the system suggests a substantial amount of systemic resilience.14
+
+Next Steps
+No security system for passenger and freight rail will be perfect. It is therefore critical to consider the consequences of what security failures might mean, and to balance these potential consequences with priorities for preventing them. Little is known about how long it might take to restart the passenger and freight rail systems in the aftermath of an attack similar to those of September 11. Similarly, there are complex issues of liability that relate to existing legislation such as the Terrorism Risk Insurance Act. There are tools at our disposal that will help improve our understanding of passenger and freight rail security issues. Simulation exercises and games, for example, can help identify weaknesses in response capacities and deepen our understanding of how to resume activities in the aftermath of an attack. Similarly, threat assessments can be useful for guiding decisions about how much, and where, to spend on passenger and freight rail security programs. There is a need for a coordinated federal policy on rail security, encompassing freight, passenger and commuter rails. Compared to other transportation sectors, decision-making appears to be quite decentralized between a number of federal, state, local, and private concerns. A coordinated approach for counterterrorism measures in the rail transportation system should undertake three tasks. First, it should define the federal role in preventing or mitigating such attacks. Second, it should prioritize investments needed for preventing attacks against rail transportation systems with those needed to prevent attacks against other transportation systems. Third, it should define the roles and responsibilities of federal, state, and local agencies, transportation companies, and passengers and freight shippers in preventing terrorist attacks against rail systems and in responding to their consequences.
+
+13
+
+"Improving Surface Transportation Security : A Research and Development Strategy," National Research Council, 1999, Washington DC. 14 Michael Wolfe, Freight Transportation Security and Productivity: Complete Report. Long Beach, CA: Intermodal Freight Security and Technology Workshop, April 27-29, 2002. p. 12.
+
+10
+
+Given the magnitude of the recent attacks in Spain, it would be prudent to undertake such planning steps in the near future.
+
+11
+
+

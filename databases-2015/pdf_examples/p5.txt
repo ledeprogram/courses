@@ -1,0 +1,48 @@
+                                                 Keynote Talk
+                 The Mathematics of Causal Inference
+
+                                                     Judea Pearl
+                                         Computer Science Department
+                                        University of California Los Angeles
+                                          Los Angeles, CA 90024, USA
+                                               judea@cs.ucla.edu
+
+
+Abstract
+I will review concepts, principles, and mathematical tools that were found useful in applications involving
+causal and counterfactual relationships. This semantical framework, enriched with a few ideas from logic
+and graph theory, gives rise to a complete, coherent, and friendly calculus of causation that unifies the
+graphical and counterfactual approaches to causation and resolves many long-standing problems in several
+of the sciences. These include questions of causal effect estimation, policy analysis, and the integration of
+data from diverse studies. Of special interest to KDD researchers would be the following topics:
+
+   1. The Mediation Formula, and what it tells us about direct and indirect effects.
+   2. What mathematics can tell us about “external validity” or “generalizing from experiments”
+   3. What can graph theory tell us about recovering from sample-selection bias.
+
+
+Categories and Subject Descriptors: G.m [Mathematics of Computing]: Miscellaneous
+General Terms: Theory
+
+Bio
+Judea Pearl is a professor of computer science and statistics at the University of California, Los Angeles. He is
+a graduate of the Technion, Israel, and has joined the faculty of UCLA in 1970, where he currently directs the
+Cognitive Systems Laboratory and conducts research in artificial intelligence, causal inference and philosophy
+of science. He has authored three books: Heuristics (1984), Probabilistic Reasoning (1988), and Causality
+(2000;2009). A member of the National Academy of Engineering, and a Founding Fellow the American
+Association for Artificial Intelligence (AAAI), Judea Pearl is the recipient of the 2008 Benjamin Franklin
+Medal for Computer and Cognitive Science and this year’s David Rumelhart Prize from the Cognitive Science
+Society.
+
+
+
+
+Copyright is held by the author/owner(s).
+KDD’11, August 21–24, 2011, San Diego, California, USA.
+ACM 978-1-4503-0813-7/11/08.
+
+
+
+
+                                                           5
+

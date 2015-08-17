@@ -1,0 +1,316 @@
+-..-! (-&$f-J
+
+1Jllitd
+
+St.ulxs
+
+Ger~cral
+
+Awomting
+
+Office
+
+*I '
+
+Report to the Chairman, Committee on Armed Services, U.S. Senate
+
+~ ,4pril
+
+l!J!JS
+
+DOD' S MOBILITY REQUIREMENTS Alternative Assumptions Could Affect Recommended Acquisition Plan
+
+GAO
+
+United States General Accounting Offlce Washington, D.C. 20548 National Security aud International Affairs Division
+
+B-261587 April 22,1993 The Honorable Sam Nunn Chairman, Committee on Armed Services United States Senate Dear Mr. Chairman: At the direction of the Congress, the Department of Defense (DOD)is studying the number and mix of mobility assets it will need to more rapidly move its forces overseas in future conflicts. Mobility assets include cargo ships, transport aircraft, and military equipment prepositioned on ships near potential trouble spots. DOD issued the first volume of its Mobility Requirements Study (MRS) in January 1992 containing its conclusions and recommendations. The MRS found that in 1999 the United States will not have sufficient mobility capability in a number of areas. To reduce a projected shortfall in the US. ability to rapidly deploy armed forces overseas, the study recommended that the United States acquire 20 large sealift ships, continue the current acquisition program for C-17 transport aircraft, increase the number and readiness of ships in the Ready Reserve Force, 1 and purchase rail cars and take other actions to improve DOD' S ability to move units from their peacetime locations to airports and seaports. Our report focuses on the sealift and airlift portions of the MRS because they involve large defense acquisition programs. If approved by the Congress, the sealift expansion program--including the 20 large sealift ships and the additions and improvements to the Ready Reserve Force-would cost an estimated $11.6 billion by fiscal year 1999. DOD' S currently approved plan to acquire 120 C-17 aircraft (to replace the aging C-141 aircraft fleet) has an estimated cost of $41 billion. We have also issued several other reports addressing issues related to strategic mobility. These are listed at the end of this report. As you requested, we reviewed the key assumptions in the MRS that affect sealift and airlift to determine whether these assumptions provide a reasonable basis for the conclusions and recommendations DOD reached.
+
+` The ReadyReserveForce is DOD' sfleet of inactive, former commercialships that are requiredto be activatedwithin a few days' notice.
+
+Page 1
+
+GAOINSIAJJ-93403 Mobility
+
+Requirements
+
+B-261687
+
+The specific results of our work are contained in two classified reports. As requested, we prepared this unclassified report to summarize our fmdings concerning the key assumptions used and to discuss the implications if these assumptions were changed. In conducting the MRS, DOD used certain key assumptions that resulted series of conclusions and recommendations concerning future mobility requirements. Our review, however, showed that other assumptions could have been used that are as compelling as those used in the MRS. Therefore, the study does not represent the definitive assessment of future U.S. mobility requirements. Our review showed, for example, that the amount and timing of cargo troops required in the MRS are sensitive to assumptions that the United States would deploy unilaterally and that U.S. officials would react as quickly as expected in a crisis before hostilities erupt. Further, key assumptions concerning sealift capabilities are overly pessimistic. The United States, for instance, could be expected to use Marine Corps prepositioned equipment, foreign ship charters, and U.S. container ships a greater extent than the MRS assumes. However, assumptions concerning airlift capabilities are too optimistic. Whereas the MRS assumes that 80 aircraft will be available in 1999, current production schedules show that only 53 will be available by then. In addition, the number of air bases for unloading equipment and support operations may not be as high as DOD assumes. Changing these key assumptions would affect the projected U.S. mobility shortfall in 1999. Our review indicated that by using different assumptions, DOD would find that it (1) may need fewer than 20 new sealift ships and/or a different number or mix of ships in the Ready Reserve Force and (2) could have a significantly lower airlift capability than projected in the MRS, making it more difficult to successfully deploy U.S. forces for certain conflicts. DOD did not conduct requested new analyses using our different assumptions to determine the precise impact they would have on the conclusions and recommendations in the MRS. DOD stated that it planned include further analysis in subsequent volumes of the study. In our opinion, this analysis would have to take the following factors into consideration:
+
+Results in Brief
+
+*In addition to our reports,the DOD InspectorGeneralrecently issueda report, DOD Sealift 0 erations(Report Number92-136, Sept.9,1992),on the problemsassociated with the ReadyReserve l4kSSiGgthe PersianGulf War.
+
+Page 2
+
+GAO/NSIAD-93-103 Mobility Requirements
+
+l
+
+l
+
+First, airlift and sealift assets are not fully interchangeable because, in general, each carries different cargo and because the demand for each depends on the circumstances of the conflict or crisis, Thus, additional sealift ships would not completely compensate for the lower-than-assumed availability of C-17s. Second, because the different types of mobility assets must be synchronized to deliver all of the required forces in proper sequence, any deviation in projected air or sea deliveries caused by changing the assumptions would likely have a "ripple effect" on the need for other mobility assets. Having fewer C-17s by 1999 may, for example, reduce the number of sealift ships DOD should acquire by then because delays in equipment arriving by air could delay the demand for sealifted equipment to support it.
+MFtS conclusions,
+
+Until these key assumptions are tested to determ ine their impact on the we do not believe the total size of the sealift improvement programs will be adequately justified.
+
+Background
+
+In the event of a conflict or crisis overseas, it is important that the United States have the ability to transport the forces necessary to meet the threat. To deliver people, equipment, and supplies, DOD relies primarily on cargo ships, transport aircraft, and prepositioned assets. The amount and m ix of the mobility assets needed depend on many factors, including the number and types of forces necessary to meet the threat, the availability of ports and airfields, the distances involved, and the length of warning time before hostilities erupt. Airlift, sealift, and prepositioning provide their greatest contributions at different stages of a conflict. Airlift and prepositioning are critical during the early stages, prior to the arrival of cargo brought from the United States by ship. Airlift delivers Army light forces, Air Force equipment, initial resupply and bulk ammunition, and nearly all precision munitions and time-critical items. Airlift can also rapidly transport troops and supplies to marry up with prepositioned equipment, thus allowing for the deployment of heavier units early in a conflict. Surge sealift from the United States provides the capability for the deployment of heavy combat forces within about a month after the order to deploy is given. The first trips of slower deploying ships and the second trips of surge sealift ships fill out the combat forces and provide the long-term sustainment of deployed forces over an extended period of time.
+
+Page 3
+
+GAWNSIAD-93-103 Mobility
+
+Requirementa
+
+B-261687
+
+,
+
+In section 909 of the National Defense Authorization Act for Fiscal Year 1991, the Congress directed DOD to study the mobility needs of the armed forces and develop an integrated plan for meeting these needs. The Congress directed that the study assess a range of mobility needs based upon various military scenarios and contingencies and consider the experiences of the recent U.S. deployments to the Persian Gulf and Panama.
+DOD plans to issue three volumes on the results of its study. Only the first was available at the time of our review. 3 However, DOD does not expect
+
+change its conclusions and recommendations based on the additional analysis contained in the second and third volumes. The MRS was coordinated by the office of the Joint Chiefs of Staff, with assistance from many other DOD components and contractors. The mobility study was conducted using five scenarios projected into 19QQthree major regional contingencies and two lesser regional crises. These scenarios were intended not to be predictive, but to provide an illustrative framework for assessing mobility needs, The Middle East scenario, which is similar in some respects to the 1991 Persian Gulf War, generates the greatest demand for mobility assets because of the amount and timing of the forces that would be deployed to meet the assumed threat and because of the distances involved. DOD concluded that mobility capabilities satisfying this scenario' s requirements would be sufficient the other scenarios.
+DOD examined a number of troop deployment schemes and ran numerous computerized war games for each major regional scenario to determine which schemes were most successful in achieving U.S. military objectives. In doing so, DOD estimated the level of risk, measured principally by the predicted depth of the enemy' s penetration into allied territory. The forces needed to achieve low risk (high confidence of achieving U.S. objectives)-that is, relatively little enemy penetration-were also the costliest to transport, DOD determined that moderate risk (medium confidence) was acceptable and more fiscally realistic than the low-risk option; the study' s conclusions and recommendations are based on the moderate-risk level.
+
+"DODplans to issuethe secondvolumeby mid-1993 and the third volumelater in 1!%3. ` DOD also plansto report on a sixth scenarioinvolvingtwo major regionalwars occurring concurrentiy,with one beginningafter the other.
+
+Page 4
+
+GAOiNSIAD-93-103 Mobility Requirements
+
+B-251687
+
+MRS Results Are Sensitive to Assumptions About Threat and Warning Time
+Enemy Threat
+
+The amount and timing of U.S. forces required to be moved in the major regional scenarios were highly dependent upon key assumptions about the enemy threat and the amount of warning time before hostilities begin. DOD'S assumptions on the threat increase the amount of mobility assets needed, while assumptions about warning time allow the outcome of the scenario to remain in the moderate-risk range. The mobility requirements established in the MRS are significantly more demanding than current capabilities. In the Middle East scenario, several critical factors, including the assumed capability (size and training level) of the enemy forces as well as the nature of the enemy attack, had the greatest effect on U.S. success in meeting military objectives. The details of these assumptions are contained in our classified sealift and airlift reports. As a result of these and other factors, the MRS focuses on the mobility requirements for unilaterally deploying a large U.S. forcethe equivalent of 4-2/3 Army divisions-in a relatively short time span. The size and nature of the U.S. forces deployed are based both on the specifics of the threat assumed in the MRS and on policy guidance. We found that the mobility study appropriately adjusted the size of the anticipated enemy threat upon receipt of a revised intelligence estimate provided by the Defense Intelligence Agency. However, a key assumption was that the United States should be able to unilaterally deploy whatever force was required to meet the illustrative threat. Study officials cited National Security Directive 28 (National Sealift Policy), dated 1989, and parts of the 1992 National Military Strategy of the United States as policy guidance that requires the United States to be able ". , . to respond unilaterally to security threats in geographic areas not covered by alliance commitmentsn Although unilateral deployment is consistent with
+DOD
+
+policy, we believe
+
+that for two reasons the M W could also have been more reflective of the
+
+changed security environment emphasized in the national military strategy. First, national policies do not set specific requirements for capabilities; rather, they articulate goals and objectives. Second, the national military strategy, while calling for a unilateral deployment capability, recognizes that, in the changing global security environment, the United States could expect to seek allied endorsements and form ad hoc coalitions to deal with future major regional crises. The MRS, however, does not account for efforts by the North Atlantic Treaty Organization to
+
+Page 6
+
+GAO/NSIAD-93-103 Mobility Requirementa
+
+B-261687
+
+develop rapid-response forces that could be deployed outside Europe. If the United States could receive early help from allies, its mobility requirements could decrease, thereby reducing unilateral requirements. On the other hand, according to DOD officials, allied support might involve greater reliance on U.S. airlift to help move allied troops.
+
+Warning Time
+
+The mobility study' s preferred deployments are sensitive to the speed in reacting to indications of potential hostilities. The Defense Intelligence Agency provided a range of likely warning times for the Middle East scenario. The MRS used an amount of warning time that achieved a moderate-risk outcome. If warning time is slightly shorter, the risk of not achieving military success would be much higher because DOD may not able to deliver the required forces in time. Some DOD officials pointed out that U.S. officials may not discern indicators of impending hostilities as early as the study assumes and, therefore, may not take subsequent actions as quickly as projected. Some of the mobility capabilities projected in DOD'S study differ from those that will likely be available in a future conflict. Generally, assumptions concerning sealift tended to understate the capability that could be at DOD'S disposal, Airlift assumptions tended to overstate the cargo delivery capability. Furthermore, although the MRS states that lessons learned during the Persian Gulf War were considered, the study (1) did not assume the use of all the sealift assets available in the Gulf war and (2) assumed that certain obstacles to the airlift operation during the Gulf war will not be problems in the future.
+DOD'S mobility study relies on various types of sealift to provide the mobility capability needed. In addition to recommending the acquisition 20 large sealift ships, the MRS assumes that the planned expansion of the Ready Reserve Force from the current 96 ships to 142 ships will occur. However, the MRS understates the extent that Marine Corps prepositioning ships, foreign ships, and commercial container ships could be employed a Middle East conflict. Increasing the use of these ships could reduce the scope of the recommended sealift expansion. . The United States could be expected to use Marine Corps prepositioning
+
+Mobility Capabilities W ill Likely Differ From Those Projected in Study
+
+Sealift Capability Is Understated
+
+shipping squadrons in the Middle East scenario to a greater extent than the MRS assumes. DOD assumes that all three squadrons would not be used
+
+Page 6
+
+GAO/NSIAD-93-103 Mobility
+
+Requirements
+
+B-261687
+
+l
+
+l
+
+in this scenario. These ships not only allow for the early deployment of Marine units in a conflict, but can be employed in later stages of the conflict to carry supplies to sustain U.S. forces. We believe th& the use of additional squadrons in the Middle East scenario would be more realistic because (1) all three squadrons were used in the Persian Gulf War and (2) additional squadrons are used in the two other scenarios involving mdor regional conflicts. In the Persian Gulf War, foreign ships played an important role in deploying U.S. forces, ultimately carrying 27 percent of the U.S. dry cargo. Despite this experience, DOD assumes that foreign ships would not contribute to meeting the requirements of the Middle East scenario because (1) not counting on foreign ships in this scenario was consistent with DOD planning guidance for a unilateral deployment and (2) it believes these ships would not be available soon enough. We do not believe that policy statements about having a unilateral deployment capability should preclude DOD from identifying the potential impact of a reasonable reliance on assistance from the commercial shipping marketplace. Further, we found that DOD could expect foreign ships to be available sooner and contribute significant mobility capability if it applies the lessons of the chartering experience in the later stages of the Persian Gulf deployment. Moreover, DOD could expect to have more specific information on its foreign shipping requirements because of planned improvements to its deployment information systems. The mobility study does not reflect the likely increased use of "containerized" cargo-that is, cargo such as ammunition and resupply items transported in containers for efficient loading and unloading. Greater use of containerized cargo would also enable DOD to take advantage of the available capacity provided by U.S. commercial container ships. During the Persian Gulf War, DOD used only 30 percent of the available commercial shipping container capacity to move supplies. DOD is making an effort to increase its use of containerization, but this effort is not reflected in volume I of the MRS. Increased use of Marine Corps prepositioning ships could result in needing fewer than 20 of the large, new sealift ships, which are most useful in the early surge phase of the deployment. In addition, the use of foreign ships and the increased use of containerization could impact on the later stages of the deployment and reduce the number and mix of ships needed in the Ready Reserve Force.
+
+Airlift Capability Is Ove#stated
+
+The airlift assets DOD assumed would be available in 1999 are overstated because of changes that have occurred since the study began. The MRS
+
+Page 7
+
+GAO/NSIAD-93-103 Mobility
+
+Requirementa
+
+B-251587
+
+assumes that 80 C-17 aircraft will be available in 1999, but the Air Force currently estimates that, because of delays in deliveries, only 63 C-17s will be available. 6 The study indicated that airlift could not meet its preferred cargo delivery schedule in the Middle East scenario, but that it could deliver the cargo in sufficient time so that the outcome of the entire scenario falls within the moderate-risk range. However, a large reduction in the number of C-17s available could decrease airlift' s ability to deliver the required amount of cargo within the moderate-risk time frames. Other assumptions that may overstate airlift capability in the Middle East S scenario are those concerning the availability of air bases. DOD' assumptions about air bases present a best-case situation that may not hold true in uncertain future regional contingencies and, therefore, may overstate the amount of cargo that can be delivered within the desired time frames. . The study assumes that at the start of deployment transport aircraft will be able to unload their cargo at multiple sites. During the Persian Gulf War, however, access to air bases was limited, particularly in the first 2 months of deployment. The fact that more air bases are assumed to be available in DOD' S Middle East scenario than was the case in the Persian Gulf War enables the study to use a larger percentage of the airlift fleet to support the scenario. l The study also assumes access to an in-theater recovery base from the start of deployment. 6 However, an in-theater recovery base was never made available in the Persian Gulf War due to political and physical
+lilIlitatiOlX3.
+l
+
+The airlift operation during the Persian Gulf deployment relied extensively on access to three specific air bases in Europe. ND' S study reflects a current agreement that will reduce access to one air base. However, the study does not factor in the potential impact of further constraints on access to air bases as the United States withdraws its forces from Europe. DOD has stated it will present further analysis of this issue in volume II of the MRS but that the overall scenario outcome will not be revised. According to Air Force officials, if the current access to bases is not maintained, airlift deliveries in a Middle East scenario would be delayed. Current projections of the number of C-17s available in 1999, together with less optimistic assumptions about the availability of air bases, would
+6Delivery delaysof C-l 7s havebeendue to technicaldifficulties in production. Further delaysmay occur as the aircraft progresses through flight testing. OA recoverybaseprovidesrest facilities for crews,refuelingfor aircraft, and other support operations.
+
+b
+
+Page 8
+
+GAO/NSIAD-93-103 Mobility
+
+Requirementa
+
+B-261587
+
+increase the time required to deliver airlifted cargo and troops. Delays in delivering air cargo could affect delivery schedules for sealifted cargo. We made recommendations to the Secretary of Defense in our sealift and airlift reports. In the sealift report, we recommended that the Secretary of Defense provide Congress with an analysis that specifically quantifies (1) the surge deployment impact of making greater use of Marine Corps prepositioning ships and (2) the likely impact on the number and mix of the ships in the Ready Reserve Force if greater reliance was placed on foreign ships and U.S. commercial container ships in the Middle East scenario. In the airlift report, we recommended that the Secretary of Defense provide Congress with analysis explaining the likely outcome of different assumptions concerning airlift capability and throughput. Such analysis should include the consequences of a reduction in the number of (317s projected to be available in 1999. Because DOD has indicated its reluctance to perform the recommended analyses, the Congress may wish to require DOD to do the analyses. Such information would be useful to Congress in debating future airlift and sealift appropriations. In commenting on a draft of this report, DOD partially concurred with some of our findings but strongly disagreed with other parts of our report (see app. 1.)7DOD emphasized that the requirements for a unilateral deployment were not choices, but policy. We have clarified this point in our report, but we have also noted that changes in the national security environment and the National Military Strategy now emphasize that ad hoc coalition warfare is much more likely in the future.
+DOD strongly disagreed with our position that the study needed to be redone using different assumptions. DOD stated that an established
+
+Matter for Congressional Consideration
+
+Agency Comments and Our Evaluation
+
+organization-the Improving Force Closures General Officers' Steering Committee-has authority to task additional analysis deemed necessary. We have changed the specific recommendations in our sealift and airlift reports to reflect this fact. We have also changed our reports to reflect that the different key assumptions we identified are not necessarily better than those used by DOD. Rather, they are based on conditions that existed during the Persian Gulf deployment or planned changes in cargo handling. In presenting our different assumptions, we have pointed out what we believe will be the impact on both early and later arriving cargo
+` We did not reprint in this report the enclosureto DOD' 5comment5 becausethey are lengthyand are adequately reflectedin the cover letter. However,copiesof DOD' sdetailedcommentscan be obtained by calling RichardDavis,Director,NationalSecurityAnalysis,on (202) 6123604.
+
+Page 9
+
+GAOINSIAD-93403
+
+Mobility
+
+Requhemenb
+
+B-261687
+
+capabilities. We continue to believe that additional analysis would be prudent and might clarify the total size of the mobility system improvements recommended by the study. As agreed with your office, unless you publicly announce the report' s contents earlier, we plan no further distribution until 7 days from its issue date. At that time, we will send copies to the Chairmen and Ranking Minority Members of the House Committee on Armed Services and the Senate and House Committees on Appropriations; the Secretaries of Defense, the Army, the Navy, and the Air Force; the Commandant of the Marine Corps; the Chairman of the Joint Chiefs of Staff the Commander in Chief, US. Transportation Command; the Director, Office of Management and Budget; and other interested parties. We will also make copies available to others on request. This report was prepared under the direction of Richard Davis, Director, National Security Analysis. He can be reached on (202) 512-3504 if you or your staff have any questions. The major contributors to this report are listed in appendix II. Sincerely yours,
+
+Frank C. Conahan Assistant Comptroller General
+
+Page 10
+
+GAO/NSIAD-93-103 Mobility
+
+Requirementa
+
+Page 11
+
+GAOINSUD-99-108 MobilSty Requlrementa
+
+j. iii
+
+.# ,,.
+
+" ,/. ..' ` ,,
+
+,` .
+
+` ,'
+
+Appendix I
+
+Comments From the Department of Defense
+
+OFFICE
+
+OF
+
+THE
+
+ASSISTANT
+WASHINGTON. DC
+
+SECRETARY
+20301 -SOQO
+
+OF
+
+DEFENSE
+
+March 25, 1993
+
+(L/TP) Mr. Frank C. Conahan Assistant Comptroller General National Security and International Affairs Division U.S. General Accounting Office Washington, DC 20548 Dear Mr. Conahan: This is the Department of Defense (DOD) response to the General Accounting Office (GAO) draft report, "STRATEGIC MOBILITY: DOD'S Mobility Study Does Not Justify Recommended Acquisition Program," dated December 31, 1992 (GAO Code 394506), OSD Case 9278-X. The DOD partially concurs with the report. The Department takes strong exception to the GAO conclusion that the DOD should plan for a multilateral force for a Middle East scenario and consequently abandon the policy of maintaining a unilateral capability to respond to threats in areas not covered by alliance commitments. The unilateral capability policy is articulated in the pational MilLtam Strateav of the United States and the Presidential statement of National Security Sealift Policy. The draft report fails to recognize the role, of nationalcpolicy in It is not a DOD decision, but developing the DOD mobility program. rather national policy, that requires that the U.S. have the capability to respond unilaterally to security threats in geographic The Secretary of Defense areas not covered by alliance commitments. endorsed such a policy in his recent confirmation hearings when he and should never be stated that the U.S. needs to be self-sufficient dependent upon other nations to carry out a military miSSiOn that is vital to our national security. The Department strongly disagrees with the GAO recommendation that the Secretary of Defense update the Mobility Requirements Study. The basic GAO premise that the DOD did not use a realistic range of assumptions and should look at varied delivery outcomes is not valid. The Mobility Requirements Study used the best DOD estimates for The assumptions were agreed FY 1999 airlift and sealift capability. to by all study participants--those in the Services, the Joint Staff,
+
+t-
+
+Page 12
+
+GAO&MAD-93.108
+
+Mobility
+
+Requirementi
+
+Appendix I Commenta From the Department of Defense
+
+The study did examine and the Office of the Secretary of Defense. variations in assumptions, and developed the findings and recommendations based on those analyses. The suggestions made by the GAO regarding other assumptions would have no effect on the outcome of the Mobility Requirements Study and therefore on the DOD recommended acquisition program. The Department strongly disagrees with the GAO recommendation that the Secretary of Defense update the Mobility Requirements Study using more realistic assumptions regarding the greater use of foreign ships, Marine Corps prepositioning ships, and U.S. commercial container ships. The recommendation ignores the DOD mobility plans by calling for revisions of the Mobility Requirements Study using GAO assumptions. The assumptions utilized by the Mobility Requirements Study are realistic and were accepted by all participants, and are Further analysis based consistent with national policy on sealift. on the GAO preferred assumptions would not change the afloat prepositioning and early sealift requirements--the two components of the DOD sealift acquisition program--recommended by the Mobility Uequirements Study. It is unreasonable to expect to be able to obtain allied/foreign shipping on berth within four days of the order to deploy. Developing defense programs on such an assumption would be fundamentally dangerous, leaving U.S. interests vulnerable to swift attack. The Department also strongly disagrees with the GAO suggestion that the sealift acquisition program recommended by the Mobility Requirements Study not be fully funded until the Secretary of Defense provides a revised strategic mobility assessment based on more realistic projections of the availability of sealift ships not in the Ready Reserve Force. The basic GAO premise for the suggestion that DOD did not use realistic projections of ship availabilities is not valid. Further, the GAO does not present any alternatives to the present DOD acquisition program as a substitute to satisfy the critical early surge requirement which is, in fact, the expressed purpose of the sealift acquisition program. The Department does not agree with the recommendation that it further analyze the study scenarios, based on different assumptions concerning airlift capability and throughput, along with the extended C-17 acquisition plan. The study was tasked to determine future mobility requirements, so that an acquisition plan could be developed. Extension of the C-17 acquisition program does not change the requirements. The study does identify needed throughput Therefore, capability to support the recommended solution. Alternatives additional analysis of the requirement is not needed. providing the needed throughput capacity, or potential shortfalls that deviate from the study baseline, should be addressed in a forum
+l
+
+Page
+
+13
+
+GAO/NSIAD-93-103 Mobility
+
+RequIrementa
+
+Commante From the Department of Defeat
+
+There is an separate from the Mobility Requirements Study. established organization within the DOD--the Improving Force Closures General Officers' Steering Committee--that has the task to monitor implementation of the study's recommendations. This committee also has the authority to task additional analysis deemed necessary to determine the impact of specific mobility issues, such as force procurement decisions, theater basing concerns, and the potential loss of en route basing structure. The detailed the enclosure. draft report. DOD comments on the GAO draft report are provided in The DOD appreciates the opportunity to comment on the Sincerely,
+
+fi(ey A. Jones ting Deputy Assistant of Defense (Logistics) Enclosure
+
+Secretary
+
+Page 14
+
+GAO/NSIAD-98-103 Mobility Requirementa
+
+Ilependix II
+
+Major Contributors to This Report
+
+Vational Security and hternational Affairs %rision, Washington, 3.C.
+
+Nonnan Rabkin, Associate Director Brad Hathaway, Associate Director Robert Eurich, Assistant Director Thomas Denomme, Assistant Director Michele Ma&in, Evaluator-in-Charge Alan Byroade, Senior Evaluator David Best, Evaluator Thomas Gosling, Reports Analyst
+
+Pqje 16
+
+GAO/NSLiD-93-109 Mobilie
+
+Requirementa
+
+Related GAO Products
+
+,
+
+Military Airlift: Status of the C-17 Development Program (GAOIT-NSIAD-92.6, Mar. 10,1993). Desert Shield/Storm: Air Mobility Command' s Achievements and Lessons Jan. Z&1993). for the Future_(GAO/NSIAD-OS~O, Military Airlift: Changes Underway to Ensure Continued Success of Civil ReserveAirFleet (GAO~IAD-Q~~~,~L~~, 1992). Military Airlift: Structural Problems Did Not Hamper Success of C-1418 in Dec. 29, 1992). Operation Desert Shield/Storm (GAOINSIAD-93-76, Operation Desert Shield: Problems in Deploying by Rail Need Attention
+(GAONSIADE)~O,NOV. 13,1992x
+
+Military Afloat Prepositioning: Wartime Use and Issues for the Future (GAOINSIAD-~3-30, NOV. 4,1992). Shipbuilding: Navy' s Plan to Acquire Additional Strategic Sealift
+(GAOMAD-92-224, July 30, 1992).
+
+NATO: A Changing Alliance Faces New Challenges (GAo/NsfiD-92-262, July 22, 1992). Military Airlift: Status of C-17 Aircraft Development Program (GAO/NSIAD-92-SOSBR, Apr.20, 1992). Desert Shield/Storm: U.S. Transportation Command' s Support of Operation (GAO~WAD-92-64,Jan. 9, 1992). Strategic Sealift: Part of the National Defense Reserve Fleet Is No Longer Needed (GAOMSIAD-92-03,Oct. 7, 1991). Navy Contracting: Military Sealift Command Contracts for Operation Desert Shield (GAO/NSLW-9~8, May 14, 1991). Military Airlift: C-17 Faces Schedule, Cost and Performance Challenges (GAO/NSIAD8O-196, Aug. l&1989). a
+
+(6B4608)
+
+Page 16
+
+GAO/NSIAp93-103
+
+Mobility
+
+&quirementcl
+
+f
+
+Orcl~~rs I)y mlii:
+
+or visit.: 700 4th St,. NW (corner of 4th and G Sts. NW) 1l.S. Gcnwal Accwanting Office
+WashiIlgt.oI~, I)(:
+
+PRINTED ON &$J
+
+RECYCLED PAPER
+
+I
+
+First-(Xass Mail Postage & Fects Paid GAO P' ctrmit No. GlOO -
+
+.
+
+

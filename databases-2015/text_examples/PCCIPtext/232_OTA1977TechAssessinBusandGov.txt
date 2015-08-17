@@ -1,0 +1,637 @@
+Technology Assessment in Business and Government January 1977
+NTIS order #PB-273164
+
+ii
+
+GEORGE E. BROWN, JR.
+2342 HOUSE OFFICE BUILDING W ASHINGTON , D.C. 20515 (202) 223-6161 COMMlTTEES: AGRICULTURE SCIENCE AND TECHNOLOGY
+
+3 6TH D I S T R I C T O F CALIFORNIA
+
+Congress of
+
+DISTRlCT
+
+OFFICES:
+
+the States
+
+552 North LA CADENA DRIVE COLTON, CA LIFORNIA 92324 (714) 825-2472
+
+house of Representatives
+Washington,D.C. 20515
+
+CHAIRMAN, SUBCOMMITTEE ON E N V IRONMENT AND THE ATMOSPHERE JOINT COMMITTEE ON ATOMIC ENERGY TECHNOLOGY ASSESSMENT BOARD
+
+POST OFFICE BOX 71 R IVERSIDE , CALIFORNIA 92602 (3638 UNIVERSITY A V ENUE ) (714) 686-8863
+
+December 30, 1976
+
+The Honorable Olin E. Teague Chairman Technology Assessment Board Off ice of Technology Assessment Congress of the United States Washington, D.C. 20510 Dear Chairman Teague: I am transmitting for the use and distribution by the Technology Assessment Board, the Summary and Analysis and the Hearing Record of the hearings on "Technology Assessment Activities in the Industrial, Academic, and Governmental Communities." I appreciated the opportunity to chair these hearings, which directly relate to the activities and responsibilities of the Technology Assessment Board. As the Summary and Analysis makes amply clear, the technology assessment process is still evolving, as is the role of technology assessment in society. The role of Government, and that of the Congress in particular, is also evolving and growing --a fact that industry witnesses unhesitantly noted. As Harvey Brooks stated in a recent address, "One has only to mention auto safety, consumer product safety, pesticide regulation, the clean air amendments, the water pollution control act, the occupational health and safety act, the creation of the Nuclear Regulatory Agency, and so on down the line. All of these pieces of legislation require what amounts to more or less elaborate technology assessments prior to any positive action to permit the application of technology, either in general or with respect to a specific project, such as a dam or a nuclear power plant, or even a specific regulatory action." The Office of Technology Assessment is in a position to conduct or analyze many of these technology assessments. Based upon these hearings, and other evidence, I believe that the technology assessment process can help decision makers--in Congress and elsewhere-- avoid serious problems that might arise without the availability of such analytical tools. In particular, I believe the Congress would benefit from greater exposure to technology assessments,
+
+THIS STATIONERY PRINTED ON PAPER MADE WITH RECYCLED FIBERS
+
+111
+
+-2Honorable Olin E. Teague December 30, 1976 and similar analytical approaches. A recent editorial in the Christian Science Monitor makes this point especially well, citing one particular example, "Congress' Office of Technology Assessment has raised a needed warning on offshore energy-related development-drilling for oil, building deep water ports for supertankers, and the unprecedented floating of nuclear power plants." "We welcome the warning. The country has been asleep to the fact that the kind of offshore energy-related development likely in the future will be totally different in its impact from any the United States has had in the past." "We are entering a new era of extensive offshore development in legal disarray and short on foresight. The OTA has rendered an important service in blowing the whistle on what could become another unplanned environmental disaster." The Technology Assessment Board is an ideal body to foster this wider Congressional awareness, and should do so through the tools available to it. Among the activities I would recommend are board hearings on major technology assessments, whether they are done by the Office of Technology Assessment, or by some other entity. In conclusion, I am satisfied that the utility and acceptance of technology assessments is great enough to warrant our further encouragement of the process both in and out of Government. Because of the high visibility of the Office of Technology Assessment in this field, any new efforts by the Technology Assessment Board would likely have a significant and positive impact.
+
+Member, Technology
+
+Assessment Board
+
+GEB :tl: pi
+
+iv
+
+T E C H N O L OGY A S S E S S M ENT B O A R D
+OLIN E. TEAGUE, TEXAS, CHAIRMAN CLIFFORD P. CASE. N.J.. VICE CHAIRMAN EDWARD M. KENNEDY, MASS. ERNEST F. HOLLINGS, S.C. MORRIS K. UDALL, ARIZ. GEORGE E. BROWN, JR., CALIF. CHARLES A. MOSHER. OHIO MARVIN L.
+
+EMILIO Q. DADDARIO
+DIRECTOR
+
+O FFICE
+
+OF
+
+T ECHNO LOGY ASSES S M E N T W ASHINGTON , D.C. 20510 December 30, 1976
+
+DANIEL V. D E S I M O N E DEPUTY DIRECTOR
+
+HUBERT
+
+H.
+
+HUMPHREY, MINN.
+
+RICHARD S. SCHWEIKER. PA. TED STEVENS, ALASKA EMILIO Q.
+
+ESCH, MIGH.
+
+MARJORIE S. HOLT. MD.
+
+DADDARlO
+
+The Honorable Olin E. Teague Chairman of the Board Office of Technology Assessment U. S. Congress 20515 Washington, D. C. Dear Mr. Chairman: The attached report, Technology Assessment in Business and Government, is a summary and analysis of OTA's June 1976 hearings, which were held to explore the practices and uses of technology assessments and how they are influencing decision making in industry, government, and other sectors. The complete record of these hearings, Technology Assessment Activities in the Industrial, Academic, and Governmental Communities, has been published separately. The hearings were held at the request of Representative George E. Brown, Jr., OTA Board Member. As you know, a preliminary summary and analysis document was made available by Mr. Brown at the September 14, 1976, Board meeting. This summary and analysis volume highlights important findings discussed in the hearings. These findings in brief are as follows: 1. Technology assessment is an evolving study strategy that is being widely adopted by the public and private sectors. 2. The strategy of any particular TA should be tailor-made to fit the resources, timing, and needs of the decision makers. In addition to identifying and exploring options and alter3. natives, TA can provide early warning of unanticipated consequences. Management in both government and industry is finding it increasingly necessary to comprehend the intermediate and longterm effects of technology. In both sectors, there is a growing awareness of TA's value for improving the policy-making process and broadening the information base for decision making.
+4.
+
+- 2 -
+
+5. Technology assessment is being employed at major corporations as a useful planning tool, in addition to informing the policy-making process. 6. Communication among the assessment team members; with potential users, sponsors, and decision makers; and with affected parties in the public sector, is essential for producing an effective technology assessment.
+
+These hearings were a very useful step toward developing closer communication links and exchanging information between the public
+and private sectors on technology assessment.
+
+EMILIO Q. DADDARIO Director Enclosures.
+
+vi
+
+PREFACE
+The Office of Technology Assessment held 4 days of hearings, June 8, 9, 10, and 14, 1976, on the status of technology assessment activities in the public and private sectors. The hearings were chaired by the Honorable George E. Brown, Jr., of California, a Member of the Technology Assessment Board. Representative Brown, in his letter of May 14, 1975, requested that the "Technology Assessment Board hold hearings on the status of technology assessment. . . The 1974 Hearings,* Technology Assessment Activities of the National Science Foundation, held by the Board, began the process of developing the record on technology assessment, but this was clearly only a beginning. I believe hearings on broad aspects of technology assessment would be useful to the Congress and the country. " The Board gave final approval to his request at its March 16, 1976 meetings. The hearings were planned and organized by Mr. Dennis F. Miller and Mr. John Davis. Staff support was given by Mr. Joseph F. Coates, Assistant to the Director; Ms. Renee Ford, consultant; and Ms. Goldie Hallas; secretary. Special thanks are due other staff members who gave advice and assistance on this project, This document is a summary and analysis of the Hearings Record. The second volume contains the Hearings Record.
+
+* ~c~e hearings were held on June 12, 1974. Under the terms of the Technology Assessment
+Act of 1972 (P.L. 92-484, Sec. lo(a) (1) and (2)), the Office k required to maintain a liaison with the National Science Foundation and to review its technology assessment (TA) program. The purpose of this review is two-fold, to promote the coordination of TA research in order to minimize unnecessary duplication, and to promote the development of TA programs and techniques.
+
+vii
+
+CONTENTS
+Page PREFACE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . WITNESSES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . INTRODUCTION. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . MAJOR FINDINGS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . SUBSIDIARY FINDINGS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Section l. EVOLUTION, . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Technology Assessment: A Concept in Evolution . . . . . . . . . . . . . . Technology Assessment Concept . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Need for Better Data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Importance of Technology in Technology Assessment. . . . . . . . . . . . . . . . Opinions About What Technology Assessment Is. . . . . . . . . . . . . . . . . . . . Common Elements of Technology Assessment . . . . . . . . . . . . . . . . . . . . . . Environmental Impact Statement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Bounding the Problem . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Implementing Technology Assessment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Study Strategies and Techniques Utilized. . . . . . . . . . . . . . . . . . . . . . . . . . . Section 2. ADAPTABILITY ...,...,. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Need for Flexibility . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Technology Assessment in Relation to Other Study Techniques. . . . . . . Section 3. ALERTING . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Technology Assessment Process Itself is Important . . . . . . . . . . . . . . . . . . Section 4. PLANNING. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Awareness of Technology Assessment in the Planning Process . . . . . . . Inhouse Versus Contractor Approach to Technology Assessment. . . . . . Credibility . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Section 5. UTILIZATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Utilization of Technology Assessment Results . . . . . . . . . . . . . . . . . . . . . . . Effect of Technology Assessment on Decisionmaking, . . . . . . . . . Perceived Role of the Office of Technology Assessment . . . . . . . . . . . . . . Differences in the Aims of Technology Assessment between the Public and Private Sectors ..., . . . . . . . . . . . . . . . . . . . . ., ., . . . . . . . . . . . . . . . . Technology Assessment in Regulation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Acquiring an International Perspective, . . . . . . . . . . . . . . . . . . . . . . . . . . . . Scction 6. COMMUNICATION. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Communication and Public Participation . . . . . . . . . . . . . . . . . . . . . . . . . . . Improved Cooperation and Understanding, , . . . . . . . . . . . . . . . . . . . . . . . . Delivering Results. .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Mechanisms for Delivery of TA Results . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Training and Education. , , . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ..., . . . . . . . vii xi 1 3 5 7 7 7 8 9 9
+
+10
+12 12 13 13 15 15 15 17 17
+
+18 18 19 20 21 21 21 22 23 24 24 26 26 26 29 29 29
+
+ix
+
+Role of Public Participation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30 Public Participation Efforts in Executive Agencies. . . . . . . . . . . . . . . . . . . 30 Public Participation Efforts in the Private Sector . . . . . . . . . . . . . . . . . . . . 31 FUTURE HEARINGS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+
+x
+
+WITNESSES
+GOVERNMENT
+Dr.
+
+H. Guyford Stever. . . . . . . . . . . . .
+accompanied
+
+Science Adviser to the President; and Director, National Science Foundat ion. Assistant Director for Research Application, National Science Foundation. Assistant Secretary for Energy and Minerals, U.S. Department of the Interior. Deputy Assistant Secretary for Environmental Affairs, U.S. Department of Commerce. Associate Administrator for Policy and Program Evaluation, Federal Energy Administration. Assistant to the General Manager, Tennessee Valley Authority. Coordinator of Research and Development Activities in the Tennessee Valley Authority
+
+June 8
+
+by Dr. Alfred J. Eggers, Jr. . . . . . . .,
+
+Dr. William L, Fisher. . . . . . . . . . . . . .
+
+June 8
+
+Dr. Sidney R. Galler. . . . . . . . . . . . . . .
+
+June 9
+
+Mr. Bruce A. Pasternack, . . . ., . . . .
+
+June 9
+
+Mr. John S, Barren . . . . . . . . . . . . . . . . accompanied by Mr. William E. Dickenson . . . . .
+
+June 9
+
+INDUSTRY
+Mr. Monte C. Throdahl, , . . . . . . . . . . . accompanied by Mr. F. D. Wharton, Jr, . . . . . , . . . . and Mr. J. Kenneth Craver. . . . . . . , ., Group Vice President and a member of the Board of Directors, Monsanto Company. Manager Environmental Affairs CycleSafe ® Container Group, Monsanto Company. Manager Futures Research Corporate Plans Department, Monsanto Company. Vice President, Research and Development, Phillips Petroleum Company. P r e s i d e n t , P r o v e s t a , a Phil1ips Petroleum Company Subsidiary.
+June 9 June 8
+
+Mr. I. W. Davison. . . . . . . . . . . . . . . . . . accompanied by Mr. Emil Malick. . . . . . . . . . . . . . .
+
+xi
+
+Mr. Harry E. Teasley, Jr.. . . . . . . . . . . .
+
+Vice President, Corporate Business Development, The Coca-Cola Company. Vice President--Research, Engineering and Research Staff, Ford Motor Company. Vice President and Chief Economist, General Motors Corporation. Executive Assistant to the Vice President, Environmental Activities Staff, General Motors Corporation.
+Executive Director, Systems Division, Bell Laboratories. Assistant Director -- Business Bell Canada.
+
+June 10
+
+Dr. W. Dale Compton . . . . . . . . . . . . . .
+
+June 10
+
+Dr. Henry L. Duncombe, Jr. . . . . . . . . . accompanied by Dr. Frederick W. Bowditch . . . . .
+
+June 10
+
+Dr. Dean Gillette . . . . . . . . . . . . . . . . . . Mr. Lawrence H. Day . . . . . . . . . . . . . . Mr. Jack B. Moore . . . . . . . . . . . . . . . . .
+
+Research Planning,
+
+June 10 June 10
+June 14
+
+Vice President, Advanced Engineering, Southern California Edison Company. President and Chairman of the Board, System Development Corporation.
+
+Dr. George E. Mueller. . . . . . . . . . . . . .
+
+June 14
+
+ACADEMIC
+Dr. Don E. Kash. . . . . . . . . . . . . . . . . . . Dr. R Rhoads Stephenson . . . . . . . . . . accompanied by Mr. Thomas A. Barber . . . . . . . . . Mr. Selwyn Enzer . . . . . . . . . . . . . . . . . Director, Science and Public Policy Program, University of Oklahoma. Manager of the Systems Analysis Section, Jet Propulsion Laboratory-- California Institute of Technology. a member of the technical staff. Associate Director, Center for Futures Research, Graduate School of Business, University of Southern California. June 14 June 14 June 14
+
+xii
+
+INTRODUCTION .
+The purpose of the hearings was to develop a better understanding of how the processes of technology assessment have affected decisionmaking in the public and private sectors. An information base is expected to be developed on the experience gained and the lessons learned in the practice of such assessments, This should make the work of the Office of Technology Assessment (OTA) more effective and also be of value to the public, industry, and Government. As the Honorable Olin E. Teague, Chairman of the Technology Assessment Board, stated: "The practical application of technology assessment is still in its formative stage with many unknowns. It is anticipated that these hearings will focus on the as yet unsolved problems, and provide the light of knowledge necessary to speed their solution. " (See Opening Statement, Hearings Record p. 2.)
+
+1
+
+MAJOR FINDINGS
+In the course of these hearings a wide variety of issues were raised and discussed. The witnesses almost universally acknowledged that technology is a critical factor in our society, but that now its long-term primary effects, both planned and unforeseen, have become of increasing concern to the public. Six major findings about technology assessment emerged from an analysis of the hearings. These are listed below, and elaborated in the report that follows.
+
+SIX MAJOR FINDINGS ABOUT TECHNOLOGY ASSESSMENT THAT EMERGED FROM THE HEARINGS 1. Evolution
+3. A l e r t i n g
+
+In addition to elucidating options and alterTechnology assessment (TA) is an evolving policy study strategy that is being widely natives, TA can provide early warning of consequences normally unanticipated in adopted in Government and private-sector organizations. It is viewed by the private traditional planning. Witnesses from both the public and private sectors saw this to be sector as a potentially important tool for betof distinctive value for policy makers. As TA ter understanding the future business enis increasingly used, this value will become vironment and thereby improving corporate more apparent. decisionmaking. The executive and legislative branches regard TA as a valuable tool for understanding the public choices before 4 0 Planning them, as well as for providing information Management in both Government and inessential for implementing these choices. dustry is finding an increasing need to comTA will gain in importance with wider use. prehend the intermediate and long-term effects of technology. There is a growing 2. Adaptability awareness in both sectors of TA's value for improving the policy planning process, for The study strategy of any particular TA broadening the information base for decishould be tailormade to fit the resources, sionmaking, and as a constituent of longtiming, and needs of decision makers. A range planning. great premium is set on study strategies that are adaptable and flexible, yet stable, rather Utilization than routine or formalized. The TA process Technology assessment is being inhas been shown to be adaptable to a wide creasingly employed in both the public and range of circumstances and needs. 3
+
+private sectors, A few major corporations are using TA as a part of the planning process and as an input for forming policy. In the Federal Government, TA is being used for some types of decisionmaking without being institutionalized. However, as with many studies, its results are not always fully utilized. 6. C o m m u n i c a t i o n Communication among the assessment team members; with potential users, sponsors,
+
+and decision makers; and with affected parties in the public sector, is essential for producing an effective TA as well as for its utilization in decisionmaking. The TA process brings together people with a wide range of views, thus necessitating the creation of a high-degree of communication. Decisionmaking and communication among the interest groups involved should be improved by the TA process as well as by its product.
+
+4
+
+SUBSIDIARY FINDINGS
+Witnesses' testimony also confirmed the value of OTA's experience over the past 3 years. The following reflect key points observed by OTA that emerged from the hearings, offered here in summary : a. It is crucial that the technology being assessed should be understood fully and completely, i. feasibility studies; in executive agencies, with their normal planning practices; and in Congress, with its hearing and oversight functions, The goals of balance, comprehensiveness, timeliness, and credibility are as important to private industries as they are to the public sector. Technology assessment is more of an art, than a formalized scientific discipline. Thus its success depends largely on sufficient time and resources as well as talent, skill, and experience.
+
+b. Achieving completeness and balance in a TA requires a diversity of inputs. c, The use of a team of assessors, cutting across many disciplines, is essential for carrying out large and complex TAs.
+
+d, Outside review is necessary to produce a credible study of high quality. e. A successful TA may determine the need for more detailed policy studies, and may provide the structure for possible follow on research. TA is a process that is likely to be repeated at more sophisticated levels as new knowledge develops and a technology evolves. Although flexible, a TA possesses certain structural elements. It describes the technology; defines the issue and its current status; sets forth the issue's ostensible future course; identifies policy actions; suggests alternative policy scenarios; and assesses the complete spectrum of potential impacts. A TA can reveal surprises because its results are not necessarily predictable.
+
+j.
+
+f.
+
+k. The delivery of useful results expressed in cogent and precise language is a major goal of TA. The mechanism for delivery should be planned and assured at an early stage in the assessment procedure. 1. Many traditional disciplinary and institutional boundaries are bridged by TA. This is evidenced in the corporate sector by interaction among various managerial groups; and in the legislative branch by the stimulation of improved communication and interactions among its agencies.
+
+g.
+
+h. Although TA has new and unique features and purposes, it is continuous with other long-range planning and policy development techniques: in industry, with marketing forecasting and
+
+m. In the corporate sector, there was a desire for TA findings to be followed by conclusions and recommendations, rather than the range of policy options and alternatives considered to be one of the major benefits of a TA.
+
+83-106 0 - 77 - 2
+
+n. The TA process is open to public scrutiny in the Government. In the corporatc sector however, proprietary considerations may restrict the release of information, o. There is a difference among the various sectors in the way public participation is
+
+achieved, In the executive and legislative branches, there often is direct participation via the hearing process to which a wide range of part ics-at-interest contribute. In the private sector, this type of public involvement is less frequent.
+
+6
+
+Section 1
+
+EVOLUTION
+Technology assessment (TA) is an evolving policy study strategy that is being widely adopted in Government and Private. sector organizations. It is viewed by the private sector as a potentially important tool for better understanding the future business environment and thereby improving corporate decisionmaking. The executive and legislative branches regard TA as a valuable tool for understanding the public choices before them, as well as for providing information essential for implementing these choices, TA will gain in importance with wider use.
+
+Technology Assessment: A Concept in Evolution
+Dr. H. Guyford Stever, Director of the National Science Foundation (NSF), observed that, " . . . we are undergoing some fundamental transformations in our outlook and activity in science and technology. These changes are being manifested in studies with more holistic analyses, taking a more comprehensive look at nature; with new understanding of international interdependence; and with a growing emphasis on bringing the future into sharper focus." (See Hearings Record p. 10.) 1 An executive branch witness, Dr. William L, Fisher, Assistant Secretary for Energy and Minerals, U.S. Department of the Interior (DOI), said that, " ., , formalized TA, as we understand it today, is of relatively recent origin. * * * As an analytical art it is still evolving, and subject to much more study and refinement. ''R. R. p. 23. It has become apparent in the course of TA's evolution that the depth, scope, investment, and time involved in a TA is related to
+Hearings Record will be abbreviated in subsequent references as H.R. p. -.
+1
+
+its purpose, its institutional auspices, and the management level of responsibility in the decisionmaking process for which it was undertaken. Thus, in order to respond to new needs and demands there has been an evolution of study strategies in the business environment, This has created a requirement for a sophisticated tool like TA, Mr. Jack B. Moore, Vice President, Advanced Engineering, speaking about TA's evolving role within his organization, Southern California Edison, substantiated this point when he said, "In today's world, any organization, be it governmental or industrial, having large impacts on society cannot continue without the ability to perform sophisticated TAs. * * * In recent years this [the use of TA] has become of greater importance with the advent of new technologies, environmental impact considerations, and economic limitations, " H.R. pps. 175, 180. Mr. Moore also pointed out how the evolution of the TA concept within his company had affected the management struc- , ture.
+
+Technology Assessment Concept
+The complex social problems caused by technology have created demands within organizations for an innovative approach simi`7
+
+lar in many respects to the TA concept. Dr. Stever expressed the view shared by others that the increasing interest and activity in the TA concept indicates a growing consensus that new strategies are needed to understand the problems confronting us. H.R. p. 4. An approach that applies the TA concept identifies the impacting technologies and exposes the resulting issues. It is also able to examine the relevant organizational decisionmaking structure; and is able as a policy tool, to identify alternative programs to be assessed, and possible impacts of such alternative actions and of external factors. All of these are evaluated in terms of the identified parties-at-interest, It then sets forth policy options for the decision makers. The potential primary impacts and sideeffects of technology need to be identified when developing approaches for achieving an organization's goals. The TA concept can be utilized either as a strategy for anticipating problems associated with emerging technologies, or as an organizing concept for
+
+clarifying policy options associated with longrange and complex social-technological issues. The TA concept can also be used as a tactic for dealing with immediate issues requiring an approach that distinguishes the policy trade-offs. Such assessments provide policy makers and planners with options and alternatives on which to base their decisions. The step from the idea to the operational implementation is the step from the TA concept to its actual use. Many organizations are unaware that they actually apply the TA concept.
+
+Need for Better Data
+The limitations of data--particularly with respect to objectivity--often are so significant that they can mislead a policy analysis, which may produce poor decisions. Two of TA's advantages arc: first, that it uses available data in the best and most appropriate way for achieving informed decisionmaking; and second,
+
+Figure 1. Some Technology Assessments Sponsored by the National Science Foundation
+
+8
+
+that it sharpens the awareness of data and research needs. The ready incorporation of the TA concept in both sectors has been in part due to the recognition that it is a means of developing accurate and objective data. As expressed by Dr. W. Dale Compton, Vice President--Research, Engineering and Research Staff, Ford Motor Company, *'The assessment process tends to assume an existing technology and to explore the ramifications of implementing it. This assumes that the technology is reasonably well-developed . One cannot establish the technical facts by consensus votes. Hard data on the particular technology must be available and must be agreed upon by the experts if an assessment is to be useful, This does not mean that implications drawn from the data will be universally accepted. In fact, the conclusions may be controversial. After all, one often is dealing with sociological forces, and the ability to predict social events is at best imprecise. Far too often, assessing the social implications comes down to a matter of judgment rather than to a prescribed means of making a prediction. But the technical data must exist and must be valid before any assessment should be undertaken. " H. Il. p. 117,
+
+Manager, Jet Propulsion Laboratory-California Institute of Technology (JPL-CalTech), also felt that it was important to get the technology right, but not to limit TA only to hardware. H.R. pps. 117, 208. Other perspectives were expressed by Mr. Lawrence H. Day, Assistant Director--Business Planning, Bell Canada, who thought that the technology itself was not "the key", service was the important factor, H.R. p. 158; and Dr. Sidney R. Galler, Deputy Assistant Secretary for Environmental Affairs, Department of Commerce (DOC), who considered regulations as "soft" technologies and therefore legitimate subjects for TA. This idea was extended further by Mr. Bruce A. Pasternack, Associate Administrator for Policy and Program Evaluation, Federal Energy Administration (FEA), who claimed that the TA concept is a tool whose value for the "soft" or what others call social technologies such as regulatory decisions, consumer patterns, and broad changes in policy, equals that of its value for the "hard" technologies. H.R. p. 81.
+
+Opinions About What Technology Assessment Is
+Several closely related working definitions of TA were given by different witnesses. The preamble to the OTA enabling legislation, the NSF program definition, and the working definition developed in the George Washington University state-of-the-art review on TA were all cited. Dr. Henry L. Duncombe, Jr., Vice President and Chief Economist, General Motors Corp. (GM), noted that, "OTA was created, according to the preamble of the Technology Assessment Act of 1972, to provide Congress with unbiased information concerning the physical, biological, economic, social, and political effects of the actions Congress may take on programs involving science or technology. " He added, "This is an awe-inspiring mandate as we would view it from the perspective of a single industry. It is truly breathtaking when wc consider the diversity and dynamism of the American economy. I would like to discuss 9
+
+Importance of Technology in Technology Assessment
+Technology has major effects throughout society that arc both positive and negative, A fundamental purpose of TA is to inform decision makers about these effects. Therefore, understanding the technology is paramount in planning and carrying out a TA, Opinions among witnesses differed concerning how broadly or narrowly technology should be defined, Dr. Don E. Kash, Director, Science and Public Policy Program, University of Oklahoma, indicated, " . . , I think it is important to emphasize that while we now know how to do technology we don't understand it. ' H.R. p. 201. To him technology meant hardware. Others, like Dr. Compton and Dr. R. Rhoads Stephenson, Systems Analysis
+
+TA as we view it in GM with primary emphasis on the economic, marketing, and commercial considerations that of necessity are important to any private enterprise, " H.R. p. 130. Mr. Moore said that Edison used George Washington University's (GW) operating definition of TA, which states that the process is, " . , , the systematic identification, analysis, and evaluation of the real and potential impacts of technology on social, economic, environmental, and political systems and processes, "2 Technology assessment was also described as more of an art than a science or related discipline, although it draws on both of these, A person with a scientific or engineering background tends to perceive TA as an extension of one of these disciplines, and tries to formulate a methodological framework in order to make the assessment process a more strucz This concept as defined and developed at GW in the period of 1966-70 is stated more fully as: "Technology assessment is the systematic identification, analysis, and evaluation of the full range of social impacts, both beneficial and detrimental, which may result from the introduction of a new technology or changes in the application and utilization of existing technology. In technology assessment, great emphasis is placed on secondary and higher-order impacts (that is, on unplanned and on intentional consequences) which affect social, cultural, institutional, political, economic, and environmental systems and processes of society. Technology assessment is intended to illuminate societal options and thereby provide a neutral and objective input into public decisionmaking." Vary T. Coates, Technology and Public Policy: The Process of Technology Assessment in the Federal Government; Vol. I, p, ix, Final Report, July 1972. The George Washington University. By comparison, the OTA's working definition of TA based on its experience is as follows: There is agreement that the concept of technology assessment encompasses a thorough and balanced analysis of all significant primary, secondary, indirect, and delayed consequences or impacts. present and foreseen, on society, the environment, or the economy that may occur when applications of a technology are introduced, extended, o r modified. Both the evolution of OTA's assessment techniques and its sense of overall mission require continuous examination, evaluation, renewal, and as appropriate, change in order to assure responsiveness to the needs and expectations of the Congress.
+
+tured and well-defined activity. This tendency was particularly noted by Mr. Selwyn Enzer, Associate Director, C e n t e r f o r F u t u r e s Research, Graduate School of Business, University of Southern California, who emphasized that people with technical backgrounds find that the notion of TA as an art is a difficult one to accept, In his opinion, many of the originators of TA recognized it would never become a completely scientific activity. This is because TA attempts to understand the processes of societal change over both the short and long terms, and can include "nonscientific issues involving human values. " H.R. p. 219.
+
+Common Elements of Technology Assessment
+One of the findings that emerged from the testimony is that TA should be tailormade to fit each study. This makes the need for a flexible approach mandatory, The witnesses recognized however, that there are a number of basic preliminary steps that have been found to be common to those TAs already completed and proven useful. Particular elements were singled out for mention by different witnesses. While opinions differed about which basic steps were most essential, there was almost unanimous agreement on the importance of defining both the task and the technology. Mr. Day pointed out that at Bell Canada they used "the standard [TA] definitions from the text books," that "identify secondary impacts resulting from the uses of technology. " Normally, this is the philosophy that directs their work. One inhouse study had used the "Mitre Methodology," characterized by Mr. Day as, an approach to TA that might, if anything could, be considered classic. " H.R. p. 157.
+. , .
+
+In his written statement, Mr. Enzer, after describing the five tasks he considered essential for conducting a TA said, "It should also be noted that some assessors emphasize certain tasks and minimize others, The issue over which there is the greatest disagreement is the
+
+10
+
+degree to which the assessment team should seek to make value judgments and policy recommendations. This is partly the result of the unscientific nature of such evaluations and partly to preserve the sense of objectivity with which the assessment was conducted. " H.R. p. 223. Dr. Stephenson cited the lessons learned in the JPL-CalTech TA on the need for a new auto engine. In his operational tasks, he discussed what he thought were the primary procedures to be followed in doing a TA. He added, "There are various aspects about the way in which the study was conducted that allowed us to grasp an extremely broad and complex problem, and derive conclusions and specific recommendations, which in the large, have held up to scrutiny." (See fig. 2.) Dr. Stephenson also considered post-report publication activities to be very important. H,R. pps. 207, 209 ff. There were also different opinions expressed about what a TA should include and
+
+what should be emphasized. From the description of the TA activities in the various organizations represented at the Hearings, it was clear that there was a wide disparity -in the scope of the TAs being done. For example, The Coca-Cola Company and JPL-CalTech studies were broad in scope and took into consideration the various elements of TA. They did not however, attempt to incorporate the views of the diverse publics, those who might have some stake in the outcome. Dr. Compton also indicated that at the Ford Motor Co. they did not include parties-at-interest in their TAs. H.R. p. 126. A complete TA is a comprehensive attempt to identify and describe a technology's entire range of side-effects as well as its policy options and alternatives. There are circumstances however, in which it is preferable to examine a narrower and more limited range of effects. This type of study, which is regarded as a partial TA, is also considered to be valuable. The use of such partial TAs indicates the importance assigned both to asccr-
+
+AUTO INDUSTRY PRACTICES SUBSTUDY
+
+HIGHWAY SAFETY SUBSTUDY
+
+1: MATERIALS SUBSTUDY I
+
+AUTOMOBILE TECHNOLOGY SUBSTUDIES
+
+ENERGY AND FUELS SUBSTUDY
+
+VEHICLE SUBSTUDY I
+
+AIR QUALITY AND EMISSIONS SUBSTUDY I
+
+VEHICLE CHARACTERISTICS
+
+POWERPLANT CHARACTERISTICS
+
+MANUFACTUNABILITY AND COSTS
+
+"
+
+I 1
+
+I
+
+CONFIGURATIONS
+
+----------
+
+--
+
+i I
+
+I I . ------ . SAF FINDINGS I I
+
+DRIVING CYCLE ALTERNATE - ENGINE VEHICLE OVE. --VEHICLE USE FINDINGS AIR QUALITY AND EMISSIONS FINDINGS
+
+I
+-- -- -- -- -- -- --
+
+FINDINGS
+
+-- -- - -- -- -- -- -- -- -- i --- -- -- -- -- -- -- -- - -- -- -- -- -- --
+
+-1
+SYNTHESIS
+
+----------
+-- -- -- -- -- - -- -- -- -- - -A -- ------ -- -- -- -- - -- --- -- -- -- -- -- -- - i
+
+RECOMMENDED STRATEGY
+
+Figure 2. Structure of the JPL-CalTech Automotive Power Systems Evaluation Study
+
+11
+
+taining secondary impacts in the decisionmaking process, and to having a set of options or alternatives from which to choose in arriving at a decision. Partial TAs provide these elements even within their restricted range.
+
+however, that the EIS frequently fails to highlight what - is in fact important. He was in agreement with the viewpoints of Dr. Kash and Mr. Enzer that an EIS was a form of TA but more limited in scope. Dr. Gallcr criticized the EIS process for two main reasons: first, because as in a TA it should have an economic dimension, and second, because like a TA it should take place at the beginning of the decisionmaking process rather than at the end. At present when an EIS is initiated a commitment has been made, and in most cases large amounts of money have already been allocated to it, If the EIS were done before the commitment of major budgetary resources to a proposed project, options and alternatives could be developed at each stage, and parties-at-interest could make their inputs at that time. As it is, the final written product has little impact on the planning, policy, and decisionmaking processes. Therefore, hc recommended that the National Environmental Policy Act (NEPA) legislation be reviewed. He also suggested that such a review might have lessons for TA, and be applicable to other areas.
+
+Environmental Impact Statement
+While some witnesses regarded an environmental impact statement (EIS) analysis as a partial TA, others thought it an inadequate basis for decision making because of its ex post facto nature, its limited scope, and the absence of decision options. The EIS process as described under 102-C, P.L. 90-191 is a partial TA, The utilization of the EIS however, raises serious concerns that highlight its institutional limitations. An EIS is carried out after most basic decisions have been made, such as the decision to select a particular fuel or particular utility site. Because of the emphasis on procedure and the broad scope of data collection, an EIS also tends to be insufficiently focused on decision options, alternatives, and consequences. Dr. Fisher observed that EIS was considered by his agency to be the same as a TA, except for a difference in scope and in the emphasis given to certain components. He added that at DOI they were cognizant of the distinction between these two types of analysis, and the limitations of the EIS process. H.R. pp. 27-28. Dr. Kash argued that an EIS was much narrower in scope than a TA, and not necessarily dependent on technology: and Mr. Enzer claimed that an EIS is essentially a subset of TA but does not get into, "The difficult issues of psychological, social, and emotional impacts, and the degree to which society should intervene in these processes . . ." H.R. p. 236. Dr. Galler suggested that the EIS process has made a major contribution, taking into consideration the number being done, and the way it has instilled a widespread consciousness among planners and decision makers of the need for planning ahead by anticipating secondary effects. He made the point 12
+
+Bounding the Problem
+A crucial step in formulating the options and alternatives in a TA, is to define the scope of the study. Several of the limitations in setting the bounds of a TA have been recognized. Dr. Stever observed, "As to the limits, I believe we can look at several real-life elements, First, there is a client who provides a need limit, How much information of what nature does a client have a need for? Here, a principal dimension concerns which of the two major functions is of primary interest to the client. There arc quite different needs from a private enterprise perspective than from a long-range Government policy perspective. A second area would be the nature of the technology or problem at hand. This typically puts a time limit on the assessment process in terms of forecasting, including forecasting not only effects but also
+
+capabilities. Finally, them is a real-life constraint in resources or budget. How much effort can be allocated to dealing with the broad, long-range consequences?" H.R. p. 17. Other witnesses saw the bounding problem from somewhat different perspectives, Mr. Moore cited time as a critical factor because technologies change over time, and because a point is reached in any major project, ". . . when a final decision is neccssary. " H.R. p. 1 7 4 . D r . C o m p t o n suggested , . . . the availability of reliable data that can be used in the evaluation of the issue under considerat ion, " as essentially the only 1imit imposed on the TA concept, H.R. p. 128. Mr. Harry E. Teasley, Jr., Vice President, Corporate Business Development, The Coca-Cola Company, added another bounding condition when he stated that TAs, ". . , will vary directly with the quality of the assumptions and the completeness of the model. " H.R. p. 114. While Mr. Moore felt that, "Since TA depends, in part, on predictions of future actions by society; it is limited by the nature of the assumptions used for the future of the Nation and international relationships. H.R. p. 182. Mr. Enzer's concern was with the cent'rovcrsial issue of, ". . . the degree to which the assessment team would seek to make value judgments and policy recommendations.'" H.R. p. 223, Other limitations cited by witnesses were funding constraints and the state-of-the-art of TA itself. It is difficult to limit and define a TA's boundaries because the potential of a new technology is limitless. Since in any organization, the financial, manpower, and time resources available for determining what is significant to study are finite, the bounding problem becomes what should be studied and at what depth. The most critical requisite however, is the use of good judgment while carrying out the TA itself.
+
+cated that there were no formal structures for conducting complete TAs in their organizations, they did convey that these were being carried out under other rubrics within bureaus or specific programs. At the DOI, according to Dr. Fisher, the staff preparing EISs considers them to be a type of TA, and incorporates the results of EISs in the Department's Program Decision Option D O Cument (PDOP), which presents options and alternatives for decisionmaking. The DOC, which has established the post of Deputy Assistant Secretary for Environmental Affairs to assist in complying with NEPA, prepares an average of 12 EISs per year. However, it has "reviewed many thousands over the last 5 years, " and has "commented on about half the number that have come in for review. " Dr. Galler, H.R. p. 75. The FEA carries out TAtype activities, even though there is no formal TA-structure either in the Office of Policy Analysis or in other offices, because FEA interprets the NEPA law as requiring an EIS on the impacts of its regulations before they become effective. Private sector participants indicated that even though they did not necessarily have a formal structure for carrying out TAs, they were concerned about secondary impacts. For example, the Phillips Petroleum Company has, ". , . the equivalent of 600 people involved in environmental work. " Mr. J.W. Davison, H.R. pps. 45, 71. And the Monsanto Company, which assesses projects with the potential for sizable impacts in the corporation, has carried out TAs on over 35 large and small business projects in the past 6 years. Mr. Monte C. Throdahl, H.R. p. 40. At The Coca-Cola Company, TAs are done as they arc needed. H.R. p. 114. This on the whole typifies the approach of the corporations testifying.
+
+Implementing Technology Assessment
+There arc various ways in which organizations establish the process for doing TAs While the executive branch witnesses indi-
+
+Study Strategies and Techniques Utilized
+Experience shows that there are no agreed upon techniques for carrying out a TA. AS Mr. Day expressed it, ". . . we have had our fingers 13
+
+burned and learned the fine details of how to and how not to conduct TAs. We could sit and debate the methodological issues for days on end. If there is a viable TA technique around, we have used it. One thing I can say is that there is no technique today that has received any sort of universal acceptance; they all have wide holes in them. . . " H .R . p. 159. Mr. Enzer proposed creativity as a key to getting useful results. "We have to have imaginative, creative interdisciplinary persons working in these [TA] tasks ., ." H. Il. p. 230. Dr. Kash recommended rejecting, . . any proposed assessment that is characterized as being primarily dependent on a formal methodology . . . there is a very weak record of useful assessments coming from studies organized around such techniques as input-
+
+output analysis, Delphi simulation, and the 200 types of cost-risk-benefit analysis, " H .R. p. 195. As for study strategies at Monsanto, J. Kenneth Craver, Manager Futures Research commented, ". . . we have had to explore a variety of forecasting and analysis techniques. It was during this time that we developed cross-impact analysis as a tool that was particularly well-suited to our needs. " H.R. p. 37. Technology assessment requires study strategies that comprehensively treat all aspects of the problem being examined, The goals of any study strategy are; factually accurate information, unbiased analysis, and credible options and alternatives. Experience should develop a better understanding of what the essential elements of a TA should be.
+
+PREPARE PRELIMINARY PAPERS
+
+TEAM
+
+REVIEW
+
+I
+FINAL REPORT
+
+REVISED
+
+PAPERS
+
+TEAM
+
+REVIEW
+
+I
+
+1
+REVIEW BY PARTIES-ATINTEREST
+
+TEAM
+
+REVIEW
+
+REVIEW BY ADVISORY COMMITTEE
+
+REVIEW BY CONSULTANTS
+
+1 TEAM REVISIONS
+
+Figure 3. Internal and External Review Processes Utilized by the Science and Public Policy Program, University of Oklahoma
+
+14
+
+Section 2
+
+ADAPTABILITY
+The study strategy of any particular TA should be tailormade to fit the resources, timing, and needs of decision makers. A great premium is set on study strategies that are adaptable and flexible, yet stable, rather than routine or formalized. The TA process has been shown to be adaptable to a wide range of circumstances and needs.
+
+Need for Flexibility
+Technology assessment's value as a flexible study strategy was expressed by Mr. Moore. He observed that even though TA is costly and may be operationally difficult to employ, it is important for doing business at Southern California Edison because ". . it is not possible at the outset to account for all technological advances that will occur during project development, or to forecast those that will be acceptablc several years in the future. * * * The use of TA during the planning and conduct of the complete R&D program . . . has improved the flexibility in responding to problems that arise. Where technical feasibility, and economic and political systems were considered previously, Edison now uses TA to add consideration of social and environmental concerns. " H.R. pps. 174, 180. D r . Stever also noted this point, `*Technology assessments will be more credible and have more impact if a wide spectrum of alternatives is communicated to affected parties before they become committed to specific courses of act ion. " f-1. R. p. 10. "These characteristics of adaptability and flexibility have also proven of interest to planners who claim that TA maps a problem much better than other types of techniques.
+
+Technology Assessment in Relation to Other Study Techniques
+Because TA has much in common with other forms of policy analysis, the use of TAtype analyses is familiar to many decision makers and planners; and many TA-related studies are being carried out in the executive and legislative branches as well as in industry. Mr. Enzer in pointing this out said, ", ., many government and industrial organizations find themselves having been engaged in TA activities before they had any awareness of TA. The demand for better guidance of change in our society is now so pervasive that in spite of the methodological, institutional, and intellectual difficulties, TA will continue to grow and expand although it may do so under a variety of different names. " H.R. p. 227. Dr. Stever observed that often organizations do not recognize that they are in fact using TA when carrying out studies that are clearly re p lated to it, "It is interesting to note that even though a number of agencies have not used the term "technology assessment," efforts such as environmental impact studies, national assessments, future studies, planning studies, social impact analysis, the development of social indicators, etc. are going forward. These demonstrate a commitment and attitude
+
+15
+
+toward the systematic and comprehensive examination of the consequences of technological change. " H. R.. pps. 6-7. Mr. Day in discussing industry's involvement in TA noted, "Many of the techniques that are used for TA are those used in longterm planning in business. Other useful tech-
+
+niques are found in market research and planning, econometric modeling, and statistical analysis. While there is a clear distinction between these forecasting techniques and a complete TA, familiarity in industry with the use of these methodologies creates fertile ground for TA in business." H.R. p. 335.
+
+16
+
+Section 3
+
+ALERTING
+In addition to elucidating options and alternatives, TA can provide early warning of consequences normally unanticipated in traditional planning. Witnesses from both the public and private sectors saw this to be of distinctive value for policy makers. As TA is increasingly used, this value will become more apparent.
+
+Technology Assessment Process Itself is Important
+Mr. Enzer felt that, "The critical need in making TA work in our society is to develop an assessment orientation. " H.R. p. 229. M r Day's concern however, was that the business planners at Bell Canada should undcrstand both the strengths and weaknesses of TA, "A significant part of this understanding is that it is the process itself, not the particular study that really counts. Important areas cannot be given the effort they require in a single, normally short time-frame study that attempts to answer the important questions associated with the topic. " H.R. p. 332.
+
+Organizations are also recognizing that the assessment process provides an early warning of unanticipated consequences. when discussing the effect of the NEPA legislation Dr. Galler said, ". . . the requirement to prepare the EIS under NEPA, for the first time in our Nation's history institutionalized a process for projecting and assessing the effects of technology-oriented decisions on the quality of the total environment, " H.R. p. 74. Decision makers engaged in EIS-type assessments have become aware that prior to proposing a course of action, the scope of their studies should be extended to include social impacts. As a consequence, there has been an increased acceptance of the broader TA process itself.
+
+PLANNING
+Management in both Government and industry is finding an increasing need to comprehend the intermediate and long-term effects of technology. There is a growing awareness in both sectors of TA's value for improving the policy planning process, for broadening the information base for decisionmaking, and as a constitutent of long-range planning,
+
+Dr. George E. Mueller, President and Chairman of the Board, System Development Corporation, noted, "At SDC our TA program is used to anticipate and plan for the impacts of technology changes on our products and operations. * * * I n short, our TA program is an essential ingredient of our long-range business planning, investment policy, product planning, and market development." H.R. p. 183. And Mr. Moore said, "We must realize and always be aware that TA studies do not promise accurately to predict the future. Their purpose is to make us aware of future possibilities, This type of assessment generally can fulfill the need by identifying the technological status and the requirements for implementation. By doing so, it serves to bring about change by the orderly development of the new technology. " H.R. p. 173. In answering a query on the use of TA in planning and decisionmaking in the Government, Dr. Stever responded that there appears to be, ". . . a general orientation to use TA in a large number of Federal agencies;" but that, " . . . the crux of the question is in effective use of TA in our planning and decisionmaking. " He added that the Institute for Social Research at the University of Michigan is currently conducting an NSF-sponsored research project to obtain information on the utilization of TA in policymaking. H.R. p. 29. 18
+
+Awareness of Technology Assessment in the Planning Process
+There has been a growing awareness of the importance of TA for planning in both governmental agencies and private-sector organizations. Dr. Fisher noted that there were people in the various agencies within DOI who are capable of carrying out "the many kinds of analyses that are required by a formal TA; " and that many elements of the concept have been used for a number of years to aid the Department " i n p e r f o r m i n g i t s p r i m a r y function." H.R. p. 25. Commenting on the prevalence of TA activities in the Government, Dr. Galler said, ". , . it seems to me that the TA process, whether you call it TA, EIS, or systems analysis is going on all the time. " H.R. p. 96. The private sector is similar to governmental agencies in its actual use of TA. To some firms it is just a smart way to do business and has been a way of life for years. Mr. Throdahl noted, "We [Monsanto] were doing a form of TA as a result of market needs * * * and scientific curiosity even before this term had been coined. " H.R. pps. 32-33. According to Dr. Duncombe, "General Motors has long been concerned with at least some of the elements included within this all-encompassing term."
+
+FACTORS IN CORPORATE PLANNING
+TECHNOLOGY, PRESENT AND FUTURE INTERNATIONAL FACTORS + U.S. GOVERNMENTAL AND PUBLIC POLICIES
+
+ENVIRONMENT
+
+DEMOGRAPHIC
+
+FEEDSTOCKS COMPETITION PRODUCT SUPPLY AND DEMAND
+
+Figure 4. The Planning Process is Much More Broadly Defined Today Than in the Past
+
+H.R. p. 130. And Dr. Mueller said, "Technology assessment is a continuous process that is quantified and documented annually as a part of our 5-year planning cycle. " H.R. p. 183. A similar comment was made by Dr. Dean Gillette, Executive Director, Systems Research Division, Bell Laboratories, ". . . I feel that much of what we do in evaluating systems options is consonant with its [TAs] basic concepts. Some of our methods have been in use for decades as part of our systems engineering and human factors work. " H.R. p. 146.
+
+proprietary, Several witnesses remarked that decisions about how and where to do a TA are difficult to make. At NSF, in the Research Applied to National Needs (RANN) program, there is a TA program office that contracts out its TA work. At Phillips Petroleum and at TVA, the TA process has been ongoing within these organizations over periods of years. Similarly at The Coca-Cola Company, the Corporate Business Development Department can call on corporate resources for any required assistance. A TA for a private organization can be extremely costly. If a firm does not have the inhouse capability to do a TA, a contractor is hired. Mr. Day noted that a company has to recognize when it takes this step, that the consulting firm or university will spend a large portion of its resources just for acquiring the 19
+
+Inhouse Versus Contractor Approach to Technology Assessment
+The factors affecting an organization's plan to conduct a TA inhouse relate specifically to such questions as available financial and staff resources, confidentiality, and credibility. A critical factor is whether the subject is
+
+data base to gain the necessary knowledge of both the industry and the technology that is being assessed, From a practical standpoint, he suggested that the amount of work could be reduced, while increasing the effectiveness, through cooperative research or joint projects with other industries and Government agencies, in a favorable environment. H.R. p. 335.
+
+Credibility
+An organization may find that its best interests are served by planning for an outside contractor to conduct a TA. If the outside TA supports the organization's efforts, its credibility is enhanced. In the case of industry however, this can create special problems. As Dr. Kash pointed out, "At present, most of the organizations that do TAs are heavily funded by Federal agencies with promotional or regulatory interests in the technologies, or alternatively by industries with economic interests. Regardless of the quality of the research, it is open to serious challenge when it comes from such organizations. " H.R. p. 197. The Ford Motor Co., which granted JPLCalTech $500,000 to do an independent TA "of alternate power systems for motor vehicles, "
+
+exemplifies a company that turned to an outside contractor through a formal selection process. This step was taken, according to Dr. Stephenson of JPL-CalTech, because Ford ". . . along with the rest of the auto industry was encountering a long and continuing series of adversary interactions with the Government, primarily in congressional hearings and Environmental Protection Agency emission control suspension hearings. * * * However the credibility of the industry was very low because, in part, they had a vested interest in the outcome. " H.R. p. 206. Dr. Compton noted that Ford wanted an outside contractor because of a feeling that some key issues may have been overlooked with respect to its internal assessments of different power systems, Therefore they took a step considered to be, ". . . unusual in the TA business, We asked a highly competent outside group to work completely independently of us to carry out an assessment essentially parallel to our own in the evaluation of the potential of future automotive powerplants. " The study has proved valuable as a "source of information for Government and private sector policy guidance. " H.R. pp. 119-120.
+
+20
+
+Section 5
+
+Technology assessment is being increasingly employed in both the public and private sectors. A few major corporations are using TA as a part of the planning process, and as an input for forming policy, In the Federal Government, TA is being used for some types of decisionmaking without being institutionalized, However, as with many studies, its results are not always fully utilized.
+
+Utilization of Technology Assessment Results
+The options and alternatives developed as a result of TA are used in policymaking by organizations in Government, and can be an essential ingredient in the operations of private-sector organizations, In response to a question about how TA fits into the general policy formulation and decisionrnaking processes in his Department (DOC), Dr. Galler replied, "EISs and other typcs of TA studies are part of the information package that accompanies a project or decision memorandum for use by policy level departmental personnel. They also influence the drafting of recommendations and design of projects." H.R. p. 99. Mr. Day noted that with respect to industry, certain pressures may be the reason for the use of TA. He suggested that there were three categories in which the pressures for involvement could be grouped: 1) defensive reactions, 2) positive pressures, and 3) corporate social responsibility. In his opinion, events were forcing industry into defensive reactions in which TA served an important function. He thought that industry was becoming more aware that it was legally responsible for the secondary consequences of its actions, and
+
+therefore that TAs are being started before there are more formal requirements. From a more positive viewpoint, Mr. Day believed that TA was perceived as being vital to corporate long-term planning, and that there is a strong interest developing in industry in what he termed, "corporate social responsibility. " He thought that this would be advanced primarily in the Government-regulated industries, since they are not as caught up in the Government versus business rhetoric that occurs elsewhere. H.R. p. 336.
+
+Effect of Technology Assessment on Decisionmaking
+There was general agreement that TA had a significant effect on policymaking both in Government and in the private sector. Mr. John S. Barron, Assistant to the General Manager, Tennessee Valley Authority said, "Technology assessment is a vital member of a group of tools that are available to Federal agencies. * * * We consider it to be an essential major component of any decisionmaking process in our organization, whenever the circumstances permit. " H.R. p. 96. Dr. Compton similarly stated ", , . we [the Ford Motor co. ] regularly carry out TAs, and we believe that the results provide a valuable input to our decision processes. " H.R. p. 116. 21
+
+Dr. Stever referred to a detailed case study of the utilization experience of a TA on Outer Continental Shelf (OCS) oil and gas operations. This TA was conducted for NSF by the University of Oklahoma and, ". . . at the time of its completion in September 1973, it was the only comprehensive and disinterested study of both OCS oil and gas extraction technologies, and of Government regulatory and management policy relating to those operations." 3 This TA was used by various executive branch agencies. 4 It was given to Congress, and served as a background document for congressional hearings. 5 It has also been found useful by numerous environmental groups as well as by industry; and employed extensively at conferences and symposia; and used as a textbook. Management considers TA to be important because it provides the decisionmaking process with a spectrum of options and alternatives. Knowing the trade-offs, they are then better able to decide the most suitable courses of action for their particular interests. Dr. Compton said, "I think the important distinction is that TA establishes what the options are; that is, what the cost of those options will be." H.R. p. 126. This view was supported by Dr. Stever. He also said. "While there is a
+~ Miedema, A., "RANN Utilization Experience: Outer Continental Shelf Oil and Gas, University of Oklahoma," (Research Triangle Park, N. C.: Research Triangle Institute). 4 Ibid., The executive branch agencies utilizing the TA include the following: Bureau of Land Management, U.S. Geological Survey, Council on Environmental Quality, Environmental Protection Agency, National Oceanic and Atmospheric Administration, U.S. Coast Guard, Office of Pipeline Safety (Department of Transportation), and Occupational Safety and Health Administration (Department of Labor), pps. IZ-10 to
+
+general agreement that assessments are conducted to inform a variety of decisionmaking elements in our society, I believe that we should carefully distinguish that TA per se does not make either policy or decisions. It provides information for these activities. " H.R. p. 7. Another value of TA to the corporate sector is that it develops new study strategies, objectives, and goals. This enables decision makers to reflect their changing business environment, The corporate witnesses agreed that the current and immediate future business environment, economic and material concerns, modifications in retailing and life-style, are all influencing corporate planning. Technology assessment is also useful in helping to develop policy strategies for dealing with externalities, i.e., those technology impacts that are normally outside the considerations of the chain of buyers and sellers. In discussing a decision by Monsanto to recover additional elemental chlorine for reuse in its own systems, Mr. Throdahl remarked, "This is the sort of responsible corporate decision that many in industry are making today. We believe that it is in harmony with the new climate that exists. In many companies, including Monsanto, this sense of corporate responsibility is formalized through policies that are approved at the highest levels of the corporation, and procedures to carry out those policies are developed at the working levels of the firm." He further commented, "Policy decisions have to be made in which the demands of the ecology, consumer protection, and energy problems must be balanced against each other, Technology assessment provides the thought process through which these difficult value judgments can be made. " H.R. p. 35.
+
+12-16. s Ibid., Those legislative branch agencies and committees utilizing the TA include the following: in the Senate, it was used by the National Ocean Policy Study, Committees on Commerce, Interior and Insular Affairs, and Foreign Relations. In the House of Representatives, it was utilized by Committees on Judiciary, Interior, and Insular Affairs, Merchant Marine and Fisheries, and Science and Technology. Other congressional users include the Congressional Research Service, Library of Congress and the Office of Technology Assessment, pps.
+
+Perceived Role of the Office of Technology Assessment
+The formation of OTA has had the effect of stimulating interest and activities in TA. Mr. Throdahl said, "The Office of Technology Assessment has played a definite role in help-
+
+12-17 k) 12-21.
+
+22
+
+ing us make these decisions (to protect the environment) by bringing the subject to the attention of the Congress and the S t a t e legislatures, and by alerting the thinking public to the complexity of the situation. He also said, "We look to the OTA to spearhead and lead in the development of better methodologies. " H.R. pps. 35, 40. This view of OTA is different from that stated by Dr. Duncombe. He suggested that a possible way to deal with the problems associated with poor regulations was for a third party, in this case OTA, to perform TAs that, when given to Congress, would give Congress the kind of accurate, credible, and unbiased options that it needs to make policy decisions. He said that OTA could also help sort out for Congress, ". . . those areas in which regulation may be required and those where market forces are superior. " He added, "That is where looking down the road, I see the great strength of OTA, helping in this way. " H.R. pps. 133, 139. The OTA was also seen as an institution that by stimulating TA activities could improve the policy development process both in Congress and in governmental agencies. "One of the best consequences of having an Office of Technology Assessment within the Congress is that we in the Administration can watch you go through the problems of setting priorities on these issues. " Dr. Stever, H.R. P .
+14.
+
+tion of new technologies does not cause, in terms of secondary impacts, too many positive and negative surprises for society. With an informed understanding through TA of what the impacts are, the policy and decision makers in the Government can better exercise their responsibilities to the general public. A difference in goals became apparent when Chairman Brown asked Dr. Compton how he reconciled the marketing role, which is what is best for profitability, and the TA role, which gives one a measurement of all the energy, capital, environmental, and other impacts. Dr. Compton replied that the value of TA was that, " . . . it presented the options to the corporate management that has to make decisions on how to best use its capital and how to make the best profit on that capital. " Chairman Brown then asked if the Ford Company's final criteria for action is always going to be the best return on capital. Dr. Compton responded, "The final criteria involve many things obviously, There are considerations such as corporate responsibility that are in that equation; t h e r e a r e i s s u e s s u c h a s customer loyalty that may be more important over a long period of time than a gain in the near term. There are many things that enter into the corporate decision. But the technical issues have to be presented as sound options. The other factors then get built in during the management assessment of these option s." H.R. p. 127. Thus in the private sector while certain elements of TA may be agreed on and the work may follow an objective scheme, that does not necessarily mean that those options selected will serve the interests of the general public. Industry apparently looks to the Government to provide the framework, and claims it cannot accommodate externalities-those social costs not generally included in the normal operation of the market system--in the absence of Government action. In order to survive in the marketplace, industry will most likely decide on an option that serves its best interests while providing the most acceptable number of trade-offs. Chairman Brown and Dr. Compton discussed what could be done to encourage in23
+
+Differences in the Aims of Technology Assessment Between the Public and Private Sectors
+The private sector and the Government have substantially different orientations toward TA. The private sector is interested in TA as an aid in competing in the marketplace, for improving understanding of the future business environment, and for producing options for the decision maker. The Government sees TA as a better way to exercise its trusteeship, and to assist it in becoming more socially responsible. In the Government there also is a concern with understanding and trying to anticipate future events so that the introduc-
+
+s
+
+r
+
+1
+
+I
+
+--
+
+r
+
+-­-I--Q-­-J
+
+i I
+
+I
+
+I
+
+*
+
+I
+
+I
+
+II
+
+i
+
+dustry to adopt a more socially responsible course of action in its TAs, Chairman Brown observed that this could benefit industry by reducing the need for the role of Government. Dr. Compton thought something could be done along these lines as long as there was some assurance, ", . . one's competitors would be doing the same, and if not that, there would be no net disadvantage to you. " H.R. p. 127.
+
+Technology Assessment in Regulation The extension of the TA concept to the evaluation of potential regulatory needs and options would undoubtedly benefit both the regulatory process itself as well as governmental decision making, This point was emphasized by both Drs. Duncombe and Galler.
+Dr. Compton did not believe that TA itself would lead to a reduction in the role of Government as a regulator of the private sector, as Chairman Brown had implied in a question to him. Dr. Compton said, "I would hate to predict that as being a consequence of TA, because it seems to me that the critical issue here is what arc the incentives to accom mod ate these second - and third -order benefits . . . the negative effect, Unless the incentives arc clearly defined and can be applied universally across the entire industry or product, it is very hard for them to be accommodated, I think. I would hesitate to predict that this would change the level of Government involvement, but I would hope that it would focus it, and make it such that we would realize the implication to both the public and to the private sector of a particular involvement on the part of the Government. " He did think that it would be beneficial for the Government to do a TA of its regulation, since if that happened, "I believe that it would have been recognized that there were insufficient data to make some of those predictions (clean" air amendments). " H.R. p. 125.
+
+commitments and perspectives within virtually every sector of American society. The TA viewpoint is gradually growing in acceptance as the Government attempts to deal with the increasingly complex national and international technological issues. Governmental policy development activities with respect to technology require a general organizing concept like TA, This is especially so as the interrelatedness of the world's physical and social environment is better understood. Dr. Stever expressed this challenge as follows: "- Our perspective of the global environment is changing to recognize the complexity of nature's ecology and the human place in it, -- A worldwide commitment to bring about a balance between population and food supply is growing. A realization that our primary reliance on fossil-fuel exploitation for energy must be shifted to renewable resources is increasing. -- Although not so strongly felt as the pressure upon energy resources, a percept ion is growing that material resources also must be wisely managed -- A recognition is emerging of t h e necessity to make significant economic and social adjustments in response to questions of worldwide equity within a feasible time. -- Underlying all of these is a realization that our success in facing all the challenges elicited by these new o u t looks depends on a vast growth in human knowledge and its prudent applacation, " H.R. pps. 4-5 0
+
+Acquiring an International Perspective
+The Government is growing more interested in TA as a result of a series of new
+
+Technology assessment is being used in Government and industry, and is affecting decisionmaking. The aims of Government and industry differ, which is reflected in their use of TA. They both see TA however, as a fresh way to probe and explore mutual interests. 25
+
+COMMUNICATION
+Communication among the assessment team members; with potential users, sponsors, and decision makers; and with affected parties in the public sector, is essential for producing an effective TA as well as for its utilization in decisionmaking. The TA process brings together people with a wide range of views, thus necessitating the creation of a high degree of communication. Decisionmaking and communication among the interest groups involved should be improved by the TA process as well as by its product,
+
+Communication and Public Participation
+From his perspective as the Presidential Science Adviser and Chairman of the Federal Council on Science and Technology, Dr. Stever observed that in Government interagency activities, cooperation will enhance comparability, evaluation, and integration of TAs for the use of decision makers, He pointed to the formation of the Interagency TA Coordination panel as a step in the right directi on, H .R . p. 7, The NSF RANN Utilization Experience Report on the Outer Continental Shelf oil and gas TA, showed that this TA has had a wide and far-reaching impact on interagency and interbranch communication in Government. 6 Based on his extensive TA experience, Dr. Kash emphasized the importance of close communication at each stage of the assessment process because TAs: ". . . 1) are inherently interdisciplinary. . . . 2) involve dealing with people's preferences or values, 3) are neither scientific activities themselves nor are there any demonstrably successful methodologies
+6 Ibid., Miedema, A.
+
+available for carrying them out; and 4) special efforts are required to insure that their findings are usefully communicated to policymakers." H.R. p. 194.
+
+Improved Cooperation and Understanding
+There was agreement that both sectors would be the beneficiaries of closer relationships produced by better communication on TA, Some saw this working together as a way to reduce the tension and feelings of an adversary relationship existing between the sectors. Dr. Stephenson said, "In many TAs it is the private sector that has the detailed information on the technology, including marketing and manufacturing, It has a great deal of the data, and in many cases, will become the implementor of the technology being assessed. Thus, it is essential that the private sector be closely involved with the assessor and the Government agencies that may be involved in the regulation or funding of the technology." H.R. p. 217. Mr. Enzer saw two benefits that could result from a closer relationship with respect to cooperation on TA between Government
+
+26
+
+and industry: "First, they can share methods and experiences. Second, they can assist each other by serving as advisors to each other in their respective assessments. The two-way nature of these relationships is very important, It is as crucial for Government to be involved in industrial assessments, as it is for industry to be involved in governmental assessments, if we are to move closer to an even-handed view of the consequences of change, A substantial portion of the benefits sought from TA are likely to result from the change in our institutional approach to evaluating technology. The change in approach will be enhanced by the interdisciplinary aspects of the assessment. A two-way relationship between Government and industry in the assessment process will provide those benefits in a most effective lowkey manner. " H. Ft. p. 236. In industry, TA is largely done to meet internal corporate planning and decision-maker needs. Long-range planning may involve both proprietary information and operational information that, while being beneficial to decision makers, management would not want released to the public. Consequently, the results of TA may not be widely publicized or made fully available. In contrast, public funded TAs should be fully and freely available. Dr. Compton explained, "WC tend to look at various aspects of issues: how they affect the total labor market, how they affect the marketing and acceptance of our products and so forth. When we do these internal assessments we do not generally invite public participation. From the standpoint of assessments that are being carried out in the public domain, as arc OTA studies, I think it is appropriate that the public be involved, but only at an appropriate time. " Z-Z. R. p. 126. Mr. Davison focused on the benefits accruing from closer interaction on TA between both sectors, and on the need for a greater assumption of social responsibility on the part of the private sector. He stressed the degree to which his cornpany, and presumably the other forward-looking sectors of private enterprise do take a sort of trusteeship responsibility with regard to what they are doing. He
+
+remarked that the amount of effort that the Phillips Petroleum Co, and others are applying to the societal and environmental aspects " . . . is outspoken testimony to the emphasis we are giving it. " H.R. p. 71. Chairman Brown observed that the role of OTA had been seen by Mr. Davison as possibly making a bridge between Government and industry both, ". . . by improving the understanding on the part of Government of the economic impacts of what might be proposed, and possibly helping private enterprise . . . to understand the importance of the trusteeship role. They need to consider second- and third-order effects on human beings, which is a trusteeship function." H.R. p. 69. Industry is ready for even closer cooperation with Government on TA, Mr. Davison thought that the first step in this process had already been taken by OTA when it brought in industry people to sit on and participate in both its TA panels and its Advisory Council. Commenting on the use of industry personnel on OTA panels, Dr. Compton said, ". . . it could be of mutual benefit to OTA and to industrial organizations such as Ford Motor Company, if procedures existed whereby we could more effectively provide an early input into governmental studies, * * * Opportunities to contribute our own findings and analyses during OTA studies rather than the more limited system of commenting on finished reports, provides a healthier climate for Government-industry interaction. Recent experience along these lines in the OTA in its durability assessment now underway, demonstrated the value of early interaction. " H.R. pps. 120-121. After it was pointed out to him by Mr. Daddario that OTA panels, committees, and its Advisory Council all have industrial members, Dr. Compton replied that what he meant was, ". . . stronger involvement of those companies competent to comment on specific issues is important. The involvement of experts is also important, but their views should not be considered equivalent to corporate evaluations, H.R. p. 123. 27
+
+00
+
+SCP "CRITICAL PATH"
+TRENDS IN ECONOMY COMPETITIVE TECHNOLOGIES AND 'OTHER EXTERNAL FACTORS GOVERNMENTAL REGULATIONS AND CONTROLS SURVEY SMALL ANIMALS SMALL ANIMAL FEEDING STUDIES LARGE ANIMAL FEEDING STUDIES
+
+)
+
+o
+
+YEAST FEEDING PROGRAM
+
+LARGE ANIMALS MULTI. GENERATIONAL STUDIES
+
+OTHER ANIMAL FEEDING PROGRAMS SMALL ANIMALS BACTERIA FEEDING PROGRAM CULTURE SELECTION BIOSYSTEM PARAMETERS PRIOR INPUTS SMALL SCALE RESEARCH RENTED FACILITIES PRODUCTION I LOT PLANT DESIGN MARKET DEVELOPMENT MILTI-GENERATIONAL STUDIES
+
+COMPUTER
+
+SIMULATION
+
+PRODUCTION OF PRODUCT COMMERCIALIZATION DECISION
+
+PROCESS DEVELOPMENT
+
+PRELIMINARY ECONOMICS EMISSIONS CONTROL
+
+ENGINEERING EXPERIMENTS
+
+ADVANCED ECONOMlCS EVALUATION PROJECTS DEVELOPMENT, PROCESS PROMOTION, LICENSING
+
+ENVIRONMENTAL NEEDS AND COMPARABILITY
+
+-
+
+ADVANCED MARKET
+
+IN- DEPTH SOCIETAL , ENvIRONMENTAL, LOCATION, GEOPOLITICAL AND OTHER FACTORS
+
+REGULATORY STANDARDS WORLD-WIDE MARKET STUDIES
+
+METHANOL TECHNOLOGY SURVEY
+
+Figure 6. The Single-Cell Protein-in Research, Development, and Commercialization at Phillips Petroleum Company
+
+When asked by Mr. Daddario why Ford did not apply this same philosophy to its abstaining from involvement in the study done for it by JPL-CalTech, Dr. Compton responded that he did not think this study was inferior because Ford did not participate. He noted that they had some difficulties with a few of the conclusions, and were interested in some of the new rnethodologies that had not been used before; he added that what was important was that the discussion should take place at an early developmental stage of the study, which should then lead to an agreement on the general approach, and help prevent a confrontation on the results. So that while there might be clear disagreements that would perhaps never be completely resolved, airing them before the study's completion would be valuable. H.R. p. 122.
+
+emplified in the JPL-CalTech study, ` hShould We Have a New Engine?" sponsored by the Ford Motor Co. Monsanto took a novel corporate approach to the TA process. In order to obtain a widcrange of views on its Cycle-Safe ® container TA, a series of symposia were scheduled. The issues raised were incorporated and published as part of the TA record. As a result of its efforts, Monsanto received a wide variety of inputs. Decision makers at all levels in Government and industry became cognizant that a major corporation was engaged in TA; and those that had not been before went away from the symposia aware and appreciative of the TA process. The impact of Monsanto's efforts was far-reaching. This was borne out by a survey of potential witnesses for these hearings. The fact that Monsanto did a TA on its Cycle-Safe® containers, and held symposia in four cities to discuss the results, was widely known and continually cited as one of the best examples of the TA process in the private sector.
+
+Delivering Results
+The process of delivering TA results is a major communications enterprise often underestimated by managers. This is true whether sponsored by a governmental agency or initiated by a private-sector organization. If there are many parties-at-interest to be informed about the TA, or who may have any interest in the assessment, budgetary planning for the use of anticipated delivery mechanisms and requests should be included in the assessment plan. Dr. Stephenson commented that an important lesson learned from their successful TA for Ford was that provision should be made for post-report publication activities. "A suggestion is that this post-report interaction phase be recognized as an integral and legitimate part of a TA, and that it be provided for in both the plans and budget. " H.R. p. 211.
+
+Training and Education
+Technology assessment could be expanded and advanced throughout all the sectors both by improving the training in carrying out TAs to make it more effective, and by increased communication, Exchanges of personnel both within and between governmental agencies, industry, educational, contract, and research organizations would also have a beneficial effect. Dr. Fisher noted that at DOI there had been conversations on TA with both NSF and OTA, that members of the Department were acting on an NSF coordination panel and on detail to OTA, and that the U.S. Geological Survey had provided OTA with background material for it mineral assessment of Federal lands. He also remarked that staff people who have been on detail to OTA return with many new skills and much to offer the Department, and indicated that these people will most likely assist in some way in training, briefing, seminars, and similar activities. 29
+
+Mechanisms for Delivery of TA Results
+Mr. Enzer also commented on the necessity for multidisciplinary teams and effective oversight and review panels. He stressed the dominant role of objectivity as well as the need for credibility in the funding organization. This emphasis on objectivity and credibility is ex-
+
+Dr. Galler recommended steps that might prove effective in an attempt to build up TA expertise. "Two specific forms of technical aid are categoric grants for personnel training, and a Federally sponsored State or regional environmental agent system, " H.R. p. 99. At present there appears to be little formal education or training for TA anywhere in Government, The level of training and education is low. Actual engagement in the EIS and TA processes is one way of raising it, According to Mr. Pasternack, much of TA activity involves building up the capability and the experience of doing these kinds of studies. He noted that because of the present capability and level of experience it is now possible to do quick assessments that as recently as a few years ago would have taken 2 years, and that the stateof-the-art has advanced considerably by having people trained in considering secondary and other impacts rather than only direct environmental and economic impacts. H.R. p. 91.
+
+ternal review panels, and having concerned members of the public sit on advisory committees. Dr. Kash also proposed that reviewers should include consultants, an advisory committee, and a broad range of persons chosen to represent the interests and values that arc at stake. The mechanisms for public participation may be diverse, and can include the following: review of documents, interviewing, survey participation, oversight, and participation in the TA study, Expanding on this approach to public participation Dr. Kash said, "I believe that two routes are most fruitful, One is to insure that a representative group of the interested public be included on oversight or review committees put together for each individual assessment. Second, the group doing the research for the TA must view the interested public as a major source of information and data. This means that the research group must seek information, counsel, and criticism from potentially interested parties at every stage in the process. * * * [The pursuit of information] . . . means that you get the interested public to review and critique every draft of the papers prepared in connection with the TA. " H.R. p. 204. All of the Government witnesses spoke of the diverse array of public inputs they utilized in attempting to communicate with the public about their TA and related activities. Efforts arc made to bring developing points of view into the decisionmaking process, whether in the form of public hearings, review panels, or oversight committees. This kind of public involvement was not evidenced by the testimony of industry witnesses, except in the case referred to by Mr. Throdahl, in which Monsanto sought public comments in its TA on the Cycle-Safe ® containers.
+
+Role of Public Participation
+In attempting to define what public should be invited to participate in which assessment, Dr. Kash noted, "An important point is that there is not a single public. For each TA there are specific interested publics. A TA is a failure if the investigators do not identify those publics. It is also a failure if those publics are not an integral part of the research process, If they are an integral part of the research process, the people doing the TA have covered 90 percent of the distance necessary to disseminate their results. That is assessors can't separate their research from the people to whom they will communicate their research. " H.R. p. 204, (This includes users and parties-at-interest.) He indicated that "since there is an upper limit on the number of persons that can be included in an interdisciplinary research team, limitation in terms of perspective, bias, and knowledge cannot be completely overcome. H.R. p. 195. Since an assessment team may have an institutional bias, some of the mechanisms for overcoming this are: public participation, ex30
+
+Public Participation Efforts in Executive Agencies
+Witnesses from executive agencies noted that attempts are being made to involve the
+
+public whether it be on committees, panels, or in hearings. Dr. Stever observed that the TA program at NSF has an oversight committee with each assessment. "This arrangement is designed to provide interaction with a set of interested parties throughout the assessment process, to increase sensitivity to the problems at hand, and to alert the research team to potential users and uses of the study findings. One of the lessons wc have been learning is that a balanced and active oversight committee makes a major contribution to an effective result. " H.R. p. 10. Mr. Pasternack commented that, "The regional meetings, whether hearings or advisory committee meetings, are invaluable both to communicate to the people in the region what we are doing, and to get information from the affected areas. " H.R. p. 92.
+
+Public Participation Efforts in the Private Sector
+While the Government tends to emphasize its public inputs, if public participation in the private sector exists at all, it is carefully delimited. The innovative series of symposia held by the Monsanto Company in order to communicate its TA work on a new plastic container, was a notable example of obtaining public involvement in the private sector. Such public participation is minimal in other industries. Dr. Mueller said that at SDC, "Our inter-
+
+nal TA program does not usually involve the general public directly, however wc encourage o u r TAMs [Technical Area Managers] and other technical specialists to participate in professional societies, industry associations, government study panels, and similar activities that involve a broad crosssection of opinion and consider technology progress from the public point of view. " H.R. p. 191. He also commented "There is no question in my mind that more and more of our usc of our applications of new technology is going to be influenced by the way the public feels and expresses its concerns. " H.R. p. 1 9 0 , While Mr. Teasley indicated that the public was not involved in the TA process at CocaCola, he did remark that, "We are, of course, concerned with the impact of TA on the public, and this impact is carefully examined. Also, outside specialists arc engaged as needed. However, no direct input from the general public is solicited. " H.R. p. 115. Communication is essential for a TA's success. The effectiveness of an assessment depends on facilitating the creative free-flow of ideas among the team members, as well as communicating with the ultimate users. There are two primary requisites for a TA to be useful: the first, is the professional competence of the assessing team; and the second is complete and open communication among all the concerned parties.
+
+31
+
+FUTURE HEARINGS
+There were many industrial sectors, State and local governmental agencies, international organizations, public interest groups, and other institutions unable to participate in OTA's hearings to date. They are expected to be heard from at future hearings dealing with TA activities at which issues raised in this set of hearings will continue to be examined. In addition, OTA will want to follow-up on the NSF survey of TA activities in the private sector. At these future hearings, communications. and exchanges of information should be opened further, and cooperation improved among governmental, industrial, academic, and other sectors of U.S. society, This was expressed by Chairman Brown in his introductory remarks at the final day of the hearings. "These hearings are part of an ongoing process. Our interest in opening and developing communication between the public and private sectors will not conclude with this particular series of hearings. This record will be the first part of continuing dialog that will take place on a regular cycle. Thus the Board will hopefully get the most out of those TA activities in which it is engaged. " Industries both in the United States and abroad, in sectors such as paper, steel, pharmaceuticals, real estate, mining, and the financial world, are dealing with related and
+U. S. COVER NMENT PRINTING OFFICE : 1977 0. 83-106
+
+perhaps entirely different sets of issues and problems from those industries that took part in these hearings. By means of hearings and other forums, OTA should be able to profit from information about TA-related activities in other parts of the world. Contributions by foreign TA practitioners who would take part in the discussions is also anticipated. As TA is utilized to deal with problems unique to each sector, new methodologies will be developed, new approaches instituted, and other techniques modified or changed. All such activity is of interest and concern to OTA. By examining the experiences of these future witnesses, OTA and other parts of our society, as a consequence of improved communication on TA, will benefit by becoming better informed, As this initial set of hearings brought out, there is an urgent need for more such information and communication on TA, as well as for discussion among those in Government and industry--producers and users alike--about TA and related activities, Through the medium of future hearings OTA will enhance this learning experience, and at the same time help fill the needs of Government, its contractors, and industry for more information on the policy development process of TA.
+
+32
+
+

@@ -1,0 +1,563 @@
+National Security and International Affairs Divisian
+
+13-239291-l *July 11, 1990 The IIonorable Les Aspin Chairman, Committee on Armed Services I louse of Representatives Dear Mr. Chairman: This report, which was prepared at your request, examines the performance effectiveness of radar jammers recently acquired or being acquired by the Air Force for protection of its tactical aircraft. The classified version of this report is being provided separately. We are sending copies of this report to the Secretaries of Defense and the Air Force. The report was prepared under the direction of Mr. Louis J. Rodrigues, Director, Command, Control, Communications, and Intelligence Issues, who may be reached on (202) 275-4841 if you or your staff have any questions. Other major contributors are listed in appendix III. Sincerely yours,
+
+Frank C. Conahan Assistant Comptroller General
+
+.-_-_--
+
+,6
+
+Executive Summary
+. .-
+
+.
+
+Purpose
+
+Since 1982, the Air Force has spent almost $1.9 billion on the electronic warfare devices called jammers and currently plans to spend an additional $1.9 billion through 1995. These electronic warfare devices are supposed to protect aircraft by transmitting electronic signals to interfere with the radars used with threat weapons. GAO has examined Air Force jammer programs in the past and found that the Air Force frequently procured the systems before completing operational testing to demonstrate satisfactory performance. At the request of the Chairman of the House Committee on Armed Services, GAO evaluated the performance effectiveness of four jammers recently acquired or being acquired by the Air Force for protection of its tactical aircraft. GAO'S review focused on the ALQ-131 Block II and receiver/processor, the ALQ-184, and two upgraded versions of the ALQ-135 because they represent the more recent jammer acquisitions for protection of the Air Force's main tactical aircraft. GAO'S objective was to determine whether the jammers have demonstrated the capability to defeat threat radars and thus enhance the survivability of the Air Force's tactical aircraft. The principal .jammers for protection of tactical aircraft include the ALQ-131, ALQ-184, and ALQ-135. The ALQ-131 has been acquired in two versions, called Block I and Block II. Mock II, the most recent version, incorporates a sophisticated component called the receiver/processor. The receiver/processor is to enable the jammer to concentrate its jamming power and apply the most effective *jamming technique against each specific threat. The Air Force recently completed procurement of the Block II at a cost of $792 million, The ALQ-184 is an upgraded version of the older ALQ-119. The Air Force has spent about $464 million on the ALQ-184 and expects to spend another $636 million on future procurements. The ALQ-135 has been upgraded twice. One upgraded version is designated the ALQ-135 quick reaction capability and the other as ALQ-135 preplanned product improvement. The Air Force has completed acquisition of the ALQ-135 quick reaction capability at a cost of $256 million and recently began procurement of the ALQ-135 preplanned product improvement. Total acquisition cost for the ALQ-135 preplanned product improvement is estimated at about $1.7 billion.
+
+Background
+
+Page 2
+
+GAO/NSIAD-90-168
+
+Electronic
+
+Warfare
+
+----..".L.-I
+
+Executive
+
+Summary
+
+Results in Brief
+
+The Air Force procured jammers prematurely without adequately testing their performance capability, resulting in jammers with limited effectiveness. When the jammers were produced, none were capable of protecting aircraft as required. Rather than enhancing aircraft survivability against threat radars, some jammers are not being used while others are being flown on tactical aircraft in Europe with inoperative components. Significant improvement programs are now required to increase the performance capability of some jammers.
+GAO believes that the lack of adequate controls over the Air Force's jammer acquisitions has contributed to the production of unsatisfactory jammers. Officials at the Office of the Secretary of Defense level had not established adequate procedures or other controls for managing or overseeing these Air Force jammer programs. They generally had not taken an active role in the programs because they are considered by the Department of Defense (DOD) to be minor programs, involving modifications of existing systems as opposed to the acquisition of completely new systems.
+
+Principal Findings
+ALQ- 13 1 Jammer
+The Air Force procured its entire program quantity of the ALQ-131
+
+Block II and receiver/processor without completing operational testing. As a result, the system is now being flown in Europe on the F-16 and other aircraft with the receiver/processor inoperative because of a lack of software. The jammer also has other performance deficiencies that must be resolved before the jammer can be fully effective. In addition, the Air Force plans to begin an improvement program. Similarly, the Air Force started production of the ALQ-184 before operational testing and subsequently continued production despite unfavorable test results. When deployed to tactical forces, none were ready for use. They required substantial repairs, including replacement of components, before they could be considered operational. Subsequently, the jammers were temporarily grounded because of an unsolved performance defect and are now undergoing a modification program to solve performance problems. GAO found that the jammers were generally not being used by the tactical unit it visited.
+
+ALQ-184 Jammer
+
+Page 3
+
+GAO/NSLAD-90-168
+
+Electronic
+
+Warfare
+
+Executive
+
+Summary
+
+ALQ- 135 Jammer
+
+The Air Force bought all of its ALQ-135 quick reaction capability jammers before operational testing and then put most of them in storage because of technical problems. After a modification program to improve the system's reliability, the Air Force installed less than one-half of the jammers procured and is holding the remaining jammers as spares or in bonded storage pending destruction because they cannot be repaired. Finally, the Air Force started production of the ALQ-135 preplanned product improvement before completing it,s operational testing. All ALQ-135 preplanned product improvement jammers produced so far are in storage because of software design problems.
+GAO recommends that the Secretary of Defense
+l
+
+Recommendations
+
+prohibit the Air Force from awarding further contracts for production of jammers until operational testing provides reasonable assurance that they will meet established performance requirements and . require the Assistant Secretary of Defense for Command, Control, Communications, and Intelligence to establish adequate internal controls over Air Force jammer programs to assure that systems are satisfactorily tested and demonstrate acceptable performance before producing and deploying them. Regardless of the jammer acquisition experiences cited in this report, DOD plans further production of the ALQ-184 and ALQ-135 preplanned product improvement jammers without requiring demonstration of satisfactory performance during operational testing. The Congress may, therefore, wish to oppose further funding for these jammers until operational testing provides reasonable assurance that they will meet established performance requirements.
+DOD recognized that deficiencies existed in jammer programs in the past
+
+Matters for Congressional Consideration
+
+Agency Comments and GAO Evaluation
+
+and stated that no programs are proceeding to full-rate production without an assessment of their operational performance.
+DOD agreed or partially agreed with GAO'S findings and recommendations. Mowcver, DOD stated that internal controls are in place to ensure
+
+that systems demonstrate acceptable operational performance prior to full-rate production.
+
+Page 4
+
+GAO/NSIAD-SO-168
+
+Electronic
+
+Warfare
+
+Y
+
+.
+
+Executive
+
+Summary
+
+GAO
+
+DOD's
+
+believes that the findings in this report amply demonstrate that controls have not been effective in preventing the premature production of jammers and the related adverse impacts. Thus, GAO affirms its recommendation.
+
+Page 6
+
+GAO/NSJAD-90-168
+
+Electronic
+
+Warfare
+
+I,
+
+.H _.. ..--..---. . .._ -_-t
+
+Contents
+
+II
+
+Executive Summary Chapter 1 Introduction
+ALQ-131 ALQ-184 ALQ- 135 Objective, Scope, and Methodology
+
+2 8 10 10 11 13 15 15 15 16 18 19 21 22 22 23 23 23 24 25 26 27 28 Table 2.1: Production and Operational Test Phases for Air Force .Jammers 17
+
+Chapter 2 Need to Strengthen Controls Over the Acquisition of Tactical Aircraft Jammers
+
+Operational Testing Can Be an Important Management Control Past Programs Have Shown Need to Test Electronic Warfare Systems Jammer Production Started Before Operational Testing ALQ-131 Block II and Receiver/Processor Hampered by Problems Since Deployment ALQ-184 Not Ready for Use When Fielded Most ALQ-135 Quick Reaction Capability Jammers Not Installed Due to Reliability and Other Problems ALQ-135 Preplanned Product Improvement Stored at Contractor's Plant Since Production DOD Has Not Established Adequate Controls Over Air Force Electronic Warfare Programs Conclusions Recommendations Matters for Congressional Consideration Appendix I: Department of Defense Organizations Visited Appendix II: Comments From the Department of Defense GAO Comments Appendix III: Major Contributors to This Report
+
+Appendixes
+
+Related GAO Product Table
+
+Page 6
+
+GAO/NSLUMM-168
+
+Electronic
+
+WarPare
+
+`1 +
+
+_-_I
+
+-I -_. _._.---.-.--
+
+Contents
+
+Figures
+
+Figure Figure Figure Figure
+
+1.1: Effects of Jamming 1.2: ALQ-13 1 Block II 1.3: ALQ-184 1.4: ALQ- 135 Preplanned Product Improvement
+
+9 10 11 12
+
+Abbreviations
+DOD
+
+GAO
+
+Department Of Defense General Accounting Office
+
+Page 7
+
+GAO/NSIAD-90-168
+
+Electronic
+
+Warfare
+
+Chapter 1
+
+II 1' -
+
+Introduction
+
+*
+
+The potential threat posed to Air Force tactical aircraft includes both land-based weapons, such as surface-to-air missiles, as well as weapons launched from hostile aircraft. Many of these threat systems rely on radars to detect and track target aircraft and, in some cases, to guide the missile to the target or direct gunfire. To protect its tactical aircraft from these threats, the Air Force equips them with electronic warfare devices called jammers. As shown in figure 1.1, jammers provide this protection by transmitting electronic signals to deceive or otherwise interfere with the radars used with threat weapons. The Air Force considers jammers to be critical to the survival of its tactical aircraft for all projected wartime missions.
+
+Page 8
+
+GAO/NSIAD-90-168
+
+Electronic
+
+Warfare
+
+Chapter 1 Introduction
+
+Page 0
+
+GAO/NSIAD-90-168
+
+Electronic
+
+Warfare
+
+/ c Chapter 1 Introduction
+
+-.-_I_---~
+
+Three such jammers include the AL&-131, ALQ-184, and ALQ-135. These constitute the principal jammers used on the Air Force's tactical aircraft, including its front-line fighters, the F-15 and the F-16.
+
+ALQ-131
+Figure 1.2: AL@1 31 Block II
+
+The ALQ-131 Block II is the second generation of the ALQ-131 .jammer. As shown in figure 1.2, its components are contained in a pod mounted underneath the aircraft fuselage or wing.
+
+One of the main differences between the Block II and its predecessor, the Mock I, is that the Block II incorporates a component called the receiver/processor. The receiver/processor is a power management system, which enables the jammer to automatically detect threats and to concentrate its jamming power and apply the most effective technique against each specific threat. Development and production of the Block II began in 1983. Since then, the Air Force has acquired over 400 jammers and receiver/processors at a cost of about $792 million. The system is deployed to the European theater and is being used on such aircraft as the F-16 and the F-l 11. The ALQ-184 is also a pod mounted jammer similar in appearance to the ALQ-131 Mock II. (See fig. 1.3.) It is an upgraded version of the older ALQ-119 deployed in the 1970s.
+
+ALQ-184
+
+y
+
+Page 10
+
+GAO/NSIAD-90-168
+
+Electronic
+
+Warfare
+
+$ .
+
+Chapter 1 Introduction
+
+The Air Force began acquisition of the ALQ-184 in 1982 and through fiscal year 1989 had procured 3`26 of the jammers at a cost of about $464 million. In a recent competitive acquisition involving the ALQ-131 Block II and ALQ-184, the Air Force selected the ALQ-184 to meet its needs for a pod jammer. The Air Force plans to procure an additional 766 ALQ-184s through fiscal year 1993 at an estimated cost of about $636 million. The AL&-184 was initially deployed to one tactical unit in California in 1987. In 1989, the Air Force began deploying the ALQ-184 to the Pacific theater. It is planned for use on the A-10, F-4, F-16, and F-l 11 aircraft.
+
+ALQ-135
+
+aircraft. The ALQ-135 is used on the F-15 aircraft and has been upgraded twice. One upgraded version is designated as the ALQ-135 quick reaction capability. Acquisition of the ALQ-135 quick reaction capability has been completed with a total procurement of 65 jammers at a cost of about $256 million. It was deployed in 1988 to one tactical unit in Florida. The other upgraded version is the ALQ-135 preplanned product improvement model, It is a two-band system, designated as Bands 3 and 1.5, for use on newer models of the F-15 aircraft. The designations refer
+
+Page 11
+
+GAO/NSIAD-SO-168
+
+Electronic
+
+Warfare
+
+Chapter 1 Introduction
+
+to the portion of the frequency band covered. The F-15C is to be equipped with Band 3 while the newer F-15E is to be equipped with Band 3 as well as Band 1.5. (See fig. 1.4.)
+Figure 1.4: ALQ-135 Preplanned Product Improvement
+
+Development of the ALQ-135 preplanned product improvement began in 1985 and is still ongoing. So far, the Air Force has procured 121 Band 3 systems and 8 Band 1.5 systems at a current maximum contract price of $361.4 million. The Air Force also plans to procure up to an additional 533 Band 3 systems and 185 Band 1.5 systems during fiscal years 1991 through 1995. An Air Force official estimated total program acquisition cost at about $1.7 billion. The ALQ- 135 preplanned product improvement has not yet been deployed.
+
+Page 12
+
+GAO/NSLkD-SO-168
+
+Electronic
+
+Warfare
+
+Chapter 1 Introduction
+
+Objective, Scope, and Methodology
+
+At the request of the Chairman, House Committee on Armed Services, we evaluated the performance effectiveness of the ALQ-131 Block II, ALQ-184, ALQ-135 quick reaction capability, and ALQ-135 preplanned product improvement jammers. We concentrated on these jammers because they represent the most recent jammer acquisitions for protection of the Air Force's main tactical aircraft. Our objective was to determine whether the jammers have demonstrated the capability to defeat threat radars and thus enhance aircraft survivability. This report addresses the effectiveness of the jammers only to the extent that the information is unclassified. Our classified evaluation is contained in a related classified report. In evaluating jammer performance capability, we relied primarily on reviewing operational test results since operational testing is supposed to approximate combat conditions to the extent practical and is considercd the primary means for assessing system performance. We also reviewed other records bearing on jammer effectiveness and discussed performance issues with various Air Force representatives responsible for acquiring, testing, and using the jammers. In addition, we visited Air Force tactical fighter wings in the United States and Europe where some of the jammers had been deployed. These included the 37th Tactical Fighter Wing (subsequently redesignated as the 3&h), George Air Force Base, California; 33rd Tactical Fighter Wing, Eglin Air Force Base, Florida; 50th Tactical Fighter Wing, Hahn, Germany; and 48th Tactical Fighter Wing, Lakenheath, England. At the time of our visit, the 35th was the only unit to which the ALQ-184 had been deployed while the 33rd was the only unit having the ALQ-135 quick reaction capability. At the time of our review, the 50th and 48th were equipped with 157 ALQ-131 Block II jammers and 125 receiver/ processors, which represented 40 and 52 percent, respectively, of those deployed to the European theater. At the completion of our review, the ALQ- 135 preplanned product improvement had not been deployed. At the units, we reviewed maintenance records and discussed various aspects of jammer performance with Air Force and contractor maintenance personnel and Air Force electronic warfare officers. Our purpose was to assess how well the jammers had performed since being deployed.
+
+Page 13
+
+GAO/NSLAD-90-168
+
+Electronic
+
+Warfare
+
+Chapter 1 Introduction
+
+Because our work raised issues about the acquisition of the jammers, we also reviewed Department of Defense (DOD) and Air Force policy directives bearing on the weapon system acquisition and testing process. In addition, we discussed the jammer programs with officials of the Office of the Secretary of Defense and Air Force Headquarters responsible for authorizing and overseeing the jammer acquisitions. Appendix I lists the DOD organizations that we visited. Our review was performed from November 1989 through March 1990 in accordance with generally accepted government auditing standards. DOD provided written comments on a draft of this report. DOD'S comments and our responses are contained in appendix II of this report.
+
+Page 14
+
+GAO/NSIAD-90-168
+
+Electronic
+
+Warfare
+
+Chapta' -2
+
+Needt&3trengthen Controls Over the Acquisition of Tactical Aircraft Jammers
+.-.-.. - ---.-_--- __.__... ~,
+
+As a result of producing the ALQ-131 Block II, AL&-184, ALQ-135 quick reaction capability, and ALQ-135 preplanned product improvement without first demonstrating through testing that their performance would be satisfactory, the Air Force has acquired jammers costing about $1.9 billion which are largely unproven or have only limited effectiveness. Rather than enhancing the survivability of tactical aircraft, some jammers have been placed in storage pending redesign to solve problems while others have required substantial component replacements and other repairs before they could be used. Some jammers were grounded soon after deployment because of performance problems, and others are being flown in a potential combat zone with inoperative components.
+DOD'S policy on the weapons acquisition process emphasizes the need for timely testing to reduce risks and to estimate the operational effectiveness and suitability of the systems being acquired. The policy provides that operational testing is the primary means for assessing weapon system performance and is an important consideration in making key decisions to proceed with the acquisition of systems. Operational test results not only indicate how well a system will work but can also idcntify ineffective and unreliable systems before they are produced.
+
+Operational Testing Can Be an Important Management Control
+
+Past Programs Have Shown Need to Test Electronic Warfare Systems
+
+The Air Force has often begun production of electronic warfare systems before demonstrating satisfactory performance in testing to expedite the deployment of needed systems. However, our past work has shown that the Air Force's strategy has sometimes speeded the acquisition of deficient or unproven systems. For example, in our review of Air Force and Navy radar warning receiver programs,' we found widespread concurrency in system production and testing. On one radar warning receiver program, the Air Force started production before testing and later discovered that the system's performance was worse than that of the radar warning receiver it was to replace. Nevertheless, the Air Force continued production only to put the system in storage pending redesign to solve the performance problems. Similarly, we previously found that the Air Force produced and deployed the ALQ- 13 1 Block I jammer although it failed to pass various
+,.. (' ,,, 1_. .`, ., ' , .. :: `.. . `,' ,_ . _. . .. I ..
+
+Page
+
+15
+
+GAO/NSIAD-90-168
+
+Electronic
+
+Warfare
+
+Chapter 2 Need to Strengthen Controls Over the Acquisition of Tactical Aircraft Jammers
+
+_..- ..__ ------
+
+_..__
+
+reliability and maintainability tests.' As a result, many of the Block I jammers received by tactical units required major parts replacements and technical adjustments before they could be used. The Air Force modified the Block I both before and after deployment, but the problems persisted. Based on our past work, we have recommended that production of electronic warfare systems be slowed and further contract awards be delayed until operational test results provided reasonable assurance that performance would be satisfactory. However, DOD has not been fully responsive to our prior recommendations. For example, in our 1985 report, which dealt specifically with the receiver/processor used with the ALQ-13 1 Block II, we recommended that (1) receiver/processor production be slowed and (2) further contract awards be stopped until operational tests provided reasonable assurance of satisfactory performance. DOD opposed the recommendation, stating that it had already been operationally tested with satisfactory results. We disagreed because the operational testing referred to by DOD related to prior versions of the receiver/processor and produced questionable results. Nevertheless, DOD continued production of the receiver/processor as planned. As discussed on page 18, DOD'S decision resulted in deployment of a system that does not work as planned and requires modifications to correct several deficiencies. Without performing any operational testing, the Air Force started production of the ALQ-131 Block II and receiver/processor, ALQ-184, ALQ135 quick reaction capability, and ALQ-135 preplanned product improvement. Table 2.1 shows the production and operational test phases for each of these systems.
+
+Jammer Production Started Before Operational Testing
+
+`This was wportcd in a 1985classifiedGAO report.
+
+Page 16
+
+GAO/NSIAD-96-168
+
+Electronic
+
+Warfare
+
+Chapter 2 Need to Strengthen Controls Over the Acquisition of Tactical Aircraft Jammers
+
+Table 2.1: Production and Operational Test Phases for Air Force Jammer@
+ALOBlock II and Racsivor/Processor
+-b 1 \
+
+Operational Testing ' Production ALOOperational Testing Production ALOQuick Reactlon CapabIlIty Operational Testing d Production ALQ-135 Preplanned Product Improvement Operational Testing l Production
+1962 CalendarYears 1963 1904 1905 1966 1967 1968 1969 1990
+
+Completed Continuing
+
+a Breaks in testing are not shown. b Operational testing of the Block II was conducted from March 1986 to March 1987 but excluded the receiver/processor. ' Operational testing was suspended twice during 1988 due to performance problems d Operational testing of the AL0135 Quick Reaction Capability was not done. ' An early operational assessment is planned for June 1990 to July 1990, however, initial operational testing is not scheduled until January 1992.
+
+Page 17
+
+GAO/NSIALb90-168
+
+Electronic
+
+Warfare
+
+d____."... ." .-_. --II_`I.
+
+Chapter 2 Need to Strengthen Controls Over the Acquisition of Tactical Aircraft Jammers
+
+The Air Force acquired these jammers under expedited procedures. The purpose of these procedures is to expedite the fielding of systems determined to be urgently needed for protection of the operational forces. IJnder the procedures, the Air Force may waive or change policies and procedures, such as those relating to testing, which are found to inhibit the timely completion of a program. Although we do not disagree with the need to field needed systems as quickly as practical, most operational aircraft were equipped with jammers at the time these newer jammers entered production. We believe the Air Force's practice of buying systems before knowing that they would perform adequately has resulted in producing electronic warfare systems which were not ready for use and had performance defects when deployed to operational forces, were placed in storage because of defective performance pending modifications to solve the problems, were generally not used by the operational forces or were being flown with inoperative components, and require significant improvement programs to meet performance requirements, The ALQ-131 Block II's receiver/processor, which is deployed to Europe, is being flown on combat aircraft but is inoperative because of a lack of software. Other problems also would effect the jammer's effectiveness if it were used. These problems must be resolved before the jammer can be fully effcctivc. Now the Air Force plans to begin an improvement program, the cost of which has not been determined. The Air Force began production of the ALQ-131 Block II and receiver/ processor in 1983 and 1984, respectively, before beginning any operational testing of the system. Operational testing of the Block II was held from March 1986 to March 1987; however, the jammer tested did not incorporate the receiver/processor because it was not yet available. The Air Force began deploying the Block II to tactical units in Europe in 1986 before testing was completed. Deliveries of the receiver/processor to thcsc units began in 1988. However, the software necessary for operation of the receiver/processor had not been operationally tested and had not been dclivcrcd to the tactical units, as of March 1990.
+
+ALQ-13 1 Block II and Receiver/Processor Hampered by Problems Since Deployment
+
+Page 18
+
+GAO/NSIAD-90-168
+
+Electronic
+
+Warfare
+
+Chlrpter 2 Need to Strengthen Controls Over the Acquisition of Tactical Aircraft Jammers
+
+We noted, during our visit to the tactical units in Europe, that the receiver/processors had been installed in the Block II jammers and were being flown on the units' aircraft. However, they were inoperative because of the missing software. Although the Air Force had obtained some software that the ALQ-131 program manager said could be used in the event of war, this software had not been operationally tested and had not been distributed to the tactical units. At the tactical units, the electronic combat officers identified another problem impacting the ALQ-131 Block II's effectiveness. This problem, as well as the affect on the jammer's effectiveness of operating without the receiver/processor, is discussed in our classified report. In January 1988, after buying most of its total program quantity of Block II jammers and receiver/processors, the Air Force began operationally testing them as a system. This testing, scheduled to be completed in June 1990, has revealed several serious performance problems. These problems are discussed in our classified report. The Air Force is now planning an improvement program estimated to cost $23 million to address some of the jammer's reliability, maintainability, and performance problems. In addition, the Air Force was preparing a program management directive at the completion of our review to authorize another improvement program for the jammer. The Air Force had not defined the scope nor estimated the cost of this program. The Air Force began production of the ALQ-184 in 1982 before conducting any operational tests, and subsequently continued production dcspl 1`t c unfavorable test results. When fielded, none of the jammers were ready for use. Instead, the jammers required substantial repairs, including replacement of major components, before they could be considered operational. Subsequently, the jammers were grounded because of defects and must now undergo a modification program, estimated to cost as much as $298 million, to solve the performance problems, Operational testing commenced 2 years after production, in 1984, and was completed in late 1987. The detailed results of these tests are discussed in the classified version of this report, Based on these tests, the Director, Operational Test and Evaluation recommended that the ALQ-184's production be stopped. The Director
+
+ALQ-184 Not Ready for Use When Fielded
+
+Page 19
+
+GAO/NSIAD90-168
+
+Electronic
+
+Warfare
+
+Chapter 2 Need to Strengthen Controls Over the Acquisition of Tactical Aircraft Jammerw
+
+pointed out that the jammer had too many major performance deficiencies to be considered potentially effective and that correcting these deficiencies would require a major modification program. Nevertheless, the Air Force proceeded with production. In 1987, the Air Force began deploying the jammers already produced to the 37th Tactical Fighter Wing at George Air Force Base, California. Twenty-four jammers were delivered to the Wing and assigned to the "Wild Weasel" unit. This unit's mission is to attack and destroy enemy radars associated with surface-to-air missiles and guns. We visited the unit during our review to assess how well the jammers had performed since deployment 2 years earlier. We found that the jammers had not been ready for tactical use when delivered. For 23 of the 24 jammers on which adequate records had been maintained, we found that all 23 required major repairs, including replacement of components, before they could be considered operational. The repairs required an average of almost 4 months to complete from the date the jammers were received until they were declared operationally ready. Moreover, we found that once the jammers became operational they were generally not being used by the unit. At the time of our visit in September 1989,21 of the 24 jammers were in storage, and the other 3 were in the maintenance facility. Maintenance personnel told us that they attempt to keep at least 18 of the 24 jammers in storage at all times in an operationally ready status to enhance the unit's operational readiness rating. `l'hcy said that the jammers would fail more frequently if they were used consistently and would increase the maintenance required. We also found that the unit had detected other problems with the jammers. To improve the ALQ-184's performance, the Air Force is conducting a modification program which the contractor estimated will cost as much as $298 million. The current program consists of at least nine upgrades, some of which the Director, Operational Test and Evaluation had previously identified as performance deficiencies. Details of these improvements are discussed in our classified report. As of March 1990, the Air Force has awarded development contracts estimated to cost $24.5 million for four of the improvements. In addition, the Air Force issued a production contract, for one of these improvements, which increases the jammer's unit cost by an estimated
+
+Modification Program for ALQ-184s
+
+Page 20
+
+GAO/NSIAD-90-168
+
+Electronic
+
+Warfare
+
+Chapter 2 Need to Strengthen Controls Over the Acquisition of Tactical Aircraft Jammers
+
+$30,000 and total acquisition cost by an estimated $30 million. This improvement has not been operationally tested even though it is already being produced. Also, xcording to the ALQ-184 program engineer, all improvements are planned to be retrofitted into previously produced jammers. Before performing operational testing, the Air Force spent $256 million acquiring 65 ALQ- 135 quick reaction capability jammers in 1983 on the basis that they were urgently needed to meet an immediate tactical requirement. After the jammers were delivered in early 1988, the Air Force limited installation of the jammers and stored most of them because of reliability problems discovered during early developmental testing and concerns about the jammer's (1) built-in capability to test its functionality and (2) lack of demonstrated integration with other aircraft avionics. Subsequently, the Air Force installed less than one-half of the jammcrs procured. Initially, the Air Force decided to install the jammers in only five aircraft and store the rest pending assessment of the modifications made to improve the system's reliability. After this assessment, the Air Force decided to limit installation to 24 additional aircraft because of concerns over whether the jammers could be maintained. Installation in the 24 additional aircraft was completed in early 1989. In December 1989, after having the jammers installed for less than one year, the Air Force decided to deactivate the AL&-135 quick reaction capability because they did not place a high priority on funding the estimated $6.4 million required for contractor maintenance through September 30, 1992. IIowever, in February 1990, the Air Force decided to terminate the contractor maintenance and permit the tactical unit to maintain the jammers in an operational status for as long as possible. Most of the jammer components are being used as spares or have had usable parts removed and are being held in bonded storage pending destruction because they cannot be repaired.
+
+Most AL&-135 Quick Reaction Capability Jammers Not Installed Due to Reliability and Other Problems
+
+rage 21
+
+GAO/NSIAD-90-168
+
+Electronic
+
+Warfare
+
+Chapter 2 Need to Strengthen Controls Over the Acquisition of Tactical Aircraft Jammers
+
+AL&-135 Preplanned Product Improvement Stored at Contractor's Plant Since Production
+
+In 1986, the Air Force contracted for 121 Band 3 and 8 Band 1.5 ALQ-135 preplanned product improvement jammers without prior operational testing. The current maximum contract price is $361.4 million. As of January 1990, no operational testing had been performed. According to the F-15 aircraft systems program officer, the 59 Band 3 and 8 Band 1.5 jammers produced were in bonded storage at the contractor's plant because of software design problems. Current plans are to acquire up to an additional 533 Band 3 and 185 Band 1.5 systems. An Air Force official estimated total program acquisition cost at about $1.7 billion; however, he was unable to provide us a break down by research and development and current and planned procurements. An early operational assessment is scheduled to begin in June 1990 and be completed in July 1990. Initial operational test and evaluation is scheduled from January 1992 to March 1992. The next production contract for up to 166 Band 3 and 82 Band 1.5 jammers is scheduled for award in December 1990. The estimated cost for that contract was not available at the time of our review. In view of the results of the Air Force's implementation of its electronic warfare programs, we discussed the need for management controls over the programs with officials of the Office of the Assistant Secretary of Defense for Command, Control, Communications, and Intelligence. These officials have cognizance over the electronic warfare programs. They told us that they consider the Air Force to be responsible for making decisions relating to the acquisition of its jammers. They said that they generally had not taken an active role in the Air Force jammer programs because they are considered by DOD to be minor programs, involving modifications of existing systems, as opposed to acquisition of completely new systems, Thus, they had not established any procedures or other controls for managing or overseeing the programs. While we acknowledge that the jammer programs involve modifications to existing systems, the ALQ-131 Block II and ALQ-135 preplanned product improvement acquisitions also represent procurement of new jammers. For example, after procuring over 500 ALQ-131 Block I jammers, the Air Force modified the Block I's design, added the receiver/ processor, and produced over 400 new Block 11swhile the Block I systems remained deployed. The ALQ-135 quick reaction capability acquisition represented development and procurement of a new band (Band 3), which the original ALQ-135 did not have. While the ALQ-184 was derived by modifying existing ALQ-119 pods, the modifications involved
+
+DOD Has Not Established Adequate Controls Over Air Force Electronic Warfare Programs
+
+Page 22
+
+GAO/NSIALMO-168
+
+Electronic
+
+Warfare
+
+c
+
+C:hapter 2 Need to Strengthen Controls Over the Acquisition of Tactical Aircraft Jammers
+
+essentially replacing two of the three bands in the ALQ-119. In addition, the acquisition of these jammers as currently planned will total almost $4 billion. Despite continued setbacks in acquiring jammers, the Air Force has persistently followed an acquisition strategy of buying jammers without first testing them to be assured of satisfactory performance. This strategy, while intended to expedite the fielding of needed aircraft protection, has resulted in the production of jammers with limited effectiveness. Producing jammers to put them in storage does not enhance aircraft survivability. The lack of adequate procedures for overseeing and controlling Air Force jammer programs has contributed to this situation, We recommend that the Secretary of Defense prohibit the Air Force from awarding further contracts for production of jammers until operational testing provides reasonable assurance that they will meet established performance requirements and . require the Assistant Secretary of Defense for Command, Control, Communications, and Intelligence to establish adequate internal controls over Air Force jammcr programs to assure that systems are satisfactorily tested and demonstrate acceptable performance before producing and deploying them.
+l
+
+Conclusions
+
+Recommendations
+
+Matters for Congressional Consideration
+
+Despite thcl jammer acquisition experiences cited in this report, DOD plans further production of the ALQ-184 and ALQ-135 preplanned product, improvement ,jammers without requiring demonstration of satisfactory performance during operational testing. Thus, the Congress may wish to oppose further funding for these jammers until operational testing provides reasonable assurance that they will meet established performance requirements.
+
+Page 23
+
+GAO/NSIAD-90.168
+
+Electronic
+
+Warfare
+
+Appendix I
+
+Department of DefenseOrganizationsVisited `I) '
+
+. Office of the Assistant Secretary of Defense for Command, Control,
+
+Communications, and Intelligence, Washington, D.C.
+. Office of the Director, Operational Test and Evaluation, Washington,
+
+D.C. Headquarters, Air Force, Washington, DC. Warner Robins Air Logistics Center, Robins Air Force Base, Georgia Air Force Systems Command, Aeronautical Systems Division, WrightPatterson Air Force Base, Ohio Headquarters, Tactical Air Command, Langley Air Force Base, Virginia Tactical Air Warfare Center, Eglin Air Force Base, Florida 35th Tactical Fighter Wing, George Air Force Base, California 33rd Tactical Fighter Wing, Eglin Air Force Base, Florida Headquarters, U.S. Air Forces, Europe, Ramstein Air Base, West Germany . 50th Tactical Fighter Wing, Hahn Air Base, West Germany . 48th Tactical Fighter Wing, Lakenheath, England
+
+Page 24
+
+GAO/NSL4@90-168
+
+Electronic
+
+Warfare
+
+Appen&II
+
+CommentsFrom the Department of Defense
+
+~-----II
+
+-..-. - -
+
+Note GAO comments
+supplementlny those In the report text appear at the end of this appendix. ASSISTANT SECRETARY O.C. OF DEFENSE
+20301-3040
+
+WASHINGTON.
+
+June 8, 1990
+
+Mr. Frank C. Conahan Assistant Comptroller General National Security and International Affairs Division U.S. General Accounting Office Washington, DC 20548 Dear Mr. Conahan: This is the Department of Defense (DOD) response to the General Accounting Office (GAO) draft reports, "ELECTRONIC WARFARE: Need to Strengthen Controls Over Air Force Jammer Programs," dated May 3, 1990 (GAO Code 395122), OSD Cases 8325 and 8325-X. that deficiencies existed in the past, The DOD recognizes primarily because of the overriding requirement to redress the critical shortfall in electronic warfare capability. The Office of the Secretary of Defense and the Air Force are concerned with concurrency in Electronic Warfare programs. Currently, there are no programs proceeding to full rate production without an assessment of their operational performance. In summary, the DOD concurs or partially concurs with most of the GAO findings and recommendations, The DOD has reviewed the Electronic Warfare programs under the Department's internal control review process and determined that they do not include weaknesses that merit reporting to the President and Congress. Controls are in place to insure that systems demonstrate acceptable operational performance prior to full rate production. The detailed DOD comments are provided in the enclosure. The DOD appreciates the opportunity to comment on this draft report. Sincerely, uw
+
+See comment
+
+1
+
+See comment 2
+
+Duane P. Andrews
+
+Y
+
+Page 25
+
+GAO/NSIAD-90-168
+
+Electronic
+
+Warfare
+
+- ..-.-..- -il l-."-----(,ll.l. ...,.li "" _---__ Appendix11
+Comments From the Department of Defense
+
+.-. ..-
+
+-.._____
+
+The following are
+
+GAO'S
+
+comments on DOD'S letter dated June 8, 1990.
+
+GAO Cornments
+
+1. We believe that the findings in this report amply demonstrate that DOD'S controls have not been effective in preventing the premature production of jammers and the related adverse impacts. Thus, we affirm our recommendation. 2. The enclosure has not been included because DOD classified it as Secret. However, based on our analysis of these comments, we do not believe they alter the message of this report. DOD'S comments and our responses are contained in the classified version of this report.
+
+Pii@ 26
+
+GAO/NSIAD-90-168
+
+Electronic
+
+Warf&
+
+Appcpdix ----. III
+
+Major Contributors to This Report
+/"
+
+Atlanta Regional Office Cincinnati Regional Office
+
+Jackie 13.Guin, Assistant Director Pamlutricia Greenleaf, Evaluator Marion Chastain, Evaluator ,Jodi A. McDade, Evaluator Robert Kissel, Regional Management Representative Terry Parker, Evaluator Terre11 Bishop, Evaluator
+
+Y
+
+Page 27
+
+GAO/NSIAD-90-168
+
+Electronic
+
+Warfare
+
+~ RelatedGAO Product
+
+Electronic Warfare: Reliable Equipment Needed to Test Air Force's Electronic Warfare Systems (GAO/NSIAD-89-137, Aug. 1989).
+
+(m5122)
+
+Page 28
+
+GAO/NSIAD-90-168
+
+Electronic
+
+Warfare
+
+i
+
+, ?
+
+

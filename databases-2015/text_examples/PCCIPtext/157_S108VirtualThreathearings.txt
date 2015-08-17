@@ -1,0 +1,2342 @@
+S. HRG. 108­516
+
+VIRTUAL THREAT, REAL TERROR: CYBERTERRORISM IN THE 21ST CENTURY
+
+HEARING
+BEFORE THE
+
+SUBCOMMITTEE ON TERRORISM, TECHNOLOGY AND HOMELAND SECURITY
+OF THE
+
+COMMITTEE ON THE JUDICIARY UNITED STATES SENATE
+ONE HUNDRED EIGHTH CONGRESS
+SECOND SESSION
+
+FEBRUARY 24, 2004
+
+Serial No. J­108­58
+Printed for the use of the Committee on the Judiciary
+
+(
+U.S. GOVERNMENT PRINTING OFFICE
+94­639 PDF
+
+WASHINGTON
+
+:
+
+2004
+
+For sale by the Superintendent of Documents, U.S. Government Printing Office Internet: bookstore.gpo.gov Phone: toll free (866) 512­1800; DC area (202) 512­1800 Fax: (202) 512­2250 Mail: Stop SSOP, Washington, DC 20402­0001
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00001
+
+Fmt 5011
+
+Sfmt 5011
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+COMMITTEE ON THE JUDICIARY
+ORRIN G. HATCH, Utah, Chairman CHARLES E. GRASSLEY, Iowa PATRICK J. LEAHY, Vermont ARLEN SPECTER, Pennsylvania EDWARD M. KENNEDY, Massachusetts JON KYL, Arizona JOSEPH R. BIDEN, JR., Delaware HERBERT KOHL, Wisconsin MIKE DEWINE, Ohio JEFF SESSIONS, Alabama DIANNE FEINSTEIN, California LINDSEY O. GRAHAM, South Carolina RUSSELL D. FEINGOLD, Wisconsin LARRY E. CRAIG, Idaho CHARLES E. SCHUMER, New York SAXBY CHAMBLISS, Georgia RICHARD J. DURBIN, Illinois JOHN CORNYN, Texas JOHN EDWARDS, North Carolina BRUCE ARTIM, Chief Counsel and Staff Director BRUCE A. COHEN, Democratic Chief Counsel and Staff Director
+
+SUBCOMMITTEE
+
+ON
+
+TERRORISM, TECHNOLOGY
+
+AND
+
+HOMELAND SECURITY
+
+JON KYL, Arizona, Chairman ORRIN G. HATCH, Utah DIANNE FEINSTEIN, California ARLEN SPECTER, Pennsylvania EDWARD M. KENNEDY, Massachusetts MIKE DEWINE, Ohio JOSEPH R. BIDEN, JR., Delaware JEFF SESSIONS, Alabama HERBERT KOHL, Wisconsin SAXBY CHAMBLISS, Georgia JOHN EDWARDS, North Carolina STEPHEN HIGGINS, Majority Chief Counsel DAVID HANTMAN, Democratic Chief Counsel
+
+(II)
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00002
+
+Fmt 5904
+
+Sfmt 5904
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+CONTENTS
+STATEMENTS OF COMMITTEE MEMBERS
+Page
+
+Feinstein, Hon. Dianne, a U.S. Senator from the State of California ................. prepared statement .......................................................................................... Kyl, Hon. Jon, a U.S. Senator from the State of Arizona .................................... prepared statement .......................................................................................... Leahy, Hon. Patrick J., a U.S. Senator from the State of Vermont, prepared statement .............................................................................................................. WITNESSES Lourdeau, Keith, Deputy Assistant Director, Federal Bureau of Investigation, Washington, D.C. ................................................................................................. Malcolm, John G., Deputy Assistant Attorney General, Department of Justice, Washington, D.C. ................................................................................................. Schmidt, Howard A., Vice President and Chief Information Security Officer, eBay, Inc., San Jose, California .......................................................................... Verton, Dan, Author, Burke, Virginia .................................................................... Yoran, Amit, Director, National Cyber Security Division, Department of Homeland Security, Washington, D.C. ............................................................... SUBMISSIONS FOR THE RECORD Forbes Magazine, Peter Huber and Mark Mills, September 15, 2003, article ... Lourdeau, Keith, Deputy Assistant Director, Federal Bureau of Investigation, Washington, D.C., prepared statement .............................................................. Malcolm, John G., Deputy Assistant Attorney General, Department of Justice, Washington, D.C., prepared statement .............................................................. Schmidt, Howard A., Vice President and Chief Information Security Officer, eBay, Inc., San Jose, California, prepared statement ....................................... Verton, Dan, Author, Burke, Virginia, prepared statement ................................ Yoran, Amit, Director, National Cyber Security Division, Department of Homeland Security, Washington, D.C., prepared statement ............................
+
+3 32 1 36 42
+
+6 5 23 18 8
+
+34 44 53 67 77 87
+
+(III)
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00003
+
+Fmt 5904
+
+Sfmt 5904
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00004
+
+Fmt 5904
+
+Sfmt 5904
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+VIRTUAL THREAT, REAL TERROR: CYBERTERRORISM IN THE 21ST CENTURY
+TUESDAY, FEBRUARY 24, 2004
+
+UNITED STATES SENATE, TERRORISM, TECHNOLOGY AND HOMELAND SECURITY, COMMITTEE ON THE JUDICIARY, Washington, DC. The Subcommittee met, pursuant to notice, at 10:11 a.m., in room SD­226, Dirksen Senate Office Building, Hon. Jon Kyl, Chairman of the Subcommittee, presiding. Present: Senators Kyl and Feinstein. SUBCOMMITTEE
+ON
+
+OPENING STATEMENT OF HON. JON KYL, A U.S. SENATOR FROM THE STATE OF ARIZONA
+
+Chairman KYL. Good morning. This hearing of the Judiciary Committee Subcommittee on Terrorism, Technology and Homeland Security will come to order. First, as I catch my breath, my apologies particularly to the witnesses here before us, but also to Senator Feinstein and to those of you in the audience. We are well over-scheduled. Senator Feinstein, I know, has a meeting that began at ten o'clock, too, so her presence here is very, very much appreciated for however long you can be here. Let me just give a brief opening statement, then call on Senator Feinstein, and then we are anxious to hear from our panel. On January 27, this Subcommittee examined the security of our seaports and their vulnerability to terrorist attacks. Today, we are going to examine the security of our cyber infrastructure and its vulnerability to cyberterrorist attacks. As the world has grown more connected through the Internet and cyberspace, the dangers associated with attacks on that technology have also increased. The quantity and quality of cyber attacks are on the rise. The number of computer security intrusions increased from about 84,000 in 2002 to 137,000 in 2003. Computer viruses are spreading at much faster rates and causing more damage than ever before. While it took 26 hours for a virus in 2001 to infect 300,000 machines worldwide, a virus in February 2003 infected 300,000 machines within only 14 minutes. As Secretary Ridge stated in December, ``anywhere there is a computer...whether in a corporate building, a home office or a dorm room...if that computer isn't secure, it represents a weak link because it only takes one vulnerable system to start a chain reaction that can lead to devastating results.''
+(1)
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00005
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+2 Since 1997, this Subcommittee has held seven hearings on cyber attacks and critical infrastructure protection. During the most recent of these hearings, witnesses expressed concerns about terrorists conducting cyber attacks against the United States. Terrorists already use cyber tools to raise funds and to organize physical attacks. They could obviously use those same tools for conducting cyber warfare. In 2000, FBI Director Louis Freeh testified before this Subcommittee that cyberterrorism was, and I am quoting now, ``a very real, though still largely potential threat.'' Today's hearing will focus on the status of that threat now and what we are doing to reduce the threat. Terrorists are targeting our cyber infrastructure and we have got to educate the public about this threat. According to news reports, data from al­Qaeda computers found in Afghanistan show that the group had scouted systems that control critical U.S. infrastructure. An attack on these systems could have devastating results, especially if done in conjunction with a physical attack. A study by the National Infrastructure Protection Center concluded that the effects of September 11 would have been far greater if launched in conjunction with a cyber attack disabling New York City's water or electrical systems. An attack on these systems would have inhibited emergency services from dealing with the crisis and turned many of the spectators into victims. The Subcommittee today will hear from five witnesses, three experts from the Federal Government and two from the private sector. The first is Assistant Attorney General John Malcolm at the Department of Justice. He is the Deputy Assistant Attorney General in the Criminal Division of the Department of Justice. He oversees the Computer Crime and Intellectual Property Section, the Child Exploitation and Obscenity Section, the Domestic Security Section, and the Office of Special Investigations. An honors graduate at Columbia College and Harvard Law School, Mr. Malcolm served as a law clerk to judges on both the U.S. District Court for the Northern District of Georgia and the Eleventh Circuit Court of Appeals. Second is Deputy Assistant Director Keith Lourdeau, Cyber Division of the FBI. Keith Lourdeau is the Deputy Assistant Director of the FBI's Cyber Division. He previously served as Assistant Special Agent in Charge of the St. Louis Division, where he was responsible for the daily operation of that division. Mr. Lourdeau entered the FBI in 1986 and has served in the Chicago, Little Rock and St. Louis field offices. While serving at FBI Headquarters, Mr. Lourdeau was detailed to the CIA to assist in establishing a new initiative between the CIA and the FBI in targeting international organized crime groups. Director Amit Yoran, National Cyber Security Division, Department of Homeland Security. He is the Director of the National Cyber Security Division for DHS. Previously, he served as the Vice President for Managed Security Services at Symantec Corporation, where he was primarily responsible for managing security infrastructures in 40 different countries. Before working in the private sector, Mr. Yoran was the Director of the Vulnerability Assessment Program within the Computer
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00006
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+3 Emergency Response Team at the Department of Defense and the Network Security Manager at the Department of Defense, where he was responsible for maintaining operations of the Pentagon's network. On the second panel, we have two individuals. Dan Verton is the author of Black Ice: The Invisible Threat of Cyberterrorism, which is a book analyzing al­Qaeda's ability to conduct cyber attacks and U.S. vulnerability to cyber terrorists. He is also a senior writer on the staff of Computerworld, covering national cyber security and critical infrastructure protection. Mr. Verton is a former intelligence officer in the United States Marine Corps, where he served as senior briefing officer for the Second Marine Expeditionary Force and analyst in charge of the Balkans Task Force from 1994 to 1996. Finally, Howard Schmidt is the Vice President and Chief Information Security Officer for eBay. Prior to that, Mr. Schmidt served as the Chair of the President's Critical Infrastructure Protection Board in 2003, and as the Special Adviser for Cyberspace Security for the White House from 2001 to 2003. Mr. Schmidt has also worked as the chief security officer for Microsoft and as the head of the Computer Exploitation Team at the FBI's National Drug Intelligence Center. From 1983 to 1994, I am proud to say he was an officer for the Chandler Police Department in Arizona. In conclusion, the United States has not suffered a major cyberterrorist attack, but we have got to continue to improve our security of our critical infrastructure systems because the more dependent we become upon technology, obviously the greater challenge in protecting it. We have a distinguished panel of witnesses before us today and I am very interested in examining with them the threats and vulnerabilities that we face and what Congress can do to help prevent cyberterror and to prosecute cyber criminals in the United States and abroad. As always, I want to thank Senator Feinstein for her hard work in helping to put together this hearing. We have had an excellent relationship in dealing with this particular subject over the years that we have been together on this Subcommittee and I look forward to working with her. [The prepared statement of Senator Kyl appears as a submission for the record.] Chairman KYL. Senator Feinstein.
+STATEMENT OF HON. DIANNE FEINSTEIN, A U.S. SENATOR FROM THE STATE OF CALIFORNIA
+
+Senator FEINSTEIN. Thanks very much, Mr. Chairman, and I appreciate your leadership and your agreement to have this hearing. Let me just begin right at the top and say my concern is that we really don't take cyberterrorism as seriously as we should, that it isn't at the top of this huge totem pole in Homeland Security. I believe Mr. Yoran reports to an assistant secretary, and the strategy up to this point, as I understand it, is to leave most of this to the private sector. I am not really sure, long-term, that this is going to work.
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00007
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+4 I think you only have to look at a recent computer virus, MyDoom, that recently spread in January like wildfire across the Internet to really understand the threat. MyDoom was responsible for sending 100 million infected e-mails in its first 36 hours, and accounted for one-third of all e-mails sent worldwide on one evening. The virus shut down the website of the SCO Group, and also attacked the Microsoft website. Damages worldwide ran into hundreds of millions of dollars. Denial-of-service attacks offer only a small glimpse into what is a huge potential cyberterror threat. A terrorist could theoretically use a computer to open the flood gates of a dam--we have talked about this before--disrupt the operations of an aircraft control tower, shut down the New York Stock Exchange or other important businesses or government agencies, or disrupt emergency communications of law enforcement and safety officials. And we know how many invasions there are a year of Defense computers here in the United States. It is a real problem, and we have been fortunate so far. One oft-cited example is an April 2000 incident in Australia where a disgruntled consultant sabotaged the electronic controls to a sewage system, letting loose millions of gallons of sewage on a town. But the threat is uniquely insidious. In contrast to attacks on our ports or biological or chemical weapons, cyberterror does not have to be launched within the United States geographic confines. I would also note that 85 to 90 percent of our Nation's cyber infrastructure remains under the control of the private sector. And as I said, the administration so far has embraced a voluntary, market-based approach to cyber security. In December 2002, Governor Gilmore criticized this voluntary approach. He said, ``So far, pure public/private partnerships and market forces are not acting...to protect the cyber community.'' So I am concerned that we essentially are unprepared for a major cyber attack. Here are some questions I hope the panel can address: How real is the threat? Has the Department of Homeland Security placed a high enough priority on defense against cyberterrorism? Are we better prepared today to defend against a cyber attack than we were on 9/11? Is the current voluntary private sector and government collaboration working? Is there more we can or should do to defend ourselves? Now, I understand that an NIE is going to be released sometime later this week on cyberterrorism. So we might want to also take a look at that and see where we go from here. Thanks very much. [The prepared statement of Senator Feinstein appears as a submission for the record.] Chairman KYL. Thank you very much, Senator Feinstein. It is also very helpful having Senator Feinstein also on the Intelligence Committee, on which I served for 8 years. And it is going to be interested to coordinate with the Intelligence Committee, as well, any specific activities that we follow through on here. Senator FEINSTEIN. As a matter of fact, I am going to have to leave in about 20 minutes. We have George Tenet over in Intelligence this morning.
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00008
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+5 Chairman KYL. I was aware of that, so let's get right to the panel. I think we will do the clock just so you can get an idea of when you have spoken for 5 minutes. Obviously, any other statements you would like to make for the record, in addition to your written statements, we will include. Let's start with Mr. Malcolm and then go on down to Mr. Lourdeau and then Mr. Yoran.
+STATEMENT OF JOHN G. MALCOLM, DEPUTY ASSISTANT ATTORNEY GENERAL, DEPARTMENT OF JUSTICE, WASHINGTON, D.C.
+
+Mr. MALCOLM. Thank you, Chairman Kyl, Senator Feinstein. On behalf of the Department of Justice, I would like to thank you for inviting me to appear before you this morning to discuss the important issue of cyberterrorism. Under the President's National Strategy to Secure Cyberspace, the Department of Justice and the FBI are charged with leading the national effort to investigate and prosecute cyber crime. Our role as law enforcement distinguishes what we do from what the Department of Homeland Security does. Specifically, while DHS deals with vulnerability assessment, prevention and damage mitigation, we act to prevent and deter cyber crime by investigating cyber crime incidents and identifying and prosecuting those who violate Federal laws. Cyberterrorism involves the use of computer systems to carry out terrorist acts, which are in turn defined by reference to specific criminal statutes. True cyberterrorism is characterized by largescale destruction, or the threat of such destruction, coupled with an intent to harm or coerce a civilian population or government. Because attacks on critical infrastructure have the potential for large-scale disruptions and mass casualties, even if not accompanied by terroristic intent, the issues of cyberterrorism and critical infrastructure protection are often intertwined. We have been fortunate enough not to experience a devastating attack of cyberterrorism or a crippling attack on a critical infrastructure. Nevertheless, the hard lessons of 9/11 teach us that preparation is critical. The Department has developed specialized expertise in the area of cyber crime, led by the Computer Crime and Intellectual Property Section, or CCIPS, which I oversee. That section's 37 attorneys focus exclusively on issues relating to computer and intellectual property crime. They are supported in the field by 212 computer and telecommunications coordinators, or CTCs, who are specially trained Assistant United States Attorneys who function effectively as a resource for their respective districts and as a point of contact for multidistrict cases. The Department has also focused on developing partnerships with other Federal agencies, with State and local law enforcement and with industry organizations. We work closely with DHS's National Cyber Security Division and the Cyber Interagency Incident Management Group, with the National White Collar Crime Center's Cyber Crime Advisory Board and the National Association of Attorneys General, and with InfraGard, an important initiative
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00009
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+6 that expands direct contacts between government and private sector infrastructure owners and operators. Because cyber attacks frequently transcend geographic boundaries, the Department's cyber crime initiatives have not been confined to the United States. CCIPS chairs the G8 Subgroup on High­Tech Crime and has successfully spearheaded the development of the 24/7 Network. In addition, CCIPS is active on several committees of the Organization of American States that relate to cyber security, and it has worked with other regional governmental groups including the Asia Pacific Economic Cooperation Forum, or APEC. We intend to continue our work toward improving the quality of cyber crime legislation and response mechanisms in other regions of the world. We believe that improved laws will not only serve as a deterrent, but will also increase the overall prosecution of cyber criminals, including cyberterrorists, who would seek to operate in otherwise lawless nations. The Department relies on a number of tools, both substantive and procedural, to investigate and prosecute cyber attacks. One of the most important of these is the USA PATRIOT Act. You are no doubt aware that many of the USA PATRIOT Act's provisions are currently set to expire. Because these provisions, including the emergency service provider exception, the hacker trespass exception and the nationwide search provision, would be essential to any investigation or prosecution of cyberterrorism, I would urge you not to allow these provisions to sunset. While I would like nothing better than to be able to assure you that an attack of cyberterrorism will never occur, unfortunately I can't do that. I can, however, assure you that the Department is taking and will continue to take the necessary steps to prepare to respond appropriately in the event of a cyber attack. I thank you again for allowing me the time to address this Subcommittee on this important issue and I look forward to your questions. [The prepared statement of Mr. Malcolm appears as a submission for the record.] Chairman KYL. Thank you very much, Mr. Malcolm. You are right on the button time-wise. Mr. Lourdeau.
+STATEMENT OF KEITH LOURDEAU, DEPUTY ASSISTANT DIRECTOR, FEDERAL BUREAU OF INVESTIGATION, WASHINGTON, D.C.
+
+Mr. LOURDEAU. Good morning, Chairman Kyl, Senator Feinstein. On behalf of the FBI, I would like to thank you for this opportunity to address the FBI's role in combatting cyberterrorism. As our Nation's economy becomes more dependent on computers and the Internet becomes an increasingly more integral part of our society, new digital vulnerabilities make U.S. networks systems potential targets to an increasing number of individuals, including terrorists. The Director of the FBI has established protecting the U.S. from terrorist attacks as its number one priority and protecting the U.S. against cyber-based attacks and high-technology crimes as its num-
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00010
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+7 ber three priority. The FBI's Cyber Division's number one priority is counterterrorism-related computer intrusions. Our network systems make inviting targets for terrorists due to the potential for large-scale impact to the Nation. The vulnerabilities to our network systems arise from easy accessibility to those systems via the Internet, harmful tools that are available to anyone with a point-and-click ability, the globalization of our Nation's infrastructures, and the interdependencies of networked systems. Terrorist groups are increasingly adopting the power of modern communication technology for planning, recruiting, propaganda purposes, enhancing communications, command and control, fundraising and fund transfers, and information-gathering. To date, cyber attacks by terrorists or persons affiliated with them have largely been limited to relatively unsophisticated efforts, such as the e-mail bombing of ideological foes or the publication of threatening content. However, increasing technical competency in these groups is resulting in an emerging capability for networkbased attacks. The more familiar they become with computers and their potential as a viable weapon against us, the more likely they will try to acquire the skills necessary to carry out a cyberterrorist event. The FBI assesses the cyberterrorism threat to the U.S. to be rapidly expanding, as the number of actors with the ability to utilize computers for illegal, harmful and possibly devastating purposes is on the rise. Terrorist groups are showing a clear interest in developing basic hacking tools, and the FBI predicts that terrorist groups will either develop or hire hackers particularly for the purpose of complementing large physical attacks with cyber attacks. Attacks against regional targets could have a significant effect on computer networks, while coordinated attacks on multiple regions could achieve a national effect with severe repercussions. There are numerous control systems whose destruction would have a farreaching effect. Large-scale distribution systems, such as those involving natural gas, oil, electric power and water, tend to use automated supervisory and data acquisition systems for administration. These SCADA systems tend to have both cyber and physical vulnerabilities. A major method used in preventing cyberterrorism is the sharing of intelligence information. The FBI routinely passes intelligence received in active investigations or developed through research to the intelligence community. Throughout the FBI field offices, special agents serve on cyber task forces with other agencies. The FBI is also a sponsor/participant in the InterAgency Coordination Cell. This environment of information-sharing and cooperation is expanding to include foreign governments such as the 5 Eyes. The FBI has established cyber task forces, public/private alliances, cyber action teams, cyber training, and a cyber intelligence center, all to provide a strategic framework and program management tool for all FBI computer intrusion investigations. While the following two incidents were not cyberterrorism, they are an indication of the ability of individuals to gain access to our network systems and the possible damage that can result.
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00011
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+8 For example, an individual used simple explosive devices to destroy the master terminal of a hydroelectric dam in Oregon. Although there was no effect on the dam's structure, the simple attack completely disabled the dam's power-generating turbines and forced a switch to manual control. A coordinated attack on the region's infrastructure systems, such as the SCADA systems that control Washington, D.C.'s electric power, natural gas and water supply, would have a profound effect on the Nation's sense of security. This incident demonstrated how minimal sophistication and material can destroy a SCADA system. In another example, on May 3, 2003, an e-mail was sent to the National Science Foundation's Network Operations Center which read, ``I've hacked into the server of your South Pole Research Station. Pay me off, or I will sell the station's data to another country and tell the world how vulnerable you are.'' The e-mail contained data only found in the NSF's computer systems, proving that this was no hoax. NSF personnel immediately shut down the penetrated servers which control the life support systems for the 50 scientists wintering over at the South Pole. The FBI determined that the hackers were accessing their e-mails from a cyber cafe in Romania. Through joint FBI and Romanian investigative efforts, the Romanian authorities seized documents, a credit card used in the extortion, and the e-mail account that was used to make the demands of the NSF. On June 3, 2003, two Romanian citizens accused of hacking into the NSF South Pole Research Station were arrested. The unique complexity of protecting our Nation's network systems is a daunting task. The protection of our network systems is a shared responsibility between the private sector, Federal, State and local law enforcement, the Department of Homeland Security and the intelligence community, both domestic and foreign. Again, I offer my gratitude and appreciation to you, Chairman Kyl, and Senator Feinstein for dedicating your time and effort in addressing this vitally important issue. I would be happy to respond to any questions you may have. Thank you. [The prepared statement of Mr. Lourdeau appears as a submission for the record.] Chairman KYL. Well, thank you very much, Mr. Lourdeau. That one story you told, I am sure, is illustrative of many others, but it is a great story. We need to get more of that information out so that we can follow our educational role here and really convince people that this is real, this isn't just hypothetical. Mr. Yoran.
+STATEMENT OF AMIT YORAN, DIRECTOR, NATIONAL CYBER SECURITY DIVISION, DEPARTMENT OF HOMELAND SECURITY, WASHINGTON, D.C.
+
+Mr. YORAN. Thank you, Chairman Kyl, Senator Feinstein. I appreciate the opportunity to appear before you today to discuss the important issue of cyberterrorism. I also welcome the chance to provide your Subcommittee with an update on the efforts of the Department of Homeland Security's National Cyber Security Division to defend our Nation against the menace of cyber threats.
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00012
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+9 The National Cyber Security Division, established by the Department in June of 2003, represents a crucial component of the Information Analysis and Infrastructure Protection Directorate. Under the leadership of Under Secretary Frank Libutti and Assistant Secretary Robert Liscouski, the IAIP Directorate leads the Nation's efforts to protect the Nation's critical infrastructures from attack or disruption. Placement of the National Cyber Security Division in the IAIP Directorate allows for the careful integration of physical and cyber security approaches into a common, holistic management framework. Through the integration of physical and cyber protection capabilities, the components of IAIP work together to protect America's critical infrastructures. Under the leadership of Assistant Secretary Liscouski, we are considering the full range of risks to the Nation, including loss of life, disruptions to infrastructure services, economic impact and national security implications. Recognizing that future terrorists attacks may not be limited to cyber or physical acts, but rather a combination of the two to amplify impact, the Office of Infrastructure Protection is organized to examine threats and vulnerabilities across multiple dimensions, including integrating and mapping vulnerabilities to threats, assessing sector-specific and cross-sector vulnerabilities, and understanding national, regional and local impacts. Moreover, the close linkage of the Office of Information Analysis, led by Assistant Secretary Patrick Hughes, the primary threat information intelligence-gathering and analysis capability of the Department of Homeland Security, promotes the ability to map threat information with cyber vulnerabilities. This mapping allows for the effective prioritization of potential risks and implementation of remediation efforts as quickly as possible to limit the impact of computer incidents. For the remainder of my remarks, I will provide an overview of the cyber threat environment facing the Nation and activities the National Cyber Security Division is undertaking with its partners to reduce our National vulnerability to these threats. As members of this Subcommittee have heard on numerous occasions, cyber threats continue to be a significant national and global concern. When vulnerabilities are identified, viruses are launched, or when other types of cyber attacks are reported, it is often difficult to immediately identify and understand the underlying motives for such attacks. Is it an isolated cyber attack, for example, a part of a terrorist plot, a criminal enterprise, or a teenager surfing the Net in search of a thrill? The difficulty is that vulnerabilities and techniques that are exploited in the interest of cyber crime or even cyber hacktivism are the same vulnerabilities and techniques that are at issue when discussing cyberterrorism. Therefore, the National Cyber Security Division employs a threat-independent strategy of protecting the Internet and critical infrastructures from all types of attacks. While staying acutely aware of how terrorists might exploit cyber techniques, we face challenges in distinguishing between malicious acts of terrorism versus other types of attacks as an event is occurring in real time.
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00013
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+10 Rather than only focusing on specific attack profiles, we are developing programs and initiatives that apply to the gamut of attack approaches. In other words, our mission extends to protecting cyber systems across the entire threat spectrum, regardless of an actor's intent. If we attempt to stovepipe our protection efforts to focus on different types of attackers who may use the cyber infrastructure, we risk the possibility of limiting our understanding of the entire threat environment. While maintaining a threat-independent approach, the National Cyber Security Division recognizes that DHS and the Federal Government must remain vigilant in the identification of all types of cyber attackers. Components of the IAIP Directorate and our Federal partners in law enforcement, defense and intelligence devote considerable time and energy to identifying groups and individuals with the capability to launch cyber attacks and to determining the individuals responsible for an attack and its aftermath. At the Department of Homeland Security, the question we ask ourselves everyday is how are we making America safer, because in the end that is our key metric for success. In preparing to testify, I reflected on how far we as a country have progressed in cyber security in the past decade. The accomplishments are truly remarkable. In that time, we have created a Cabinet-level agency to bring together government, industry and academia to manage national cyber incidents. Government agencies, private corporations and our research community have developed, fielded and improved cyber security technologies such as firewalls, anti-virus technology and intrusion prevention systems to better protect our networks. Again, I wish to thank the Chairman, Ranking Member and members of the Subcommittee for the opportunity to speak with you today and I look forward to answering your questions. [The prepared statement of Mr. Yoran appears as a submission for the record.] Chairman KYL. Thank you very much, Mr. Yoran. In view of the fact that Senator Feinstein is going to have to leave, would you like to lead with the questions? Senator FEINSTEIN. Oh, how nice. Thank you very much. I would be happy to. I strongly believe that cyber security should be one of the lead priorities of the Department of Homeland Security. Before the creation of the Department, your predecessors, Richard Clarke and Howard Schmidt, had senior positions on the White House staff. They served as special advisers to the White House on cyberspace security. Now, as I said, cyber security is relegated to a mid-level position in the Department. As Director, you don't report directly to Secretary Ridge, but to an assistant secretary. My question is this: Given your lack of seniority in the Department, how will you be able to direct assistant secretaries in other directorates to bolster up cyber security? Do you have the organizational clout, for example, to get the Border and Transportation Directorate to bolster its cyber security policies? Tough questions. Mr. YORAN. Senator Feinstein, I would maintain that cyber security maintains a very high profile within the administration and within the Department of Homeland Security. We must continue to
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00014
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+11 maintain cyber as an integral component of our overall risk management approach to our critical infrastructures and to our public interest. It should not be stovepiped as an individual protection approach. I would also maintain that there are advisers within the White House who maintain very close awareness of cyber activity and cyber preparedness, but that within the Department of Homeland Security, through Homeland Security Presidential Directive 7, the Department of Homeland Security should maintain an organization to be the Nation's focal point for cyber security preparedness. Senator FEINSTEIN. At this point, have any directives been given by Homeland Security to other departments to tighten their cyber security? Mr. YORAN. The National Cyber Security Division works very closely in collaboration with the Office of Management and Budget, with the National Institute of Standards and Technology and with a number of other organizations across the Federal Government who have responsibility and authority to create standards and help define protection strategies for our Government. Senator FEINSTEIN. Well, I take it the answer is no to my question. Today, 85 to 90 percent, as I understand it, of the cyber security infrastructure is in private hands, and private sector control makes defending this aspect of our homeland somewhat unique. What can the Federal Government do to ensure the security of so many resources that are now outside of Government control, anyone that would like to have a crack at it? Mr. LOURDEAU. Well, one of the things that we need to do is we still need the public/private alliances between Government and private industry. There are contingency plans and other issues that the Government could assist private industry with so that there is a consistency across the board for security, both cyber and physical. As we know, there is a correlation between physical attacks and cyber attacks, and if the infrastructure's physical capabilities are not protected, then the cyber capability is not going to be protected. So I think it is very important that we continue that relationship between private industry and Government, and assisting in providing contingency plans and have that consistency across the board. Senator FEINSTEIN. Is that happening today? Are these plans available for review? Could this Subcommittee take a look at those plans? Mr. LOURDEAU. Yes, we have those. When the FBI had the National Infrastructure Protection Center, we were assisting in providing contingency plans, and I believe that Homeland Security has taken that over. Mr. YORAN. That is correct. In Homeland Security Presidential Directive 7, there is new focus on critical infrastructure protection planned. In addition, we have a tremendous amount of collaboration ongoing with the private sector through a number of different forums and we are working aggressively on contingency planning in various bad-base scenario capabilities, such as the Critical Infrastructure Warning and Information Network, so that we can com-
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00015
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+12 municate with the private sector and amongst the key Federal departments and agencies who would respond to cyber incidents. Senator FEINSTEIN. Mr. Chairman, I think it would be very useful if our joint staffs were able to take a look at those plans, because there is no way of us really exercising any oversight if 85, 90 percent of this is private sector. Now, if those alliances exist and are in writing, it seems to me we ought to be able to review them, and I would make that request that our joint staffs have an opportunity to take a look at what does exist with respect to achieving cyber security in the private sector now. Chairman KYL. Any difficulty with providing us that information and meeting with us and our staff? Mr. LOURDEAU. No, and I will speak for both of us. We will make sure that is available to you. Chairman KYL. All right. Senator FEINSTEIN. May I place a statement by the ranking member, Senator Leahy, in the record? Chairman KYL. Yes. Without objection, it will be received. Senator FEINSTEIN. Thank you very much, and I am going to excuse myself. Thank you for your courtesy. Chairman KYL. Well, thank you. I know you had to leave that other hearing. We appreciate you being here. Senator FEINSTEIN. Thank you. Chairman KYL. Let me now ask some questions. Specifically as a follow-up to Senator Feinstein's question here, we have held, as I said, a number of hearings on this. Back before there was a Department of Homeland Security, we had testimony about the NIPC, in fact, a couple of different times. In 2001, at one of our hearings, the GAO had prepared a report on the National Infrastructure Protection Center, at that time located in the FBI. It was critical of the NIPC, stating that NIPC had failed to develop a broad strategic analysis of cyber-based threats. What I am interesting in knowing is how DHS, now having taken that over, has proceeded to address concerns like that, or have you? I will tell you, let me ask you a second follow-up question because it relates specifically to your testimony, Mr. Yoran. In the year 2000, the Director of the CERT Coordinating Center, which is a reporting center for computer security programs that is located at Carnegie Mellon--Richard Pethia, who is the director of that center, testified that the Government was awash in a sea of vulnerability studies, and what we really needed was to develop an accurate threat assessment for cyber attacks. He reasoned that the private sector could not afford to eliminate every vulnerability in their operations and had to prioritize. In your testimony, you state that the National Cyber Security Division employs a threat-independent strategy or protecting the Internet and critical infrastructures, and I understand the rationale behind that. Nonetheless, have you focused on developing a threat assessment of cyber attacks, in addition to dealing with your independent strategy? Mr. YORAN. Mr. Chairman, our protection strategy is threat-independent. In the Directorate of Information Analysis and Infrastruc-
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00016
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+13 ture Protection, we have the ability to fuse and review threat information coming from across the sources with which information analysis deals, including law enforcement and intelligence. Chairman KYL. Well, let me ask it another way. Mr. Malcolm testified that the FBI doesn't do a threat assessment, that that is now DHS' job. That may be fine if it is being done and if it is very transparent, but I still haven't heard you say that DHS has done a threat assessment for cyber attack. Again, I appreciate the rationale for the need to protect against and deal with an attack, whatever its source. But in order to appreciate the potential, and therefore devise ways of dealing with a specific kind of attack, it seems to me that DHS must be carrying out a cyber threat analysis and must have some kind of threat analysis in existence. This is something that I had talked with Mr. Mueller about before DHS existed as part of the overall response to 9/11, in which it was determined that the FBI no longer could simply respond to crimes and investigate them and provide evidence to prosecutors to prosecute the crimes, which is pretty much, Mr. Malcolm, what you said the role was with the creation of DHS. That is fine, if somebody else is now doing the job that we had asked the FBI to do right after 9/11, not leaving it just to the CIA. But in this country, we needed a threat assessment of cyber attack; it had to be done by somebody. If the FBI isn't doing it, then we need to know that DHS is doing it and I am still not clear on what DHS does in this regard and what you have in this regard. Mr. YORAN. Mr. Chairman, the Department of Homeland Security, in accordance with Homeland Security Presidential Directive 7, is developing a critical infrastructure protection plan which would be an integrated threat and protection strategy. It does not stovepipe cyber threats as an independent or stovepiped approach or threat to our infrastructures, but looks at cyber as one component of infrastructure protection. I would also add that through conducting exercises such as Live Wire, we are looking at threats against our infrastructures and ways which we can improve our preparedness and our response capabilities to cyber as an integrated attack vector to our Nation. Chairman KYL. Well, I appreciate that. Is somebody else doing a threat analysis of cyber attack from terrorists or other state sponsors? Mr. MALCOLM. Mr. Chairman, perhaps I will throw Mr. Yoran a lifeline, which is that DOJ has participated in things like Live Wire and, through CCIPS, we work very closely with DHS. I didn't hear Mr. Yoran to say that DHS is not doing that threat assessment. I heard him to say that it is subsumed as part of general critical infrastructure threat assessment. I can tell you, for instance, that in work dealing with telecommunications transactions, sub-cyber transactions within the Committee for Foreign Investment in the United States, I work on behalf of DOJ on that interagency committee. I have worked with Mr. Yoran, I have worked with Mr. Liscouski. We have discussed on numerous occasions vulnerabilities, including cyber vulnerabilities, and we do that vulnerability assessment both in terms of the current infrastructure and also in terms of
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00017
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+14 players--nation states, potential private company threats within that worldwide infrastructure. Mr. YORAN. Mr. Chairman, I would just add you mentioned earlier the National Intelligence Estimate currently being released this week for a classified understanding of cyber threats, and also a focus or a requirement--not to openly disagree with Mr. Pethia's opinion, but the focus is and needs to remain on infrastructure services. And the goal here, the intent, is not cyber preparedness for cyber security's sake. It is in the delivery of infrastructure services to serve the public, and so we need to look at cyber as part of an integrated approach to infrastructure protection. Chairman KYL. Well, I appreciate that, but I know--well, let me just ask this question. The NIE is being prepared by a group of agencies of our Government, and there will be primarily the classified version of that which includes obviously intelligence collection and our military use of cyber. But as a separate threat to our infrastructure, whether it be primarily Government or purely private sector, is there anywhere that you know of in our Government a specific threat assessment of terrorists or state sponsors of terror with respect to the Internet or our cyber security? I shouldn't just say the Internet because there are systems that aren't necessarily directly Internet-connected. Mr. LOURDEAU. If I may answer, Chairman, the Cyber Division at the FBI has created--and I believe we have shared it with your staffers--the FBI's cyber threat assessment which is target-based to the threats, the targets that we believe are threats to the United States. That is, again, a classified threat assessment and we will be more than happy to share that with you. Chairman KYL. Well, is this a target-based assessment of threats from any source or is it an assessment of the risk from terrorism to the system? Mr. LOURDEAU. Again, it is directed toward identifying the targets that are threats to the United States, and so it goes toward terrorism and state nations, and then the whole range of the concern over the Internet as far as child pornography, Internet fraud, intellectual property rights. It reaches all different aspects of cyber. Chairman KYL. Well, I don't mean to belabor this, but obviously I need to get some more follow-up from each of you on this point and I would like to have some further clarification. It seems to me that in properly analyzing the threat and how to protect our systems, both government and non-government, when you have kind of a matrix, for one thing you examine the vulnerabilities, the threat-independent assessment of the private and governmental sectors. But you also would be obviously aided by an analysis of the kinds of attacks which could occur, ranging from the relatively benign nuisance kind of attacks, to non-benign hacking, to criminal enterprises, to terrorist attacks, and then specifically state-sponsored intrusion for all of the reasons that states attempt to intrude. Now, at that level you are really into classified material, I understand. But it seems to me that the assessment should be on both sides: who might attack us, and why and how, and how is our system vulnerable. I understand that when an attack occurs, you can't
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00018
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+15 know immediately where it is coming from, and one of the first things is to try to figure that out so you know where you have to go. And it doesn't much matter in the early stages whether it is from a state or a terrorist or a couple of hackers who, in effect, replicate terrorists. But it is important as time goes on to know how to deal with it and what are the systems to warn or shut down, and so on. So I am still trying to understand whether there is a document, other than the NIE that is coming out--and perhaps it will be allinclusive; I don't know--which analyzes the types of threats, including an assessment of risk from terrorist organizations. I mean, can I find a document that does that, and if so, what is it? Do any of you know where that might be? Mr. LOURDEAU. Again, our threat assessment does not really address the vulnerabilities that would be attacked. We are looking at the entities or the places that might attack the U.S. That is what the FBI is focusing our energies on, is trying to address those threats. So, again, if I understand correctly, it is not as complete an assessment as what you are looking for. Chairman KYL. But now what you just said then contradicts at least what I thought I heard before. DHS is looking at the vulnerabilities of the government and non-government systems in a threat-independent way. What you just said, Mr. Lourdeau, is that the FBI is actually looking less at the vulnerability of the systems than to the origins of the threat to try to understand those threat origins. Is that correct? Mr. LOURDEAU. That is correct. Chairman KYL. So is there a threat assessment that is prepared by the FBI from that point of view? Mr. LOURDEAU. Yes, sir. Chairman KYL. Okay, and I presume there are both classified and unclassified versions of that? Mr. LOURDEAU. We just have a classified version. Chairman KYL. All right. Mr. LOURDEAU. And that has been shared with your staffers. Chairman KYL. Okay. My staff is shaking his head no, so we will need to get this-- Mr. LOURDEAU. I am sorry. We will make sure that it is available to you. Chairman KYL. Okay. So then just to summarize this point, let me just ask you all, do you think--Mr. Yoran, let me specifically ask you, do you think that our Government somewhere needs to have a threat assessment of potential terrorist attacks on government and non-government infrastructure? Mr. YORAN. Sir, if I could defer a response until after we see what comes out in the National Intelligence Estimate, I think at this stage, with the report pending this week, it would be premature to say that we need an additional threat assessment on what the capabilities are of various cyberterrorist organizations. Chairman KYL. I am not saying additional. I mean, maybe that does the trick, but we need a threat assessment, right? Mr. YORAN. Yes.
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00019
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+16 Chairman KYL. In other words, the DHS threat-independent work that you are doing, you would agree, is not enough? Mr. YORAN. Sir, that is focused on vulnerability identification and protection remediation strategies. It is not focused on threat assessment. Chairman KYL. Right, but you assume that the NIE will, in fact, also focus on a threat assessment? Mr. YORAN. Yes, sir. Chairman KYL. Right, assume that, and so we will take a look at that and visit with you all on that later. Mr. YORAN. Sir, we have been working through the directorate and the information analysis folks in the production of that NIE. So we are an integral part of the production of that document and understanding what is happening there. Chairman KYL. Well, again, I don't mean to belabor it, but I happen to know that, for example, intrusions into key Government computer systems by what we believe to be states represents a totally different kind of threat than the occasional--not occasional-- it is almost ongoing, constant hacking by pretty capable people. And you deal with those vulnerabilities in different ways, right? Mr. LOURDEAU. Yes, sir. Mr. YORAN. Sir, you deal with the threats in different ways. Chairman KYL. Yes, that is exactly right, but whether the system is vulnerable to a particular technique that may be used by both a state sponsor, a terrorist or a hacker isn't the only point in being able to defend. It is also helpful to assess the threat coming from each of those various sources. At least it seems to me it is. I will be curious to get some follow-up response from each of you, including we will take a look at the NIE and then visit with you. Mr. Malcolm, you specifically mentioned the USA PATRIOT Act and I appreciate your doing that. We may well need to follow up on your testimony there to get an elaboration of why it is so important to permit those sections that you said are very valuable to you to remain and not be sunsetted. If I could just even at this point ask you for any additional information that you could elaborate for us on that point, I would appreciate it, because one thing that we want to do in this Subcommittee is be sure that when that debate on sunsetting begins that we have developed all of the information we need to to demonstrate why we need to retain key provisions of the PATRIOT Act and why, in fact, it is working and doing a job right now. And that was your point. Mr. MALCOLM. Well, I welcome that opportunity and I will be certain to do so in even greater detail than what I am about to tell you in follow-up questions. But certainly in terms of the ability to get computer records through nationwide search warrants, the enlarged scope of information that is obtainable by subpoena--those are tools that prosecutors across the country are using everyday to catch terrorists and serious criminals. In terms of things like, for instance, the emergency exception for obtaining stored communications, I know of at least one case that involved a bomb threat to a high school in which the owner of the network had not been aware of the fact that there was now a lifeand-limb emergency disclosure exception. Upon being made aware
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00020
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+17 of that, he turned over the content of those communications and law enforcement authorities were immediately able to trace the perpetrator of that threat to a student in the school. I know that that disclosure exception has also been used recently in the threat against a U.S. embassy overseas. There are many examples that I am confident I will be able to provide you. Chairman KYL. Thank you for that. I think it is really important that we get this information out because, as you know, the PATRIOT Act is under attack by some who I think fail to appreciate the way in which it has helped our law enforcement. So the more we can get that information out, the better we are going to be. Mr. MALCOLM. Thank you, Senator. Chairman KYL. This past week, DHS launched the Protected Critical Infrastructure Information program to enable the private sector to voluntarily submit infrastructure information to the Government. In the past, we have had testimony before our Subcommittee that businesses have been reluctant to provide certain information to the Government or even share it with other businesses, fearing, for example, that it would harm their business of the public understood what was potentially or actually happening to them. They also feared that information might be obtained by the public under the Freedom of Information Act, and also possibly that sharing of this information or strategies of dealing with it might even violate antitrust laws. That was another concern that they expressed to us. Senator Bennett and I had a bill in 2001 that would have eliminated those problems, and the Homeland Security Act of 2002 did address the FOIA issue which established an exception for certain data submitted to DHS. Particularly for Mr. Yoran or Mr. Malcolm, do you know of any impediments today that prevent the private sector from fully reporting cyber intrusions and critical information data to the PCII program or other Federal agencies? Is there anything further that we need to do that you know of? Mr. MALCOLM. Actually, Senator, I testified about that issue. Really, that question would probably be better addressed to Mr. Schmidt on the second panel, since he is in the private sector and they are the people who possess the information. Chairman KYL. Okay. Mr. MALCOLM. We have certainly, with the help of people such as yourself, tried to address those concerns so that we can get the information that we need to do our job, since, as has been pointed out several times now, 85 to 90 percent of these networks are controlled by the private sector. To some extent, we don't know what we don't know, but we have certainly bent over backwards and appreciate your assistance to make it easier to report that information. Chairman KYL. I appreciate that. Of course, we will ask the question. But, before, it was the law enforcement agencies that were saying we are not getting cooperation from the private sector because they have these fears. So that was really the impetus for our legislation. This is kind of a general follow-up, but in your testimony, for example, you discussed the Department's successes in prosecuting
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00021
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+18 cyber criminals. Are there any other modifications to the law that you can think of that you want to bring to our attention that might help you in doing your job? Mr. MALCOLM. I am confident, Mr. Chairman, that if I put my mind to it, I could think of one or two. Suffice it to say these are very sophisticated criminals who are very good at perpetrating these acts and very good at covering their tracks. We are constantly thinking of new ways to get information as rapidly as possible because this type of evidence is truly evanescent and is gone within seconds. We are happy to work with your staff to come up with some proposals. Chairman KYL. Okay. Well, for all three of you, anytime--not just after this hearing, but anytime you become aware of improvements that we could make in the law, I mean one of our jobs in this Subcommittee is to constantly--that is why we have had so many hearings on this subject, to pin you. Is there anything else we need to be doing here to follow through on your request to retain these provisions in the PATRIOT Act and provide a forum for discussion and education on that matter? So if at any time there is something that comes across your desk that you think we could profitably deal with, we invite you to bring that to our attention. That is our job in this Subcommittee. Mr. MALCOLM. Thank you. Chairman KYL. Is there anything else that any of you, based upon what I have said--I didn't mean to ever cut any of you off, but is there anything that any of you would like to bring to our attention here before we bring up our second panel? Well, we will look forward to reviewing the NIE and then getting back to you and determining whether there is any follow-up that we need to make from that. Unless you have any further, then what we will do is call the second panel up. I want to thank you for your testimony here. We will be staying in touch with you, and again call on us if you think that our Subcommittee can help. Mr. MALCOLM. Thank you, Mr. Chairman. Chairman KYL. Thank you. I have already introduced our other two witnesses, Mr. Dan Verton and Mr. Howard Schmidt. Simply because that is the way you line up, unless by prior agreement you would like to switch it, Mr. Verton, we could start with you and follow with Mr. Schmidt. Is that all right with the two of you? Mr. VERTON. Yes. Chairman KYL. All right. Again, we will use the lighting system here to just let you know when you have concluded 5 minutes, but obviously we are anxious to hear anything you have to say. So thank you.
+STATEMENT OF DAN VERTON, AUTHOR, BURKE, VIRGINIA
+
+Mr. VERTON. Well, thank you, Mr. Chairman. I want to thank you for the honor of appearing before you today to discuss what I think is an urgent national security matter. I am heartened to hear that the National Intelligence Estimate will be released this week. I might add that my latest research shows that that is about 5 years late at this point. One of your colleagues in the House requested one that long ago and it is finally
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00022
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+19 coming out. I don't know if 5 years is really the time frame fast enough to keep up with cyber threats, so I think that is a very important development this week. Chairman KYL. If I could just interrupt, I concur in your comments. When we scheduled this hearing prior to our break, we did not know that this was the time that the NIE was going to be released or perhaps we would have done it afterward. However, given the fact that a lot of that will be classified and not subject to discussion in an open forum like this, I think it is well to go forward with this hearing, but perhaps we will have to do some follow-up. But thank you for that. Mr. VERTON. What I would like to do today, Mr. Chairman, is actually try to give you an open-source threat assessment, if you will. What I would like to cover today is the Nation's current level of vulnerability to cyberterrorism, al­Qaeda's specific capability to conduct cyberterrorism, and the potential implications for a combined physical and cyberterrorist attack against U.S. critical infrastructure. Before meaningful discussion can be conducted about the Nation's vulnerability to cyberterrorism, I think it is important to know that there is no longer any separation between the physical, real world and the cyber world. Computers control real things in the real world, and most of these things, as you have already heard, are critical infrastructures that have both financial and economic implications, as well as public safety implications. This understanding must lead us to a new, more flexible definition of cyberterrorism. We can no longer view cyberterrorism with blinders on, simply from the perspective of somebody sitting behind a computer and launching malicious code or hacking and disrupting other computers and other computer networks. If there is one thing we learned from 9/11, it is that traditional physical terrorist attacks can have devastating cyber ramifications for the U.S. critical infrastructure, and it can also disrupt to a significant extent the United States economy. A little bit later on in my statement, I am going to get to where the economic aspects of cyberterrorism fit into this puzzle. It is an unprecedented level of interdependency that right now accounts for most of the vulnerability of the U.S. critical infrastructure. The economy right now has multiple Achilles heels. Every sector is dependent upon another sector for their day-to-day operation. As we learned on August 14, which I will address a little bit later in more detail, no one sector can survive without electric power, without telecommunications, and so on and so forth. Perhaps one of the most important areas where an unprecedented level of vulnerability remains today is in the widespread adoption of wireless technologies. Although there are tested ways to secure wireless technologies that are being adopted today, they are not always adopted correctly, they are not always managed correctly, and sometimes they are not deployed at all. In my research, I have found evidence of unprotected wireless networks in use at hospitals; curbside baggage checking at some of the Nation's largest airlines; remote heating systems for portions of the railroad network; in support of emergency controls and alarms for uranium mining operations; at water and waste water
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00023
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+20 treatment facilities; security cameras at both airlines, airports, and at defense installations; and at oil wells and water flood operations around the country. Let me just say a word about SCADA systems, since you have heard some talk about SCADA systems this morning already from the first panel. Despite what you may be told, SCADA systems are not the secretive, proprietary systems that their names implies-- supervisory control and data acquisition systems--nor are they separate from the public Internet. In some cases, they are indeed protected, but in most cases--and I have seen this through my own research with my own eyes--wiring diagrams that connect the real-time control systems that run the day-to-day operations of the electric power grid in the United States are connected to the corporate networks of some of the utilities around the country. Now, this indirect connection provides the connection to the public Internet and is what makes these control systems vulnerable to things like the Blasto Worm, and so on and so forth. So there is, to my knowledge, a major research and development program underway right now to provide security for those systems. But make no mistake about it, they are indeed vulnerable to attacks over the general Internet. My fear then, Mr. Chairman, is that the next time we experience a major power failure, such as August 14 of last year, it will not be a self-inflicted wound--for example, a self-inflicted failure--but it will be a terrorist-induced failure that is quickly followed up either by suicide bombings, by out-of-control gunmen on the streets of Manhattan where thousands of people are coalescing, or by chemical or biological attacks on the folks who are stranded in the subway systems. And that goes directly to the use of cyberterrorist tactics as a force multiplier, not in an end to itself, but as a force multiplier effect for traditional-style terrorist attacks. As far as the ability of groups such as al Qaeda to carry out successful cyberterrorist attacks, I think it is important for us to start now thinking differently about the future, and particularly thinking differently about the future of international terrorism. The high-tech future of terrorism is inevitable, and like the events leading up to September 11--events that we ignored for 8 years prior to that event--we are now beginning to see the indications and warnings that terrorist groups understand the advantages of using cyberterrorist tactics against the United States. Also, these tactics, as you will see here in a few minutes in my statement, support the strategic goals of groups like al Qaeda, strategic goals that we have not yet paid much attention to. Terrorism is in a constant state of evolution, and terrorist tactics and modes of operation evolve over time. Sometimes, they evolve so slowly that we fail to recognize them. Al Qaeda's view of cyberterrorism is a case in point, and because I think I am running out of time here, let me get quickly to some concrete examples of al Qaeda's movement toward the adoption of cyber tactics from an offensive standpoint. L'Houssaine Kherchtou was a 36-year-old Moroccan who was recruited by al Qaeda and he attended electronics training in a guest house owned by Osama bin Laden in Peshawar, Pakistan, in the
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00024
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+21 early to mid-1990's. Mr. Kherchtou showed up with absolutely no credentials whatsoever in electronics training, and there were two instructors that were present at the facility and they were working on advanced encryption algorithms, advanced methods of breaking encryption for the nations that were trying to track them down, and various other ways to use high technology to create fraudulent travel documents. Because he had no understanding and no formal training in electronics, they basically started him at the ground floor. They handed him a book and told him to take apart an old computer and start to learn what the components of the computer were. Several weeks later when a more senior instructor arrived at the guest house, he asked Mr. Kherchtou the same question. What are your credentials? And, of course, he said he had no credentials. That senior instructor then said to him he was not allowed to attend that training. He first needed to go to the local university and earn a degree in engineering and then he would be allowed to come back and conduct that training. Now, the importance of this example is that the picture most Americans have of al Qaeda and other terrorist groups is as a mindless hoard of thugs living a hand-to-mouth existence in caves in Afghanistan. But the example I just gave you is a technologically sophisticated, thinking enemy that values formal training and I think we need to change our--this goes directly to the National Intelligence Estimate and the questions that you were asking about who are we worried about. The second example that I will give you is an interview I conducted in November of 2002 with a gentleman named Sheikh Omar Bakri Muhammad. Just to give you an idea of the type of individual we are talking about, Bakri Muhammad is the leader of a London-based organization called al Muhajirun. He considers himself to be the official spokesman for the political wing of al Qaeda, as if there is such a thing as the political wing of al Qaeda. This is an individual who has recruited suicide bombers by his own admission, and his organization has been linked through FBI memos to various individuals at Phoenix area flight schools to his Londonbased organization. He spoke to me for about 30 minutes, during which most of the time was taken up speaking about the justification for using weapons of mass destruction in support of the global jihad being waged by al Qaeda. But then he got specifically to the issue of using technology against the United States, and you can attribute the following quotes to Bakri. ``In a matter of time, you will see attacks on the stock market.'' ``I would not be surprised if tomorrow I hear of a big economic collapse because of somebody attacking the main technical systems in big companies.'' And he said, ``The third letter from Osama bin Laden...was clearly addressing using the technology in order to destroy the economy of the capitalist states. This is a matter that is very clear.'' This is the first time that a high-profile radical Islamic cleric has spoken in such a detailed manner about the potential for using sophisticated cyber attack tools against the United States in support
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00025
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+22 of a strategic goal, which is to damage the economy of the United States. There is nothing in the driving factors from my research behind al Qaeda's operations, which are intent, resources and opportunity, to suggest that al Qaeda would rule out using this method of attack. First, the strategic intent of this group is clear. Al Qaeda wants to cripple the economy of the United States in order to force us to withdraw our military from around the world, and also to withdraw our support for Israel and the Middle East. The targeting of corporate America in this respect is clear. Second, the growing number of technologically sophisticated sympathizers around the world, especially among young Muslim children around the world who are successfully being radicalized by groups like al Qaeda today--these are the children who are now studying computer science and mathematics, who tomorrow may feel it is more advantageous for them to strike out at the United States through computers or targeting the cyber infrastructure rather than strapping dynamite around their waists and walking into crowded cafes. Tomorrow's threat may not look like today's threat. In fact, tomorrow's threat probably will not look like today's threat, and the frightening thing is that tomorrow may literally be tomorrow. Finally, America continues to present al Qaeda, as you have heard this morning, and other terrorist groups with ample economic targets in cyberspace. There is really great work being done, but we are almost now heading into the third anniversary of 9/11 and we are nowhere near where we should be, in my opinion. Finally, the potential danger stemming from combined physical and cyberterrorist attacks was proven in November of 2000 during the first major infrastructure interdependency exercise that took place in the Pacific Northwest. Known by its code name Black Ice, the exercise was sponsored by the U.S. Department of Energy and the Utah Olympic Public Safety Command. When it was over, Black Ice demonstrated in frightening detail how the effects of a major cyberterrorist attack can significantly amplify the effects of either a natural disaster or a traditional physical-style terrorist attack. Without going into details of the exercise, I will make this one point about the exercise. Unlike many other similar exercises that have taken place since, this was an exercise scenario that was developed with the help of the actual owners and operators of the critical infrastructures in that region. So the owners of the electric power grid, the owners of the telecommunications networks, the owners of the natural gas, government, emergency services, got together and they asked them to provide them with their worst-case scenarios, their worst fears based on their inside knowledge of their own vulnerabilities. It was a very realistic scenario. The end result, according to my interviews with the officials who put together the exercise, was that electric power from a combined physical and cyberterrorist attack would be lost for at least a month throughout a five-State region of the United States and three Canadian provinces. Some estimates put it at several
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00026
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+23 months, and a lot of that had to do with the physical aspects of the attack because we do not stockpile strategic reserves of electricgenerating systems. Most of them are manufactured overseas and it would probably take that long, if those systems were physically destroyed, to get them here into the country. Black Ice showed the growing number of critical interdependencies that exist throughout the various infrastructure systems and how devastating these types of attacks can be. Perhaps most important, the final report on the lessons learned from Black Ice, as well as a follow-on exercise code named Blue Cascades, concluded the final statement: government and private sector participants, quote, ``demonstrated at best a surface-level understanding of interdependencies and little knowledge of the critical assets of other infrastructures.'' Moreover, most companies and government officials failed to recognize their own ``overwhelming dependency upon ITrelated resources to continue business operations and execute recovery plans.'' So with that, Mr. Chairman, I will hand it over to my colleague, Mr. Schmidt, and I will be happy to answer your questions. [The prepared statement of Mr. Verton appears as a submission for the record.] Chairman KYL. Thank you, Mr. Verton. Mr. Schmidt.
+STATEMENT OF HOWARD A. SCHMIDT, VICE PRESIDENT AND CHIEF INFORMATION SECURITY OFFICER, EBAY, INC., SAN JOSE, CALIFORNIA
+
+Mr. SCHMIDT. Thank you, Mr. Chairman. It is good to see you again and thank you for your leadership, and Senator Feinstein, for this issue that is very critical to all of us. As you are very much aware, when we put out the National Strategy to Defend Cyberspace almost a year ago now, a little over a year ago, it was probably the first and maybe only time that we have ever engaged in public dialogue in the creation of a national strategy. We held a series of town hall meetings. We held meetings with CEOs, with journalists, with anyone we could get a hold of to talk about what it would take to secure and defend cyberspace. As you made the comment in your opening comments, Secretary Ridge has also stated an insecure computer anywhere is a weakness within the network. Today, my remarks will primarily focus on some of the threats we see, the nature of the threats themselves, some insights as to what we have been doing relative to the private-public partnerships, and a few ideas that I think the Subcommittee would hopefully find valuable, some things we can do moving forward. The good thing about being the clean-up hitter is all the scary stories have already been told, so I get to focus a little bit on some of the things that we can do to help remediate some of these. First and foremost, I would like to put things in perspective. It is estimated today that there are over 840 million users on the Internet, and it is expected to grow to over 904 million at the end of 2004. So even though we have this great capacity--and eBay is a perfect example of that; millions of people worldwide make their living in using this great resource we have and providing a global
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00027
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+24 economic democracy. But by the same token, our dependencies have increased significantly as we have put more systems out there to work with. The interesting piece of this is during the Cold War we had the ability, those of us in defense, to look at many different many aspects of threat assessments and intelligence data, satellite data, to sort of determine where the enemy was looking at and where we need to protect. But in this era of the online world, particularly in cyberspace, we don't have that capability. It doesn't make any difference to many of us whether the attack comes from the Mideast or the Midwest, Eastern Europe or northern Arizona. If it is disruptive to our critical infrastructure, our critical cyber infrastructure, we care about it. Now, we see this manifesting itself in a number of fashions; first and foremost, denial of service attacks; hacking; phreaking, which used to be very prevalent in the 1980's and which is coming back again, that is the hacking of PBX systems; authentication attacks; identity theft; phishing, the latest scams that we have been seeing which could lead very easily to identity theft; malicious code; viruses, et cetera; and, of course, as many of us have mentioned, the SCADA and digital control systems. But we have seen an evolution. It used to be at one time if you wanted to take on a nation or you wanted to take even a small country on, you needed some sort of weaponry. Now, we have seen with the--and I will use the illustration of the denial of service attacks in 2000. A number of universities and businesses were taken over to launch attacks, ranging in the space of about 800 megabits per second, 800 million characters per second being thrown at systems. What we are seeing now with the great advent of technology and cable modems and DSL is we are seeing instances where there are 20 to 30,000 systems that now are owned by unknown groups that can launch those same denial of service attacks at more than 2-gigabit-per-second rates. Also, the area of zero-day vulnerabilities. The time frame between the discovery of a vulnerability and the release of an exploit is increasingly smaller. We have seen initially 6 months to a year; now, we are seeing a matter of hours and days that takes place. The last threat I am concerned about, of course, is what we refer to as the blended threats. We saw this in the form of Code Red and NIMDA and, of course, NIMDA occurred just one week after September 11. And neither one of those today have we been able to identify the source, whether it was indeed a criminal organization, a clever hobbyist, or indeed a terrorist activity. Now, quickly to the private-public partnerships, one of the major improvements we have seen in working with the manufacturers of software and hardware over the past couple of years is their commitment to make products more secure out of the box, and to make sure that they reduce the number of vulnerabilities. But this will take some time. We don't have the capability or the financial wherewithal in today's economy to rip out IT infrastructure that was not designed to meet the current threats that we are dealing with. So it is going
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00028
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+25 to be an evolutionary process. It is going to take some resources and it is going to take some planning to be able to do this. Additionally, the creation of the U.S. CERT at Carnegie Mellon University with DHS has also provided a gateway for the private sector to get more up-to-date information around threats that don't have to be a part of a big organization. Anybody can do it, regardless of the size of their organization. Another thing that has been helpful for the private-public partnerships is the FBI, as John Malcolm mentioned, and the G8 Subcommittee on Cyber Crime have now engaged private sector representatives as delegates of these discussions. Also, the State Department has engaged the private sector. So we do have a lot more private sector involvement in these areas. In my final few seconds here, I want to touch briefly on some quick recommendations that I see of vital importance to us. First and foremost, in the area of cyber crime investigations, as you pointed out earlier, we don't know until we put the habeas gravis on someone what their motive is or where they are coming from. But it is important to make sure as we develop this information, as we conduct investigations, including investigations where we never identify someone, that we have the ability to correlate and aggregate that data. Currently, a lot of the agencies, particularly Federal agencies-- the Secret Service's Electronic Crimes Task Force, the FBI's cyber crime squads--are doing really good work. But what we are not seeing is that joining of the forces to be able to at some point connect the dots that says an investigation that one agency is working on is related to one that someone else is working on. My fear, Mr. Chairman, is someday we will have a Committee hearing on why we didn't connect those dots relative to law enforcement activity. The second piece is identity management. We have seen, as was mentioned earlier by Senator Feinstein, attacks on defense systems. A lot of those have been successful in the past just because someone has been able to hijack someone's identity by failure of the system, a blank password, for example. Identity management is crucial to us to be able to do a better job in securing the systems. Two-factor authentications, such as Defense is now going to with the smart card concept--the two-factor is something you have, such as a physical device and the PIN number, very similar to the ATM cards we use today. These things are critical to provide better authentication into our systems as we move forward. The last one, as was touched on by the previous panel, is vulnerability remediation and patch management. General Dave Brian at the Joint Task Force for Computer Network Operations at DoD has cited for a number of years that 98.7 percent of the successful intrusions into defense systems were related to not having a patch on the system. If we could reduce the vulnerability by that amount, it would be a tremendous service to our ability to secure the critical infrastructure. In my reserve capacity as a special agent with Army CID, I get to work with the folks over at the Law Enforcement Counterintelligence Cell. And to your earlier question about the threat analysis, these folks are doing that on a regular basis, and DoD has been
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00029
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+26 doing it for a long time, identifying potential threats both in nation states and including organized hacker groups. So with that, I would like to thank you once again for the opportunity and turn it back to you, and I would be happy to answer any questions you may have. [The prepared statement of Mr. Schmidt appears as a submission for the record.] Chairman KYL. Well, thank you both very much. First, let me just follow up on a question that I asked the previous panel that has to do with the needs of the private sector. Mr. Schmidt, I will start with you on this. We did the FOIA legislation, so that you don't have to worry if you are bank and you report to the center that you are being hacked. You don't have to worry about people later being able to find out all about that, but there are still some concerns like the antitrust concerns. Is there anything that you know of, based upon your work with the private sector, that we need to do from either a Federal legislative standpoint or better administering the cooperative efforts between the private sector and the Government? Mr. SCHMIDT. Yes, and I thank you. I had dinner with Senator Bennett last night and thanked him once again for the FOIA legislation. That has really opened up some doors. I think the concern we still have, though, is the States and the sunshine laws that we face in the States. During my time at the White House, I worked with the folks at the New York Department of Homeland Security, and the public utilities commission was sending out subpoena after subpoena asking for information from telecommunications carriers and energy providers to provide them with information which is fully discoverable. So some sort of a Federal preemption would be helpful in order to be able to work across this area with the relative security of knowing that we can provide this information to help better secure up the infrastructure without displaying our vulnerabilities to anybody that cares to exploit them. Chairman KYL. Okay, at least perhaps starting with some effort at a voluntarily cooperative effort with State law enforcement and other officials, and maybe start with that before we try to actually preempt the field. But maybe we would have to preempt it is what you are saying? Mr. SCHMIDT. Well, I think that is one of the options. And to your point of the relationship with State law enforcement as well as Federal authorities, we have had a number of cyber crime summits around the country, generally led by the Information Technology Association of America and the FBI. These brought in senior leadership, as well as senior law enforcement folks, to engage in that dialogue on a voluntary basis, and we see that taking place. But as you know yourself, that is often agent-to-agent or investigator-to-investigator type of activity. But when you go to the general counsel and say, well, listen, we think we have something we need to talk to someone about, there is a great deal of concern about that. I think the way to mitigate that is to actually get this down the system enough to make sure that we can say, yes, we are protected by the some of the legislation that is currently in place.
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00030
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+27 Chairman KYL. Mr. Verton, your book uses the term ``invisible threat.'' We know that terrorists' primary goal is to spread fear, to spread terror. If you are a terrorist now and you are very familiar with the Internet--you raise money with it, you communicate with your buddies through use of the computer--what kind of a plan would you dream of putting into place to maximize the spreading of terror throughout our society? Mr. VERTON. Well, Mr. Chairman, in my book I provide some fictional scenarios, and the interesting thing about those scenarios is that they are all based on actual events that have really taken place in the real world and I have just gone ahead and taken the liberty to put them all into one scenario. The scenarios are endless, but the things that pop to mind when you talk about fear and uncertainty--and, you know, a lot of the experts out there, a lot of the people in the IT community feel that the term ``cyber terrorism'' or terrorist use of information technologies is and of itself fear, uncertainty and doubt, something that will never happen because they are not interested in it. Well, the fact of the matter is, as your question implies, fear and uncertainty and doubt are key components of cyberterror, what they would like to create by using this tactic. So I can imagine a scenario where some of the wireless technologies that I outlined in my testimony at hospitals, for example--you can sit in the parking lot and potentially do things like change blood types in patient records, so that all of a sudden you have people dying of the wrong blood transfusions or getting sick so people will become fearful that that will happen to them if they get put into the hospital. You have got scenarios where you can have people fearful of putting their money in the market if attacks on the stock market are successful. That is not necessarily maybe terrorism, per se, but it is certainly fear that would have an economic impact on the economy. Chairman KYL. Well, I appreciate that and that leads to my second question for both of you. You heard the first panel. We discussed the need for a threat analysis, as well as a vulnerability analysis. We have had a lot of the latter, and except for the Defense Department which you pointed out, Mr. Schmidt, I haven't seen a whole lot of the former. So take the case, for example, of al Qaeda looking at the U.S. stock market. Is it possible that understanding that potential threat as a terrorist threat would cause us to plan differently, to put in place different kinds of protections and to react differently, as opposed to simply looking at it from the back end as a threatindependent situation when it occurs and focusing just on the vulnerability of the system? In other words, can we protect the infrastructure without understanding and taking into consideration the origin of the activity; i.e. the nature of the threat? Does it help us both to prevent and to deal with the aftermath of an attack if we have been able to understand its etiology rather than just its effect? Mr. SCHMIDT. You know, that is something we have wrestled with for quite a long time, is trying to determine does the nature of the threat or the source of the threat make any difference on how we are going to protect against it.
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00031
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+28 Chairman KYL. That is better way to put my long question. Mr. SCHMIDT. I think most of us in the business agree that irrespective of the nature of the threat, we are going to have to take the same forward steps to protect against anything because we never know. As I mentioned earlier, during NIMDA and Code Red, we to this day don't know the source of that. It could have very easily been a terrorist, it could have easily been a hacker group. But the steps that we have take to protect against that are the same thing as if it were a terrorist attack as well. It is interesting. The Banking Committee held a hearing in the aftermath of the blackout last year and one of the questions was were we better prepared from a cyber perspective because of much of what we had done as far as vulnerability remediation in that event. And the answer was yes, because the same response mechanism to bring the systems back up and the same ability to identify the systems that are critical to us were in play for either scenario. Chairman KYL. Let me give you a devil's advocate question, then. Mr. Verton talked about the combination of a physical attack and a cyber attack with a synergistic effect far greater than the effect of either one of them. That is the kind of threat that one would want to be able to anticipate and to deal with that would not come from a hacker or somebody trying to commit a crime, probably. So wouldn't it make sense to try to anticipate the effect of the combination of those two occurring at the same time, and doesn't that point you more to a threat assessment of terrorism potential as opposed to just hacking? Mr. SCHMIDT. The simple answer is yes, that is very much the case. The idea of looking at the interdependencies between the physical and the cyber world is something that we originally had that the National Infrastructure Assessment Center is supposed to be working on, looking at the interdependencies, looking at the critical systems and what happens if we do lose the physical aspect of, say, a telecom hotel in New York City. What effect is that going to have on our ability to communicate? Those things are critical, and the protection of those resources is critical as well. Mr. VERTON. Mr. Chairman, I will just add to that that there is something to be said for knowing your enemy when we start to talk about a threat assessment of any group, al Qaeda or any other terrorist organization. In terms of knowing your enemy, I would hope--and I have no way to know this--that there are constant red-teaming exercises that are being conducted against the U.S. critical infrastructure, a la Eligible Receiver. I don't know that those are taking place. However, once you have established a capability profile, per se, of a group like al Qaeda, I would hope that the NIE, for example, would have some classified data on who al Qaeda cells have been coordinating with or communicating with in the black hat community, for example, who may, in fact, be working with them, if they are at all. That would allow us to be able to think like the people who are trying to do us harm and to conduct Eligible Receiver-like redteaming against the infrastructure to test our own ability to withstand those attacks.
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00032
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+29 Chairman KYL. And it seems to me also that if we were lucky enough to find some documents of al Qaeda or some other terrorist group that discussed ways of attacking our infrastructure, that becomes part of a threat assessment that adds some texture to the just general understanding we have about the vulnerability of our systems. It gives us a specific reason to be perhaps prioritizing. Another question here is we have a lot to do and we can't do it all at once. You talked about the need to actually rebuild portions of our infrastructure because they are not secure, and in terms of identifying the priorities one way of doing that would be to focus on what potential threats we thought were most imminent. Mr. SCHMIDT. That is correct, sir. That is one way to do it. One of the things that I think we have developed in that public-private partnership ever since the President's Commission for Critical Infrastructure Protection in 1996 took place is clear identification to the private sector owner-operators of where their components fit into the bigger structure of the overall infrastructure. It is kind of an interesting thing because I was with Defense at that time, and as I went out and met with CEOs and met with other folks, they were very focused on their business model and it wasn't very clear to them the dependency that we had in Defense, the dependency we have in Justice, the dependency we had in the economy of their infrastructure. It was just a business to them. I think we have seen that change slowly but surely as we started to approach Y2K, and then dramatically after the September 11 attacks. We have seen people looking at this. Where do I fit in this big picture and how can I remediate it quickly? Even though I disagree with the fundamental premise of Rich Pethia saying that there are just too many things to do out there and we will never get them done, we can get things done, but it has to be done on a priority basis and with the economic resources we have, which is a challenge, as you know. Chairman KYL. Let me ask you a final question. It has been a year since the President put forward the National Strategy to Secure Cyber Space, and you were one of the authors of that. What is your assessment of the progress that we have made in implementing that strategy? Mr. SCHMIDT. I think we are pretty well on track, and I know there are some folks who are somewhat cynical on that, saying, well, we expect DHS to do more, we expect the NCSD to do more. My answer has been all along that, as everyone has pointed out, 80 to 85 percent of this critical infrastructure is owned by the private sector. So the call to arms was made, the rallying call was there, and the private sector has been organizing amongst themselves. I flew in on the red-eye this morning from RSA. Senator Bennett was out there, and we have organized now 70 chief security officers of major corporations, from Hershey Foods to Royal Bank of Canada, with us sharing information about how we can better conduct our audits, how we can keep our supply chain going. That is one example of the private sector not waiting for the Government to do something. The expectation was that they have got enough work to do trying to organize DHS and we will continue to call this forward.
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00033
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+30 In December of last year, we had a cyber security summit and we have held five task forces. As a matter of fact, on March 1 we will have the task force reports that come back, everything from awareness and education to corporate governance. So there has been a lot of movement. It has not been as public as maybe we could have been to advertise it, but the movement continues and I think we are making good progress. Chairman KYL. Just one suggestion. Make sure they all have a copy of Black Ice. That will get them motivated. Mr. SCHMIDT. I am still waiting for mine. Chairman KYL. Mr. Verton? Mr. VERTON. Mr. Chairman, I will just add to that that the proof is in the pudding. While I applaud the national strategy, all of my work suggests that the current non-regulatory model--and you can make the argument that there is plenty of regulation out there already, but the current non-regulatory model has not worked yet, has not proven itself up to the challenge. I will say otherwise when the situation gets appreciably better in terms of security. My argument all along was that it is unprecedented in American history that the private sector owns so much of the national security equation today in terms of owning and operating 85-plus percent of the national infrastructure. The problem is they have no mandate to be the defenders of America against these types of attacks. Traditionally, historically it has fallen to the Federal Government. The model now is hands-off; allow the private sector to do it because the private sector is concerned about losing the ability to innovate, losing the ability to be flexible in their business processes. Well, the problem has been that there is no pressure from the consumers on the private sector developers of these technologies to change the formula. The buyers are buying what the sellers are selling, and right now I have heard time and time again that the sellers are not necessarily selling very good products from a security standpoint. So until that equation changes, I don't think the national strategy will have much of an effect. Chairman KYL. In fact, also we encourage a lot of competition and deregulation which results in less and less robust redundancy and infrastructure. Back in the days of the regulated monopolies, for example, of the phone system or the utility systems, there was an awful lot of costly redundancy built into the system. But the companies could afford to do it because they were monopolies. Now, you have got a lot of competition out there and everybody wants to go right to the margin, so that nobody has the incentive to really invest in that robustness of the system which from a national security perspective we do have to see built in. This is one of the challenges we are going to have to deal with, and getting it right, the degree of mandate versus an expectation that the private sector will do what is in its own best interest. But its own best interest won't necessarily always coincide with national security interests. Mr. SCHMIDT. Senator, I would like to just make one quick comment relative to Dan. It is sort of disagreement. I bet you there are a whole lot of CEOs that I have talked with and Dick Clarke has
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00034
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+31 talked with and other folks have talked that believe they do have a mandate. They believe they have a clear mandate to make this infrastructure more secure. As a matter of fact, about the time we are having this hearing, Bill Gates is going to be making an announcement at RSA. Bill Chambers and everyone is committed, and I believe they understand they have a clear mandate to make it more secure. Chairman KYL. Well, I appreciate that. That mandate has to be understood all across the spectrum, and there are certainly some leaders and you have certainly mentioned them here. But, obviously, through hearings like this and books and through the good work that you are doing, Mr. Schmidt, and others, we can get the information out there that we have all got a stake in this. To the extent that we all participate in the system, we can help to protect this Nation. Mr. VERTON. Mr. Chairman, I think the issue is to get that mandate message to the owner of the small utility. Those are the individuals I am really referring to. Chairman KYL. Yes, and as somebody mentioned before, it is the weakest-link problem that we have here. Well, I appreciate both of you testifying here today and would appreciate the ability to continue to be in touch with you and have you comment on what we are doing here, on the NIE when it comes out, to the extent you are able to review it, and to provide us with any other information that you think will help us do our job. I want to make it clear that the hearing record here is going to remain open for questions until 5:00 p.m. on Tuesday, March 2, and for you all to put anything else into the record that you think would be appropriate. With that, if there is nothing further to come before the Subcommittee, I will declare this hearing adjourned. [Whereupon, at 11:44 a.m., the Subcommittee was adjourned.] [Submissions for the record follow.]
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00035
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+32
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00036
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.001
+
+33
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00037
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.002
+
+34
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00038
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.003
+
+35
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00039
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.004
+
+36
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00040
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.005
+
+37
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00041
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.006
+
+38
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00042
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.007
+
+39
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00043
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.008
+
+40
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00044
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.009
+
+41
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00045
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.010
+
+42
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00046
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.011
+
+43
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00047
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.012
+
+44
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00048
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.013
+
+45
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00049
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.014
+
+46
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00050
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.015
+
+47
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00051
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.016
+
+48
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00052
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.017
+
+49
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00053
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.018
+
+50
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00054
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.019
+
+51
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00055
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.020
+
+52
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00056
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.021
+
+53
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00057
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.022
+
+54
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00058
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.023
+
+55
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00059
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.024
+
+56
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00060
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.025
+
+57
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00061
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.026
+
+58
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00062
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.027
+
+59
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00063
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.028
+
+60
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00064
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.029
+
+61
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00065
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.030
+
+62
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00066
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.031
+
+63
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00067
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.032
+
+64
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00068
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.033
+
+65
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00069
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.034
+
+66
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00070
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.035
+
+67
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00071
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.036
+
+68
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00072
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.037
+
+69
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00073
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.038
+
+70
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00074
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.039
+
+71
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00075
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.040
+
+72
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00076
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.041
+
+73
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00077
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.042
+
+74
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00078
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.043
+
+75
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00079
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.044
+
+76
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00080
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.045
+
+77
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00081
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.046
+
+78
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00082
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.047
+
+79
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00083
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.048
+
+80
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00084
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.049
+
+81
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00085
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.050
+
+82
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00086
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.051
+
+83
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00087
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.052
+
+84
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00088
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.053
+
+85
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00089
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.054
+
+86
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00090
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.055
+
+87
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00091
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.056
+
+88
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00092
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.057
+
+89
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00093
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.058
+
+90
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00094
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.059
+
+91
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00095
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.060
+
+92
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00096
+
+Fmt 6633
+
+Sfmt 6633
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.061
+
+93
+
+Æ
+
+VerDate 0ct 09 2002
+
+12:04 Jul 09, 2004
+
+Jkt 094369
+
+PO 00000
+
+Frm 00097
+
+Fmt 6633
+
+Sfmt 6011
+
+S:\GPO\HEARINGS\94639.TXT
+
+SJUD4
+
+PsN: CMORC
+
+94639.062
+
+

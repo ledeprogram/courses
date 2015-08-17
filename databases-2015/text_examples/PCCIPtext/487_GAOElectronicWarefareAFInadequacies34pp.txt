@@ -1,0 +1,652 @@
+_____... -.-.--__.. --..---__--_-.....___^ -..--I_--....___.,J ` II 1)' 1 !)!t I
+
+ELECTRONIC WARFARE No Air Force Fo llowUp on Test Equipment Inadequacies
+
+144640
+
+RELEASED
+
+..","ll"l"."ll- ---_ .-.. "" _..-------
+
+.---
+
+GAO
+
+United States General Accounting Office Washington, D.C. 20648 National Security and International Affairs Division
+
+B-243833 July 17, 1991 The Honorable Les Aspin Chairman, Committee on Armed Services House of Representatives Dear Mr. Chairman: As you requested, we have followed up on our August 1989 report' on the adequacy of Air Force electronic warfare system test equipment to determine whether corrective actions have been taken on problems cited in the report.
+
+Background
+
+In August 1989, we reported that faulty and unreliable test equipment used in maintaining electronic warfare systems had impaired the combat readiness of the Air Force' s tactical aircraft and the capability to sustain combat operations. We found that many of the electronic warfare systems considered by the Air Force to be combat ready actually had undetected faults because of unreliable built-in test equipment. We also reported that inadequate test equipment used in diagnosing faults in electronic warfare systems was contributing to repair times far longer than required to support combat operations. We recommended action to strengthen the Air Force' s maintenance capability. The executive summary from our August 1989 report describing our findings and recommendation is reprinted in appendix I. The Department of Defense (DOD) responded to our August 1989 report by letter, dated March 25, 1991, after we had initiated work on this assignment. DOD officials told us that the reason for the delay in responding was the difficulty encountered in developing a unified position on the issues discussed in our report.
+
+Results in Brief
+
+DOD
+
+took no corrective action in response to our 1989 report. Rather, it disputed most of the report' s findings and the recommendation.
+
+DOD does not concur with our assessment that there were significant problems involving the use of test equipment in maintaining electronic warfare systems in Air Force tactical units, with a resultant impact on
+
+(G-AD
+
+'1Electronic Warfare: Reliable Equipment Needed to Test Air Force' s Electronic Warfare Systems _89 - 137 , Aug. 11, 1989).
+
+Page 1
+
+GAO/NSIAD-91-207
+
+Electronic
+
+Warfare
+
+B-243833
+
+combat capabilities. W D maintains that the report contains inaccuracies and believes that combat capability has been enhanced because of increased reliability and maintainability of the electronic warfare systems over time. We evaluated the arguments DOD presented in its response to our report and concluded that our report is accurate. Inadequate and unreliable electronic warfare test equipment had impaired the combat readiness of Air Force tactical units and increased costs. For example, in our August 1989 report, we stated that built-in test equipment that is supposed to verify the readiness of electronic warfare systems while they are installed on aircraft frequently failed to detect defective items. In this regard, we reported that our review of preventive maintenance records showed that almost half of some 455 jammers considered by the Air Force to be operationally ready for combat missions actually had undetected deficiencies. In disputing this finding, DOD stated that faults identified in preventive maintenance inspections probably did not detract from mission effectiveness for specific scenarios previously tested on the aircraft. We disagree. We rechecked pertinent records and found, for example, that 31 of the jammers had faulty power supplies, which caused Air Force technicians to categorize the jammers as not capable of performing any missions. According to an Air Force engineer, jammers cannot operate with faulty power supplies. Whether combat capability has improved over time because of increased reliability and maintainability of electronic warfare systems was not the subject of our review We concentrated on evaluating the Air Force' s capability to identify and repair system malfunctions within time frames required to sustain combat operations. We believe that our August 1989 report contains ample evidence that the Air Force' s capability to do so is at risk. :
+DOD'S
+
+detailed response and our evaluation are included in appendix II.
+
+Q*finn ubupz
+
+0nd-l ak~u
+
+Methodology
+
+We evaluated DOD'S formal comments on our 1989 report dated March 25, 1991, and discussed the comments with officials of the Office of the Secretary of Defense and Department of the Air Force. As agreed with the House Committee on Armed Services staff, we did not revisit tactical
+
+Page2
+
+GAO/NSIAD-91-207
+
+Electronic
+
+Warfare
+
+B-243833
+
+aircraft units to assess the Air Force' s current capability to maintain its electronic warfare systems. We evaluated DOD'S comments by weighing them against the evidence accumulated in support of our August 1989 report. We also visited the Warner Robins Air Logistics Center, Robins Air Force Base, Georgia, to recheck some data our prior report was based on and to confirm or refute some of DOD'S statements about our report. As requested, we did not obtain agency comments on this report. However, we discussed its contents with officials of the Office of the Secretary of Defense and Department of the Air Force and have incorporated their comments where appropriate. Unless you publicly announce its contents earlier, we plan no further distribution of this report until 30 days from the date of this letter. At that time, we will send copies to interested parties and make copies available to others on request. Please contact me at 275-4841 if you or your staff have any questions concerning the report. Other major contributors to this report are listed in appendix III. Sincerely yours,
+
+f/GEI/&&& Louis J. Rodrigues Director, Command, Control, Communications, and Intelligence Issues
+
+Page 3
+
+GAO/NSIAD-91-207
+
+ElectronicWarfm
+
+Contents
+
+Letter Appendix I Executive Summary From GAO' s August 1989 Report Appendix II Comments From the Department of Defense Appendix III Major Contributors to This Report
+
+1 6
+
+Abbreviations
+DOD
+
+Department of Defense
+
+Page 4
+
+GAO/NSIAD-Ql-247 El-
+
+Warhe
+
+Page 6
+
+GAO/NSIAD-91.207
+
+Electronic
+
+Warfare
+
+Appendix I
+
+ExecutiveSummary From GAO' sAugust 1989Report
+
+Purpose
+
+The Air Force equips its tactical aircraft with electronic warfare systems such as the ALR-66A radar warning receiver and the ALQ-136jammer. The receiver alerts the pilot that the airplane is being tracked by enemy radar and the jammer transmits electronicsignals to deceive enemy radars. The Chairman,Legislation and National Security Subcommittee,House Committeeon GovernmentOperationsaskedGAO to determine whether the Air Force is able to detect faulty components and system malfunctions in the electronic warfare systemsto perform neededrepairs.
+
+Background
+
+To sustain combat operations,the Air Force must be able to effectively maintain its electronic warfare systems.Maintenance and repair must be done at or near the basewhere the aircraft are located and, because of the technical complexity of electronic warfare systems,identification of faulty componentsrequires sophisticatedtest equipment.Electronic warfare systems have built-in test equipmentfor identifying equipment malfunctions. In addition, depot maintenance personneluse separate system test equipmentto identify faulty components. The combat readinessof tactical aircraft and the capability to sustain combat operationshas beenimpaired because of faulty and unreliable test equipmentused to identify malfunctions in electronic warfare systems. The Air Force has not adheredto policies requiring that test equipmentbe developedand deployedsimultaneouslywith electronic warfare systems.To deploy the warfare systemsas quickly as possible, the Air Force has not taken steps to assurethat the electronic warfare system can be adequatelymaintained in an operationalenvironment. The Air Force' sstrategy may result in additional cost and will continue to place combat readinessat risk. In addition, the Air Force cannot perform its maintenancefunctions without relying extensively on civilian contractor technician assistance, which might not be available during combatoperations.
+
+Results in Brief
+
+Y
+
+Page2
+
+GAO/NSL%DJ39.137 Electronic Warfare
+
+Page 6
+
+GAO/NSIAD-91-207 Electronic Warfare
+
+Appendix I
+Executive Summary From GAO' s August 1989 Report
+
+Principal FIndingS
+Test Equipment Unreliable and Inadequate
+The electronic warfare test equipmentavailable to tactical units is unreliable and doesnot effectively identify system malfunctions and faulty components. The built-m test equipmentthat is supposedto verify the readinessof electronicwarfare systemswhile they are installed on the aircraft frequently fail to detect defective items. For example,at five tactical units in Europe,Asia, and the United States,GAO'S review of preventive maintenance records showedthat almost half of some466 jammers consideredby the Air Forceto be operationally ready for combat m issionsactually had undetecteddeficiencieswhile on-boardthe aircraft. found that the test equipmentused by Air Forcetechniciansin the air baserepair shopsto identify malfunctions was also unreliable.For example,at one tactical unit in Europe, two test equipmentstations were fully m ission-capable only 2 months during a Q-monthperiod GAO reviewed. Conditions at other tactical units were similar. In addition, the test equipment' sinability to accurately identify faulty componentscontributed to repair times far longer than consideredpermissibleto meet combat requirements.
+GAO
+
+Relianceon Costly Contractor Support May Impact Combat Readiness
+
+Becauseof the test equipmentinadequacies, the Air Force is relying on extensive contractor support, in addition to its complementof personnel and equipment,in attempting to keep its electronic warfare systems operational. At one unit in Asia, contractor techniciansmade 60 percent of all repairs during a l-year period; at another in Europe,they made 40 percent of the repairs. The averageannual cost for each contractor technician employedin the tactical units ranged from $154,000to $216,000.Contractor techniciansat the units visited told GAO that they would likely be evacuatedduring a combat situation.
+GAO found that
+
+SystemsDeployedW ithout RequiredTest Equipment
+
+in acquiring new electronic warfare systemsand related test equipment,the Air Forcehad not compliedwith Air Force and Tactical Air Commandimplementingpolicies and directives which require that (1) test equipmentbe developedand deployedalong with electronic warfare systems and (2) the ability of typical users to maintain the test equipmentbe demonstratedbefore system production and deployment.
+
+Y
+
+Page3
+
+GAO/NSL4D4M-lS7Ele1ct~on&Wufue
+
+Page 7
+
+GAO/NSIAD-91-207
+
+Electronic
+
+Warfare
+
+AppendLx I Executive Summary 1989 Report
+
+FromGAO' s August
+
+Testing Not Performed
+
+GAO also found that the Air Force consistently producedand deployed electronicwarfare systemsbefore testing that they could be maintained under operationalconditions.For example,the Air Forceproducedand deployedthe ALR-66Cradar warning receiver for the F-16 aircraft nearly 2 years before operational tests were completed. The Air Forceprocured test equipmentbefore evaluating its capability. For example,the Air Force procured 72 USM-464test sets at a cost of $272 m illion before testing it. Later tests showedthat the USM-464 would not meet tactical unit requirements,and therefore, the USM-464s procured for tactical units were being stored in warehouses. Departmentof Defenseofficials told GAO that they had used the strategy of concurrent developmentand production of electronicwarfare systems to expedite fielding of the systems.The purposewas to closethe technologygap betweenelectronic warfare systemsin tactical aircraft and the increasingsophisticationof enemyradar systems.They said that fielding of test equipmenthas laggedbehind deploymentof new electronicwarfare systems.
+
+Test Equipment Procured Before Evaluating Capability
+
+Recommendation
+
+Air Forceofficials told GAO that the Air Forceis revising its acquisition strategy for electronic warfare systemsto more closely align the development and deploymentof test equipmentwith the fielding of new electronic warfare systems. concludesthat while the Air Force' splans are encouraging, there are strong pressuresto exempt electronicwarfare systemsfrom the normal acquisition procedure.
+GAO
+
+Therefore,GAO recommends that the Secretaryof Defensetake stepsto ensurethat proven diagnosticequipmentis deployedsimultaneously with electronicwarfare systemsso that the systemscan be effectively maintainedby the Air Force personnel.
+
+Agency Comments
+
+As requested,GAO did not obtain official agencycommentson its report. However, during the courseof its review, GAO sought the views of directly responsibleofficials and incorporatedtheir views where appropriate.
+
+Page4
+
+GAO/NSLAtbSS.l87
+
+ElectroaicWarfan?
+
+Page 8
+
+Appendix II
+
+CommentsFrom the Departmentof Defense
+
+supplementing those in the report text appear at the end of this appendix.
+
+ASSISTANT
+
+SECRETARY
+DC
+
+OF
+20301-0000
+
+DEFENSE
+
+WASHINGTON.
+
+March (L/SD) Mr. Frank C. Conahan Assistant Comptroller General National Security and International Affairs Division U.S. General Accounting Office Washington, DC 20548 Dear Mr. Conahan:
+
+25,
+
+1991
+
+See comment 1
+
+This is the Department of Defense (DOD) response to the General Accounting Office (GAO) final report, GAO/NSIAD 89-137, "ELECTRONIC Equipment Needed to Test Air Force's Electronic WARFARE: Reliable Warfare Systems" (GAO Code 395071), OSD Case 8110. The DOD disagrees with several areas of the report. The report inaccuracies could have been resolved by providing a normal period for DOD comments on the draft report. The DOD recognizes that deficiencies exist in older electronic systems. However, the report does not reflect accurately the capabilities of newer systems as a result of acquisition procedures currently employed. The GAO also reports that the DOD does not always ensure that proven diagnostic equipment is deployed simultaneously with electronic warfare systems. Although accomplished whenever feasible, simultaneous deployment is not an acquisition logistics policy requirement. Where it is possible, the Air Force fields the required support equipment with the prime electronic warfare system. For many reasons, however, that is not always possible. Mitigating circumstances such as design instability must be taken into account in deciding how best to provide initial logistics support. In summary, the DOD does not concur with the GAO assessment that there are significant problems in maintaining electronic warfare systems in tactical units, with a resultant impact on combat capabilities. The radar warning receiver and electronic countermeasures jammer reliability and maintainability have increased in recent years. That improvement is reflected in increased Mean Time Between Failure, reduced Mean Time To Repair, and increases in system availability. As a result, air crews have enhanced combat capability.
+
+See comment 2.
+
+See comment 3.
+
+See comment 4.
+
+See comment 5.
+
+See comment 6
+
+Y Principal Enclosure
+
+J.
+
+Berteau Deputy
+
+Page 9
+
+GAO/NSIAD-91.207
+
+Electronic
+
+Warfare
+
+Appendix II Comments From the Department
+
+of Defense
+
+GAO FINPaL REPORT GAO/NSIAD-89-137 - DATED AUGUST 11, 1989 (GAO CODE 395071) OSD CASE 8110 "EIm!TmNIcwAwARE:
+!l!ESTAIRPORCN' S
+
+RELIABU NQDIPMENT NEEDED To EUXTRONICWARFARE SYS-"
+
+DEPARTUENTOFDER'ENSEC-S * * * * FINDINGS . FINDING A: &it Force Maintenance Of Electronic Warfare Svatems_. The GAO reported that, to counter threat weapons such as surface-to-air missiles, the Air Force acquires electronic radar warning receivers and jammers. The warfare systems--i.e., GAO observed that the Air Force considers these systems to be essential for its aircraft to survive in the projected wartime environment. The GAO further observed, therefore, that in order to sustain combat operations, the Air Force must be able to effectively maintain its electronic warfare systems. The GAO found that, because of the technical complexity of the systems, the Air Force uses sophisticated test equipment to detect The GAO noted that organizational level maintenance, faults. performed at the flight line, primarily uses the system's built-in test capability to identify faulty components. The GAO further noted that technicians at the intermediate maintenance level use special test equipment. The GAO visited nine tactical fighter wings based in the U.S., Europe, and Asia and reviewed 12 major radar warning receivers and jammers and their related test equipment (which were being used or planned for use) on tactical aircraft. They Vere (1) the ALR-56A, ALR-56C, ALR-62, ALR-621, and ALR-69 radar warning receivers and (2) the ALQ-119, ALQ-131, ALQ-131,11, ALQ-135, ALQ-135 (Improved), ALQ-165, and ALQ-184 Jammers. The GAO noted that, in addition to the test equipment purchased with those systems, the Air Force is trying to develop common test equipment. (p. 1, pp. 8-ll/CiAO Final Report)
+DOD
+
+See comment 7
+
+RESPONSE: Partially concur. The GAO reported that organizational level maintenance performed at the flight line primarily uses the built-in test capability of electronic warfare systems to identify faulty components. That statement is generally correct; however, there are additional pieces of support equipment, such as the USM-464 and the ARM-427, which
+
+Page 10
+
+GAO/NSIAD-91-207
+
+Electronic
+
+WarPare
+
+Appendix II Comments F' rom the Department
+
+of Defense
+
+c
+
+account for varying proportions of fault detection on the flight In addition, the GAO review was confined to tactical line. aircraft. On the other hand, the USM-464 is utilized by the Strategic Air Command to detect faults on bomber aircraft, and is considered the primary means of fault detection in many instances. . I & FnYDINO:S The GAO reported that, at the nine tactical IDIuCILclent. units, the incorrect identification of system faults by the (The GAO built-in test equipment was a serious problem. provided examples of problems with radar warning receivers and januners--such as the built-in test equipment for the ALQ-131, Block II jammer at one unit in Europe had incorrectly identified faults in 27 of 100 sample maintenance actions, for a 27-percent error rate.) The GAO also reported that, at five units that had complete maintenance records, the base records showed that almost half of some 455 jammers considered by the Air Force to be operationally ready for combat missions actually had undetected deficiencieswhile on-board the aircraft. The GAO concluded that the electronic warfare test equipment available to tactical units is unreliable and does not identify system malfunctions and faulty components effectively. The GAO also concluded that combat readiness and the capability to sustain combat operations hasbeen impaired because of the unreliable electronic warfare test equipment. (pp. 2-3, pp. 12-13/GAO Final Report) The DOD recognizes there are Partially concur. Doe: problems with previously fielded electronic warfare test equipment. As a result, an acquisition strategy was initiated in the mid-1980s to provide increased system reliability and maintainability through improved support equipment. there are problems with the As the GAO accurately reports, built-in test capability for the ALQ-119. The problems are not, however, atypical for electronic warfare systems fielded in the The ALQ-119 originated as a Quick late 1960s and early 1970s. Reaction Capability program during the Vietnam war, and was produced from 1972 through 1979. Technology did not exist at that time to provide complete and accurate fault identification. In contrast, the ALQ-184 is an extremely complex and sophisticated electronic countermeasures pod that has an impressive Mean Time Between Failure of 81 hours, a minimal Mean Time To Repair of 4.7 hours, and support equipment (m-233)
+
+See comment 8
+
+See comment 9
+
+See comment 10.
+
+See comment 11.
+
+2
+
+Page 11
+
+GAO/NSIADQl-207
+
+Electronic
+
+Warfare
+
+Appendix ll Comments From the Department
+
+of Defense
+
+Operational Availability of 99.5 percent. translate directly to combat readiness. See comment 12
+
+Those figures
+
+Another recent acquisition, the ALR-62 Update, demonstrates Even though the the fault detection capability available today. ALR-62 began full scale development prior to the inclusion of the current reliability and maintainability requirement of Air Force Regulation 800-18, the program office made sure that the contract contained provisions for a built-in test capability to improve maintainability. The built-in test capability was extensively tested prior to production contract award and exceeded the specification requirements of 95 percent detection of faults and 95 percent isolation to the Line Replaceable Unit. The ability to develop and procure such a built-in test capability is the result of recent advances in technology and the Department's acquisition policy. The described advances have made possible an improved built-in test capability, and also significantly enhanced the combat readiness of electronic warfare equipment through continual increases in the reliability of electronic warfare systems, both old and new. Although the built-in test capability of the older ALQ-119 does not represent today's technology standards, the pod has proven its worth in a recent Coronet Warrior III exercise, where the ALQ-119 demonstrated a Mean Time Between Removal of 110 hours and a Mean Time To Repair of only 6 hours. The Department's current acquisition policy has increased the ability to sustain combat operations, rather than decreasing it as asserted in the GAO report. Further analysis does not support the assertion that almost half of the jammers considered operationally ready for combat missions had undetected deficiencies that would affect their mission effectiveness. It is not possible to determine how many, if any, faults were actually present in the systems while on-board the aircraft. However, the faults identified in Preventive Maintenance Inspection probably did not detract from mission effectiveness for specific scenarios previously tested on the aircraft. In fact, the ALQ-131 pod built-in test equipment is designed specifically to identify the status of all pod functions deemed "mission essential" for a specific mission and report this status to the pilot. The equipment also checks other secondary functions that are not considered mission While the equipment records any failures in the essential.
+
+See comment 13. See comment 14.
+
+See comment 15.
+
+3
+
+Page 12
+
+GAO/NSIAD-91-207
+
+Electronic
+
+Warfare
+
+Comments
+
+From the Department
+
+of Defense
+
+secondary components, it does not indicate a failure of the Repair of the non-critical failures is delayed equipmerit check. until the pod is brought in for Preventative Maintenance The failures cited by the GAO, as indicative of the Inspection. inadequate ALQ-131 built-in test equipment, were of that nature--i.e., non-mission essential failures. . mc: J&mm&i&e Test Maui-t Dosa Not AdWUatel~ 8uppoltt. The GAO reported that the Air Force intermediate-level electronic warfare test equipment malfunctions--and, therefore, may not be available in sufficient quantities to support required unit maintenance actions. The GAO noted, for example, that equipment managers estimate that, on the average, the AIN-173 test stations that support the F-15 electronic warfare systems are operable only 40 percent of the time, The GAO also found that the intermediate-level test station that supports the ALQ-131, Block I, malfunctioned frequently-and that maintenance personnel cited malfunctions of, and the lack of parts for, the ALM-186 equipment as their biggest problem in keeping the jammers operational. The GAO also reported that maintenance personnel at the operational units often took several days (versus the required one hour) to identify and isolate system faults and make repairs. (The GAO listed the average times to return systems to serviceable condition for eight of the systems at the units it visited--for the six of the eight systems for which data was The available, the time ranged from 68.8 hours to 218.8 hours.) GAO also noted that repair shops were operating 24 hours a day, 5 to 7 days a week. The GAO observed that increased workloads would be expected under combat conditions--but unit shop chiefs stated that they probably could not handle any additional repair workload. The GAO also found that the Air Force has deployed systems at the tactical wings without required intermediate test equipment. The GAO concluded that the performance of intermediate-level test equipment used to support electronic warfare equipment at the tactical units it reviewed is largely inadequate for Air Force technicians to accomplish unit maintenance and repair needs. In addition, the GAO concluded that combat readiness and capability to sustain combat operations has been impaired because of this. (p. 3, pp. 14-16/GAO Draft_ Report)
+
+4
+
+Page 13
+
+GAO/NSIAD-91-207
+
+Electronic
+
+Warfare
+
+Appendix II Comments From the Department
+
+of Defense
+
+See comment 16
+
+Partially concur. The GAO reports that WD: electronic test equipment malfunctions and, therefore, may not be available to support required maintenance actions. The GAO increases in did not, however recognize the significant electronic warfare system reliability and maintainability that drives correspondingly lower requirements for support equipment. Those increases have reduced required repairs and allowed the DOD to maintain systems, such as the ALQ-119 and ALQ-131 Block Although undesirable, it has 1, with limited support equipment. been necessary to cannibalize some support eguipment to keep the The DOD has experienced remaining equipment in working order. difficulty in acquiring spare components for older support equipment which necessitates this course of action. Older support equipment has numerous components that have become Due to the rapidly changing technology obsolete over the years. in commercial test equipment, many components can no longer be procured through normal channels. As a result, the DOD is replacing or refurbishing support equipment. The GAO also reported it took several days for maintenance personnel to identify and isolate system faults and make repairs. In a chart contained in the report, the GAO notes that repair of electronic warfare equipment averaged anywhere from 68 hours for the ALFL-62 to 218 hours for the ALQ-131 Block II. The GAO states that delays caused by lack of spare parts were generally insignificant. Air Force data indicates that the actual time to repair the items is considerably less than the is explained times cited by the GAO. It appears the difference by the fact that the GAO is measuring the total time from receipt of an item into the shop until it is returned to a serviceable condition (i.e., mean turn around time), while Air Force is counting actual shop time to effect repairs (i.e., mean time to repair.) There are reasons for the substantial differences between the two measurements, beside the unavailability of parts. A major reason is backlogs at repair facilities. A delay in getting to the item to be repaired does not affect "mean time to repair," but could affect "mean turn around time" substantially. that In any case, a key indicator the necessary support is being provided to ensure combat capability for tactical commanders is evidenced by the availability rate of 07 percent and a probability of mission success of approximately 90 percent for the ALQ-131 Block II electronic countermeasure pod.
+
+See comment 17.
+
+See comment 18.
+
+5
+
+Page 14
+
+GAO/NSIAD91-207
+
+Electronic
+
+Warfare
+
+Appendix II Comments From the Department
+
+of Defense
+
+See comment 19.
+
+See comment 20
+
+The GAO also reported that the DOD has deployed systems Although some without required intermediate test equipment. systems may be deployed without DOD maintenance personnel, sufficient support is fielded at the same time as the primary Interim Contractor Support is a viable method to system. provide support for deployed systems. Air Force Regulation BOO-21 states that Interim Contractor Support is a cost effective alternative for high cost and high risk Class V modifications. It allows the DOD to defer investment in support equipment and use contractor support, while organic capability is being phased-in. Additionally, Air Force Regulation 800-12 states that in order to preclude expensive modifications, acquisition agencies must exercise care not to establish a firm support equipment design when design of the mission equipment it is intended to support is unstable. Though organic capability are may be delayed, systems that increase combat capability introduced into the field with the necessary support to ensure mission effectiveness. . WING Q: Pnit Reliance On Civilian Technicians WAY Lmact On The GAO reported that, because of test Canbrt. equipment inadequacies, the Air Force is relying on extensive contractor support--in addition to its complement of personnel and equipment in an attempt to keep its electronic warfare systems operational. The GAO found that, at one F-15 unit in Asia, during a l-year period such technicians made 60 percent of Similarly, all repairs. at another unit in Europe, the GAO found these personnel made 40 percent of the repairs. The GAO also found that, for other systems which had been deployed without test equipment, units relied almost exclusively on contractor technicians. the GAO found that, under the Finally, current Air Force estimated schedule for systems and test equipment deployment, electronic warfare systems about to be deployed will require contractor support for long time periods. The GAO also reported that the average cost for each contractor technician employed in the tactical units ranged from $154,000 to $215,000. The GAO observed that the contracts for the unit maintenance support have no binding war clauses and that contractor technicians at the units visited stated that they likely would be evacuated during a combat situation. The GAO concluded that the Air Force is relying on costly contractor support to keep its electronic warfare systems
+
+Page 16
+
+GAO/NSIAD-91-207
+
+Electronic
+
+Warfare
+
+Appendix II Comments From the Department
+
+of Defenrre
+
+operational --support which probably would not be available in combat conditions. (p. 3, pp. 16-18, p. 22/GAO Final Report) See comment 21 The DOD agrees that contractor : Partially concur. support is utilized. The DOD does not agree, however, that contractor support is necessarily uneconomical or would have an adverse impact on combat operations. The DOD utilization of contractor support personnel in the form of interim contractor support and, in rare cases, contractor logistics support, is undertaken after analysis shows it to be the optimum course of action. Interim contractor support is deemed appropriate in several situations. If the support equipment will become obsolete due to changes in the primary equipment, then interim contractor support is the optimum choice since it allows sufficient time for the prime equipment design to stabilize. Interim contractor support is a method of controlling capital investment in logistic support while design stability is being achieved and lead time is provided for complex support resource development. Several of the systems identified in the CA0 report were Class V modifications. Interim contractor support is appropriate if these modifications are considered high cost or high risk, That category is defined as (1) acquisitions whose unit costs are greater than $500 thousand, (2) non-recurring engineering is greater than $5 million, (3) or the total program cost is greater than $25 million. Every system included in the GAO report fell into the Class V modification category. Furthermore, the use of interim contractor support is considered appropriate for any modification requiring extensive subsystem or equipment integration. Electronic warfare equipment also fits that description. The GAO statement that none of the systems identified in the report have interim contractor support contracts with a binding war clause is in error. Some of the contracts do, in fact, contain war clauses: for instance, both the ALQ-131 and the ALR-62 Update have such clauses. History indicates that, during periods of conflict, the war clauses are honored and contractor support continues. Finally, interim contractor support costs, although seemingly high, are not necessarily unreasonable. Several by-products of interim contractor support contribute greatly to the overall combat readiness of a unit. Primarily, the immediate support for the prime equipment is the most important
+
+See comment 22
+
+See comment 23
+
+See comment 24
+
+See comment 25
+
+7
+
+Y
+
+Page16
+
+GAO/NSIAD-91-207
+
+Electronic
+
+Warfare
+
+Appendix II CommenteFromtheDepartment
+
+ofDefense
+
+aspect of the contract. dany more repairs can be accomplished on-site due to the extensive knowledge of the technician. That, in turn, reduces the number of units in the pipeline and reduces transportation costs, while improving the combat readinessof the unit. In addition, warranties for systems are easier to administer when the contractor is providing the maintenance in the field. Training also can be more readily provided through the field service representative located at the unit. See comment 26 The ALQ-131 Block II is a case in-point. Upon initial deployment of the system in 1986, Westinghouse field service engineers were employed to maintain it. As a parallel effort, the Westinghouse representatives trained the DOD technicians to use the certified test equipment and to perform manual fault isolation. Within six months of a base receiving the AI&131 Block II, DOD technicians were maintaining the system. Since the middle of 1988, DOD personnel have been performing virtually all maintenance, although a limited number of Westinghouse service engineers (currently two per base) are available to provide assistance and support as needed. .
+gINDING
+
+$: Svstems DePloved Without Test Euuiunent. The GAO reported that, in acquiring new electronic warfare test equipment and related test systems, the Air Force had not complied with Air Force and Tactical Air Command implementing policies and directives, which require that (1) test equipment be developed and deployed along with electronic warfare systems and (2) the ability of typical users to maintain the test equipment be demonstrated before system production and deployment. The GAO noted that Air Force maintainability policy states that, in the early stages of system development, test equipment should be identified. The GAO also noted that the Tactical Air Command has specified that test equipment should be deployed at least fourmonths prior to the deployment of the system. The GAO found that DOD and Air Force directives define operational test and evaluation as testing using production representative systems and support equipment. In addition, the GAO noted the requirements state that unit-level maintenance and repair capability should be organic to the maximum extent possible. The GAO reported, that contrary to those requirements, however, the Air Force has and will deploy electronic warfare systems without the test equipment needed for unit-level maintenance.
+
+8
+
+Page 17
+
+GAO/NSIAD-91-207
+
+Electronic
+
+Warfare
+
+Appendix LI Comments From the Department
+
+of Defense
+
+The GAO found only one instance in the 12 systems it reviewed where the Air Force will deploy the system and test equipment The GAO noted statements of Air Force program together. management officials that logistics items, such as test equipment, are more likely to be deferred when funding is (The GAO listed the estimated dates when systems and reduced. their test equipment are to be deployed--and also the dates on which system development and test equipment development commenced.) The GAO found that, to expedite deployment, the Air Force has exempted electronic warfare systems from various test requirements designed to demonstrate their maintainability prior to procurement. The GAO further found that the Air Force uses these expedited procedures without applying normal first article approval testing or certain maintainability demonstration requirements. The GAO also found that, with the current schedule for system and test equipment deployment, systems about to be deployed to tactical units will require contractor support for long periods of time. The GAO noted that, according to Air Force officials, the Air Force is attempting to align the development and deployment of test equipment more closely with the fielding of new electronic warfare systems. The GAO concluded however, that the Air Force is producing and deploying test equipment for electronic warfare systems before proving their operational worthiness. The GAO also concluded that, to deploy electronic warfare systems as quickly as possible, the Air Force has not taken steps to assure that the systems can be maintained in an operational environment, which may result in additional cost and will continue to place combat readiness at risk. (pp. 2-3, pp. 19-24/GAO Final Report) pOD E!@PONSk$: Partially concur. The GAO cites some but not all of the applicable regulations. As described in the DOD response to Finding D, certain latitude is provided in the regulations, which allows the DOD to achieve the optimum solution under any given set of circumstances. That latitude includes the ability to utilize interim support for systems if the support equipment is not available when the prime equipment is fielded. The GAO points out that late starts for support equipment development is often the result of program budget reductions. Although the described situation does occur, there are other important reasons why support equipment development lags behind the prime equipment.
+
+See comment 27
+
+9
+
+Page 18
+
+GAO/NSlAD-91-207
+
+Electronic
+
+Warfare
+
+Appendix II Commenta F' rom the Department
+
+of Defenee
+
+Modification programs have unique qualities that make the fielding of support equipment concurrently with the electronic Several of the systems identified in warfare system difficult. the GAO report were modifications to existing systems. Following the guidance in Air Force Regulation 800-12, the objective is to minimize the introduction of new support which frequently leads to the equipment into the inventory, Although modification of existing support equipment. appropriate, that course of action requires several sequential steps, which may necessitate interim contractor support. First, the design of the modification must be stabilized prior to the development of Test Requirement Documents. Those documents describe how the system must be tested for proper operation and are required before work can begin on the modification to the support equipment. Following document development, an analysis of the existing support equipment must be accomplished to determine required changes. Once that has been determined, the support equipment can be modified. However, the support equipment normally is being used to maintain the current configuration of the primary system; therefore, its modification must be delayed until assets become available. Further complicating matters, the existing support equipment identified for modification is frequently the product of a different contractor than the contractor developing the prime equipment that it will test. That situation results from adherence to government regulations establishing competitive procurement procedures. Finally, the DOD concurs that maintenance concept and support equipment definition should m in the concept exploration and demonstration validation phases. Sufficient data is not, however, available during those phases to geveloo support equipment, since the prime equipment design is not stabilized. . The GAO reported that DOD -I: Testincr. Directive 5000.3 states that a system should undergo operational testing to validate its effectiveness and suitability under expected operational conditions. The GAO found, however, that the Air Force consistently produced and deployed electronic warfare systems before testing to see if they could be maintained under operational conditions. For example, the GAO
+
+See comment 28.
+
+See comment 29.
+
+10
+
+Page 19
+
+GAO/NSLAD-91-207
+
+Electronic
+
+Warfare
+
+Appendix II Cmnmenta From the Department
+
+of Defense
+
+found that the Air Force produced and deployed the AM-56C radar warning receiver for the F-15 aircraft nearly 2 years before The GAO also found that, in operational tests were completed. general, when tests were performed, the Air Force used contractor technicians rather than its own personnel to demcnstrate maintenanceand repair capability. The GAO observe that the Air Force strategy is to deploy electronic warfare system8 as quickly as possible to respond to threat The GAO found changes --without regard to other requirements. that, under the it@ "Quick Reaction Procedures" for electronic combat programs, the Air Force may waive or change policies or procedures, and m aowlled those e wedlted Procedures to neu u the electronic warfare progr:s the GAO reviewed. The GAO noted that there are strong pressures to exempt electronic warfare systems from the normal acquisition practice. (The GAO referred to its October 8, 1985, report, "An Opportunity to Reduce Proliferation and Improve Acquisition Strategy for Electronic Combat Jammers," OSD Case 6535, in which it had identified several undesirable outcomes of this strategy.) The GAO concluded that the Air Force is deploying electronic warfare system8 before their maintainability can be demonstrated. The GAO also concluded that the Air Force strategy may result in additional cost and will continue to place combat readiness at risk. (p. 2, p, 4, p. 20, pp. 22-25/GAO Final Report) See comment 30. DOD: Partially concur. As stated earlier, many of the systems identified in the report were modification programs directed toward utilizing existing support equipment. In those instances, the DOD capability to maintain the equipment is not in question. The systems have been fielded for several years with an established support concept. Due to the modifications, however, testing of support equipment is necessary to determine if the test equipment is capable of identifying the failure Since the maintenance modes of the electronic warfare system. concept already has been proven, a maintainability demonstration focusing on the new aspects of the modified support equipment is sufficient. During the development of the ALQ-131 Block I, a maintainability demonstration was conducted by DOD technicians. Also, although the AtQ-131 Block II systems were maintained by technicians at the Tactical Air Warfare Center, the subsequent maintainability assessment was determined solely as a result of DOD technician data. The DOD also conducted the maintainability demonstration for the ALQ-165 during the full siale development phase.
+
+See comment 31.
+
+11
+
+Page 20
+
+GAO/NSIAD-91-207
+
+Electronic
+
+Warfare
+
+Appendix II Comments From the Department
+
+of Defense
+
+See comment 32
+
+The GAO observation that the DOD strategy is to deploy electronic warfare systems as quickly as possible to respond to threat changes is completely accurate. The most positive improvement to combat capability is to provide the air crew the ability to detect and counter hostile threats. The DOD disagrees, however, with the GAO statement that deployment is accomplished yifbout rea to other requirements. All aspects of a program are analyzed to determine the most effective acquisition strategy. . -0: uat Eauiunent Procured Before Evaluating The GAO reported that The Air Force procured test -. equipment before evaluating its capability. The GAO found, for example, that the Air Force procured 12 USM-464 test sets at a before testinq the equipment--and later cost of $212 million tests showed that this system would not meet tactical unit requirements. (The GAO had noted a somewhat similar problem in its July 1, 1987, report, '*Navy/Air Force Still Developing Separate, Costly Radar Warning Receivers," OSD Case 7275.) In that report the GAO found that the USM-464s were either assigned to the Strategic Air Command or were being stored in warehouses. GAO Final Report) (p. 4, pp. 23-241 Partially concur. The USM-464 program was DOD: structured to perform qualification testing on the first pilot production units. An aspect of that test was a correction of deficiency clause to correct any defects and retrofit the improvements into all pilot systems. Due to delays in the program, that clause was extended to all of the systems procured. The corrections are being accomplished at no cost to the Government. This test was completed and the deficiencies were corrected; units currently are being retrofitted to meet specifications. In trying to meet all of the testing requirements of the several commands, the USM-464 became undesirable to the Tactical Air Command. Other commands, however, are satisfied with the capabilities of the USM-464 and are acquiring test sets. While the GAO statement that USM-464s were stored in warehouses was true for period of time (during which the GAO review was conducted), it is not now correct. Currently, there are not There are no USM-464 units in storage. enough USM-464s to fill the DOD requirements.
+
+See commenl33.
+
+12
+
+Page 2 1
+
+GAO/NSIAD-91-207
+
+Electronic
+
+Warfare
+
+Appendix II Comments From the Department
+
+of Defense
+
+***********
+
+.
+
+: The GAO recommended that the Secretary of Defense take steps to ensure that proven diagnostic equipment 1s deployed simultaneously with electronic warfare systems so that the systems can be effectively maintained by Air Force personnel. : Nonconcur. Current policy provides the DOD with the ability to optimize the acquisition strategy in the procurement of electronic warfare assets. Direction requiring the Air Force to field organic support equipment simultaneously with electronic warfare systems would hamper that capability. Every effort is undertaken to minimize the interim contractor support period. Prime consideration must, however, be given to providing improved combat capability to front line units. Electronic warfare assets, unlike most other avionic systems, are driven by the requirement to respond to an ever changing enemy threat. (For additional comments, also see DOD response to Finding E.)
+
+See comment 34.
+
+13
+
+Page 22
+
+GAO/NSIAD-91-207
+
+Electronic
+
+Warfare
+
+Appendix II Commente From the Department
+
+of Defenee
+
+The following are GAO'S comments on the Department of Defense' s letter dated March 25, 1991, and its accompanying enclosure.
+
+GAO Comments
+
+1. After evaluating DOD'S response, we still believe our report is accurate. 2. See comment 9, 3. DOD and Air Force policies require acquisition programs to establish goals to ensure that maintainability is a primary consideration throughout the system' s life cycle. This requirement includes identifying test equipment requirements early in the acquisition cycle to ensure that maintainability is evaluated during operational tests, which are required to be conducted prior to full-rate production. Also, the Air Force Tactical Air Command, which represents the users in establishing electronic warfare system needs, has specified that test equipment be developed and deployed at least 4 months before deployment of the system. The Air Force consistently produced and deployed electronic warfare systems before testing to determine whether they could be maintained under operational conditions. (See pages 19 through 22 of our August 1989 report.) 4. See comment 20. 5. See comment 17. 6. Our review focused on the Air Force' s ability to maintain and repair its tactical electronic warfare systems. Thus, the increases in the systems' reliability DOD refers to are irrelevant to our analysis. Also, see comments 9 and 14. 7. Our August 1989 review was limited to electronic warfare systems used on tactical aircraft. Use of the USM-464 to detect faults in strategic bomber aircraft systems is irrelevant and is not a valid basis for contesting our report. According to an Air Force logistics official, the APM-427 was applicable only to radar warning receivers. It emits various frequencies so that pilots can determine whether the radar warning receivers accurately identify enemy radar threats. The APM-427 has no capability to detect or isolate faults in receiver components; therefore, we did not address it in our report. (See page 9 of our August 1989 report.)
+
+Page 23
+
+GAO/NSIAD-91-207
+
+Electronic
+
+Warfare
+
+Appendix II Comments From the Department
+
+of Defense
+
+8. DOD'S description of our finding suggests that the conclusions were based only on organizational-level test equipment. The statements in our August 1989 report regarding the inadequacies of test equipment at tactical units and the impairment of combat readiness and sustainability were based on problems with both built-in test equipment at the organizational maintenance level as well as test equipment used at the intermediate maintenance level. 9. We did not attempt to evaluate the relative reliability and maintainability of the older versus the newer deployed systems. Even though system maintainability may have improved in recent years, as DOD states, such improvement was not evident based on our review. We found, for example, that the average time required to repair the ALQ131, Block II jammer, deployed in the mid and late 198Os,was over twice that required to repair its predecessor, the AlQ-131, Block I. (See page 16 of our August 1989 report.) 10. We recognize that the ALQ-119 is a relatively old system. However, built-in test equipment problems were not limited to the AL&-l 19 but also existed with newer systems such as the ALQ-131, Block II jammer, deployed in the mid and late 1980s. 11. Although the mean time between failure, the mean time to repair, and the operational availability cited by DOD are relevant to the performance of the jammer, they are unrelated to the adequacy of system built-in test equipment, which was the subject of our finding. In addition, the ALQ-184' s maintainability was not evaluated at the unit level because its initial deployment was occurring while our work was in process. However, on a subsequent GAO assignment, we visited the tactical unit to which the ALQ-184s had been deployed and found that the jammers were not ready for use when delivered.' At least 23 of the 24 jammers delivered to the unit needed repairs that required an average of almost 4 months to complete. In addition, the jammers were generally not being used. At the time of our visit in September 1989,21 of 24 jammers delivered to the unit were in storage and the other 3 were in the maintenance facility. Air Force maintenance personnel told us that most of the jammers were kept in storage at all times and expressed concern that if used more often, the
+
+'Electronic Warfare: Need to Strengthen Controls Over Air Force Jammer Programs Cc;ao7NsrAD - 90 - 168, July 11, 1990).
+
+Page 24
+
+GAO/NSIAD-91-207
+
+Electronic
+
+WarPan
+
+Appendix II Comments From the Department
+
+of Defense
+
+jammers would fail more frequently and increase maintenance requirements. 12. The ALR-62 Update had not been deployed at the time of our review. We noted, however, that contrary to DOD testing policy, the Air Force used contractor personnel and factory test equipment to demonstrate system maintainability during operational tests. DOD'S testing policy requires that operational testing be conducted by typical user personnel under conditions that simulate a combat environment to the extent practical. 13. See comment 10. 14. We did not attempt to measure whether DOD, over time, has increased or decreased its ability to sustain combat operations. We evaluated the Air Force' s capability to properly identify and correct electronic warfare system failures within the time frames required to sustain combat operations. We observed and officials told us the Air Force does not have spare electronic warfare systems for its aircraft. Thus, if its tactical aircraft are to be capable of flying multiple missions each day with properly functioning electronic warfare systems, malfunctions must be repaired within a few hours after the faults are detected. Our report contains ample evidence that the Air Force' s ability to sustain combat operations with properly functioning electronic warfare systems is at risk. 15. The jammers referred to had been considered mission capable, based on positive built-in test results, while the systems were installed on aircraft. However, when the jammers were removed from the aircraft for routine preventive maintenance inspections in the repair shop, 195 of 455 were found to have deficiencies which, according to Air Force technicians at the site, would have prevented or seriously degraded mission performance. For example, 31 of these actions showed the jammers required replacements of faulty power supplies, which caused the Air Force technicians to categorize the jammers as "nonmission capable." According to an Air Force engineer, jammers cannot operate with faulty power supplies. Thus, the failures were not "nonmission essential" as DOD states. 16. See comments 9 and 14. In addition, the requirement for test equipment sets, according to Air Force officials, has remained the same since the electronic warfare systems were deployed. DOD'S contention that cannibalization was limited to older systems is misleading. The ALQ-13 1,
+
+Page 25
+
+GAO/NSIAD91-207
+
+Electronic
+
+Warfare
+
+Appendix Il Commenta From the Department
+
+of Defense
+
+Block I was the newest jammer deployed that we reviewed and that had organic intermediate-level test equipment. The Air Force was cannibalizing the test equipment for this system soon after deployment. 17, A critical measure of the Air Force' s capability to maintain its electronic warfare systems is the time required to return systems to a mission capable condition, which begins from the time they arrive at the repair shop. To do otherwise would ignore the inability to maintain electronic warfare systems because of such factors as inoperable test equipment, which contributes to the repair backlog DOD cites. We believe that our report amply demonstrates that the times required to repair electronic warfare systems, even with the aid of contractor technicians, far exceeds the time required to support combat requirements. In the case of the newer ALQ-131, Block II, the repair time far exceeded all other electronic warfare systems we reviewed. 18. As discussed in our July 1990 report on Air Force jammer programs, the ALQ-131, Block II was being flown in Europe with a major component inoperative because of missing computer software, as well as other major deficiencies. 19. The contractor support was not "interim." For example, the Air Force was still relying on contractor maintenance for the ALR-56A radar warning receiver and the ALQ-135 jammer in 1988, even though those systems had been deployed about a decade earlier. We do not believe that the contractor support acquired by the Air Force was a costeffective "alternative" because, in addition to paying the contractors for maintenance support, the Air Force also acquired its full complement of organic test equipment and fielded it along with necessary Air Force technicians. The Air Force technicians with the organic test equipment should have been able to make the repairs that the contractor technicians were making. 20. The design of the electronic warfare systems should be sufficiently stabilized to permit development of required test equipment prior to deployment. As noted in our July 1990 report on Air Force jammer programs, the benefit of deploying electronic warfare systems with highly unstable designs is questionable and has frequently led to costly and undesirable consequences. 2 1. We believe that the contractor support was uneconomical because the nine tactical units we visited had the required numbers and skills of
+
+Page 26
+
+GAO/NSIAD91-207
+
+Electronic
+
+Warfare
+
+Appendix II Comments From the Department
+
+of Defense
+
+Air Force personnel assigned who, with proper test equipment, should have been able to make repairs the contractor technicians were making. In addition, we found no records of the analysis that showed contractor support to be the optimum course of action. We observed that the Air Force had no other choice but to use contractor support, given the state of the Air Force' s organic test equipment. 22. See comment 20. 23. See comment 19, 24. Our statement was correct. At the time of our review, the ALR-62 Update had not been deployed; therefore, no contract for interim support had been negotiated. The interim support contract for the ALQ-131, Block II contains no provisions requiring performance during hostilities. In June 1988, the Air Force awarded an interim support contract for one of the Block II' s major components, the receiver/processor, which has an "outbreak of hostilities" clause. However, the receiver/processor was only beginning to be deployed to units during our review, and we therefore did not consider it. We recognize that contractors may continue to provide support, particularly during limited conflicts. In our opinion, however, DOD should consider the statements made by contractor technicians that they would likely be evacuated in the event of hostilities. 25. The contractor support costs are unreasonable in that contractor technicians were performing maintenance that tactical requirements state should be done by Air Force personnel. For example, even though the Air Force procured test equipment for the ALR-56A radar warning receiver and the ALQ-135 jammer and deployed it in 1978, contractor support still was being used in October 1988 when we completed our prior review. We believe that Air Force technicians would have been able to perform electronic warfare system repairs if given adequate automatic test equipment and training. 26. In the case of the ALQ-131, Block II the Air Force had no choice but to use contractor support. Due to the lack of intermediate-level test equipment, the Air Force deployed the system with the contractor' s "nonmilitarized" engineering test station. This equipment had no automatic fault isolation capability. It was not until August 1988 that the Air Force awarded a contract to provide fault isolation capability for the engineering test equipment. Therefore, it is inconceivable that Air Force
+
+Page 27
+
+GAO/NSIAD-91-207
+
+Electronic
+
+Warfare
+
+Appendix II Comments Prom the Department
+
+of Defense
+
+technicians have been performing virtually all maintenance, which includes fault identification and isolation and making the needed repairs, since the middle of 1988. 27. The DOD and Air Force regulations and directives we cited in our report were those bearing on the issues and with which the Air Force had not complied. 28. DOD indicates that the electronic warfare systems we included in our review were modifications and that the Air Force was mainly modifying existing support equipment. Although these systems are called modifications, they are new systems. For the ALR-56C, ALQ-135, and ALQ-131, Block II, for example, the Air Force is currently developing new test equipment, not modifying existing test equipment for these updated systems. Thus, we do not consider DOD'S comments to be pertinent to our finding. 29. We did not state or recommend that during the systems' concept exploration phases. In fact, the concept exploration phases are not mentioned in our report. comment to be pertinent to our finding. 30. See comment 28. 3 1. DOD'S comments address maintainability demonstrations of the ALQ- 135 and ALQ-165 conducted during the development of these systems. Our finding focused on the lack of operational testing for system maintainability prior to production and the fact that subsequent operational testing was done using contractor technicians rather than Air Force personnel. According to the operational test report, the ALQ-131, Block II maintainability assessments were performed using contractor technicians. The ALQ-165 test plan states that contractor technicians will be used to demonstrate the system' s intermediate-level maintainability. In addition, operational testing of the system' s intermediate-level maintainability with organic test equipment will not be done prior to full-rate production. 32. We made no statement in our prior report as DOD quotes that "deployment is accomplished without regard to other requirements." Our report accurately stated that the Air Force consistently produced support equipment be developed and demonstration validation and demonstration validation Thus, we do not consider DOD'S
+
+Page 28
+
+GAO/NSLAD91-207
+
+Electronic
+
+Warfare
+
+Appendix II
+Comments F' rom the Department of Defense
+
+and deployed electronic warfare systems without testing whether they were maintainable by Air Force personnel under operational conditions. (See pages 23 and 24 of our August 1989 report.) 33. The DOD statement that USM-464 units are no longer in storage is incorrect. According to the program manager, as of March 31, 1991, 11 USM-464 test sets remain warehoused at Warner Robins Air Logistics Center with no designated user. 34. Our review showed that the Air Force consistently bypassed DOD and Air Force policies when acquiring electronic warfare assets. Previous and subsequent GAO reviews2 have shown that Air Force use of this acquisition strategy has resulted in serious performance problems and additional costs when the electronic warfare systems were deployed. Therefore, we believe our recommendation remains valid for future electronic warfare system acquisitions.
+
+(GAO/NSIAD
+
+"Electronic Warfare: Navy/Air Force Still Deve _%l _167 , July 1,1987, and GAO
+
+Separate, Costly Radar Warning Receivers uly 11, 1990).
+
+Page 29
+
+GAO/NSIADM-207
+
+Electronic
+
+Warfare
+
+Appendix III
+
+Major Contributorsto This Report
+
+Atlanta Regional Office
+
+Jackie B. Guin, Assistant Director Alphonse R. Davis, Evaluator-in-Charge Sally P. Gilley, Evaluator
+
+(89llm)
+
+Page 30
+
+GAO/NSLADBl-207
+
+Electronic
+
+Warfare
+
+--
+
+_.__-.-_------
+
+. .._( ---
+
+(Brtlthring Iufmmatiou l` ht~ first, five copies of each GAO report are free. Additional cvopies art' $2 cash. Orders should be sent to the following ilddress, accompauiml by 8 check or mouey order m a d e out to the Superiuteudeut of I)ocuruer~t,s, when necessary. Orders for 100 or more copies to be niailc*d to a single address are discounted 25 percent. lJ.S. General Accounting 0ff"lce P.O. Box 6015 G a ithersburg, MD 20877
+I
+
+Orders may also be placed by calling (202) 275-6241.
+
+

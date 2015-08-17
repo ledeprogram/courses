@@ -1,0 +1,457 @@
+`G OFFICE *BY THEU.S.GEW" A' AP-/71 II\I-I-In
+RELEASED
+
+Report To The Honorable Sam Nunn United States Senate
+
+Overview Of The Status Of The Defense Industrial Base And DOD's Industrial Preparedness Planning
+A number of studies and report8 have been issued in recent years expressing concern about the adequacy of the defense industrial babe and the effectiveness of DOD'8 industrial re aredne88 planning. GAO found that u 0 has recently taken actions to improve industrial preparedne88 planning and to revitalize the rerpon8lvene88 of the defense lndurtrlal base. GAO aho found that the mllitary services are still not taking advantage of opportunities to reduce war reserve requirements to reflect contractors' wartime production capabilities.
+
+I Ill1
+127225
+
+53ar 14
+
+GAOINSIAD-95-69 MAY 23,198s
+
+Request for copies of GAO reports should be sent to: U.S. General Accounting Off ice Document Handling and Information Services Facility P.O. Box 6015 Gaithersburg, Md. 20877 Telephone (202) 2756241 The first five copies of individual reports are free of charge. Additional copies of bound audit reports are $3.25 each. Additional copies of unbound report (i.e., letter reports) and most other publications are $1.00 each. There will be a 25% discount on all orders for 100 or more copies mailed to a single address. Sales orders must be prepaid on a cash, check, or money order basis. Check should be made out to the "Superintendent of Documents".
+
+UNITED STATES GENERAL ACCOUNTING OFFICE
+WASHINGTON, D.C. 20548
+
+NATIONAL INTLRNAllONAl
+
+SECURIW AFFAllll
+
+AND DIVISION
+
+B-217879
+
+The Honorable United States Dear Senator
+
+Sam Nunn Senate Nunn:
+
+As requested by letter dated August 2, 1983, from the late Senator Henry Jackson, as amended and concurred in by members of your office, we reviewed selected aspects of the military servfor peacetime and war reserve stocks of spare ices' requirements Among other things, we were asked to review the capability parts. of the defense industrial base to support peacetime and war reserve spare parts needs. As agreed with your office, this report provides an overview of the status of the defense industrial base and the Department of Defense's industrial preparedness planning. On April 30, 1985, we reported to you on the status of actions taken by the military services and the Department of Defense (DOD) in adopting prior GAO report recommendations for improving the spare parts requirements determination process. Additionally, we previously provided your office with fact sheets and questions for fiscal years 1985 and 1986 defense authorization hearings addressing other issues covered by Senator Jackson's letter. We found that a number of studies and reports have been issued in recent years expressing concerns about the adequacy of the defense industrial base and the effectiveness of DOD's industrial preparedness planning. Typical of the concerns expressed was that the industrial base is not capable of surging production rates to meet short-term emergency situations because the necessary industrial preparedness measures have either not been identified or funded. We also found that DOD has recently taken actions to revitalize the responsiveness of the defense industrial base and to improve industrial preparedness planning. As a part of these the military services will be required to submit to DOD actions, annually a production base analysis showing the status of the industrial base and the proposed measures and costs to enhance the base. Also, the services are now encouraged and provided incentives to adopt the contract production surge concept which is geared toward maximizing the production obtainable from existing
+
+.
+
+`.
+
+B-217879
+
+plants and equipments. Preliminary results indicate that this concept can also substantially reduce production lead time for critical items in an emergency situation. For example, an Air Force surge production capability study for the F-100 engine indicated that production lead time for this engine could be reduced by 15 months by advance procurement and stockpiling of long lead time parts. In our opinion, the actians taken by DOD should, if properly funded and executed, increase the capability and responsiveness of the defense industrial base. Finally, we found that the military services are still not taking advantage of opportunities to reduce war reserve stockage requirements to reflect contractors' wartime production capabilities as required by DOD guidance. Our limited tests indicate that such action could reduce war reserve requirements by millions of Accordingly, dollars. we recommend that the Secretary of Defense reemphasize and monitor compliance with DOD's policy of requiring the military services to reduce war reserve requirements to reflect contractors' wartime production capabilities. Details concerning the above matters are included in appendix The scope of our work is shown in appendix III. I. As requested by your office, we did not obtain official agency comments. However, we discussed the report with agency officials. Unless you publicly announce the contents earlier, we plan no further distribution of this report until 30 days from the date it is issued. send copies to the Secretaries of Defense, At that time, we will parties upon Army, Navy, and Air Force and to other interested request. Sincerely yours,
+
+Frank C. Conahan Director
+
+2
+
+.' ,. * , `. . . I `._ ,
+
+. . .I,'
+
+" : ,, `.'
+
+.i'G,,. .".> ,'
+
+CONTENTS
+
+Page APPENDIX I Overview of the Status of the Defense Industrial Base and DOD's Industrial Preparedness Planning Listing Dealing Objectives, of Selected Studies and Reports with Industrial Preparedness Scope, and Methodology
+
+1 13 15
+
+II III
+
+i .,c ,. `X,
+
+,. : ,. `.
+
+.
+
+,/.., g,:.
+
+;. :`.'
+
+I:..,
+
+:
+
+,
+
+.`.,~, ,:,.:i *,"
+
+APPENDIX I
+
+APPENDIX I
+
+OVERVIEW OF THE STATUS OF THE DEFENSE INDUSTRIAL,BASE AND DOD'S INDUSTRIAL PREPAREDNESS PLANNING A number of DOD and industry studies as well as GAO and agency audit reports have been issued in recent years expressing concern about the ability of the defense industrial base to meet wartime requirements. These studies and reports have been critical of the effectiveness of DOD'S Industrial Preparedness Planning Program as a tool for monitoring and enhancing the adequacy of the A listing of some of these studies and reports industrial base. is shown in appendix II. Our current review showed that DOD has recently taken actions to revitalize the responsiveness of the defense industrial base and to improve industrial preparedness planning. Our review also showed there are continuing opportunities for the military services to reduce war reserve requirements to reflect contractors' wartime production capabilities. CONCERNABOUT THE DEFENSE INDUSTRIAL BASE The term "defense industrial base" refers to the business firms and government facilities that produce the weapons and allied services purchased by the Department of Defense. The business firms that make up this base include large corporations and small family-owned companies. Some manufacture both defense and nondefense products. Their activities range from assembling major weapon systems (such as tanks, aircraft, and missiles) to supplying small parts (such as washers, screws, and fittings) and to machining already manufactured parts. Companies that supply the armed services directly are called prime contractors. They are at the top, or first tier, of the many layered defense industrial base. Below them are other firms called subcontractors, or second-tier contractors, that supply components and material to the prime contractors. A third tier is made up of companies that supply items directly to the second tier. Currently, the defense industrial base is made up of 25,000 to 30,000 prime contractors and about 50,000 firms in the lower tiers. Typical of the concerns expressed in prior defense industrial base are those highliqhted report entitled The Ailing Defense Industrial Crisis by the Defense Industrial Base Panel of on Armed Services. This report expressed the concerns: reports on the in a December 1980 Base: Unready for the House Committee following primary excess level,
+
+.
+
+--The defense industrial base is unbalanced. While production capacity exists at the prime contractor
+1
+
+/ .
+
+APPENDIX I
+
+APPENDIX I
+
+there are serious supplier levels.
+
+deficiencies
+
+at the subcontractor of surging
+
+and
+
+--The industrial base is not capable rates in a timely fashion. --The united States is becoming foreign sources of supply.
+
+production on
+
+increasingly
+
+dependent
+
+--Productivity growth rates for the U.S. manufacturing sector are among the lowest of the free world's industrialized the productivity growth rate of the nations. Moreover, defense sector is lower than the overall manufacturing sector. --Skilled jected personnel to continue shortages through currently exist the decade. and are pro-
+
+--There are neither ongoing programs to address the efficient use of industrial resources to support the DOD peacetime program nor comprehensive plans to address industrial base preparedness issues. REPORTED PROBLEMS WITH DOD'S INDUSTRIAL PREPAREDNESS PLANNING DOD is responsible for assuring that sufficient industrial capacity exists to meet potential wartime needs for defense sysSince it would be impractiand component parts. tems, equipment, cal for the industrial base to produce military items at wartime a program of planning with industry to levels during peacetime, meet potential wartime needs for military items is essential. The objective of the DOD Industrial Preparedness Planning Program is to insure that key industries remain capable during peacetime to respond quickly with the volume of war materiel necessary to sustain U.S. Forces in conventional combat. Two major elements in the industrial preparedness planning ~process are the selection of key defense items and the determination of monthly mobilization production requirements for a 3-year ~ time frame. DOD Directive 4005.1 and DOD Instruction 4005.3, the general policy and procedures the dated July 28, 1972, provide services are to use to annually select items for industrial preDOD policy limits planning to 2,000 items, paredness planning. ~ including 35 major weapon systems, per military service. Also, DOD policy stipulates that planning will be limited to military end items and components that are essential to operational effectiveness under combat conditions and that meet one or more of the following criteria: --Require a long production lead time.
+
+2 1I .1;* '., ,.i
+
+APPENDIX I
+
+APPENDIX 1
+
+--Require development of additional gency production requirements.
+
+capacity
+
+to meet emerof
+
+--Require continuous surveillance to assure preservation an adequate base to support emergency production requirements. --Require critical equipment. skills or specialized production
+
+The military services are supposed to use DOD's industrial preparedness planning form (DD-1519) to annually furnish mobilization requirements for selected items to defense contractors. The defense contractors report their mobilization production capabilities and, where appropriate, production enhancement measures necessary to meet monthly mobilization production rates. On the basis of data furnished by the contractors, decisions can be made regarding the need to: --Fund corrective actions production capacity. --Seek additional commercial to improve production the contractors' sources. facilities because of and
+
+--Modernize equipment.
+
+or expand DOD-owned production acquisitions
+
+--Reduce war reserve materiel production base capabilities.
+
+Before July 1976, the services used the "D" to "P" concept to plan their wartime requirements. Under this concept, the services were to stock enough items to support combat consumption from D-Day1 to P-Day2. The amount of items stocked depended on how long industry needed to produce monthly combat consumption rates. In July 1976, the "D" to "P I' concept was superseded with the I'D+" concept. Under this concept, the services are to stock enough war reserve materiel to meet combat consumption for a fixed period and the industrial base is assumed to be able to take over supply after that time. If industry can respond before the end of the fixed period, then item war reserve requirements are to be reduced accordingly. However, if industry cannot respond by that
+
+.
+
+ID-Day
+
+is the day on which
+
+wartime
+
+mobilization rate
+
+commences. of production
+
+2P-Day is the point in time equals wartime consumption.
+
+when the monthly
+
+3 ..
+
+APPENDIX I
+
+APPENDIX I
+
+industrial response possible
+time,
+
+preparedness actions are to be identified by DOD and industry
+
+necessary to make such a for funding.
+
+Problems
+
+identified
+
+Numerous organizations have studied DOD's Industrial PreThese include DOD, the services, the paredness Planning Program. the Joint Logistics Review Board, the Industrial Advisory Council, American Defense Preparedness Association, and the Defense Science Board. The following are major problems noted frequently in these studies. --Industry's data is based on unrealistic assumptions regarding availability of ,equipment, raw material, long lead time and subcontract support. components, --Little tors' that is known about second- and third-tier support capabilities because planning far. subcontracdoes not extend the time frames measures have not
+
+--The industrial base cannot respond within required because industrial preparedness been identified and/or funded. Problems identified by GAO
+
+production planning In 1977, we reported 3 that mobilization then being conducted with private industry by DOD did little to capacity to meet emergency requirestrengthen U.S. industrial ments. Data gathered was not being analyzed or acted on, and the DOD generally agreed with our findprogram had lost credibility. ings and said increased management attention would be devoted to improving program effectiveness. identified program In 1981, we reported 4 that previously deficiencies still existed because of low priority and funding. We pointed out that many contractors did not identify production enhancement measures as part of their planning because they were not reimbursed for the costs of developing this information. Others identified needed enhancement measures, but the services Additionally, generally did not have the funds to implement them. the military services were not using wartime production capability
+
+3 Restructuring Needed of Department of Defense Planning with Private Industry for Mobilization Requirements (PSAD-77-108, May 13, 1977).
+
+Program for Production
+
+4DOD's Industrial Preparedness Program Needs National Policy to Effectively Meet Emergency Needs (PLRD-81-22, May 27, 1981) . 4
+.,.l-`l_ :., ., 1 *
+
+1
+
+`.
+
+. . i ". ! ., `. ,,i
+
+APPENDIX I
+
+APPENDIX I
+
+identified by their reserve requirements
+
+industrial preparedness planning as required by DOD guidance.
+
+to reduce
+
+We also pointed out that the Air Force had not done any industrial preparedness planning for spare parts since fiscal year 1979 because the data gathered was not being used and no actions were taken to correct the production shortfalls noted. Also, we noted that the Army was the only service that had established a centralized reporting system which annually documented the condition of its industrial base. DOD agreed that the Industrial Preparedness Program had received a low priority and was ineffective. DOD stated that it was working to improve the program and related resource allocations. DOD also intended to require the services to submit an annual production base analysis showing the status of the industrial base and the proposed measures and associated costs to DOD stated it would use this information in enhance the base. making budget determinations for the planning program. Additionally, DOD said it would emphasize to the services the As envisioned adoption of surge production capability planning. by DOD, surge planning actions would be geared toward maximizing the production obtainable from existing plants and equipment and would be limited to a select number of key weapon systems. Surge actions would require contractual arrangements with the contractor and additional expense. Surge actions would include --allocating and storing in advance materiel enable contractors to change from a single multiple shift workday, --buying --paying item. and stockpiling contractors for long lead time planning items, and supplies shift to a and line to
+
+detailed
+
+as a contract
+
+Surge capability is designed primarily to enhance industrial responsiveness in a short-intense war or to preclude serious depletion of war reserve stocks in a limited emergency. RESULTS OF OUR FOLLOW-UP REVIEW Our follow-up review disclosed that since 1982 DOD has taken a number of initiatives to revitalize the responsiveness of the defense industrial base and to improve industrial preparedness Also, our follow-up showed that there are continuing planning. opportunities for the military services to reduce war reserve requirements to reflect wartime production capability identified by industrial preparedness planning.
+
+5
+
+`,
+
+APPENDIX I
+
+APPENDIX I
+
+DOD initiatives As a part of the Fiscal Year 1982 defense program fiscal years 1984-1988 following objectives for improving the base and industrial preparedness trial --Develop deliver ciently, an industrial DOD's S-year effectively, Defense Guidance for the plan, DOD established the ,capability of the indusplanning.
+
+base capability to produce and peacetime procurement program effiand as quickly as possible.
+
+--Develop an industrial base capability production surge responsiveness for systems/items. --Develop an industrial base accelerating the attainment ability levels for selected --Increase required industrial Planning,
+
+that will provide selected critical permit sustain-
+
+capability that will of DOD's programmed critical systems/items.
+
+industrial preparedness planning funding to levels to accomplish these objectives and integrate preparedness resource requirements into the Programming, and Budgeting system.
+
+DOD now encourages the services and provides them with incentives to adopt the contract production surge concept for critical weapon systems. As a part of this effort, DOD included a surge production funding allowance of $100 million annually in the fiscal year 1984-1988 defense procurement appropriation program to fund actions identified by the services and their contractors as necessary to meet surge production requirements for selected critical weapon systems. To obtain a share of the $100 million surge funding allowance, the services are to identify in their annual budget submissions to DOD completed surge planning projects and related costs which would provide the greatest benefits for the cost involved. DOD also revised its policy and procedures for industrial preparedness planning. The revised policy and procedures require the services, to submit an annual probeginning in February 1986, duction base analysis showing the status of the industrial base and the proposed measures and associated costs to enhance the base. This information is to be used by DOD in making budget determinations for the industrial preparedness planning program. Implementation tives The status follow: status of of DOD
+initiatives
+
+the services'
+
+implementation
+
+of DOD's initia-
+
+6
+
+APPqNDIX I
+
+APPENDIX I
+
+Funding
+
+for
+
+industrial
+
+preparedness
+
+planning
+
+According to DOD budget justification documents, the Army received $41.8 million in operations funds for industrial preparedness planning for fiscal year 1984. The Air Force and Navy For respectively. were funded $2.6 million and $1.0 million, fiscal year 1985, DOD budget documents show that the Army received $41 million in operations funds for industrial preparedness planning. The Air Force and Navy received $3.3 million and $2.5 million, respectively. In fiscal year 1985 the Air Force and Navy increased their funding for industrial preparedness planning as recommended by years 1984 and 1985 funding, which was DOD. The Army's fiscal substantially higher than the Navy and Air Force, remained relaThe disparity between the Army's funding and tively constant. that of the other services is accounted for by the fact that the Army over the years has done a better job of documenting the status of its industrial base, particularly for munition items, and identifying actions needed to enhance the capability of its industrial base. is for both industrial Hence, the Army's funding preparedness planning and related identified actions necessary to enhance production capability, whereas the Navy and Air Force funding is primarily for industrial preparedness planning alone. Contract surqe production planning and funding
+
+Surge production capability planning projects completed to date by the military services indicate that the contract production surge concept can substantially reduce production lead time for critical weapon systems in emergency situations. Also, contract surge production, in contrast to acquiring finished items as war reserves, enables less risk of obsolescence and a smaller requirement for DOD storage space. For example, the Air Force's surge production capability study for the F-100 engine indicated that, in an emergency, the production lead time for this engine could be reduced by 15 months. This could be accomplished by paying the engine contractor $30 million to buy long lead time engine parts and retaining them in a revolving parts pool on a first-in, first-out inventory basis. Production and spare engine requirements would both draw upon and replenish the inventory pool so that parts in the pool would remain current to the engine configuration. On the basis of the services' production surge allocated its $100 million annual funding allowance surge production in the fiscal year 1984 procurement the services as follows: Air Force Army Navy F-100 engine TOW II missile Phoenix missile $30 million $30 million $40 million planning, DOD for contract budgets of
+
+7
+
+APPENDIX I
+
+APPENDIX I
+
+The Congress did not approve any funding for contract surge production in fiscal year 1984 because of budgetary constraints. It was noted in fiscal year 1984 Defense authorization hearings that the Congress encourages efforts to improve production surge capability but finds that under current budgetary pressures such expenditure is unaffordable. In fiscal year 1985, DOD allocated only $25 million of its annual proposed $100 million production surge allowance. The $25 million was included in the Army's proposed procurement budget for contract surge production of the TOW II missile. The Congress appropriated $16.2 million of the $25 million requested. Production base analysis
+
+It is essential that the military services periodically document the status of their industrial base to meet mobilization requirements and identify the proposed measures and costs necessary to alleviate production shortfalls. Without such information, the services and DOD have no assurances that defense contractors can rapidly expand production to meet mobilization requirements. Also, without such information, DOD and the Congress cannot adequately assess whether sufficient funding is being budgeted and appropriated for vital industrial preparedness measures. DOD will require all the services, As mentioned earlier, beginning in February 1986, to submit an annual production base analysis showing the status of their industrial base and the proposed measures and costs to enhance their industrial bases. This new requirement represents an improvement over the earlier industrial planning requirements in that it provides for the consolidation and centralized reporting of the results of industrial preparedness planning done by the individual service commands. Also, for the first time it will provide DOD with complete visibility of the overall industrial preparedness efforts of the military serDOD will use these production base analyses in making vices. annual budget decisions for its industrial preparedness planning program. The Army is the only service that annually documents and centrally reports the status of its industrial base. Accordingly, it is not anticipated that the Army will have any problem in implementing DOD's annual production base analysis requirement. In fiscal year 1984, the Army commodity commands accomplished industrial preparedness planning for 528 critical items. The centrally reported, consolidated results showed that industry could meet the monthly mobilization requirements for 199, or 38 percent, of these items within the specified time for mobilization. In anticipation requirement, the Air of DOD's annual production base analysis Force prepared its first production base
+
+8
+
+APPENDIX I
+
+APPENDIX I
+
+analysis in fiscal year 1983. The executive summary for this analysis stated that since institutional production base planning with industry had been minimized since the late 1970's there was no prior planning baseline data to compare the current state of the industrial base. Therefore, the Air Force's approach was to use the findings of prior studies and reports as a point of departure. The key conclusions contained base analysis are summarized below. in the Air Force's production
+
+--Aerospace sector material lead times were currently responsive to Air Force peacetime production demands and were significantly lower than during the 1979-1980 period. --There was evidence that capacity utilization in the U.S. aircraft industry has increased since a 1977 DOD/OMB study, However, availwhich revealed 55 percent excess capacity. able data was inadequate to permit an accurate assessment. --Material availability was expected to improve. Availabilwhich was one of the most influential ity of titanium, factors in the lead time problems of 1979-1980, had increased considerably. --Metal forging capacity shortages have historically been a bottleneck in meeting heavy demands for aerospace products. This problem was most acute during 1979-1980 when there was an increase in commercial requirements. There was a turnOnly 50 percent of the indusaround in this situation. try's total capacity was being utilized at the time of the reported capacity utilization as analysis and some forgers low as 25 percent. produced its first production base analysis data base has not yet been fully developed. Production Base Analysis (NAPBA) is slated The Navy estifor full operational capability by October 1985. mates that it may be two years before sufficient, meaningful data is assembled and a comprehensive production base analysis prepared. Opportunities for reducing war reserve to reflect wartime production capability requirements The Navy has not because its automated The Navy's Automated
+
+DOD guidance stipulates that contractor wartime production/ repair capability identified by industrial preparedness planning be utilized to offset war reserve requirements, where appropriate. As previously mentioned, in 1981 we reported that the military services were not comparing the results of industrial preparedness planning with war reserve requirements. As a result,
+
+APPENDIX I
+
+APPENDIX I
+
+opportunities to use wartime production reserve requirements were being lost.
+
+capability
+
+to offset
+
+war
+
+Our follow-up review showed that there are continuing opportunities for the military services to reduce war reserve requirements to reflect wartime production capability identified by industrial preparedness planning. At the Army's Troop Support and Aviation Readiness Command5 the results of fiscal year 1983 industrial (TSARCOM), we analyzed preparedness planning for 85 aviation items. We found that the contractors for 52, or 61 percent, of these items reported production capability to meet all or some of the war reserve stockage requirements for these items. Although personnel did to reduce war given for not --Local required by DOD and Army regulations, command not use industrial preparedness planning information reserve requirements. The following reasons were doing this: regulations do not stipulate this requirement.
+
+--The planned wartime support period considered in calculating war reserve requirements is so short that using the results of industrial preparedness planning for most items would be impractical. --Industrial preparedness planning results do not appear on automated item master data records. Therefore, these results would have to be identified manually to be used in the calculations. Our analysis of a limited number of items for which production capability and war reserve requirements overlapped indicated that there were opportunities for substantial reductions in war For example: reserve requirements. Transmission mast assembly (NSN1615-00-179-9165) The transmission mast assembly is a component of the AH-lS, The replacement price for this item is Cobra helicopter. Bell Helicopter Textron is the Army's sole source $6,372. for this item. According to industrial preparedness Bell and its subcontractor, Textool planning Company, information, reported a
+
+5Subsequent to our review, this activity was divided into two commands-- Army Troop Support Command and the Army Aviation Systems Command. 10
+
+APPENDIX I
+
+APPENDIX I
+
+capability to produce 135 units within the fixed mobilization stated that if there was period. Also, the contractor advance procurement and stockpiling of long lead time component parts production could be increased to a total of 290 units within the fixed mobilization period. The contractor estimated that advance procurement and stockpiling of long lead time component parts would cost $130,410. for this As of January 9, 1984, the war reserve requirement item was 628 units of which 53 were on hand or on order. On the basis of the contractor's reported production capability and recommended production enhancement, this requirement should have been reduced by either 135 units valued at an estimated $860,000 without the recommended production enhancement or 290 units with an estimated value of $1.8 million if long lead time parts were stockpiled. Transmission
+mast (NSN1615-00-255-2896)
+
+assembly
+
+This transmission mast assembly is a component of the UH-1, The replacement price for this item is Huey helicopter. Bell Helicopter Textron is the Army's sole source $5,593. for this item. According to industrial preparedness planning information, Bell and its subcontractor, Textool Company, reported a production capability of 330 units within the fixed mobilization period. Also, the contractor stated production could be increased to a total of 990 units within this fixed mobilization period by advance procurement and stockpiling long lead time component parts at a cost of $587,400. of January 9, 1984, the war reserve requirement for this item was 1,330 units of which 158 were on hand and none on On the basis of the contractor's reported production order. capability and recommended production enhancement, we believe that this requirement should have been reduced by either 330 units estimated at $1.8 million without the recommended production enhancement, or 990 units valued at about $5.5 million with the recommended production enhancement.
+As
+
+We also found that the Navy's Aviation Supply Office was not taking advantage of opportunities to make trade-offs between industrial production capability and war reserve requirements. We made a limited review of 22 of the aviation items for which fiscal year 1984 industrial preparedness planning information was comOur review indicated there were opportunities for tradepiled. offs for 7, or 32 percent, of the 22 items.
+As
+
+industrial
+
+previously mentioned, the Air Force has done minimal preparedness planning since fiscal year 1979.
+
+11
+
+.:
+
+APPENDIX I
+
+APPENDIX I
+
+at the two air logistic centers we visited we were Therefore, unable to make even a limited assessment of the potential for making trade-offs between wartime industrial capability and war However, as part of its fiscal reserve requirements. year 1983 production base analysis, the Air Force assessed industrial production capability for 30 mission essential landing gear items with large war reserve deficits. This assessment showed that with existing production capability more than half of these deficits could be eliminated early within the fixed mobilization period. CONCLUSIONS AND RECOMMENDATION In response to prior concerns about the defense industrial base and criticism of the effectiveness of its industrial preparedness planning, DOD has taken a number of positive actions to increase the responsiveness of the defense industrial base and to improve industrial preparedness planning. In our opinion, the if properly funded and executed, actions taken by DOD should, increase the capability and responsiveness of the defense industservices are still not taking rial base. However, the military advantage of opportunities to reduce war reserve requirements to reflect wartime production capability as required by DOD guidance. we recommend that the Secretary of Defense Accordingly, reemphasize and monitor compliance with DOD's policy of requiring the military services to reduce war reserve requirements to wartime production capabilities. reflect contractors'
+
+12
+
+;: .,
+
+APPENDIX II
+
+APPENDIX II
+
+LISTING OF SELECTED STUDIES AND REPORTS DEALING WITH INDUSTRIAL PREPAREDNESS Date Dec. 1980 Number Title The Ailing Defense Industrial Base: Unready for Crisis Defense Science Board 1980 Summer Study on Industrial Responsiveness Defense Readiness Force Sustainability and Industrial Preparedness, "Why We Are Concerned" Production Capability: a Look Into the Industrial Capacity, FY 1982 through FY 1986 Aerospace Industry Response to Accelerated Air Force Parts Procurement Review of Selected Producibility Issues AFSC Defense Subcontractor/Supplier Industrial Base: An Assessment of Industry Recommendations
+MU 80-203
+
+Organization Defense Industrial Base Panel of the House Armed Services Committee Defense Board Science
+
+Jan.
+
+1981
+
+Aug.
+
+1980
+
+American Defense Preparedness Association
+
+Aug.
+
+1980
+
+Air Force Systems and Logistics Commands Department Commerce of
+
+Aug.
+
+1980
+
+i Sept. 1980 I I I Dec. 1981
+
+Air Force Agency Air Force Command
+
+Audit Systems
+
+Mar.
+
+1980
+
+Audit of Industrial Preparedness Program, U.S. Army Armament Materiel Readiness Command
+
+Army Audit
+
+Agency
+
+13
+
+APPENDIX II
+
+APPENDIX II
+
+Date May 1982 June 1981
+
+Number Analysis Industrial EMD-81-42
+
+Title of Defense Responsiveness
+
+Organization Analytic Sciences Corporation General Office Accounting
+
+Materials Shortages and Industrial Rottlenecks: Causes, Trends, Prospects Potential Impediment of Foundry Capacity Relative to National Defense Needs DOD's Industrial Preparedness Program Needs National Policy to Effectively Meet Emergency Needs Requirements and Production Capabilities are Uncertain for Some Air Force, Navy and Marine Corps Aircraft Spares and Repair Parts
+
+Sept.
+
+1981
+
+EMD-81-134
+
+General Office
+
+Accounting
+
+May 1981
+
+PLRD-81-22
+
+General Office
+
+Accounting
+
+July
+
+1982
+
+PLRD-82-77
+
+General Office
+
+Accounting
+
+14
+
+APPENDIX III
+
+APPENDIX III
+
+OBJECTIVES,
+
+SCOPE, AND METHODOLOGY
+
+Our objectives were to provide an overview of the defense preparedness planning. Our industrial base and DOD's industrial review was performed from October 1983 through July 1984 at the the headquarters level of the Army, Navy, Department of Defense; and the Air Force; the Air Force's Warner Robins and San Antonio the Army's Troop Support and Aviation Air Logistics Centers; Readiness Command; and the Navy's Aviation Supply Office. We researched studies and reports issued in recent years concerning the defense industrial base and DOD's industrial preparedness planning. We examined DOD's policy and procedures for industrial preparedness planning and the implementing procedures and practices of the military services. At the audited activities, we tested a limited number of items to assess the potential for making trade-offs between war reserve requirements and contractors' wartime production capabilities as identified by indusBecause of the limited scope of trial preparedness planning data. this assessment, the results are not statistically projectable. Also, we reviewed annual production base analyses prepared by the Finally, we examined the status of initiatives military services. taken by DOD and the military services to increase the responsiveness of the defense industrial base and to improve industrial preparedness planning. We made this review in accordance with generally accepted government auditing standards.
+
+(943609)
+
+15
+
+.,"
+
+.
+
+c
+
+,
+
+AN EQUAL OPPORTUNITY
+
+EMPLOYER
+
+UNITED STATES GENERAL ACCOUNTING OFFICE WASHINGTON. D.C. 20548
+
+OFFICAL BUSINESS PENALTY FOR PRIVATE USE $300
+
+BULK RATE POSTAQE 6 FEES PAID QAQ PERMIT No. 0100
+
+

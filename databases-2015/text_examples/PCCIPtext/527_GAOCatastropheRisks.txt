@@ -1,0 +1,1381 @@
+United States Government Accountability Office
+
+GAO
+February 2005
+
+Report to the Chairman, Committee on Financial Services, House of Representatives
+
+CATASTROPHE RISK U.S. and European Approaches to Insure Natural Catastrophe and Terrorism Risks
+
+GAO-05-199
+
+a
+
+February 2005
+
+CATASTROPHE RISK
+
+Highlights
+Highlights of GAO-05-199, a report to the Chairman, Committee on Financial Services, House of Representatives
+
+Accountability Integrity Reliability
+
+U.S. and European Approaches to Insure Natural Catastrophe and Terrorism Risks
+
+Why GAO Did This Study
+Natural catastrophes and terrorist attacks can place enormous financial demands on the insurance industry, result in sharply higher premiums and substantially reduced coverage. As a result, interest has been raised in mechanisms to increase the capacity of the insurance industry to manage these types of events. In this report, GAO (1) provides an overview of the insurance industry's current capacity to cover natural catastrophic risk and discusses the impacts of the 2004 hurricanes; (2) analyzes the potential of catastrophe bonds--a type of security issued by insurers and reinsurers (companies that offer insurance to insurance companies) and sold to institutional investors--and taxdeductible reserves to enhance private-sector capacity; and (3) describes the approaches that six European countries have taken to address natural and terrorist catastrophe risk, including whether these countries permit insurers to use tax-deductible reserves for such events. We provided a draft of this report to the Department of the Treasury and the National Association of Insurance Commissioners. Treasury provided technical comments that were incorporated as appropriate.
+
+What GAO Found
+Despite steps that governments and insurers have taken in recent years to strengthen insurer capacity for catastrophic risk, the industry has not been tested by a major catastrophic event or series of events (at least $50 billion or more in insured losses). While insurers suffered losses of over $20 billion in Florida from the 2004 hurricanes, steps such as implementing stronger building codes and stricter underwriting standards may have limited market disruptions as compared with the aftermath of Hurricane Andrew in 1992. For example, in 2004, only 1 Florida insurance company failed in contrast to the 11 that failed after Hurricane Andrew in 1992. However, a more severe catastrophic event or series of events could severely disrupt insurance markets and impose recovery costs on governments, businesses, and individuals. Some insurers and reinsurers benefit from catastrophe bonds because the bonds diversify their funding base for catastrophic risk. However, these bonds currently occupy a small niche in the global catastrophe reinsurance market and many insurers view the costs associated with issuing them as significantly exceeding traditional reinsurance. In addition, industry participants do not consider catastrophe bonds for terrorism risk feasible at this time. Authorizing insurers to establish tax-deductible reserves for potential catastrophic events has been advanced as a means to enhance industry capacity, but according to some industry analysts such reserves would lower federal tax receipts and not necessarily bring about a meaningful increase in capacity because insurers may substitute the reserves for other types of capacity. The six European countries GAO studied use a variety of approaches to address catastrophe risk. Some governments require insurers to provide natural catastrophe insurance and provide financial assistance to insurers in the wake of catastrophic events, while others generally rely on the private market. However, the majority of these governments have established national terrorism insurance programs. Although their approaches vary, insurers in all six countries were allowed to establish tax-deductible reserves for potential catastrophic events as of 2004.
+The 2004 Hurricanes Resulted in Over $20 Billion in Losses in Florida
+Estimated insured losses (dollars in billions) Charley $7.885 Number of claims reported (in thousands) 449
+
+Frances
+
+4.801
+
+504
+
+www.gao.gov/cgi-bin/getrpt?GAO-05-199. To view the full product, including the scope and methodology, click on the link above. For more information, contact William B. Shear at (202) 512-8678 or shearw@gao.gov.
+
+Ivan
+
+3.914
+
+197
+
+Jeanne
+Sources: Risk Management Solutions (map); Florida Office of Insurance Regulation (data).
+
+4.153
+
+393
+
+United States Government Accountability Office
+
+Contents
+
+Letter
+Results in Brief Background Despite Enhancements to Insurer Capacity, Industry May Not Be Able to Address a Major Natural Catastrophe Catastrophe Bonds and Tax-Deductible Reserves May Have the Potential to Enhance Insurers' Capacity for Catastrophe Risk European Countries Use a Mix of Approaches to Insure Natural Catastrophes, and Most Countries Studied Have National Terrorism Insurance Programs Observations Agency Comments and Our Evaluation
+
+1 4 8 10 25
+
+31 52 54
+
+Appendixes
+Appendix I: Appendix II: Objectives, Scope, and Methodology TRIA Has Limited Insurers' Financial Exposure to Terrorism Risk, but a Significant Portion of Catastrophic Risk Goes Uncovered Tax, Regulatory, and Accounting Issues Might Have Affected the Development of the Catastrophe Bond Market GAO Contacts and Staff Acknowledgments GAO Contacts Acknowledgments 56
+
+59 63 68 68 68 69
+
+Appendix III: Appendix IV:
+
+Glossary of Terms Figures
+Figure 1: Insurance Industry Capital Levels, 1990-2003 Figure 2: The 2004 Hurricane Season Resulted in More Than $20 Billion in Insured Losses in Florida Figure 3: 2004 Hurricanes Did Not Trigger FHCF Payments to Citizens Property Insurance Corporation Figure 4: Catastrophe Bond Amount Outstanding, Year-end 1997­ 2004 Figure 5: How Natural Catastrophe Insurance Is Covered in Selected European Countries Figure 6: Countries with a National Terrorism Insurance Program Provide a State Guarantee
+
+12 20 21 26 33 39
+
+Page i
+
+GAO-05-199 Catastrophe Risk
+
+Contents
+
+Figure 7: GAREAT 2004 Financing Structure Involves Insurers, Reinsurers, and the State Figure 8: Extremus 2004 Financing Structure Caps German Government Payments Figure 9: Reserve Policies in Selected European Countries Figure 10: Potential Consumer Motivations in Choosing to Forego Earthquake Insurance Include Belief That They Are Not at Risk Figure 11: Special Purpose Reinsurance Vehicle Structure and Payment Flows
+
+41 43 47
+
+61 64
+
+Page ii
+
+GAO-05-199 Catastrophe Risk
+
+Contents
+
+Abbreviations ARC CatNat CCR CEA DEP EFRAG EU FASB FEMA FHCF FSA GAAP GAPP FER GAREAT IASB IFRS 4 ISO JUA NAIC OECD PCS SAP SEC SPE SPRV TRIA VIE Accounting Regulatory Committee Catastrophes Naturelles Caisse Centrale de Réassurance California Earthquake Authority Direct Earned Premiums European Financial Reporting Advisory Group European Union Financial Accounting Standards Board Federal Emergency Management Administration Florida Hurricane Catastrophe Fund Financial Services Authority Generally Accepted Accounting Principles Swiss Financial Reporting Standards of the Swiss Accounting and Reporting Recommendations Gestion de l'Assurance et de la Réassurance des Risques Attentats et Actes de Terrorisme International Accounting Standards Board International Financial Reporting Standard 4 Insurance Services Office Florida Residential Joint Underwriting Association National Association of Insurance Commissioners Organization for Economic Cooperation and Development Property Claim Services Statutory Accounting Principles Securities and Exchange Commission special purpose entity special purpose reinsurance vehicle Terrorism Risk Insurance Act variable interest entity
+
+This is a work of the U.S. government and is not subject to copyright protection in the United States. It may be reproduced and distributed in its entirety without further permission from GAO. However, because this work may contain copyrighted images or other material, permission from the copyright holder may be necessary if you wish to reproduce this material separately.
+
+Page iii
+
+GAO-05-199 Catastrophe Risk
+
+A
+
+United States Government Accountability Office Washington, D.C. 20548
+
+February 28, 2005 The Honorable Michael G. Oxley Chairman, Committee on Financial Services House of Representatives Dear Mr. Chairman: Natural catastrophes and terrorist attacks can place enormous financial demands on households, businesses, and the insurance industry, in addition to causing significant loss of life. For example, the four hurricanes that primarily affected Florida in 2004 caused over $20 billion in insured losses in the state due to property destruction, and Congress appropriated approximately $16 billion to assist victims of the hurricanes and repair public infrastructure such as roads and military bases.1 Moreover, natural catastrophes and terrorist attacks pose unique challenges to propertycasualty insurers.2 Forecasting the timing and severity of such events is difficult and the large losses associated with catastrophes can threaten insurer solvency. Insurers frequently respond to catastrophic events by cutting back coverage significantly or substantially increasing premiums for policyholders. After Hurricane Andrew crossed southern Florida in 1992, many insurance and reinsurance companies (insurers that offer insurance to other insurance companies) raised premiums or stopped offering catastrophic coverage in the state. Similar reactions took place in the California insurance market after the Northridge earthquake of 1994 and worldwide insurance markets after the September 11, 2001, terrorist
+
+L e t e r
+
+1
+
+Total estimated insured losses in the United States (including Alabama and other affected states) and the Caribbean range as high as $27 billion. Property insurance includes the loss or damage to real estate and personal property because of perils such as fire. Casualty insurance is a broad field of insurance and covers whatever is not covered by fire, marine, and life insurers. For example, automobile, liability, and workers compensation insurance are included in casualty insurance. In this report, the term insurer refers to property-casualty insurers. In addition, while the term catastrophe is most often associated with natural events (such as hurricanes or earthquakes), it can also be used when there is widespread damage from man-made disasters (such as fires, pollution, or nuclear fallout). The term catastrophe in this report refers to natural events or terrorist attacks. Insurers may face the risk of catastrophic losses from other types of manmade events. For example, asbestos-related losses could reach as much as $65 billion for the U.S. insurance industry. However, these risks are outside the scope of this report.
+
+2
+
+Page 1
+
+GAO-05-199 Catastrophe Risk
+
+attacks (September 11 attacks).3 To the extent that insurers are unable or unwilling to insure against catastrophic events, a subsequent lack of affordable coverage in the marketplace could impede economic recovery and development. In response to such insurance market disruptions, governments and the private sector have taken steps to enhance the "capacity" of the insurance industry to address catastrophic risk. Although there are several definitions of industry capacity, we define the term to mean the ability of property-casualty insurers to pay customer claims in the event of a catastrophic event and their willingness to make catastrophic coverage available to their customers, particularly subsequent to catastrophes.4 Several states--including Florida and California--have established authorities to compensate insurers for certain natural catastrophe-related losses and help ensure that catastrophe coverage is available. Additionally, with the passage of the Terrorism Risk Insurance Act (TRIA), the federal government required primary insurance companies to make terrorism coverage available to their commercial customers and provides substantial compensation to the companies in the event of a foreign terrorist attack in the United States.5 Insurance companies have made significant changes in their approaches to providing coverage for natural catastrophes--as
+
+3
+
+Primary insurance companies may be able to purchase insurance for some or all of their risks from reinsurance companies. Additionally, reinsurance companies may be able to purchase insurance for some or all of their risks from other insurance companies (a process known as retrocessional coverage). Defining insurance capacity is difficult and the concept itself is subject to differing interpretations. The definition used in this report is based on our previous work and subsequent analysis of insurance markets. See GAO, Insurers' Ability to Pay Catastrophe Claims, GAO/GGD-00-57R (Washington, D.C.: Feb. 8, 2000). On the other hand, some insurers we contacted defined capacity as the total amount of dollar coverage that a company will write for particular risks, such as natural catastrophes or terrorism, or in terms of insurers obtaining the amount of reinsurance that they wished to purchase at consistent prices.
+
+4
+
+See GAO, Terrorism Insurance: Implementation of the Terrorism Risk Insurance Act of 2002, GAO-04-307 (Washington, D.C.: Apr. 23, 2004). TRIA provides coverage for certified acts of terrorism. The program is triggered when there has been an act committed on behalf of any foreign person or foreign interest that results in at least $5 million in insured losses in the United States. In the event of an act of terrorism, the federal government, primary insurers, and policyholders share the risk of loss. The federal government is responsible for paying 90 percent of each insurer's primary property-casualty losses after an insurer's exposure exceeds 7 percent of its direct earned premium (DEP) in 2003, 10 percent of its DEP in 2004, or 15 percent of its DEP in 2005. Federal funds paid out under the program are capped at $100 billion for each program year. TRIA will expire on December 31, 2005.
+
+5
+
+Page 2
+
+GAO-05-199 Catastrophe Risk
+
+discussed in this report--and some insurance and reinsurance companies and capital market participants have developed catastrophe bonds, which are a type of security that may be purchased by institutional investors and cover certain insurer natural catastrophic risks.6 Proposals have also been made that Congress and regulatory agencies take additional steps to increase the capacity of the insurance industry to address catastrophe risk. For example, a proposal has been made to change U.S. tax laws and accounting standards to allow insurers to set aside funds on a taxdeductible basis to establish reserves for potential future natural catastrophes or terrorist attacks.7 Because of your continuing concerns about the costs and consequences of natural catastrophes and interest in minimizing the federal government's potential financial exposure, you asked us to provide information on a range of issues that would assist the committee in its oversight of the insurance industry. Specifically, our report (1) provides an overview of the property-casualty insurance industry's current capacity to cover natural catastrophic risk and discusses the impacts that the four hurricanes in 2004 had on the industry; (2) analyzes the potential of catastrophe bonds and permitting insurance companies to establish tax-deductible reserves to cover catastrophic risk to enhance private-sector capacity; and (3) describes the approaches six selected European countries--France, Germany, Italy, Spain, Switzerland, and the United Kingdom--have taken to address natural and terrorist catastrophe risk, including whether these countries permit insurers to use tax-deductible reserves for such events. To address our three reporting objectives, we contacted primary and reinsurance companies in the United States, Europe, and Bermuda. We also
+
+6
+
+Catastrophe bonds are an example of a class of securities called risk-linked securities, which include quota share transactions, life insurance securities, catastrophe options, and other insurance-related financial instruments. This report focuses on catastrophe bonds, which are privately placed securities sold to qualified institutional investors as defined under Securities and Exchange Commission Rule 144A. In general, a qualified institutional investor under Rule 144A owns and invests on a discretionary basis at least $100 million in securities of issuers that are not affiliated with the investor. Under U.S. accounting standards, reserves for future losses can be accrued in liability accounts on the balance sheet if the losses are probable and reasonably estimable. In general, this means that an event such as a hurricane has already occurred and an insurance company is in the process of estimating its potential losses. Insurers are not permitted to set aside reserves on a tax-deductible basis for events that have not occurred and the losses from which are not probable and reasonably estimable, such as potential natural catastrophes or terrorist attacks.
+
+7
+
+Page 3
+
+GAO-05-199 Catastrophe Risk
+
+interviewed officials from rating agencies, modeling firms, accounting firms, insurance industry associations, a consumer group, the National Association of Insurance Commissioners (NAIC), state natural catastrophe authorities in California, Florida, and Texas, a state insurance regulator's office, and we spoke with academics. We also updated our previous work on catastrophe bonds.8 In the six European countries we studied, we obtained documents and interviewed officials representing insurance supervisory authorities, insurance companies, insurance and business associations, accounting firms, national catastrophe insurance programs, and international and regional organizations. We asked officials whom we contacted to provide their views on the insurance industry's ability to cover, and strategies to manage, catastrophe risk. We also obtained data on the financial risks associated with natural catastrophes and terrorism, and European insurance markets. We conducted our work between February 2004 and January 2005 in Florida, New York, Washington, D.C., Belgium, France, Germany, Spain, Switzerland, and the United Kingdom. Our work was done in accordance with generally accepted government auditing standards. A more extensive discussion of our scope and methodology appears in appendix I. In addition, our report provides information on insurers' financial exposure to terrorist attacks under TRIA and the extent to which natural catastrophe and terrorism risks are uncovered in the United States. These issues are discussed in appendix II. The report also includes a glossary of insurancerelated terms. We provided a draft of this report to the Department of the Treasury and the National Association of Insurance Commissioners. Treasury provided technical comments on the report that were incorporated as appropriate.
+
+Results in Brief
+
+Although insurers and state governments have taken steps to enhance the industry's capacity to address natural catastrophe risk, a major event or series of events surpassing the over $20 billion in losses in Florida resulting from the 2004 hurricane season could severely disrupt insurance markets and impose substantial recovery costs on governments, businesses, and individuals. Insurers increased their equity capital--the financial resources
+
+8
+
+See GAO, Catastrophe Insurance Risks: Status of Efforts to Securitize Natural Catastrophe and Terrorism Risk, GAO-03-1033 (Washington, D.C.: Sept. 24, 2003) and GAO, Catastrophe Insurance Risks: The Role of Risk-Linked Securities and Factors Affecting Their Use, GAO-02-941 (Washington, D.C.: Sept. 24, 2002).
+
+Page 4
+
+GAO-05-199 Catastrophe Risk
+
+available to cover catastrophic and other types of claims that exceed premium and investment income--from 1990 through 2003.9 However, this measure has several limitations. For example, insurers may also face significant financial exposure in risk-prone areas, which could partially offset the increase in equity capital. Additionally, insurers' equity capital may be required for other types of claims besides claims involving catastrophic risk.10 Therefore, it is not clear from reviewing equity capital alone that the industry is in a relatively better position to withstand catastrophic events. According to insurers, regulators, and analysts we contacted, the following government and industry actions also have the potential to mitigate insurer losses and maintain insurance availability after natural catastrophes: · the establishment of state catastrophe authorities such as the Florida Hurricane Catastrophe Fund (FHCF) and the California Earthquake Authority (CEA); · the establishment of stronger building codes in areas at risk for natural catastrophes; · the development and use of computer programs to model insurers' estimated losses from particular catastrophic scenarios and control exposures accordingly; · the implementation of higher deductibles that shift a greater share of the losses associated with natural catastrophes from insurers to policyholders; and · the creation of new reinsurance companies in Bermuda that specialize in catastrophic risk. Preliminary information suggests that several of these changes generally have facilitated the industry's ability to absorb losses associated with the
+9
+
+Equity capital, also referred to as insurers' surplus, is defined as net worth under the Statutory Accounting Principles (SAP) promulgated by NAIC. As such, equity capital or surplus is the difference between assets and liabilities valued according to SAP.
+
+10
+
+This report also identifies other limitations in the insurer equity capital measure that complicate assessments of insurer capacity. For example, not all of the reported industry capital would necessarily be available in the event of a catastrophe. In particular, only those companies whose policies are affected, not the industry as a whole, would pay claims resulting from a particular event.
+
+Page 5
+
+GAO-05-199 Catastrophe Risk
+
+2004 hurricanes as compared with losses from Hurricane Andrew in 1992.11 Because of significant losses, particularly from property claims in Florida, some companies have restricted coverage in certain areas of the state, and some companies have requested rate increases. However, only 1 company failed in 2004 in contrast to 11 companies that failed after Andrew. Nevertheless, the estimated $20 billion in combined losses in Florida from the four hurricanes is far below potential losses associated with a major event or series of events (hurricanes or earthquakes of such magnitude that they have a 1 percent to .4 percent chance of occurring annually), which could be $50 billion or more.12 Such an event could exhaust the available financial resources of impacted state authorities, generate higher premiums, and likely result in the failures of some companies. While several insurance and reinsurance companies currently use catastrophe bonds to enhance their capacity to address the most severe types of natural catastrophes, the bonds occupy a small niche in the global catastrophe reinsurance market. By raising funds from the capital markets through the issuance of catastrophe bonds, these insurers diversified their funding base for the transfer of catastrophic risk, which traditionally involves purchasing reinsurance or retrocessional coverage. The appeal of catastrophe bonds to these insurers, as well as certain institutional investors that value the bonds for their relatively high rates of return and importance in portfolio diversification, was evidenced by the reported 50 percent growth of the market from year-end 2002 to year-end 2004 to a total of $4.3 billion in bonds outstanding worldwide. However, that amount was still small compared with industry catastrophe exposures, and the bonds have not yet achieved widespread insurance industry acceptance. Some state catastrophe authorities we contacted and many insurers choose not to issue catastrophe bonds because of their relatively high costs compared with traditional reinsurance. These costs include the transaction costs-- such as legal fees--necessary to issue catastrophe bonds. In addition, catastrophe bonds have not been issued to address terrorism risk in the United States, and according to industry participants such bonds are not
+
+11
+
+Industry losses were comparable on an inflation-adjusted basis. Losses from Hurricane Andrew were $20 billion, adjusted to 2004 dollars.
+12
+
+An event with a 1 percent chance of occurring annually is referred to as a 1-in-100 year event. An event with a .4 percent chance of occurring annually is referred to as a 1-in-250 year event. In this report, we refer to the probability of these occurrences in annual percentage terms because these events could occur in any given year.
+
+Page 6
+
+GAO-05-199 Catastrophe Risk
+
+considered feasible at this time given the uncertainties associated with forecasting the timing and severity of terrorist attacks. Another means to increase capacity--authorizing U.S. insurance companies to establish tax-deductible reserves to cover the financial risks associated with potential natural catastrophes and terrorist attacks--is controversial. Some analysts believe that establishing tax-deductible reserves (as is currently permitted in European countries as described next) would increase private-sector capacity and lower premiums. However, according to industry analysts we contacted, permitting these reserves would reduce federal tax receipts, and Department of the Treasury staff and reinsurance association officials we contacted, said that the proposed changes may not bring about a meaningful increase in the insurance industry's ability to pay claims. For example, reinsurance association officials and an industry analyst said that since reinsurance premiums are already tax deductible, insurers may reduce the amount of reinsurance coverage that they purchase. Among the six European countries we studied, we found a mix of government and private-sector approaches to providing natural catastrophe insurance, while most of the countries have national terrorist insurance programs. For example, natural catastrophe coverage is mandatory in France and Spain and the national governments are explicitly committed to providing financial support to insurers through state-backed entities and state guarantees. Other governments, such as Germany, neither require natural catastrophe insurance nor provide explicit financial commitments. To cover terrorism risk, four of the European national governments we studied (France, Spain, Germany, and the United Kingdom) provide financial guarantees similar to those provided in the United States under TRIA. In some countries, such as Spain, a state-owned entity administers the terrorism insurance program. In other countries, such as the United Kingdom, the government provides a state guarantee to an otherwise private terrorism insurance program. Finally, unlike the United States, as of 2004, accounting standards and tax laws in each of the six countries we studied allowed insurance companies to establish tax-deductible reserves for future catastrophic events, although there can be significant differences in the reserving approaches used in each country. For example, in two of the six countries (Germany and the United Kingdom) insurers must follow established standards in determining the amount of money that can be added to the reserves each year and the conditions under which the money may be withdrawn to cover
+
+Page 7
+
+GAO-05-199 Catastrophe Risk
+
+catastrophe losses. In contrast, insurers in the other four countries have more discretion to determine the level of contributions to the reserves and when the funds may be used. However, under a new international accounting standard designed to improve the transparency of insurer financial statements that became effective in 2005, insurance groups are no longer allowed to include catastrophe reserves in their consolidated financial statements. Nevertheless, European insurers and regulators we contacted said that countries may allow the subsidiaries or affiliates of insurance groups to continue using the reserves for tax purposes.
+
+Background
+
+While insurers assume some risk when they write policies, they employ various strategies to manage overall risks so that they may earn profits, limit potential financial exposures, and build capacity--generally, equity capital that would be used to pay claims. For example, they charge premiums for the coverage provided and establish underwriting standards such as (1) refusing coverage to customers who may represent unacceptable levels of risk or (2) limiting coverage offered in particular areas. Establishing underwriting standards also allows insurers to minimize the adverse consequences of "moral hazard," which is "the incentive created by insurance that induces those insured to undertake greater risk than if they were uninsured, because the negative consequences are passed to the insurer." To manage potential financial exposures and also enhance their capacity, insurance companies may also purchase reinsurance.13 Reinsurers generally cover specific portions of the risk the primary insurer carries. For example, a reinsurance contract could cover 50 percent of all claims associated with a single event up to $100 million from a hurricane over a specified time period in a specified geographic area. This type of contract, which specifies payments based on the insurer's actual incurred claims, is called indemnity coverage. In turn, reinsurers act to limit their risks and moral hazard on the part of primary insurers by charging premiums, establishing underwriting standards, and maintaining close business
+13
+
+Some large national insurance companies generally do not purchase private reinsurance. These companies are able to retain their risk because they have large capital bases and are well-diversified. In addition, an official from one state authority said that the organization purchases reinsurance to manage the risk of an event with a 1 percent chance of occurring annually, but not for the risk of an event with a .4 percent chance of occurring annually because of the high cost for reinsurance at the higher level and the low risk of such an event occurring in the state.
+
+Page 8
+
+GAO-05-199 Catastrophe Risk
+
+relationships with insurers that generally have been maintained over a long period. In contrast to other types of insurance risks, catastrophic risk poses unique challenges for primary insurers and reinsurers. To establish their exposures and price insurance and reinsurance premiums, insurance companies need to be able to predict with some reliability the frequency and severity of insured losses. For example, the incidence of most property insurance claims, such as automobile insurance claims, is fairly predictable, and losses generally do not occur to large numbers of policyholders at the same time. However, catastrophes are infrequent events that may affect many households, businesses, and public infrastructure across large areas and thereby result in substantial losses that can impair insurer capital levels. Given the higher levels of capital that reinsurers must hold to address major catastrophic events (for example, hurricanes or earthquakes with expected annual occurrences of no more than 1 percent), reinsurers generally charge higher premiums and restrict coverage for such events. Further, as previously noted, in the wake of catastrophic events reinsurers and insurers may sharply increase premiums and significantly restrict coverage. The reinsurance market disruptions associated with the Andrew and Northridge catastrophes provided an impetus for insurance companies and others to find different ways of raising capital to help cover catastrophic risk. The mid-1990s saw the development of catastrophe bonds, a capital market alternative to reinsurance (in the sense that other parties assume some of the insurer's risks).14 Catastrophe bonds generally (1) are sold to qualified institutional investors such as pension or mutual funds; (2) provide coverage for relatively severe types of events such as hurricanes with an annual expected occurrence of 1 percent; and (3) pay relatively high rates of interest and have less than investment-grade ratings (because in some cases, investors may risk all of their principal if a specified catastrophe occurs). Catastrophe bonds also potentially expose investors to moral hazard because, absent the business relationships that typically characterize primary insurers and reinsurers, investors may lack information on insurer underwriting standards or the claims payment process. That is, an insurer that has issued a catastrophe bond may have incentives to lower its underwriting standards and offer coverage to riskier insureds because investors have less ability to monitor the insurers' risk14
+
+GAO-02-941.
+
+Page 9
+
+GAO-05-199 Catastrophe Risk
+
+taking than would a reinsurer with whom the insurer has done business for years. To minimize moral hazard, most catastrophe bonds are triggered by objective measures (also referred to as "nonindemnity" based coverage) such as wind speed during a hurricane or ground movement during an earthquake rather than insurer loss experience (indemnity-based). However, nonindemnity based coverage exposes insurers to "basis risk," which is the risk that the proceeds from the catastrophe bond will not be related to the insurer's loss experience. For example, if a hurricane with a specified wind speed occurs, the insurer would automatically receive the proceeds of the catastrophe bond, which may be either higher or lower than its actual losses. See appendix III for additional information on the structure of catastrophe bonds. Because insurance markets have been severely disrupted by catastrophic events, state and federal governments also have taken a variety of steps to enhance the capacity of insurers to address catastrophic risk. For example, Florida established FHCF to address hurricane risk, and California established CEA to address earthquake risk. Although these programs cover different risks and use different strategies as described in this report, they share a similar goal in ensuring that insurers can withstand catastrophic events and continue to make coverage available. Similarly, Congress enacted TRIA in 2002 to ensure the continued availability of terrorism insurance subsequent to the September 11 attacks. TRIA was designed as a temporary program that would remain in place until the end of 2005, when it was expected that insurers and reinsurers would have had time to establish a market for terrorism insurance. However, Congress is currently considering extending the 2005 deadline due to concerns about whether insurers will offer terrorism insurance after the act's expiration. See appendix II for more information about TRIA.
+
+Despite Enhancements to Insurer Capacity, Industry May Not Be Able to Address a Major Natural Catastrophe
+
+Despite steps taken in recent years to strengthen insurer capacity for catastrophic risk, the industry has not yet been tested by a major catastrophic event or series of events. Overall, insurers increased their equity capital--financial resources available to cover catastrophic and other types of claims that exceed premium and investment income--from 1990 through 2003, but this measure of capacity has limitations, and therefore, the extent to which capacity has increased is not clear. For example, insurers' exposures in risk-prone coastal and other areas have also increased over time, which could partially offset the increase in equity capital. However, state governments and insurers have taken other steps to enhance industry capacity for catastrophic risk such as establishing state
+
+Page 10
+
+GAO-05-199 Catastrophe Risk
+
+authorities, implementing stronger building codes, and reportedly implementing stronger underwriting standards. Several of these changes appear to have facilitated the industry's ability to withstand the 2004 hurricanes better than the impacts of Hurricane Andrew in 1992, but a more severe catastrophe or catastrophes could have significant financial consequences for insurers and their customers.
+
+Equity Capital Can Measure Insurance Industry Capacity, but the Data Are Subject to Several Limitations
+
+The insurance industry's equity capital levels commonly are used to assess capacity to cover catastrophic risk. As shown in figure 1, the Insurance Services Office, Inc. (ISO) found that from 1990 through 2003 industry equity capital increased from $194.8 billion to $347 billion on an inflationadjusted basis.15 After steadily increasing for 18 years, insurers' equity capital actually declined from 1999 to 2002 before rebounding in 2003. Capital levels declined for a variety of reasons including a series of natural catastrophes in the late 1990s, declining stock prices that particularly affected the investments of large European reinsurers, and the losses associated with the September 11 attacks. Insurer capital increased in 2003 for several reasons that include lower losses associated with natural catastrophes. According to information from ISO, the industry's capital level did not decline in 2004 even though insurers experienced significant losses associated with the 2004 hurricane season.
+
+15
+
+ISO provides information about the property-casualty insurance business, including statistical and actuarial information. Equity capital figures are in 2003 dollars adjusted for inflation and include all private U.S. property-casualty insurers and reinsurers that file statutory financial statements with state insurance regulators as well as the U.S. subsidiaries and affiliates of foreign insurers, as long as those subsidiaries and affiliates are required to file statutory financial statements with state regulators.
+
+Page 11
+
+GAO-05-199 Catastrophe Risk
+
+Figure 1: Insurance Industry Capital Levels, 1990-2003
+Dollars in billions 400 350 300 250 200 150 100 50 0
+1990 1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003
+Sources: GAO analysis of ISO and AM Best data.
+
+Although insurers' equity capital has generally increased over time, it is difficult to determine whether the growth in insurer equity capital has resulted in a material increase in the industry's relative capacity to pay claims. Insurers may also face significant financial exposure in areas prone to natural catastrophes such as the southeastern United States, which could partially offset the increase in insurer capital over the years. However, individual insurers do not make publicly available specific information about the extent to which they write policies in risk-prone areas, the terms offered on these policies, or the level of reinsurance that they purchase to help cover these risks, which complicates assessments of insurer capacity. We have also identified other limitations to using equity capital as a measure of insurance industry capacity. First, in any given catastrophe, only a portion of the industry's capital (and its other resources, such as catastrophe reinsurance) is available to pay disaster claims because the insurance industry as a whole does not pay catastrophe claims. Instead, individual insurance companies pay claims on the basis of the damage that particular catastrophes inflict on the properties they insure. An insurer writing policies only in one state would not have to pay any claims if a
+
+Page 12
+
+GAO-05-199 Catastrophe Risk
+
+catastrophe occurred in another state. Second, only a portion of equity capital would be available to cover catastrophe claims because the capital may also be needed to pay claims from all of the other types of risk that insurers have assumed should the experience of those risks prove unfavorable. To better understand insurers' capacity to address natural catastrophe risks, we contacted two rating agencies that monitor the insurance industry. According to one rating agency official, most insurance companies the agency rated in 2003 were financially secure. The rating agency determines the financial strength of insurance companies and their ability to meet ongoing obligations to policyholders by analyzing companies' balance sheets, operating performance, and business profiles. According to officials from one rating agency, when establishing an insurance company's rating, the agency considers an insurer secure if the company would have enough capital after a catastrophic event to maintain the same rating. In other words, to maintain a secure rating, insurers must demonstrate that they are able to absorb losses from a hurricane with a 1 percent chance of occurring annually or an earthquake with a .4 percent chance of occurring annually. Officials from one rating agency told us that of the 1,058 ratings it issued in 2003, 904 companies obtained secure ratings, meaning that they would be able to meet ongoing obligations to policyholders and withstand adverse economic conditions, such as major catastrophes, over a long period of time. Conversely, 164 insurance companies obtained vulnerable ratings, meaning that they might have only a current ability to pay claims or not be able to meet the current obligations of policyholders at all. Although this rating agency's analysis concludes that nearly 90 percent of insurers would remain financially secure under major catastrophe scenarios, other information suggests that such events could result in significant insurance market disruptions and the inability of insurers to meet their financial obligations to policyholders.16 This information is discussed in a later section.
+
+16
+
+The rating agency's analysis focuses on hurricanes with an expected annual occurrence of no more than 1 percent. The potential exists that a hurricane with an expected annual occurrence of .4 percent would generate higher losses and financial difficulties for affected insurers.
+
+Page 13
+
+GAO-05-199 Catastrophe Risk
+
+State Governments and Insurers Have Taken Steps to Manage the Financial Consequences of Natural Catastrophes
+
+While independently assessing insurer capacity for catastrophic risk is challenging due to limitations associated with the equity capital measure and the lack of key data--such as insurers' reinsurance purchases--state governments and insurance companies have taken steps that have the potential to mitigate insurer losses and enhance industry capacity. We discuss several of the measures that were initiated to strengthen the insurance industry's capacity to respond to catastrophic events, including the creation of state-run programs, changes to building codes, shifts in underwriting, and market innovations. After Hurricane Andrew, the State of Florida established FHCF to act as a reinsurance company for insurers that offer property-casualty insurance in the state. According to officials from FHCF, Florida insurance regulators, and insurance companies that offer coverage in the state, FHCF enhances industry capacity by (1) offering reinsurance at lower rates than private reinsurers for catastrophic risk, thereby increasing the number of primary companies willing to write policies in the state; (2) ensuring that primary companies will be compensated up to specified levels when a catastrophic hurricane occurs; and (3) continuing to offer reinsurance at relatively stable rates in the immediate aftermath of hurricanes. Residential property insurers are required by state law to participate in the FHCF program. Coverage from FHCF is triggered when participating companies' losses meet their share of an aggregate industry retention level of $4.5 billion, and coverage is capped at $15 billion.17 FHCF is financed from three sources: actuarially-based premiums charged to participating insurers, investment earnings, and emergency assessments on Florida insurance companies if needed.18 FHCF may also issue bonds to meet its obligations. In 2002, Florida also established Citizens Property Insurance Corporation (Citizens), a state-run, tax-exempt primary insurer that offers coverage for a premium to homeowners who cannot obtain property insurance from
+
+Florida and California Established Catastrophe Authorities to Stabilize Markets and Maintain or Increase Capacity
+
+17
+
+Each company has an individual retention, or deductible, which is its proportionate share of the industry aggregate of $4.5 billion. An insurer taking unusually heavy losses from a smaller storm from which aggregate industry losses do not meet $4.5 billion could qualify for FHCF reimbursement, while the industry overall might not. For example, the fund paid about $13 million to a few insurers after Hurricanes Erin and Opal in 1995 even though the combined losses from these two storms only reached about $1.7 billion.
+18
+
+FHCF premiums are based in part on hurricane catastrophe models, which are discussed later in this report.
+
+Page 14
+
+GAO-05-199 Catastrophe Risk
+
+private companies.19 Citizens writes full residential coverage in all 67 Florida counties and wind-only coverage in the coastal areas of 29 counties. Citizens' claims paying resources include premiums, assessments on the industry if its financial resources fall to specified levels, and reinsurance from FHCF. After the Northridge earthquake, the State of California established CEA to provide residential earthquake insurance. Insurers that sell residential property insurance in California must offer their policyholders separate earthquake insurance. Companies can offer a private earthquake policy or a CEA policy, but most choose the CEA policy. Only insurance companies that participate in CEA can sell CEA policies. The funds to pay claims come from premiums, contributions from and assessments on member insurance companies, borrowed funds, reinsurance, and the return on invested funds. As discussed in appendix II, about 15 percent of eligible customers in California purchase earthquake insurance in part because apparently many potential customers believe that premiums and deductibles are too high.
+
+States and Counties Have Strengthened Building Codes in Areas at Risk for Natural Catastrophes
+
+In 1994, in the wake of Hurricane Andrew, Miami-Dade and Broward counties enacted a revised South Florida Building Code to ensure that buildings would be designed to withstand both the strong wind pressures and impact of wind-borne debris experienced during a hurricane. In March 2002, Florida instituted a statewide building code that implemented similar requirements and replaced a complex system of 400 local codes. The Florida Building Code was based on a national model code, which was amended where necessary to address Florida's specific needs for added hurricane protection requirements. The code also created a High Velocity Hurricane Zone to continue use of the South Florida Building Code's design and construction measures for the highly vulnerable Miami-Dade and Broward counties. Local jurisdictions may amend the code to make it more stringent when justified and are responsible for administering and enforcing it. According to a 2002 study, building codes have the potential to significantly reduce the damage caused by hurricanes.20 The study found
+
+19
+
+After Hurricane Andrew, Florida created FHCF as well as another organization, the Florida Residential Joint Underwriting Association (JUA). JUA provided residential coverage in specifically designated areas most vulnerable to windstorm damage. In 2002, JUA merged with the Florida Windstorm Underwriting Association to form Citizens.
+20
+
+Applied Insurance Research, Inc., in collaboration with the Institute for Business & Home Safety, "Impact of Building Code Developments on Potential Hurricane Losses in Florida," (May 2002).
+
+Page 15
+
+GAO-05-199 Catastrophe Risk
+
+that residential losses from Hurricane Andrew would have been about $8.1 billion lower if all South Florida homes had met the current Miami-Dade and Broward code. In California, there is no statewide building code, but certain counties did implement stronger building codes after the Northridge earthquake in 1994. For example, Los Angeles County made its building code stronger after Northridge and has implemented several updates since then. According to a CEA official, the California legislature has tried to enact a statewide building code since 1996, but has been unable to reach a consensus. Florida and California officials we contacted said that while stronger building codes have been implemented, many older structures that have not been retrofitted remain vulnerable to hurricane or earthquake damage.
+
+Insurers Use Statistical Models to Monitor Catastrophe Exposure and Better Manage Their Risk Exposures
+
+According to insurance market participants, many, if not all, insurance companies and state authorities currently use computer programs offered by several modeling firms to estimate the financial consequences of various natural catastrophe scenarios and manage their financial exposures. To generate the loss estimates, the computer programs use large databases that catalog the past incidence and severity of natural catastrophes as well as proprietary insurance company data on policies written in particular states or areas. Using the estimates provided by these computer programs, insurers can attempt to manage their exposures in particularly high-risk areas. For example, an insurer could estimate the impact to the company of a hurricane with specified wind speeds striking Miami, given the number of policies that the insurer has written in the city as well as the value of insured property. Based on these types of estimates, companies can manage their risk and control their exposures (for example, by limiting the number and volume of policies written in a particular area or purchasing reinsurance if available on favorable terms) so that their losses are not expected to exceed a particular threshold, such as a specified percentage of their existing equity capital (a commonly used measure is from 10 to 20 percent of capital). According to industry officials we contacted, insurance and reinsurance companies generally use the computer programs to have greater confidence that they would have sufficient capital remaining to meet their obligations to customers and remain in business even in the aftermath of a major event. Whether individual companies are successful in managing their losses should such an event occur will depend in part on the accuracy of the estimates and the quality of the company's risk management practices.
+
+Page 16
+
+GAO-05-199 Catastrophe Risk
+
+Although the use of models and other revised underwriting standards may enhance insurers' ability to control the financial consequences they experience from natural catastrophes, an effect may be reduced insurance availability. To the extent that private insurers reduce their exposures in risk-prone areas, consumers only may be able to obtain property insurance offered by state authorities. For example, according to Citizens officials, the organization provides 70 percent or more of the wind coverage in sections of Palm Beach, Broward, and Dade counties.21 Although state authorities can ensure that coverage is available in risk-prone areas, such insurers are generally not able to diversify their insurance portfolios and may suffer disproportionate losses when catastrophes occur.
+
+Insurers Have Implemented Higher Deductibles to Shift a Greater Share of Losses from Insurers to Policyholders
+
+Insurers have increased policyholder deductibles for certain natural catastrophe risks in risk-prone areas. For example, prior to Hurricane Andrew in 1992, insurers in Florida generally required homeowners to pay a standard deductible of $500 for wind-related damage and would cover remaining losses to specified limits. After Hurricane Andrew, the Florida legislature instituted percentage hurricane deductibles. For homes valued at $100,000 or more, insurers may now establish deductibles from 2 to 5 percent of the policy limits for hurricane damage.22 According to an insurance association, 2 percent is the most common deductible level, although 5 percent deductibles are widespread on higher-priced dwellings. The new deductible is much higher than the previous deductible and to some extent limits insurers' financial exposures due to increases in property values resulting from inflation, since the dollar value of the 2 percent deductible increases as property values increase. General deductibles--usually $500--still apply to all homeowner policies for nonhurricane losses, including tornadoes, severe thunderstorms, and fire. Moreover, according to information from insurance market participants, percentage deductibles are now standard in risk-prone areas throughout the United States.
+
+21
+
+Private-sector insurers provide coverage to some of the remaining 30 percent of properties in these counties.
+22
+
+For homes valued under $100,000, the insurer must offer a hurricane deductible no lower than $500 and no higher than 2 percent of policy limits. For homes valued above $100,000, the insurer may offer a policy that contains up to a 2 percent deductible if the insurer guarantees that it will renew the policy for another year. The maximum allowable deductible is 2 percent for homes valued under $100,000, 5 percent for homes valued between $100,000 and $500,000, and there is no maximum limit for homes valued in excess of $500,000. There are also separate provisions for mobile homes.
+
+Page 17
+
+GAO-05-199 Catastrophe Risk
+
+Development of Bermuda Reinsurance Market Reportedly Has Expanded Capacity
+
+Insurers and analysts we contacted said that the growth of the Bermuda reinsurance market over the past 15 years has enhanced the industry's capacity to withstand natural catastrophes. According to an industry report, many reinsurance companies were incorporated in Bermuda after Hurricane Andrew in 1992 and the September 11 attacks to take advantage of the high global premium rates for catastrophic coverage, and many specialize in catastrophe risk. Additionally, regulatory and industry officials we contacted said that Bermuda's favorable tax environment (no corporate income or capital gains taxes), a flexible regulatory environment that permits companies to be created more quickly than in other jurisdictions, and a concentration of individuals with insurance expertise have contributed to the growth of the Bermuda insurance market. According to a Bermuda insurance industry association, Bermuda reinsurers currently provide a total of 50 percent of all Florida reinsurance. One large primary company we contacted said that Bermuda companies are of critical importance to its overall risk management strategy. In addition, one state authority official reported buying reinsurance from companies in Bermuda. Other industry participants noted that Bermuda companies have diversified the worldwide reinsurance market. Moreover, some Bermuda companies specialize in providing reinsurance to about 30 primary companies that were established to "take out" policies from Citizens.23 Citizens pays bonuses to primary companies, called take out companies, as an incentive to assume the liability on polices that are taken out for 3 years. The bonuses are based on a percentage of the premiums for the policies taken out of Citizens.24 According to Florida insurance regulators, many of the take out companies, therefore, have substantial exposure to hurricane risk.
+
+23
+
+Some U.S. reinsurers also provide coverage to take out companies.
+
+24
+
+According to a Citizens official, take out companies are required to take a minimum number of policies and also write a minimum number of those policies including wind coverage in Dade, Broward, and Palm Beach counties in order to receive the bonus amounts.
+
+Page 18
+
+GAO-05-199 Catastrophe Risk
+
+We note that some analysts have questioned the extent to which the Bermuda market has enhanced insurer capacity since some of the capital raised by Bermuda insurers may represent funds invested by existing insurance companies.25
+
+2004 Hurricane Season Tested Measures Implemented to Better Manage Natural Catastrophes
+
+The four hurricanes that struck within a 6-week period in 2004 provided the first test of the steps the state and the insurance industry have taken to enhance industry capacity since Hurricane Andrew (see fig. 2). As of the end of 2004, they had generated an estimated 1.5 million claims from property owners with over $20 billion in insured losses in Florida-- equating to losses with an expected annual occurrence from 2 to 5 percent (that is, a 1-in-20 to a 1-in-45 year loss). Although many insurers incurred significant losses, 1 take out company failed, and some insurers are restricting coverage and requesting rate increases, industry participants and state officials generally agreed that the steps taken after Hurricane Andrew in 1992 helped the industry better absorb the hurricane losses and provided stability in the insurance markets. For example, only 1 company failed in 2004 in contrast to 11 that failed after Andrew. According to one modeling firm official, while the hurricane losses are significant, insurers typically plan to absorb more than double the losses experienced in these four events. However, some of the steps taken after Andrew were designed to manage losses from a single storm similar to Andrew, rather than the unusual occurrence of four hurricanes making landfall in the United States and causing major damage in the same general area.26 Therefore, state officials and insurers are considering further changes to better address the potential for a future hurricane season with similar events.
+
+25
+
+In 2001, 10 new Bermuda companies were formed. In some cases, the sources of the capital came from established industry players. For example, the principal sponsors of one of these new companies were three existing insurance and reinsurance companies.
+26
+
+According to two insurance broker reports, there have been 4 years with four hurricanes making landfall in the United States since 1900 (1906, 1909, 1964, and 2004), 1 year with five hurricanes (1933), and 2 years with six hurricanes (1916 and 1985). A hurricane rating 3, 4, or 5 on the Saffir Simpson scale is considered a major hurricane. There has not been a year where four major hurricanes made landfall in the United States in over 105 years. Moreover, the year 1886 was the last time more than three landfalls occurred in one state.
+
+Page 19
+
+GAO-05-199 Catastrophe Risk
+
+Figure 2: The 2004 Hurricane Season Resulted in More Than $20 Billion in Insured Losses in Florida
+Four hurricanes made landfall in the United States within a 6-week period in 2004. The storms caused an estimated $27 billion in insured losses in the United States and the Caribbean. As a whole, the 2004 hurricane season is the second most expensive insurance event in U.S. history, behind the September 11, 2001, terrorist attacks. The chart below details the impact of the four storms on Florida. Date of landfall Charley Frances Ivan Jeanne 13 Aug. Aug. Aug. Aug. Sept. 5 Sept. 16 Sept. 25 Sept. Saffir-Simpson Hurricane Scale 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 Estimated insured losses (in billions) $7.885 4.801 3.914 4.153 Number of claims reported (in thousands) 449 504 197 393
+
+Sources: Benfield Group Limited, Florida Insurance Council, Florida Office of Insurance Regulation, Guy Carpenter, Swiss Re, and Risk Management Solutions (map).
+
+FHCF and Reinsurers Losses Limited Due to Multiple MidSized Hurricanes Striking Florida Rather Than One Major Storm
+
+FHCF's payments to its members were limited due to the fact that four relatively mid-sized hurricanes struck Florida rather than one major storm such as Andrew. As previously discussed, FHCF payments to its members are generally triggered when members' losses from a particular storm reach $4.5 billion (a company may receive FHCF payments if its losses exceed its individual retention level--or deductible--even if overall industry losses are less than $4.5 billion). According to an FHCF official, all four storms are expected to trigger FHCF recoveries totaling about $2 billion in payments to 123 of about 230 participating insurers. FHCF members that did not receive payments, including Citizens, did not have losses that reached their individual retention levels (see fig. 3). As a result of the 2004 hurricanes, Florida officials are considering changes to FHCF, such as lowering the industry retention level from the current $4.5 billion, lowering the retention after the second hurricane in a season, or applying a single hurricane season retention, rather than the per hurricane retentions currently in place.
+
+Page 20
+
+GAO-05-199 Catastrophe Risk
+
+Figure 3: 2004 Hurricanes Did Not Trigger FHCF Payments to Citizens Property Insurance Corporation
+
+Citizens' FHCF Retention Level and Potential Recoveries
+
+Citizens' claims paying resources for the wind-only policies it writes in designated coastal areas include a surplus of $1.1 billion, an estimated $3.3 billion in FHCF recoveries, and pre-event financing in excess of $2 billion. Citizens also has the ability to assess the insurance industry for $750 million if it incurs a deficit. As with traditional reinsurance, the allocation of losses between primary insurers, such as Citizens, and reinsurance from FHCF depends not on the aggregate insured loss from all events, but on the insured losses from each event. Florida law specifies an insurance industry aggregate retention of $4.5 billion before FHCF coverage is triggered; however, this is distributed to each insurer based on its FHCF premium. Once insurers' losses meet this specified retention level they can recover funds from FHCF up to a specified limit. Citizens' individual retention level is $950 million for its coastal area wind-only policies. That is, its losses would have to exceed $950 million before coverage from the FHCF was triggered, and Citizens would have to pay all losses below this amount. With the occurrence of four moderately sized hurricanes, primary insurers bear a much greater proportion of the insured loss than reinsurers. Primary insurers, including Citizens, will have to pay losses up to their retention level on their FHCF coverage and private reinsurance policies, if they purchase it, for each event. As shown in the chart, Citizens' losses from the wind-only policies did not meet its individual retention level for any of the 2004 hurricanes. Since Citizens' estimated losses from each of the four hurricanes is lower than its retention level, recoveries from the FHCF will not be triggered. If Citizens' losses exceed available funding, Citizens may levy an assessment on the insurance industry. Since claims were still being reported and settled at the time of our review, Citizens was unable to predict whether it would incur a deficit for 2004, thereby needing to assess the industry. As of January 2005, Citizens had received over 74,000 claims from policyholders with wind-only coverage and estimated its losses from these claims to be approximately $1.45 billion.
+
+FHCF recoveries $3.3 billion
+
+FHCF retention $950 million
+
+543 456 253 192
+s
+ey arl Ch n ne an Je
+
+ce Fra n
+
+Iva
+
+Source: Citizens Property Insurance Corporation.
+
+Reinsurance company officials, except for Bermuda companies described in a subsequent section, said that their losses from the 2004 hurricanes were also limited for the same general reasons as FHCF. That is, reinsurance contracts typically require primary companies to retain a specified percentage of the losses associated with hurricanes and are written on a per occurrence basis. The reinsurance company officials said that each of the four hurricanes generally did not result in losses that exceeded the primary companies' retention levels.27 Additionally, reinsurers' exposures may have been limited because primary companies only purchased reinsurance for one or two storms and may not have
+
+27
+
+Primary insurance companies in Florida are required to purchase reinsurance from FHCF, which provides a layer of reinsurance coverage below what is typically offered by reinsurers. That is, FHCF provides coverage for storms with an expected annual occurrence of about 2 percent annually (approximately the 1-in-50 year storm). Primary companies may purchase reinsurance for catastrophes that exceed the FHCF levels (such as storms with an expected annual occurrence of less than 2 percent--for example, a 1-in-100 year storm). Since each of the four hurricanes had an expected annual occurrence of greater than 2 percent and FHCF payments were minimized as a result, reinsurance contracts were frequently not triggered.
+
+Page 21
+
+GAO-05-199 Catastrophe Risk
+
+purchased reinsurance coverage for a third or fourth storm. Because, in general, many reinsurance companies were not significantly affected by the 2004 hurricane season, insurance market analysts generally do not expect significant increases in reinsurance premiums similar to those that took place after Hurricane Andrew in 1992.28
+
+Revised Building Codes May Have Mitigated Losses
+
+Although it is too early for definitive conclusions, insurers, a Florida regulatory official, and a consumer representative we contacted said that the state's revised building codes may have mitigated insurer losses from the 2004 hurricanes. For example, a recent study of damage caused by Hurricanes Charley, Frances, and Ivan found that structures built according to the new building codes fared better than structures built under older building codes.29 However, in some cases, insurance market participants said that newer structures sustained damage despite the revised building codes. For example, the officials said that materials blown off of older structures struck newer buildings causing damage such as shattered windows. In addition, Florida officials reported that some builders of structures subject to revised codes did not use proper materials or techniques, which resulted in damage and losses. Overall, insurance companies and other industry participants reported that steps insurers took based on information generated by computer models of exposures mitigated their losses during the 2004 hurricane season; however, some insurers noted that the models did not accurately estimate their actual losses. According to two modeling firm representatives, the purpose of catastrophe modeling is not to predict exact losses from specific storms but to anticipate the likelihood and severity of potential future events so that companies can prepare accordingly. Insurers and other industry participants also reported some aspects of the models that could be improved. Insurance industry officials noted that the models did not take into account the increased cost of labor and construction materials after the hurricanes, or demand surge. In addition, companies noted that the models did not take into account the impact of
+28
+
+Steps Industry Took Based on Catastrophe Model Estimates Viewed as Mitigating Losses
+
+Reinsurance premiums were reportedly declining prior to the 2004 hurricane season. As a result of losses incurred by reinsurers, insurance market analysts we contacted said they do not expect reinsurance premiums to decline as rapidly as prior to the advent of the four hurricanes.
+29
+
+Institute for Business & Home Safety, "Preliminary Damage Observations, Hurricanes Charley, Frances & Ivan 2004," (2004).
+
+Page 22
+
+GAO-05-199 Catastrophe Risk
+
+damage caused to the same properties by storms with overlapping tracks. Officials from the modeling firms told us that since the models are based on historical data, they do factor in the possibility of multiple events in 1 year. However, one firm noted that the models assume that the damage caused by each event is independent. Representatives from three modeling firms told us that the companies will incorporate meteorological and claims data from the 2004 hurricane season into their models and consider other improvements in future upgrades.
+
+Insurers Increased Deductibles to Mitigate Losses, but Multiple Deductibles Have Raised Concerns
+
+Insurance company and other industry officials we contacted said that using percentage-based deductibles mitigated losses associated with the 2004 hurricanes. However, Florida insurance regulatory officials told us that some consumers complained that they were surprised by the high amount of their deductibles. In addition, with multiple storms sometimes crossing the same paths, paying multiple deductibles became an issue of consumer fairness. According to state regulatory officials, some insurance companies have decided to apply a single deductible to all their policies. Some insurers we interviewed said that they are deciding on a case-by-case basis whether multiple deductibles should apply. For example, one insurer told us that if the claims adjuster could not determine what damage was caused by what storm, generally only one deductible would be applied. According to state regulatory officials, there are approximately 29,000 cases of multiple deductibles. On December 16, 2004, the state legislature passed legislation to reimburse policyholders who had to pay multiple deductibles. According to the new law, up to $150 million will be borrowed from FHCF to provide grants of up to $10,000 to policyholders subject to two deductibles and up to $20,000 for policyholders subject to three or more deductibles. Funds borrowed from FHCF will be repaid by increasing insurers' FHCF premiums beginning in 2006. For policies issued or renewed on or after May 1, 2005, the new law also permits insurers to apply a single deductible for each hurricane season. When the deductible is exhausted, the deductible for other perils--generally $500--will be applied to claims for damage from subsequent storms. Bermuda reinsurers are expected to pay a significant amount of reinsurance losses compared with other reinsurance companies because of their specialization in catastrophe risk (such as providing reinsurance to take out companies). A Bermuda insurance industry association representative estimated that Bermuda reinsurers will pay about $2.6 billion in losses from the four hurricanes, or about 10 percent of the total losses. These losses could exhaust from 25 to 40 percent of companies' earnings for 2004. The Bermuda insurance industry association official
+
+Bermuda Reinsurers That Specialize in Catastrophe Risk Are Expected to Meet Their Obligations from the 2004 Hurricanes
+
+Page 23
+
+GAO-05-199 Catastrophe Risk
+
+noted that no Bermuda companies are expected to fail as a result of these losses and that the ratings of Bermuda companies have not been affected by the hurricane losses. The association official also said that these companies are well capitalized and have had several years with low catastrophe losses.
+
+A Severe Natural Catastrophe or Series of Catastrophes Could Generate Major Insurance Market Disruptions
+
+While state government and insurer measures initiated since the 1990s likely facilitated insurers' ability to respond to the 2004 hurricane season, an event with losses representing an expected annual occurrence of no more than 1 percent to .4 percent could have major consequences for insurers and insurance availability. Neither the 2004 hurricane season, as discussed previously, nor Hurricane Andrew or the Northridge earthquake qualified as an event with losses representing a 1 percent expected annual occurrence, yet many insurers experienced significant losses and some restricted coverage as a result of these catastrophes.30 It follows that a more severe hurricane (or series of hurricanes) or earthquake with estimated losses of $50 billion or more would have even more severe consequences. For example, FHCF's total available financial resources of $15 billion are intended to cover losses from a hurricane with an estimated occurrence of about 2 percent annually (approximately a 1-in-50 year event). If a more severe hurricane or series of hurricanes struck Florida, FHCF would likely impose assessments on the insurance industry to cover the costs of bonds issued to meet its obligations and its financial resources would be exhausted. Insurers, in turn, might impose higher premiums on policyholders to cover the cost of these assessments. Moreover, a severe hurricane would likely impose much higher losses on the reinsurance industry than did the 2004 hurricane season, particularly because primary insurers' losses may exceed the retention levels specified in their reinsurance contracts. Our previous work, as well as recent discussions with NAIC officials, also indicates that a catastrophe with an expected occurrence of no more than 1 percent annually would likely cause a significant number of insurer insolvencies among companies with high exposures to such events and inadequate risk management practices.31 Several assessments by state
+
+30
+
+The $19 to $20 billion in losses from Hurricane Andrew and the Northridge earthquake generally qualify as losses with a 2 percent annual occurence (1-in-50 year loss) or more.
+31
+
+See GAO/GGD-00-57R.
+
+Page 24
+
+GAO-05-199 Catastrophe Risk
+
+catastrophe authorities, such as FHCF and Citizens, and state guaranty funds (described next) could reduce insurers' equity capital, which would already be strained by significant losses. Insurers that experience substantial losses and declines in equity capital would likely face rating downgrades from the rating agencies. Consequently, such companies might no longer be able to meet their obligations to their customers and state authorities could intervene to ensure that some claims were paid. All states have established so-called guaranty funds, which are financed by assessments on the insurance industry for this purpose.32 However, it is not clear that the state guaranty funds would have sufficient resources to withstand the failures of many insurers associated with a major catastrophic event or series of events.
+
+Catastrophe Bonds and Tax-Deductible Reserves May Have the Potential to Enhance Insurers' Capacity for Catastrophe Risk
+
+Insurers' reactions to past catastrophic events--for example, restrictions on reinsurance coverage and higher reinsurance premiums--and the potential consequences for insurers from an even more severe catastrophe have generated financial instruments and proposals designed to enhance industry capacity for both natural events and terrorist attacks. Catastrophe bonds serve as a potential means for insurers to tap the large financial resources of the capital markets to cover the large exposures associated with potential catastrophes. In fact, several insurance and reinsurance companies currently use catastrophe bonds to enhance their capacity to cover low probability, high severity natural events, although catastrophe bonds have not been issued yet to cover terrorism risk in the United States. However, catastrophe bonds are not widely used in the insurance industry due to their relatively high cost compared with reinsurance, among other factors. Some insurance market analysts have also advocated changing U.S. tax laws and accounting standards to permit insurers to set aside reserves on a tax-deductible basis to increase their capacity for both natural catastrophes and terrorist attacks. However, tax-deductible reserves involve tradeoffs such as lower federal revenues and some analysts believe that the reserves would not materially enhance capacity because insurers might substitute reserves for existing reinsurance coverage, the cost of which is tax deductible.
+
+32
+
+The lines of insurance covered by guaranty funds and the maximum amount paid on any claims vary from state to state.
+
+Page 25
+
+GAO-05-199 Catastrophe Risk
+
+Catastrophe Bond Market Has Grown Significantly but Is Still Small Compared with Overall Catastrophe Exposure
+
+According to private-sector data, the value of outstanding catastrophe bonds increased substantially from 1997 through 2004 (see fig. 4). The value of outstanding catastrophe bonds worldwide increased about 50 percent from year-end 2002 to year-end 2004 to $4.3 billion. However, at $4.3 billion, the value of outstanding catastrophe bonds was small compared with industry catastrophe exposures. For example, a major hurricane striking densely populated regions of Florida alone could cause more than an estimated $50 billion in insured losses.
+
+Figure 4: Catastrophe Bond Amount Outstanding, Year-end 1997­ 2004
+Dollars in millions 5,000 4,260 4,000 4,388
+
+3,000 2,376 2,000 1,881
+
+2,898
+
+1,000
+
+714
+
+878
+
+1,005
+
+0 1997 1998 1999 2000 2001 2002 2003 2004
+Source: GAO analysis of Swiss Re Capital Markets data.
+
+Note: The data include catastrophe bonds issued and amounts outstanding from prior years. These data represent the most current estimates available as of the end of 2004 and are based on voluntary submissions. According to two private-sector sources, industry participants agree that the data are generally consistent.
+
+As discussed in our previous reports, some insurance and reinsurance companies view catastrophe bonds as an important means of diversifying their overall strategy for transferring catastrophe risks, which traditionally involves purchasing reinsurance or retrocessional coverage. By raising funds from investors through the issuance of catastrophe bonds, insurers can expand the pool of capital available to cover the transfer of catastrophic risk. In addition, most of the catastrophe bonds issued provide
+
+Page 26
+
+GAO-05-199 Catastrophe Risk
+
+coverage for catastrophic risk with high financial severity and low probability (such as events with an expected occurrence of no more than 1 percent annually). Consequently, none of the bonds issued to date that include coverage of U.S. wind risk were triggered by the 2004 hurricane season. According to various financial market representatives, because of the larger amount of capital that traditional reinsurers need to hold for high severity and lower-probability events, reinsurers limit their coverage and charge increasingly higher premiums for these risks. Representatives from one insurance company said that the company cannot obtain the amount of reinsurance it needs for the highest risks at reasonable prices and has obtained some of its reinsurance coverage in this risk category from catastrophe bonds as a result. This firm and other market participants said that the presence of catastrophe bonds as an alternative means of transferring risk may have moderated reinsurance premium increases over the years. Some insurers also find catastrophe bonds beneficial because they pose little or no credit risk. That is, financial market participants told us that insurers can be exposed to the credit risk of reinsurers not being able to honor their reinsurance contracts if a natural catastrophe were to occur. Catastrophe bonds, on the other hand, create little or no credit risk for insurers because the funds are immediately deposited into a trust account upon bond issuance to investors. Representatives from some insurers we contacted said that while they recognize that some reinsurers' credit quality had declined in recent years, they guarded against credit risks by establishing credit standards for the companies with whom they do business and continually monitoring their financial condition.33 Some institutional investors we contacted also expressed positive views about catastrophe bonds. Some investors said that the bonds offered an attractive yield compared with traditional investments. These institutional investors also said that they purchased catastrophe bonds because they were uncorrelated with other risks in bond portfolios and helped diversify their portfolios.
+
+33
+
+In addition, when dealing with a reinsurer with poorer credit quality, a representative of one insurer that purchases a large amount of reinsurance also said that his company and other firms put the reinsurance premiums into a "funds held" account, paying the reinsurers only interest on the premium funds held for the duration of the reinsurance contract. However, this method collateralizes only the premiums paid, not the full amount of the insurance coverage. Another method used is to obtain a letter of credit up to the full amount of the exposure that is ceded.
+
+Page 27
+
+GAO-05-199 Catastrophe Risk
+
+Various Factors May Have Limited the Expansion of the Catastrophe Bond Market
+
+Although catastrophe bonds benefit some insurers and institutional investors, others we contacted said they do not issue or purchase catastrophe bonds for a number of reasons, which may have limited the expansion of the market. Some state authorities we contacted and many insurers view the total costs of catastrophe bonds--including transaction costs such as legal fees--as significantly exceeding the costs of traditional reinsurance. Insurer and state authority officials also said that they were not attracted to catastrophe bonds because they generally covered events with the lowest frequency and the highest severity. Rather, the officials said that they would prefer to obtain coverage for less severe events expected to take place more frequently. In addition, a recent study concluded that the fact that most catastrophe bonds are issued on a nonindemnity basis has limited the growth of the market because such bonds expose insurers to basis risk (the risk that the provisions that trigger the catastrophe bond will not be highly correlated with the insurer's loss experience).34 Representatives from some institutional investors said that the risks associated with catastrophe bonds were too high or not worth the costs associated with assessing the risks. Some institutional investors also said that they decided not to purchase catastrophe bonds because they were considered illiquid. However, capital market participants we contacted said that the liquidity of the catastrophe bond market has improved. Moreover, the catastrophe bond market has generally been limited to coverage of natural disasters because the general consensus of insurance and financial market participants we contacted was that developing catastrophe bonds to cover potential targets against terrorism attacks in the United States was not feasible at this time. In contrast to natural catastrophes, where a substantial amount of historical data on the frequency and severity of events exists, terrorism risk poses challenges because it is extremely difficult to reliably model the frequency and severity of terrorist acts.35 Although several modeling firms are developing terrorism models that are being used by insurance companies to assist in their pricing of terrorism exposure, most experts we contacted said these models were too new and untested to be used in conjunction with a bond covering risks in the United States. Furthermore, potential investor
+
+34
+
+Sylvie Bouriaux, Ph.D., and William L. Scott, Ph.D., "Capital Market Solutions to Terrorism Risk Coverage: A Feasibility Study," Journal of Risk and Finance Vol. 5, No. 4 (2004): 33-44.
+35
+
+See GAO-03-1033.
+
+Page 28
+
+GAO-05-199 Catastrophe Risk
+
+concerns--such as a lack of information about issuer underwriting practices or the fear that terrorists would attack targets covered by catastrophe bonds--could make the costs associated with issuing terrorism-related securities prohibitive. Our previous work also identified certain tax, regulatory, and accounting issues that might have affected the use of catastrophe bonds. We have updated this work and discuss it in detail in appendix III.
+
+Permitting Tax-Deductible Catastrophe Reserves Is Controversial
+
+Tax-deductible reserves could confer several potential benefits, according to advocates of the proposal, but others argue that reserves would not bring about a meaningful increase in industry capacity. First, supporters of tax-deductible reserves argue they would provide insurers with financial incentives to increase their capital and thereby expand their capacity to cover catastrophic risks and avoid insolvency. Supporters also argue that they would lower the costs associated with providing catastrophic coverage and encourage insurers to charge lower premiums, which would increase catastrophic coverage among policyholders. Moreover, as mentioned in our discussion of catastrophe bonds, the risk exists that reinsurers might not be able to honor their reinsurance contracts if a natural catastrophe were to occur. Allowing insurers to establish taxdeductible reserves could help ensure that funds are available to pay claims if a catastrophe were to take place. Finally, information from NAIC states that under current accounting rules, insurers are not required to fully disclose the financial risks that they face from natural catastrophes and that these risks are not accounted for on insurers' balance sheets. By requiring insurers to establish a mandatory reserve on their balance sheets and disclose it in the footnotes of the financial statements, the NAIC officials argue that the insurers' financial statements would be more transparent and provide better information about the potential catastrophic risks that they face.
+
+Page 29
+
+GAO-05-199 Catastrophe Risk
+
+An NAIC committee has made a catastrophe reserve proposal--which the NAIC has not officially endorsed--that would require insurers to gradually build up industrywide catastrophe reserves of a total of $40 billion over a 20-year period, or not more than $2 billion per year.36 The NAIC committee's proposal would make such reserves mandatory to promote the safety and soundness of the insurance industry. The committee's proposal would also stipulate that specified events--such as an earthquake, wind, hail, or volcanic eruption--could trigger a drawdown from the reserves-- and that the President of the United States or Property Claim Services would have to declare that a catastrophe had occurred.37 The proposal would specify that either insurers' losses reach a certain level or that industry catastrophe losses exceed $10 billion for insurers to make a drawdown on the reserve. However, there are potential tradeoffs associated with allowing insurers to establish tax-deductible reserves for potential catastrophes. In particular, permitting tax-deductible reserves would result in lower federal tax receipts according to industry analysts we contacted. Although supporters counter that permitting reserves would enhance industry capacity and thereby reduce the federal government's catastrophe-related costs over the long term, the size of any such benefit is unknown. In addition, Treasury staff said that there would be no guarantee that insurance companies would actually increase the capital available to cover catastrophic risks. Rather, the officials said that insurers might use the reserves to shield a portion of their existing capital (or retained earnings) from the corporate income tax. Furthermore, reinsurance association officials said that insurance companies could inappropriately use tax-deductible reserves to manage their financial statements. That is, insurers could increase the
+
+36
+
+The proposal was made by NAIC's Catastrophe Insurance Working Group to NAIC's Property and Casualty Committee in 2000. See NAIC Catastrophe Working Group, "Summary of the NAIC Catastrophe Reserve Proposal," NAIC Research Quarterly 6, no. 2 (Summer 2000). According to an NAIC official, the NAIC will not adopt the proposal beyond the working group level unless the tax laws are changed to allow insurance companies to establish reserves for future catastrophic events on a tax-deductible basis.
+37
+
+The ISO's Property Claim Services (PCS) provides widely used data on insured property losses from catastrophes in the United States, Puerto Rico, and the U.S. Virgin Islands. PCS investigates reported disasters and determines the extent and type of damage, dates of occurrence, and geographic areas affected. PCS is the only insurance industry resource for compiling and reporting estimates of insured property losses resulting from catastrophes. For each catastrophe, the PCS loss estimate represents anticipated industrywide insurance payments for property lines of insurance covering fixed property, building contents, business interruption losses, vehicles, and inland marine (diverse goods and properties).
+
+Page 30
+
+GAO-05-199 Catastrophe Risk
+
+reserves during good economic times and decrease them in bad economic times. In addition, Treasury staff expressed skepticism about the reliability of models used to predict the frequency and severity of catastrophes. Without reliable models, Treasury staff said that it would be difficult to determine the appropriate size of the catastrophe reserves. We note that insurers have developed sophisticated models to predict the frequency and severity of natural catastrophes such as hurricanes and that these models are currently considered more reliable than terrorism models. Finally, reinsurance association officials and an insurance industry analyst who supports tax-deductible reserves said that some insurers might reduce the amount of reinsurance coverage that they purchased if they were allowed to establish reserves. Because reserving would also convey tax advantages, some insurers might feel that they could limit the expense of purchasing reinsurance. To the extent that insurers reduced their reinsurance coverage in favor of tax-deductible reserves, the industry's overall capacity would not necessarily increase. We also note that reinsurance is a global business and that reinsurers in other countries, particularly European countries and Bermuda, provide a significant amount of reinsurance for U.S. insurers. Since many European insurers in the countries we studied are already permitted to establish tax-deductible reserves (as described in the next section) and Bermuda reinsurers are not subject to an income tax, any potential enhancement of insurer capacity associated with granting U.S. insurers the authority to establish such reserves may be limited.
+
+European Countries Use a Mix of Approaches to Insure Natural Catastrophes, and Most Countries Studied Have National Terrorism Insurance Programs
+
+European countries also face significant risks associated with natural catastrophes and terrorist attacks, and have developed a range of approaches to enhance insurers' capacity to address catastrophic risks. For example, the six European countries we studied--France, Germany, Italy, Spain, Switzerland, and the United Kingdom--have developed a mix of government and private-sector approaches to covering natural catastrophe risk. In three of the countries, standard homeowner policies include mandatory coverage for natural catastrophes, and the government provides an explicit financial guarantee to pay claims in two of these three countries. The other three countries generally rely on insurance markets to provide natural catastrophe coverage. Concerning terrorism coverage, four of the six countries have established national terrorism programs, two of which are mandatory, wherein the national governments provide explicit financial guarantees to address the financial risks associated with terrorist attacks while the two remaining countries generally rely on insurance
+
+Page 31
+
+GAO-05-199 Catastrophe Risk
+
+markets. As of the time of our review, all six countries allowed insurers to establish tax-deductible reserves to cover the costs associated with potential catastrophes, but there are significant variations in each country's approach. Further, a new international accounting standard designed to prohibit the use of such catastrophe reserves may have a limited effect due to the way it is being implemented in Europe.
+
+Europeans Use a Mix of Government and Privatesector Approaches to Insure Natural Catastrophes
+
+Insurance for natural catastrophes in the six European countries we studied encompass a range of structures--from mandatory coverage with state-backed guarantees to wholly private-sector coverage. Figure 5 provides an overview of how natural catastrophes are insured in the six selected European countries. In summary, France and Spain have developed national programs with mandatory coverage and unlimited state guarantees. Switzerland mandates natural catastrophe coverage, but the government does not provide an explicit financial commitment. Germany, Italy, and the United Kingdom do not offer national insurance programs for natural catastrophes.
+
+Page 32
+
+GAO-05-199 Catastrophe Risk
+
+Figure 5: How Natural Catastrophe Insurance Is Covered in Selected European Countries
+National program Year started Natural catastrophes covered Includes floods, mud slides, landslides, drought, earthquakes, tidal waves, and avalanches Program overview All policyholders pay premium surcharge set by the government. Unlimited state guarantee. Insurers may reinsure their natural catastrophe risk with the state-backed reinsurer. All policyholders pay a premium surcharge set by the state-run entity providing direct coverage for natural catastrophes. Insurers collect the surcharge and transfer it to the Consorcio. Unlimited state guarantee. All policyholders pay a premium surcharge set by the pool. Members of the pool transfer natural catastrophe losses into the pool. The pool provides limited coverage based on members' size. Insurance for natural catastrophes is optional and available from private insurers for an additional premium.
+
+France
+
+Catastrophes Naturelles (CATNAT)
+
+1982
+
+Spain
+
+Consorcio de Compensacion de Seguros (Consorcio)
+
+1954
+
+Earthquakes, tsunamis, extraordinary floods, volcanic eruptions, atypical cyclonic storms, and meteorites
+
+Switzerland
+
+Elementarschadenpool (Elemental Pool)
+
+1953
+
+High waters, floods, windstorms, hail, avalanches, snow pressure, falling rocks, and landslides
+
+Germany
+
+None
+
+N/A
+
+N/A
+
+Italy
+
+None
+
+N/A
+
+N/A
+
+Insurance for natural catastrophes is optional and available from private insurers for an additional premium.
+
+United Kingdom
+
+None
+
+N/A
+
+N/A
+
+Insurance for floods is generally included in standard property insurance policies and is available from private insurers.
+
+Sources: GAO analysis based on information from the Organization for Economic Cooperation and Development (OECD), Guy Carpenter, American Insurance Association, and interviews of insurance industry participants and insurance supervisory authority officials in each country; Nova Development (maps).
+
+Natural Catastrophe Programs in France and Spain Involve Mandatory Coverage, Statebacked Entities, and Unlimited State Guarantees
+
+In France, the Catastrophes Naturelles (CatNat) program was started in 1982 in response to serious flooding in southern France. French law requires standard property insurance policies to include coverage for natural catastrophes. According to information from the French government, between 95 and 98 percent of the population has taken out this comprehensive insurance and thus benefits from CatNat coverage. To cover natural catastrophe risk, insurers collect a government-determined 12 percent premium surcharge from policyholders. Insurers may then choose to forgo reinsurance for natural catastrophes or purchase reinsurance from the private market or the Caisse Centrale de Réassurance (CCR), a state-backed company authorized by law to reinsure natural catastrophe risk. CCR offers unlimited reinsurance coverage that is guaranteed by the French government in the event that CCR exhausts its
+
+Page 33
+
+GAO-05-199 Catastrophe Risk
+
+resources. However, a CCR official noted that insurance companies must transfer half of their natural catastrophe risk to CCR in order to be covered under the state guarantee. According to one insurance broker and a French Treasury official, most insurers in France reinsure their natural catastrophe risk through CCR to obtain the state guarantee coverage. Under the French program, the government must declare that an event qualifies as a natural disaster.38 According to information from the French government and a CCR official, the program is set up so that insurers manage policyholders' claims because they have the best claims-paying experience and expertise. Coverage from CCR takes effect after insureds pay a certain deductible.39 Since the program was started in 1982, France has declared 110,000 natural disasters and paid 6.4 billion (about $8.6 billion) in compensation, over half of which was for floods.40 In 2001, the government introduced a program to encourage cities to implement loss prevention measures by increasing deductibles in the event of repeated natural disasters, such as floods, for cities without a prevention plan. In Spain, a state-owned entity called the Consorcio de Compensación de Seguros (Consorcio) provides coverage for natural catastrophe risks.41 Originally established to provide indemnity to victims from the Spanish Civil War, the Consorcio now provides coverage for catastrophic risks not specifically covered under private-sector insurance policies or when an
+
+38
+
+There is no real definition of a natural disaster (either of covered or noncovered risks) in the law establishing the French program. The only triggering point is that an event be uninsurable and of abnormal intensity. A nonexhaustive list of qualifying events includes floods and mudslides, earthquakes, tidal waves, avalanches, and landslides.
+39
+
+CCR's coverage for natural disasters is unlimited because of the state guarantee. The deductible under the CCR reinsurance contract, therefore, represents the maximum amount that an insurer will have to bear in the course of a year, regardless of how many losses occur.
+40
+
+For the exchange rate from euros to dollars, we used the daily 12 noon buying rate as certified by the New York Federal Reserve Bank on December 6, 2004, which was 1.3431. This rate is quoted in U.S. dollars per foreign currency unit.
+41
+
+While state owned, the Consorcio operates as a private company and must follow the same regulations and standards as private companies. The Consorcio's resources for coverage of catastrophic risk come from surcharges paid by policyholders, and not from the state's budget. As discussed in the next section, the Consorcio also covers risks such as terrorism, civil commotion, and riot.
+
+Page 34
+
+GAO-05-199 Catastrophe Risk
+
+insurance company cannot fulfill its obligations.42 According to a Consorcio official, natural catastrophe coverage is mandatory and automatically included in standard policies, and although Spanish law does not require the purchase of standard property insurance policies, most people do have insurance because banks require it as a condition of mortgages. As a result, most property is covered for natural catastrophes. The Consorcio uses data from private insurers and its own claims data to calculate the standard surcharge rate for different types of properties (such as housing, offices, industrial sites, and public works). As in France, insurers collect this surcharge from all policyholders' property insurance premiums. Unlike in France, where insurers may use the surcharge collected to purchase reinsurance coverage from CCR or private reinsurers (or to cover the costs associated with retaining natural catastrophe risk), Spanish insurers must transfer the surcharge to the Consorcio on a monthly basis and in return receive a 5 percent collection commission that is tax deductible. The Consorcio's catastrophe coverage protects the same property or persons to at least the same level as risks covered under the primary insurance policy from the private insurer. The Spanish government provides an unlimited guarantee in the event that the Consorcio's resources are exhausted; however, the government guarantee has never been triggered. According to Consorcio and Spanish insurance industry officials, the Consorcio provides nearly all the natural catastrophe coverage in Spain. Even though private insurers have been allowed to provide natural catastrophe coverage since 1990 few, if any, do so. Because their risks would not be as geographically diversified as the Consorcio's (since it provides coverage to policyholders across the country), private insurers would not be able to charge rates competitive with the Consorcio. In addition, a Consorcio official said that even if insurers provided policyholders with natural catastrophe coverage, the insurers would still have to pay the Consorcio surcharge. Unlike France, no official government declaration of a disaster is required for this coverage to take effect. Coverage from the Consorcio is automatic whenever any of the specified catastrophes occurs. The Spanish system also differs from the French system in that, according to a Consorcio official, the Consorcio compensates policyholders directly for their losses. In 2003, the Consorcio
+
+42
+
+The Consorcio also operates as a guarantee fund and would indemnify policyholders if an insurance company covered a natural catastrophe risk, but subsequently filed for bankruptcy, suspended payments, or become insolvent.
+
+Page 35
+
+GAO-05-199 Catastrophe Risk
+
+paid about 143 million (about $192 million) in catastrophe losses. As in France, floods represent the highest percentage of the total natural catastrophe claims.
+
+While the Swiss Government Mandates Natural Catastrophe Coverage, It Provides No Government Guarantee and the Industry Administers Its Own Pool
+
+Swiss law requires insurers to include coverage for natural catastrophes as an extension to all fire insurance contracts on buildings and contents. Insurers first integrated natural catastrophe coverage into fire insurance policies on a voluntary basis in 1953 after severe damage caused by avalanches. Since it was too expensive to insure those who lived in areas at high risk for avalanches, the insurance industry packaged all natural catastrophe risks together and attached this package to fire insurance policies. The natural catastrophe coverage became a requirement in law in 1992. In addition, Switzerland now has regulations controlling building in areas such as avalanche zones and flood plains. As in France and Spain, all policyholders pay a uniform premium rate for natural catastrophe coverage, which is part of the fire insurance premium. The standard premium amount, calculated by an actuarially based methodology, is also written into law but has not been revised or adjusted since 1993. Most property owners in Switzerland are required to have building insurance for fire and natural catastrophes.43 As a result of this mandatory coverage, most buildings in Switzerland are covered for these events. Coverage for building contents is generally optional in Switzerland, but according to Swiss insurance industry and government officials, most people also have this coverage.44 An insurance association official told us that earthquake risk was not originally included in the natural catastrophe package because at that time, earthquakes were considered uninsurable. According to a Swiss Insurance Association official, coverage for earthquakes is available from insurers in Switzerland as an additional optional policy, but not many people buy it.
+
+43
+
+Building insurance is not compulsory in 4 of Switzerland's 26 cantons--or states. Coverage for building contents is compulsory in 2 cantons.
+
+44
+
+Page 36
+
+GAO-05-199 Catastrophe Risk
+
+Although the Swiss government does not provide a state guarantee to cover losses from a major catastrophe, as is the case in France and Spain, Swiss insurers have developed programs to share catastrophe losses. In some areas of Switzerland, state-run insurers provide building insurance.45 These state-run insurers have established a specialized reinsurance company to manage their natural catastrophe risk. According to Swiss government officials, the state-run insurers may purchase reinsurance coverage from the private market or this specialized reinsurance company. Providing coverage to only the state-run insurers, an insurance industry official said that this company retains some of the risk and also purchases retrocessional coverage from the private market. Similarly, private insurers created the Elementarschadenpool, or Swiss Elemental Pool, to spread their natural catastrophe risk.46 A Swiss insurance association official said that the pool has also obtained reinsurance coverage for losses that exceed specified levels. As in France and Spain, the pool's flood losses have exceeded the losses for other natural perils, according to an industry report.
+
+National Governments in Italy, Germany, and the United Kingdom Are Not Involved in Natural Catastrophe Insurance
+
+The governments in Italy, Germany, and the United Kingdom do not mandate, provide, or financially guarantee natural catastrophe insurance. In Italy and Germany, coverage for natural catastrophes, such as floods, is optional and only available from private insurers for additional premiums. According to an Italian insurance supervisory official, the property of private citizens is generally not covered by any kind of natural catastrophe insurance. The official also said that some medium and large-sized businesses and, to a lesser extent, small businesses are covered against this risk in Italy. In Germany, regulatory and insurance officials said that coverage for a wide variety of natural catastrophes is generally available from private insurers in additional policies. However, the officials also said that few policyholders choose to purchase it and it may be difficult to obtain flood insurance, particularly in areas prone to repeated flooding. In the United Kingdom, coverage for a range of natural perils, including flood
+45
+
+State-run insurers established by cantonal building insurance offices have a monopoly on providing property insurance in 19 cantons. These insurers are not allowed to offer any other type of insurance (except state-run insurers in two cantons that are allowed to also offer contents insurance). According to an industry official, the state-run insurers offer the same natural catastrophe coverage as private insurers and charge the same risk premium as the private insurers. Some of the state-run insurers also cover earthquake risk.
+46
+
+According to a Swiss insurance industry official, private insurers provide building insurance in areas of the country not served by public insurers and provide contents insurance in the whole country.
+
+Page 37
+
+GAO-05-199 Catastrophe Risk
+
+insurance, is generally included in standard property insurance policies; however, the premiums and terms of the policy reflect the property's flood risk. According to British insurance association officials, insurance for natural perils is generally available from the private market and 99 percent of homeowners have coverage, including coverage for flood.47 Although Italy, Germany, and the United Kingdom do not have national catastrophe programs, according to industry and government officials, each country has discussed developing such programs in recent years largely in the context of providing enhanced flood coverage. However, no final decisions had been reached at the time of our review.
+
+Most European Countries Have National Terrorism Insurance Programs
+
+Four of the six European countries we studied provide terrorism insurance that is backed by government guarantees (see fig. 6). Specifically, France, Spain, Germany, and the United Kingdom have established national programs in conjunction with the insurance industry to provide terrorism coverage. In contrast, Italy and Switzerland do not have national terrorism insurance programs and private companies provide the limited coverage that is available.
+
+47
+
+The insurance industry agreed to provide flood insurance in three-quarters of the United Kingdom's floodplains after the government agreed to implement certain flood prevention measures. In locations where the insurance industry association considers the risk of flooding to be unacceptably high, there may be some limitations on the availability of coverage, especially if no flood prevention measures are planned.
+
+Page 38
+
+GAO-05-199 Catastrophe Risk
+
+Figure 6: Countries with a National Terrorism Insurance Program Provide a State Guarantee
+National program
+Gestion de l'Assurance et de la Reassurance des Risques Attentats et Actes de Terrorisme
+
+Year started
+
+Definition of terrorism All acts of terrorism, based on the French Criminal Code, including nuclear, biological, and chemical.
+
+Program overview Insurers transfer a proportion of their terrorism risk to the GAREAT pool. Unlimited state guarantee on reinsurance provided by CCR.
+
+France
+
+2002
+
+Spain
+
+Consorcio de Compensacion de Seguros
+
+1954
+
+Acts with social repercussions: terrorism, rebellion, insurrection, riots, civil commotion, acts or actions of the Armed Forces or Security Services in peacetime.
+
+All policyholders pay premium surchage, collected by insurers, for coverage provided by the state-owned Consorcio. Unlimited state guarantee.
+
+Germany
+
+Extremus
+
+2002
+
+Acts by persons or groups of persons committed for political, religious, ethnic or ideological purposes suitable to create fear in the population or any section of the population and thus to influence a government or public body. Acts of persons acting on behalf of, or in connection with, any organization, which carries out activities directed towards the overthrowing or influencing, by force or violence, of the government in the UK or any other government de jure or de facto.
+
+Specialized insurance company formed by insurers to provide terrorism coverage. Capped state guarantee.
+
+United Kingdom
+
+Pool Re
+
+1993
+
+Mutual insurance company that provides its members reinsurance for terrorism risk. Unlimited state guarantee.
+
+Italy
+
+None
+
+N/A
+
+N/A
+
+Majority of insurers are excluding terrorism from general coverage. Limited coverage available from private insurers for additional premiums.
+
+Switzerland
+
+None
+
+N/A
+
+Violent acts or the threat of violence for achieving political, religious, ethnic, or ideological aims. The violent acts or threat of violence are such as to spread fear and anxiety among the population or sections of the population or exert influence on a government or state institutions. Does not include civil unrest.
+
+Terrorism excluded from general coverage above 10 million Swiss francs. Joint reinsurance coverage above 10 million Swiss francs available in limited capacity through agreement between private insurers' association and an international group of reinsurers.
+
+Sources: GAO analysis based on information from the Organization for Economic Cooperation and Development (OECD), Guy Carpenter, American Insurance Association, and interviews of insurance industry participants and insurance supervisory authority officials in each country; Nova Development (maps).
+
+France, Spain, Germany, and the United Kingdom Offer State Guarantees for Terrorism Coverage
+
+In France, primary insurers that offer property insurance are required by law to provide terrorism insurance and coverage is generally included in standard insurance policies, which means that all commercial properties are covered. However, after the September 11 attacks, reinsurers cancelled terrorism coverage and many primary insurers that could not obtain reinsurance chose to stop offering commercial property insurance to avoid the mandatory terrorism coverage. According to French insurance industry officials, the French government responded to this situation by temporarily requiring the extension of all contracts, but immediately began negotiations with the insurance industry to develop a more permanent solution. The Gestion de l'Assurance et de la Réassurance des Risques Attentats et Actes de Terrorisme (GAREAT) pool, a nonprofit organization,
+
+Page 39
+
+GAO-05-199 Catastrophe Risk
+
+was created based on the existing administrative structures of the insurance associations and the natural catastrophe program already in place in France.48 Completed on December 28, 2001, GAREAT was the first national terrorism pool organized with state support after the September 11 attacks. In 2002, GAREAT paid two regional terrorism claims resulting from attacks on buildings to influence state policy totaling 7 million (about $9.4 million). Claims in 2003 amounted to 0.25 million (about $336,000). GAREAT reinsures terrorism and business interruption risks for commercial properties that exceed 6 million (about $8 million) in insured value.49 The two insurance associations in France require their members to participate in GAREAT. Over 100 companies participate in the pool.50 Members of GAREAT must transfer a certain percentage of their terrorism risk into the pool. Insurers may charge policyholders whatever premium they consider appropriate, then the insurers pay 6, 12, or 18 percent of this premium depending on the size of the risks insured to obtain reinsurance coverage from the pool.51 In 2003, GAREAT earned 210 million (about $282 million) in premiums on 80,000 policies.52 In the event of a terrorist act that meets the definition in the French Criminal Code, the French state has agreed to provide an unlimited state guarantee after a certain industry retention level through the end of 2006 (see fig. 7). The unlimited state guarantee is provided through the same government-backed reinsurer that guarantees natural catastrophe claims, CCR.
+
+48
+
+According to a GAREAT official, GAREAT employees are on loan from their insurance companies. The cost of running GAREAT is 0.25 percent of the premium. The board is made up of representatives from insurance and reinsurance companies and CCR (representing the state).
+49
+
+Properties under 6 million may be ceded to the pool on a voluntary basis.
+
+50
+
+Around 70 nonlife insurance companies that are members of the two insurance associations are involved in the pool. Membership is optional for any company authorized to carry out direct insurance operations in France or certain other insurers that cover French industrial risks. Around 35 of these companies are involved in the pool.
+51
+
+A scale of reinsurance rates applies to property premiums for three risk categories: 6 percent for insured values under 20 million; 12 percent for insured values between 20-50 million; and 18 percent for insured values above 50 million.
+52
+
+This number includes coinsurance, where two or more insurance companies provide partial coverage for one property. Without counting coinsurance policies, the estimated number of properties insured by the pool is almost 34,000, about 74 percent of which are for policies insured for sums between 6-20 million.
+
+Page 40
+
+GAO-05-199 Catastrophe Risk
+
+Figure 7: GAREAT 2004 Financing Structure Involves Insurers, Reinsurers, and the State
+
+Unlimited state cover through CCR Euros 2,000M
+
+Third layer: CCR/State
+
+Reinsurance
+
+Second layer: Reinsurers and insurers
+
+400M Industry retention 0
+Source: GAO analysis of information from GAREAT.
+
+First layer: Insurers
+
+In Spain, coverage for terrorism risk is handled in the same way as natural catastrophe risk--it is included in standard property insurance policies and all policyholders pay a premium surcharge on their primary insurance contracts to fund coverage for both risks.53 Spain's state-owned company, the Consorcio, provides policyholders direct compensation for terrorism losses as well as natural catastrophe losses. The state offers an unlimited guarantee, which has never gone into effect, if claims exceed the Consorcio's resources. Between 1987 and 2003, terrorism claims represented 9.9 percent of all losses paid by the Consorcio. The Consorcio is in the process of paying claims resulting from the terrorist attack on a Madrid commuter train on March 11, 2004. According to information from the Consorcio, as of January 2005, 35 million (about $47 million) in claims
+
+53
+
+Indemnification from the Consorcio is automatically linked to insurance policies from any primary insurance company in the market for the following classes: property, motor damage, theft, machinery breakdown, information technology, construction and assembly, business interruption, and personal accident. The coverage for extraordinary risks is mandatory for all of these classes.
+
+Page 41
+
+GAO-05-199 Catastrophe Risk
+
+had been paid, including benefits for deaths, permanent disability, and property damage. Germany also has a national terrorism insurance program with a state guarantee, although it differs from the Spanish and French programs in that insureds have the option of purchasing the coverage and the state guarantee is limited. After the September 11 attacks, most insurance companies excluded terrorism coverage from their commercial policies and the German government came under pressure from businesses as well as insurance companies to find a solution to the lack of terrorism insurance, according to insurance officials we contacted. One official said that industry representatives feared that German businesses were at a competitive disadvantage because terrorism insurance was available in other European countries. As a result, the German government, insurance industry, and business groups collaborated to form Extremus Versicherungs-AG (Extremus), a specialized insurance company that covers only terrorism risk. Extremus provides voluntary coverage for commercial and industrial properties and business interruption losses in Germany with an insured value above 25 million (about $34 million). The premium rate for coverage from Extremus is a standard rate based on the value of the property insured, with no differentiation according to risk or location of the property. Unlike the French and Spanish programs, the guarantee from the German government is capped at 8 billion (about $10.7 billion) and would take effect after insurers and reinsurers had absorbed 2.0 billion (about $2.7 billion) in losses (see fig. 8). The total capacity of the program therefore is 10 billion (about $13 billion). According to an Extremus official, the state guarantee was limited to 3 years, and the government will have to decide whether to continue the guarantee after 2005.
+
+Page 42
+
+GAO-05-199 Catastrophe Risk
+
+Figure 8: Extremus 2004 Financing Structure Caps German Government Payments
+
+Euros
+
+10,000M
+
+Limited state guarantee
+
+Third layer: State
+
+2,000M 1,500M
+
+Reinsurance Reinsurance
+
+Second layer: International insurers and reinsurers First layer: Domestic insurers and reinsurers
+
+0
+Source: GAO analysis of information from Extremus.
+
+Demand for terrorism coverage from Extremus has been much lower than expected, according to Extremus officials. In the first year of business, Extremus had a goal of collecting 300 million (about $403 million) in premiums, which was increased to 500 million (about $671 million) in the following years, but collected only 105 million in premiums (about $141 million). In addition, many of the contracts were from smaller businesses. As a result, Extremus renegotiated its reinsurance contracts and the level of the state guarantee was reduced in March 2004. Extremus originally planned to phase out the state guarantee by building up sufficient reserves to handle potential claims. However, premium income has been too low to build a substantial reserve. Extremus continues to struggle to meet its goals, as five large clients did not renew their policies in 2004. Representatives from an organization representing German businesses told us that several factors may have contributed to low demand, including · the perception of many insureds that they were at a low risk of a terrorism attack and that Extremus coverage would not be costeffective;
+
+Page 43
+
+GAO-05-199 Catastrophe Risk
+
+· gaps in Extremus coverage (for example, Extremus only covers properties within Germany and excludes liability coverage); and · competition from other international insurers and reinsurers that could offer coverage similar to Extremus. 54 An official from Extremus told us that the company is considering making changes to its underwriting based on these concerns--such as covering business interruption risks for subsidiaries of German companies located in other European Union countries if an attack occurred in one of these countries. In the United Kingdom, the Pool Reinsurance Company, Limited (Pool Re) provides terrorism coverage, which is similar to the French and Spanish programs in that the state provides an unlimited guarantee but also similar to the German system in that participation by insureds is voluntary. Pool Re was established in 1993 by the insurance market with support from the British government in response to restrictions on the availability of reinsurance following several terrorism incidents in London related to the situation in Northern Ireland at that time. Pool Re is a mutual insurance company that operates to provide reinsurance coverage for only commercial property damage and business interruption as a result of a terrorist act. While terrorism coverage is optional in the United Kingdom and membership in Pool Re is voluntary, Pool Re members are required to provide terrorism coverage to policyholders if requested, and members must reinsure all of their terrorism coverage with Pool Re. Similarly, insureds cannot select which properties in the United Kingdom are insured for terrorism. If they choose to purchase terrorism insurance, they must insure either all of their properties or none of them. According to one Pool Re official, this policy prevents adverse selection from occurring (that is, the risk that Pool Re's portfolio would include only the riskiest properties and not be diversified). Pool Re's rates are determined by geographic zone in the United Kingdom. For example, rates are higher for properties located in London than for properties in other parts of the country. Business interruption coverage is offered at a standard rate throughout the country. Members are free to set their own terrorism premiums for their underlying policies. Prior to the September 11 attacks, Pool Re coverage was limited to acts of terrorism resulting in fire and explosion, according to a Pool Re official. However, after the September 11 attacks, reinsurers began
+
+54
+
+None of the pools currently in operation provide international coverage.
+
+Page 44
+
+GAO-05-199 Catastrophe Risk
+
+excluding damage caused by perils other than fire and explosion. As a result, Pool Re agreed, in consultation with the U.K. Treasury, members, and insurance industry participants, to expand its coverage to include other conventional perils beyond fire and explosion and also the risk of nuclear, biological, and chemical attacks. In the event of an attack, the British government issues a certificate determining the event to be an act of terrorism. Coverage from Pool Re takes effect after members pay individual retention levels, which are calculated as proportions of an industrywide figure based on the degree of members' participation in Pool Re. For 2004, the industrywide retention level is £100 million (about $194 million).55 If the resources of Pool Re are exhausted, the British government provides an unlimited guarantee. Pool Re pays the government a premium for this guarantee and would have to repay the Treasury any amount received from the guarantee. This guarantee has never been triggered. Since 1993, Pool Re has paid a total of £612 million (about $1.2 billion) and currently has about £1.5 billion in reserves (about $2.9 billion). The largest event for which Pool Re paid claims occurred in 1993, and resulted in payments totaling £262 million (about $509 million).
+
+Italy and Switzerland Have Not Implemented National Terrorism Insurance Programs
+
+Italy and Switzerland do not have national terrorism programs, and the availability of terrorism insurance is limited. According to a study commissioned by the Organization for Economic Cooperation and Development (OECD), the majority of insurance policies covering damage to high-value properties in Italy exclude terrorism risk.56 The OECD report also noted that additional terrorism insurance is fairly restricted and very expensive. According to a Swiss insurance association official, terrorism risk is excluded from standard fire insurance policies above a certain value
+
+The reinsurance cover provided to members of Pool Re is subject to an individual retention per event combined with an annual industrywide limit. The annual industrywide retention level will increase to £150 million in 2005 and to £200 million in 2006. For the exchange rate from pounds to dollars, we used the daily 12 noon buying rate in New York as certified by the New York Federal Reserve Bank on December 6, 2004, which was 1.9423. This rate is quoted U.S. dollars per foreign currency unit.
+56
+
+55
+
+John Cooke, "The Coverage of Terrorism Risks at the National Level," Organization for Economic Cooperation and Development, Conference on Catastrophic Risks and Insurance, (Paris: November 2004).
+
+Page 45
+
+GAO-05-199 Catastrophe Risk
+
+in Switzerland (set at 10 million Swiss francs or about $8.8 million).57 Each of these countries has considered the necessity for a national terrorism insurance program. For example, the Italian National Insurance Companies Association submitted a proposal to the government in 2003 to create an insurance/reinsurance pool, but it was later withdrawn.
+
+Insurance Companies in European Countries We Studied Are Permitted to Establish Tax-Deductible Reserves for Future Catastrophic Events
+
+As of 2004, regulations, tax law, and accounting standards in the six European countries we reviewed allowed insurance companies to establish tax-deductible reserves for potential losses associated with catastrophic events. These tax-deductible reserves are often called catastrophe or equalization reserves.58 However, each country differs in the way it allows reserves to be set-up and used (see fig. 9).
+
+57
+
+For the exchange rate from Swiss francs to dollars, we used the daily 12 noon buying rate as certified by the New York Federal Reserve Bank on December 6, 2004, which was 1.1381. This rate is quoted in foreign currency units per U.S. dollar.
+58
+
+Catastrophe reserves are generally built up over the years from premium income, sometimes following a prescribed formula, until a specific limit is reached. Catastrophe reserves are intended to be used for future catastrophic losses covered by current or future contracts for events such as nuclear accidents and terrorism. Equalization reserves are intended to cover random fluctuations of claim expenses for some types of insurance contracts such as hail insurance, using a formula based on multiyear claims experience.
+
+Page 46
+
+GAO-05-199 Catastrophe Risk
+
+Figure 9: Reserve Policies in Selected European Countries
+Standards governing contributions and withdrawals from reserve
+
+Overview of reserve
+
+France
+
+Catastrophe and equalization reserves can be used for storms, hail, nuclear, pollution, aviation, and terrorism
+
+No
+
+Catastrophe reserve is required for nuclear, pharmaceutical liability, and terrorism risks. Germany Equalization reserve is required for other natural catastrophes. Catastrophe reserve is required for nuclear risk and natural catastrophes such as earthquakes and volcanic eruptions. Italy Equalization reserve is required for hail and other climate risks. Catastrophe reserve can be used for natural catastrophes and terrorism risks. Spain Equalization reserve can be used for other liability risk such as automobile risk. Catastrophe reserve is allowed in Switzerland for all types of catastrophes provided the Swiss insurance supervisory authority approves a justification of the reserve. No No Yes
+
+Switzerland
+
+No
+
+United Kingdom
+
+Equalization reserve is required for property and other types of insurance.
+
+Yes
+
+Sources: GAO analysis of interviews with insurance industry officials in each country; Nova Development (maps).
+
+Following are brief descriptions of each European country's approach for establishing and maintaining catastrophe and equalization reserves: · According to an insurance industry official, French accounting standards and tax law allow insurance companies to establish both catastrophe and equalization reserves.59 A French insurance industry participant told us that these reserves can be used for natural events
+59
+
+French accounting standards are a subset of the French basic business law, and consequently every business entity is required to comply with them. French business law incorporates different sources of law, such as European Union directives and French regulatory texts including decrees and regulations.
+
+Page 47
+
+GAO-05-199 Catastrophe Risk
+
+such as storms and hail, but also for nuclear, pollution, aviation, and terrorism risks. The industry officials also said that under French accounting standards and tax law, the maximum limit on the taxdeductible amount that can be put into these reserves is 75 percent of the income for each year, provided that the total amount of the reserve does not exceed 300 percent of annual income. The funds reserved each year are released after 10 years if not used. However, neither the regulator nor the French accounting standards provides guidance on when money can be withdrawn from the reserves. · German commercial law requires insurance companies to establish catastrophe and equalization reserves for catastrophic risk, according to German accounting firm officials. These officials said that catastrophe reserves cover losses from nuclear, pharmaceutical liability, and terrorism risks but cannot be used for natural catastrophes. Instead, insurance companies can use equalization reserves to manage losses from natural catastrophes. To prevent abuse of the reserves, the accounting firm officials said that German accounting standards contain specific guidance for calculating the additions, withdrawals, and limits on both catastrophe and equalization reserves for different lines of businesses. The officials also said that under German tax law, these reserves are tax deductible. · According to an Italian government official, the insurance supervisory authority in Italy requires insurance companies to establish catastrophe reserves for nuclear risk and natural catastrophes such as earthquakes and volcanic eruptions, but reserves are not permitted for terrorism risk. The official also said that equalization reserves are required for hail and other climate risks. Under Italian accounting standards and tax law, the government official said that catastrophe and equalization reserves are built through tax-deductible contributions. In addition, the official noted that although there are specific limits on the total amount companies can hold in reserve for each type of risk, currently there are no regulations for determining the amounts of additions and withdrawals for these reserves. · According to Spanish government and insurance industry officials, Spanish insurance regulators allow the state-owned insurer, the Consorcio, and private insurance companies to establish catastrophe reserves for catastrophic events and equalization reserves for other liability risks such as automobile. However, as previously discussed, the Consorcio effectively handles all natural catastrophe and terrorism
+
+Page 48
+
+GAO-05-199 Catastrophe Risk
+
+risks, and therefore, insurance industry officials told us that private insurers do not need catastrophe reserves. According to Spanish tax law and accounting standards, catastrophe reserves are tax deductible and are accrued in the liability accounts on the balance sheet. Spanish accounting firm officials said that the funds in the Consorcio's catastrophe reserve are tax deductible to a certain limit. Once the reserved funds exceed this limit, they are taxed. The accounting firm officials also said that there is no regulation controlling the amount of funds the Consorcio has to maintain in its reserve and no formula for contributions to and withdrawals from the reserve. However, a Consorcio official told us that the Consorcio's general practice is to maintain an amount in reserve equal to three times the highest amount of claims it had ever paid in a year. · According to a Swiss accounting firm official, under Swiss tax and accounting standards, insurance companies are allowed to establish taxdeductible catastrophe reserves provided the Federal Office of Private Insurance (the Swiss insurance supervisory body) approves a justification of the reserve. The official said that currently, there are no explicit regulations on how the contributions, withdrawals, or total amount of reserves should be calculated. Instead, the Swiss supervisory body provides guidance on a case-by-case basis on how to increase and withdraw reserves. According to government officials, the insurance supervisory authority is currently developing new solvency standards, which include more explicit rules to ensure consistency and standardization in calculating contributions and balances of the reserves. Although Swiss tax and accounting standards generally allow catastrophe reserves and Swiss insurance companies could establish these reserves on the individual company level, insurance industry officials said that not many companies that are organized into insurance groups have them on a consolidated level (for example, the reserves are not included in the combined financial statements of an insurance group, which may have individual affiliates or subsidiaries in many different countries). According to the accounting firm official, these
+
+Page 49
+
+GAO-05-199 Catastrophe Risk
+
+reserves would be eliminated on the consolidated level if Swiss GAAP FER or another internationally accepted accounting framework that prohibits such reserves is used.60 · In the United Kingdom, the Financial Services Authority (FSA), the regulatory body for the financial services industry, requires insurance companies to establish equalization reserves for property and other types of insurance, according to a British accounting firm official. This official said that under U.K. accounting standards and tax law, these reserves are tax deductible and are accrued in the liability accounts of the balance sheet. The Interim Prudential Sourcebook for Insurers, published by FSA, contains detailed accounting rules for the calculation of the reserve, including the contributions, withdrawals, and maximum balances of the equalization reserves. However, the accounting firm official said that U.K. accounting standards do not permit a separate catastrophe reserve. In March 2004, as part of an effort to achieve global convergence of accounting standards, the International Accounting Standards Board (IASB) issued International Financial Reporting Standard 4 Insurance Contracts (IFRS 4), which includes guidance that effectively prohibits the use of catastrophe and equalization reserves.61 Under the new international accounting standards, loss reserves can only be accrued if the event has occurred and the related losses are estimable. IFRS 4 presents several arguments in favor of prohibiting the use of reserves for future catastrophic events. For example, provisions for such reserves do not necessarily qualify as liabilities because the losses have not occurred yet and treating
+
+60
+
+Swiss GAAP FER stands for Swiss Financial Reporting Standards of the Swiss Accounting and Reporting Recommendations. Internationally accepted accounting frameworks that prohibit such reserves include International Financial Reporting Standard 4 (IFRS 4) or U.S. GAAP.
+61
+
+IFRS 4 has two phases. Phase I was completed on March 31, 2004, with the goal of introducing improved disclosures and recognition and measurement practices for insurance companies, as well as providing better information for financial statements users. The second phase of IFRS 4 will address broader conceptual and practical issues related to insurance accounting and is currently under development. The Phase II standards will be in effect by 2007. IASB is an independent, privately funded accounting standard setter committed to developing, in the public interest, a single set of high quality, global accounting standards that require transparent and comparable information in general purpose financial statements. In pursuit of this objective, IASB cooperates with national accounting standard-setters to achieve convergence in accounting standards around the world.
+
+Page 50
+
+GAO-05-199 Catastrophe Risk
+
+them as if they had could diminish the relevance and reliability of an insurer's financial statements. As previously mentioned, some analysts argue that reserves would ensure funds were available to pay claims in the event of a catastrophe. However, IASB argues that the general purpose of financial reporting is not to enhance solvency, but to provide information that is useful to a wide range of users for economic decisions. In November 2004, the European Union (EU) endorsed IFRS 4, and specified that only companies listed on their respective national stock exchanges, as well as companies with listed debt, be required to prepare their consolidated financial statements (for example, the combined financial statements of an insurance group, which may have individual affiliates or subsidiaries in many different countries) in accordance with IFRS 4.62 However, the EU gives member states the option of permitting or requiring these individual affiliates or subsidiaries to follow IFRS 4 requirements in preparing their individual financial statements. EU countries also have the option of allowing unlisted companies to follow these standards. For example, according to government and Consorcio officials, Spanish insurance regulators have decided to exercise this option and prohibit the Consorcio--an unlisted company--from following IFRS 4. According to the EU regulation, the designated insurance companies are required to follow IFRS 4, starting with financial statements prepared on or after January 1, 2005. European officials we contacted in some cases expressed differing views on the elimination of catastrophe and equalization reserves under IFRS 4. A European Commission official indicated that European insurance companies should be able to cope with the elimination of catastrophe and equalization reserves because individual companies could still establish and maintain the reserves for tax purposes, but the reserves would be eliminated in the financial statements on a consolidated level.63 In the
+
+62
+
+According to EU regulation 1606/2002, all listed EU companies, as well as companies with listed debt, should present financial reports following the endorsed international accounting standards as of January 1, 2005. The international accounting standards were endorsed at the EU level by the Accounting Regulatory Committee (ARC) after recommendation from the European Financial Reporting Advisory Group (EFRAG).
+63
+
+The European Commission is an operating arm of the EU. It proposes legislation, administers policies, enforces EU law, and negotiates international agreements. One of the activities of the European Commission is to promote a single insurance market to achieve economic efficiency and market integration, allowing insurers to operate throughout the EU and establish and provide services freely.
+
+Page 51
+
+GAO-05-199 Catastrophe Risk
+
+consolidation for financial reporting, the reserves would be moved from liabilities to equity. Representatives from a large German accounting firm said that German insurance companies would most likely prepare two sets of financial statements. One would exclude reserves and comply with the international accounting standards, and the other would include the reserves and be submitted to the taxation authorities, similar to U.S. practices.64 However, insurance industry participants in some of the European countries that we reviewed expressed the following concerns about the provision eliminating reserves: · Insurance industry officials in France stated that reserving is essential as a precaution for coverage of natural catastrophe risks. In addition, representatives from a large German accounting firm said that reserves provide transparency in financial reporting and help users of financial statements to better understand insurers' risk management practices. · One insurance industry representative expressed concern that having two sets of financial statements would result in complexities and ambiguities in financial reporting and national tax regulations and policies. · Other officials said they are concerned that the local taxation authorities might follow IFRS 4 and change their policies to discontinue the use of tax-deductible reserves. Insurers might have to respond by purchasing reinsurance in order to obtain coverage for catastrophic risks, which the reserves would have provided. As of the time of this review we were not aware of any changes in these countries' regulations or tax laws regarding the use of catastrophe reserves for tax purposes.
+
+Observations
+
+The insurance industry may not be able to withstand major catastrophic events without federal government intervention. Although the industry has improved its ability to respond to the losses associated with natural catastrophes--at least those on the scale of the 2004 hurricane season-- without widespread market disruptions, industry capacity has not yet been tested by a major catastrophe (such as an event with an expected annual
+64
+
+U.S. corporations prepare financial statements for tax purposes, which may differ from public financial statements prepared under U.S. GAAP.
+
+Page 52
+
+GAO-05-199 Catastrophe Risk
+
+occurrence of no more than 1 percent to .4 percent). Such a catastrophe or series of catastrophes could result in significant disruptions to insurance markets. In addition, it is not clear how state governments and insurers would react to such a scenario, restore stability to insurance markets, and ensure the continued availability of critical insurance coverage, or whether they would have the capacity to do so. Moreover, because of the federal government's size and financial resources, it could be called upon to provide financial assistance to insurers and policyholders in addition to traditional obligations, such as repairing public facilities and providing temporary assistance to affected individuals. It is also not yet clear the extent to which the catastrophe bond market or authorizing insurers to establish tax-deductible reserves has the potential to materially enhance industry capacity and thereby mitigate financial risks to the federal government and others. Although several insurers use catastrophe bonds to address the most severe types of catastrophic risk, the bonds are not yet widely accepted in the insurance industry due to cost and other factors. In addition, some industry participants question the viability of the catastrophe bond market because no catastrophe bond has ever been triggered, even by the 2004 hurricane season. Further, industry participants do not consider catastrophe bonds feasible for terrorism risks at this time. Although supporters believe that authorizing tax-deductible reserves could enhance industry capacity, such a policy change would also reduce federal tax revenue and may not materially enhance capacity since the reserves may substitute for reinsurance. In response to the financial and market risks associated with natural catastrophes and terrorism attacks, major European countries have, with important exceptions, generally adopted policies that rely on national government intervention to enhance industry capacity to a greater extent than is the case in the United States. France, Spain, and to some extent Switzerland (but not Germany, the United Kingdom, and Italy) have adopted national programs to address a range of natural catastrophe risk, whereas the United States government does not have a comparable program (although it does have a flood insurance program as discussed in app. II). Further, all six countries we studied use their tax codes to encourage insurers to establish reserves for potential catastrophic events. A key similarity between Europe and the United States is that four of the six countries we reviewed have adopted national programs to address terrorism risk similar in many respects to TRIA. One important difference is that TRIA was designed as a temporary program that was expected to be discontinued when a private market for terrorism insurance could be
+
+Page 53
+
+GAO-05-199 Catastrophe Risk
+
+established, whereas the European programs are generally not expected to be discontinued. European approaches to addressing natural catastrophe and terrorism risks illustrate benefits and drawbacks that may be useful for consideration by policymakers. The mandatory national programs for natural catastrophe risk in Spain and France, for example, help ensure that coverage is widely available for such risks, particularly in the wake of catastrophic events. However, such programs also involve significant government intervention in insurance markets, such as setting premium rates, which may not be actuarially based. Consequently, the capability of governments and insurers to control risk-taking by policyholders and minimize potential government liabilities may be limited, although some governments have tried to minimize this liability by implementing loss prevention programs. Concerning terrorism insurance, the mandatory national programs in France and Spain ensure that most policyholders have such coverage, although these programs also involve government intervention in setting premium rates and in monitoring risk-taking as is the case for natural catastrophe risk. In contrast, the purely voluntary national terrorism program in Germany and the private sector approaches in Switzerland and Italy have not yet been successful in ensuring that policyholders have terrorism coverage. Many policyholders choose not to purchase terrorism coverage because they view their risks as acceptably low or the premiums for terrorism coverage as too high (see app. II for a similar discussion regarding TRIA).
+
+Agency Comments and Our Evaluation
+
+We provided a draft of this report to the Department of the Treasury and the National Association of Insurance Commissioners. Treasury provided technical comments on the report that were incorporated as appropriate. NAIC's Chief Financial Officer commented that the report was informative and accurate. In addition, we provided the relevant sections of a draft of this report to government and industry contacts in each of the European countries we studied and incorporated their comments where appropriate.
+
+As agreed with your office, unless you publicly announce the contents of this report earlier, we plan no further distribution of this report until 30 days after the report date. At that time, we will provide copies of this report to the Department of the Treasury, the National Association of Insurance Commissioners, and other interested parties. We will also make copies
+
+Page 54
+
+GAO-05-199 Catastrophe Risk
+
+available to others on request. In addition, the report will be available at no charge on GAO's Web site at http://www.gao.gov. If you or your staff have any questions about this report, please contact me at (202) 512-8678 or shearw@gao.gov or Wesley M. Phillips, Assistant Director, at phillipsw@gao.gov. GAO staff who made major contributions to this report are listed in appendix IV. Sincerely yours,
+
+William B. Shear Director, Financial Markets and Community Investment
+
+Page 55
+
+GAO-05-199 Catastrophe Risk
+
+Appendix I
+
+Objectives, Scope, and Methodology
+
+A A p p p e p n e d n x i d x e i I s
+
+This report provides information on a range of issues to assist the committee in its oversight of the insurance industry, particularly in light of the Terrorism Risk Insurance Act's (TRIA) pending expiration. Our objectives were to (1) provide an overview of the property-casualty insurance industry's current capacity to cover natural catastrophic risk and discuss the impacts that four hurricanes in 2004 had on the industry; (2) analyze the potential of catastrophe bonds and permitting insurance companies to establish tax-deductible reserves to cover catastrophic risk to enhance private-sector capacity; and (3) describe the approaches six selected European countries--France, Germany, Italy, Spain, Switzerland, and the United Kingdom--have taken to address natural and terrorist catastrophe risk, including whether these countries permit insurers to use tax-deductible reserves for such events. We also provide information on insurers' financial exposure to terrorist attacks under TRIA and the extent to which catastrophe risks are not covered in the United States. These issues are discussed in appendix II. Our general methodology involved meeting with a range of private-sector and regulatory officials to obtain diverse viewpoints on the capacity of the insurance industry, status of efforts to securitize catastrophe risks, and the approaches taken in European countries to address catastrophe risk. We met with or received written responses from representatives of (1) the U.S. Department of Treasury; (2) the National Association of Insurance Commissioners (NAIC); (3) a state insurance regulator; (4) state catastrophe insurance and fund authorities including the California Earthquake Authority, Florida Hurricane Catastrophe Fund, and the Texas Windstorm Insurance Association; (5) national finance or economic ministries in Europe; (6) national insurance regulators in Europe; (7) the European Commission; (8) the Bermuda Monetary Authority; (9) the International Accounting Standards Board; (10) large insurers and reinsurers based in the United States, Europe, and Bermuda; (11) Citizens Property Insurance Corporation, (12) ratings agencies; (13) modeling firms; (14) law firms; (15) academics; (16) the American Academy of Actuaries; (17) the Insurance Services Office; (18) U.S. insurance and reinsurance trade associations; (19) global accounting firms; (20) European insurance associations and a Bermuda insurance association; (21) European business or property associations; (22) European catastrophe insurance programs; (23) the Organization for Economic Cooperation and Development; (24) the International Chamber of Commerce; (25) Lloyd's; and (26) a consumer group. We also reviewed our previous work on insurance and catastrophe bonds and data and reports provided by private-sector and European government sources. Even though we did not have audit or access-to-
+
+Page 56
+
+GAO-05-199 Catastrophe Risk
+
+Appendix I Objectives, Scope, and Methodology
+
+records authority for the private-sector entities or foreign organizations and governments, we obtained extensive testimonial and documentary evidence. We also obtained estimates of the insured losses and claims resulting from the 2004 hurricanes from the Florida Office of Insurance Regulation. We obtained data on the issuance and outstanding value of the catastrophe bond market from Swiss Re Capital Markets. We did not verify the accuracy of data obtained from these organizations, but corroborated the information where possible with other sources. The information on foreign law in this report does not reflect our independent legal analysis, but is based on interviews and secondary sources. To respond to the first objective, we obtained data on insurance industry capacity from the Insurance Services Office and A.M. Best, the leading sources for data on the insurance industry. We asked these organizations and U.S. insurance companies, reinsurance companies, domestic and foreign insurance trade associations, rating agencies, state catastrophe authorities, and academic experts their views on insurance industry capacity, the difficulties of measuring insurance industry capacity, the implications and limitations of industry surplus data, the role of the Bermuda insurance market and state insurance funds and authorities in providing catastrophic insurance coverage, and the impact the 2004 hurricanes had on the insurance industry in Florida, and other issues. We also reviewed our previous report on insurance industry capacity. To respond to the second objective, we asked a reinsurance company and an insurance broker for the latest numbers on the kinds and amounts of catastrophe bonds issued and outstanding. We also talked to various organizations about the extent to which they use or do not use catastrophe bonds and why, the portion of the market for catastrophe risk that is covered by catastrophe bonds, and other methods of transferring catastrophe risk. Further, we obtained information about developing catastrophe bonds to cover terrorism risk; regulatory, tax, and accounting influences on catastrophe bonds; and views on the advantages and disadvantages of tax-deductible catastrophe reserves. We also reviewed our previous reports on catastrophe bonds. To respond to the third objective, we interviewed representatives of various national, regional, international, private, and public-sector organizations in the six countries we studied. We gathered documentary and testimonial evidence on laws, regulations, and practices related to catastrophe insurance and catastrophe reserving in each country and compared and contrasted information obtained from each country. We also
+
+Page 57
+
+GAO-05-199 Catastrophe Risk
+
+Appendix I Objectives, Scope, and Methodology
+
+interviewed international and regional organizations and asked representatives to assess the impact of International Accounting Standards on European countries' reserving policies. We did not determine the effect of tax-deductibility on the overall tax burden imposed on insurance companies in these countries, or whether the deductibility provided incentives to create reserves. We conducted our work between February 2004 and January 2005 in Florida, New York, Washington, D.C., Belgium, France, Germany, Spain, Switzerland, and the United Kingdom. Our work was done in accordance with generally accepted government auditing standards.
+
+Page 58
+
+GAO-05-199 Catastrophe Risk
+
+Appendix II
+
+TRIA Has Limited Insurers' Financial Exposure to Terrorism Risk, but a Significant Portion of Catastrophic Risk Goes Uncovered
+This appendix provides information from our previous reports and other sources on (1) insurers' financial exposures to terrorist attacks under the Terrorism Risk Insurance Act (TRIA) and (2) the extent to which natural catastrophe and terrorism risks may be uncovered in the United States.
+
+A p p e n d x i I
+
+TRIA Has Limited Insurers' Financial Exposure from Terrorist Attacks
+
+Congress enacted TRIA in 2002 to ensure the continued availability of terrorism insurance in the United States after the September 11 attacks. Under TRIA, the Department of the Treasury (Treasury) would reimburse insurers for a large share of the losses associated with certain acts of foreign terrorism that occur during the term of the act. TRIA caps the federal government's and the industry's exposure to terrorist attacks at $100 billion annually. TRIA also requires that all insurers selling commercial lines of property-casualty insurance make available coverage for certain terrorist events and defines make available to mean that the coverage must be offered for insured losses arising from certified terrorist events and not differ materially from the terms, amounts, and limitations applicable to coverage for other insured losses. The act's provisions are set to expire on December 31, 2005, but Congress is currently considering proposals to extend that date. Under TRIA, primary insurers have assumed responsibility for the financial consequences of terrorist attacks up to the levels specified in the act while the federal government is responsible for 90 percent of losses above those levels up to $100 billion annually. In 2005, primary insurers' financial exposure is limited to 15 percent of their direct earned premiums (DEP), and they are responsible for 10 percent of losses above that amount while the federal government is responsible for the remaining 90 percent. Determining individual insurer's financial exposures depends upon varying scenarios of the potential costs associated with terrorist attacks (for example, to what extent the cost of the attack would exceed 15 percent of an insurer's DEP and the insurer's 10 percent share of any losses beyond that amount). Since TRIA's make available provisions do not apply to reinsurers, these companies have discretion in deciding how much terrorism coverage to offer to primary companies. As we have previously reported, available evidence indicates that reinsurers have cautiously reentered the market for terrorism insurance and are offering coverage up to the deductible
+
+Page 59
+
+GAO-05-199 Catastrophe Risk
+
+Appendix II TRIA Has Limited Insurers' Financial Exposure to Terrorism Risk, but a Significant Portion of Catastrophic Risk Goes Uncovered
+
+(percentage of DEP) limits and 10 percent share specified in TRIA.1 However, we have previously reported that available evidence also suggests that few primary companies are buying this reinsurance to cover deductibles and co-pays because--as discussed next--many of their customers choose not to buy terrorism insurance or the primary companies consider reinsurance premiums to be too high. In the absence of TRIA, we have reported that reinsurers may not return to the terrorism insurance market, thereby further limiting their liability. Insurers we contacted stated that they cannot estimate potential losses from terrorism without a pricing model that can estimate both the frequency and severity of terrorist attacks. Reinsurance officials said that current models of risks for terrorist events do not have enough historical data to dependably forecast timing and severity, and therefore, are not reliable.
+
+Significant Percentage of Individuals and Businesses Lack Coverage for Some Catastrophic Events Even When Protection Is Available
+
+A significant percentage of individuals and businesses lack coverage for some catastrophic events, even though protection is available from a variety of sources. For example, the California Earthquake Authority (CEA) estimates that about 15 percent of California residents purchase earthquake insurance. As shown in figure 10, an Insurance Services Office (ISO) study found that consumers have expressed a number of reasons for deciding not to purchase earthquake insurance in California, including the beliefs that they are not at risk, premiums and deductibles are too high, and the federal government would provide financial assistance in the event of a disaster. Insurers with whom we spoke expressed similar views on why their customers do not purchase certain types of catastrophic coverage. We note that earthquake insurance is voluntary in California, whereas participation in the Florida Hurricane Catastrophe Fund (FHCF) is mandatory for Florida insurers and mortgage lenders require that homeowners and businesses purchase wind protection. Consequently, most homeowners and businesses in Florida have wind coverage.
+
+1
+
+See GAO-04-307.
+
+Page 60
+
+GAO-05-199 Catastrophe Risk
+
+Appendix II TRIA Has Limited Insurers' Financial Exposure to Terrorism Risk, but a Significant Portion of Catastrophic Risk Goes Uncovered
+
+Figure 10: Potential Consumer Motivations in Choosing to Forego Earthquake Insurance Include Belief That They Are Not at Risk
+Consumer motivations in forgoing earthquake insurance · Homeowners think "it" will not happen to them.
+Belief that premiums too high or risks too low; no requirement to do so; ...
+
+· They focus on up-front expenses without considering long-term benefits. · They perceive the premiums and deductibles as too high. · They do not regard insurance and loss reduction as good investments. · They have a "regional chauvinism" that rationalizes familiar dangers and magnifies others, so they become desensitized to dangers in their own area. · They assume the federal government will come to their aid with a relief package in the event of a disaster. · Those who do purchase earthquake coverage after a quake do not renew the insurance a year or two later, because they believe the risk has passed. · Banks do not require borrowers to purchase earthquake insurance to secure a loan. · Insurers do not push earthquake coverage, because it appears underpriced compared with the potential losses. · Earthquake policies normally limit payments.
+Source: Insurance Services Office.
+
+Earthquake insurance
+
+Further, a significant percentage of flood risk in the United States remains uncovered, although, the National Flood Insurance Program was enacted to increase the availability of insurance for homeowners in areas at high risk for floods.2 The Federal Emergency Management Administration (FEMA), which administers the program, estimates that one-half to twothirds of structures in special flood hazard areas do not have flood insurance coverage because the uninsured owners either are unaware that homeowners insurance does not cover flood damage or do not perceive the flood risk to which they are exposed as serious. Flood insurance is required for some of these properties, but the level of noncompliance with this
+
+2
+
+In 1968, in recognition of the increasing amount of flood damage, the lack of readily available insurance for property owners, and the cost to the taxpayer for flood-related disaster relief, Congress enacted the National Flood Insurance Act (P.L. 90-448) that created the National Flood Insurance Program.
+
+Page 61
+
+GAO-05-199 Catastrophe Risk
+
+Appendix II TRIA Has Limited Insurers' Financial Exposure to Terrorism Risk, but a Significant Portion of Catastrophic Risk Goes Uncovered
+
+requirement is unknown.3 However, as we have previously reported, there are indications that some level of noncompliance exists.4 For example, an August 2000 study by FEMA's Office of Inspector General examined noncompliance for 4,195 residences in coastal areas of 10 states and found that 416--10 percent--were required to have flood insurance but did not. Finally, despite availability of terrorism coverage due to TRIA, limited industry data suggest that a significant percentage of commercial policyholders are not buying terrorism insurance, perhaps because they perceive their risk of losses from a terrorist act as being relatively low. Limited, but consistent results from industry surveys suggest from 10 to 30 percent of commercial policyholders are purchasing terrorism insurance. However, a more recent study estimates that nearly 50 percent of commercial property owners purchased terrorism insurance mid-2004. According to industry experts, many policyholders with businesses or properties not located near major urban centers or in possible high-risk locations are not buying terrorism insurance because they perceive themselves at low risk for terrorism and thus view any price for terrorism insurance as high relative to their risk exposure. Some industry experts are concerned that adverse selection--where those most at risk from terrorism are generally the only ones buying terrorism insurance--may be occurring. The potential negative effects of low purchase rates would become evident only in the aftermath of a terrorist attack and could include more difficult economic recovery for affected businesses without terrorism coverage.
+
+3
+
+Flood insurance is mandatory for properties in participating communities for the life of mortgage loans made or held by federally regulated lending institutions, guaranteed by federal agencies, or purchased by government-sponsored enterprises.
+
+4 See GAO, Flood Insurance: Challenges Facing the National Flood Insurance Program, GAO-03-606T (Washington, D.C.: Apr. 1, 2003).
+
+Page 62
+
+GAO-05-199 Catastrophe Risk
+
+Appendix III
+
+Tax, Regulatory, and Accounting Issues Might Have Affected the Development of the Catastrophe Bond Market
+This appendix describes the structure of catastrophe bonds and certain tax, regulatory, and accounting issues that might have affected the use of catastrophe bonds as described in our previous reports.1 We have also updated some of the information from those reports.
+
+A p p e n d x i I
+
+As discussed in our previous reports, a catastrophe bond offering is typically made through a special purpose reinsurance vehicle (SPRV) that may be sponsored by an insurance or reinsurance company (see fig. 11).2 The SPRV issues bonds or debt securities for purchase by investors. The catastrophe bond offering defines a catastrophe that would trigger a loss of investor principal and, if triggered, a formula to specify the compensation level from the investor to the SPRV. The SPRV holds the funds from the catastrophe bond offering in a trust in the form of Treasury securities and other highly rated assets. The SPRV then deposits the payments from the investors as well as the premium income from the company into a trust account. The premium paid by the insurance or reinsurance company and the investment income on the trust account provide the funding for the interest payments to investors and the costs of running the SPRV. If no event occurs that triggers the bond's provisions and it matures, the SPRV pays investors the principal and interest that they are owed.
+
+1
+
+See GAO-02-941 and GAO-03-1033.
+
+2
+
+SPRVs are a type of special purpose entity (SPE). Companies have used SPEs for many years to carry out specific financial transactions.
+
+Page 63
+
+GAO-05-199 Catastrophe Risk
+
+Appendix III Tax, Regulatory, and Accounting Issues Might Have Affected the Development of the Catastrophe Bond Market
+
+Figure 11: Special Purpose Reinsurance Vehicle Structure and Payment Flows
+
+Premium
+
+Principal and interest
+
+Insurer or reinsurer
+Reinsurance cover
+
+Special purpose reinsurance vehicle
+Principal
+
+Investors
+
+Principal and investment income
+
+Trust
+
+Source: GAO.
+
+Catastrophe bonds also · typically are offered only to qualified institutional investors under Securities and Exchange Commission (SEC) Rule 144A; · produce relatively high returns, either equaling or exceeding the returns on some comparable fixed-rate investments such as high-yield corporate debt; · typically do not receive investment-grade ratings because bondholders face potentially large losses on the securities; and typically cover event risks that are considered the lowest probability and highest severity.3
+
+3
+
+According to the Bond Market Association, the yields on catastrophe bonds have been comparable to the yields on noninvestment-grade corporate debt.
+
+Page 64
+
+Principal
+
+GAO-05-199 Catastrophe Risk
+
+Appendix III Tax, Regulatory, and Accounting Issues Might Have Affected the Development of the Catastrophe Bond Market
+
+Most catastrophe bonds are issued through SPRVs located offshore--in jurisdictions such as Bermuda--rather than in the United States. Unlike the United States, several of these jurisdictions exempt SPRVs from income or other taxes, which provides financial incentives for insurers to issue catastrophe bonds offshore. The National Association of Insurance Commissioners (NAIC) and some insurance industry groups have argued that insurers should be encouraged to issue catastrophe bonds onshore to lessen transaction costs and afford regulators greater scrutiny of SPRV activities. Some insurance industry groups have advocated that Congress change U.S. tax laws so that SPRVs would not be subject to income tax but instead receive "pass-through" treatment similar to that afforded mortgagebacked securities. In other words, the SPRV would not be taxed on the investment income from the trust account, and the tax would be passed on to the investor. Eliminating taxation at the SPRV level with pass-through treatment might facilitate expanded use of catastrophe bonds, but such legislative actions might also create pressure from other industries for similar tax treatment. In addition, to the extent that domestic SPRVs gained business at the expense of taxable entities, the federal government could lose tax revenue. Our previous reports also stated that NAIC's current statutory accounting requirements might affect insurers' use of nonindemnity-based financial instruments such as many catastrophe bonds.4 Under statutory accounting, an insurance company that buys traditional indemnity-based reinsurance or issues an indemnity-based catastrophe bond can reflect the transfer of risk (effected by the purchase of reinsurance) on the financial statements
+
+See GAO-02-941 and GAO-03-1033. NAIC is currently considering the appropriate accounting treatment for nonindemnity-based financial instruments that hedge insurance risk, which could include nonindemnity-based catastrophe bonds. Both exchange-traded instruments and over-the-counter instruments can be used to hedge underwriting results (that is, to offset risk). The triggering event on a catastrophe bond contract must be closely correlated to the insurance risks being hedged so that the pay-off is expected to be consistent with the expected claims, even though there is some risk that it will not be (referred to as "basis risk"). This correlation is known as "hedge effectiveness" and NAIC is currently considering how it should be measured. Should NAIC create a hedge-effectiveness measure, statutory accounting standards could be changed so that a fair value measure (the current quoted market price) of the catastrophe bond contract could be calculated and recognized as an offset to insurance losses, allowing credit to the insurer similar to that granted for reinsurance. If nonindemnity-based catastrophe bonds are accepted as an effective hedge of underwriting results, they could become more attractive to potential issuers. We note that the process for developing an effective measure to account for risk reduction through the issuance of nonindemnity-based coverage is difficult and complex.
+
+4
+
+Page 65
+
+GAO-05-199 Catastrophe Risk
+
+Appendix III Tax, Regulatory, and Accounting Issues Might Have Affected the Development of the Catastrophe Bond Market
+
+that it files with state regulators.5 As a result of the risk transfer, the insurance company can improve its stated financial condition and may be willing to write additional insurance policies. However, statutory accounting rules currently do not allow insurance companies to obtain a similar credit for using nonindemnity-based financial instruments that hedge insurance risk--which can include nonindemnity-based catastrophe bonds--and may therefore limit the appeal of these types of catastrophe bonds to potential issuers. Statutory accounting standards treat indemnityand nonindemnity-based products differently because instruments that are nonindemnity-based have not been viewed as providing a true risk transfer. Although NAIC's Securitization Working Group has approved a proposal that would allow reinsurance-like accounting treatment for such instruments, NAIC's Statutory Accounting Committee must give final approval. The committee met in June 2004, but has not yet made a decision on this issue. Finally, we reported in 2003 that the Financial Accounting Standards Board (FASB) had issued guidance under GAAP that had the potential to limit the appeal of catastrophe bonds.6 Specifically, under the provisions of FASB Interpretation No. 46, Consolidation of Variable Interest Entities (FIN 46), variable interest entities, which include most catastrophe bond structures, were subject to consolidation on issuers' financial statements.7 This provision had the potential to raise the costs associated with issuing catastrophe bonds and make them less attractive to issuers. Our September 2003 report stated that the impact of FIN 46 on the use of catastrophe bonds was unclear because insurers and financial market participants were not certain whether it would require insurers or investors to consolidate catastrophe bond assets and liabilities on their financial statements. In
+
+5
+
+NAIC establishes statutory accounting standards that may be adopted by states and their insurance regulators. Statutory accounting standards may differ from U.S. generally accepted accounting principles (GAAP). See GAO-03-1033.
+
+6
+
+7
+
+FIN 46 introduced the variable interest entity (VIE), a new term that encompasses most special purpose entities (SPE). A VIE is broadly defined as an entity that meets either of two conditions: (1) equity investors have not invested enough for the entity to stand on its own (insufficiency is presumed if the equity investment is less than 10 percent of the equity's total assets) or (2) equity investors lack any of the characteristics of a controlling financial interest (the risks or rewards of ownership). If an entity is deemed a VIE, then it is evaluated for possible consolidation according to the new risk and reward approach in FIN 46. Most catastrophe bond structures likely qualify as VIEs because most SPRVs do not meet the 10 percent equity threshold.
+
+Page 66
+
+GAO-05-199 Catastrophe Risk
+
+Appendix III Tax, Regulatory, and Accounting Issues Might Have Affected the Development of the Catastrophe Bond Market
+
+December 2003, FASB issued FIN 46R, revised guidance that eliminated some of the requirements for consolidation.8 One large issuer of catastrophe bonds we contacted consolidated some of its SPRVs in its financial statements under the criteria set in FIN 46R. However, another large issuer decided not to consolidate any of its SPRVs after evaluation of the criteria set in FIN 46R.
+
+8
+
+The revised interpretation, FIN 46R, requires the consolidation of a VIE by an enterprise if that enterprise either absorbs a majority of the VIE's expected losses or receives a majority of the VIE's expected residual returns as a result of ownership, contractual, or other financial interests in the VIE. This enterprise is defined as a primary beneficiary in the guidance.
+
+Page 67
+
+GAO-05-199 Catastrophe Risk
+
+Appendix IV
+
+GAO Contacts and Staff Acknowledgments
+
+A p p e n d x i V I
+
+GAO Contacts
+
+William B. Shear (202) 512-8678 Wesley M. Phillips (202) 512-5660
+
+Acknowledgments
+
+In addition to those named above, Patrick S. Dynes, Jill M. Johnson, Matthew Keeler, Wing Lam, Marc Molino, and Barbara Roesmann made key contributions to this report.
+
+Page 68
+
+GAO-05-199 Catastrophe Risk
+
+Glossary of Terms
+
+1 in 100 year event Adverse Selection
+
+A catastrophic event with a 1 percent chance of occurring annually.
+
+The tendency of those exposed to a higher risk to seek more insurance coverage than those at a lower risk.
+
+Balance Sheet
+
+Provides a snapshot of a company's financial condition at one point in time. It shows assets, including investments and reinsurance, and liabilities, such as loss reserves to pay claims in the future, as of a certain date. It also states a company's equity, which for insurance companies is known as policyholder surplus. Changes in that surplus are one indicator of an insurer's financial standing.
+
+Basis Risk
+
+The risk that the proceeds from a financial instrument--such as a nonindemnity based catastrophe bond--will not be related to the insurer's loss experience.
+
+Capacity
+
+The ability of property-casualty insurers to pay customer claims in the event of a catastrophic event and their willingness to make catastrophic coverage available to their customers, particularly subsequent to catastrophes.
+
+Catastrophe
+
+Term used for statistical recording purposes to refer to a single incident or a series of closely related incidents causing severe insured property losses totaling more than a given amount.
+
+Catastrophe Bonds
+
+Risk-based securities that pay relatively high interest rates and provide insurance companies with a form of reinsurance to pay losses from a catastrophe such as those caused by a major hurricane. They allow insurance risk to be sold to institutional investors in the form of bonds, thus spreading the risk.
+
+Page 69
+
+GAO-05-199 Catastrophe Risk
+
+Glossary of Terms
+
+Catastrophe Model
+
+Using computers, a method to mesh long-term disaster information with current demographic, building, and other data to determine the potential cost of natural disasters and other catastrophic losses for a given geographic area.
+
+Deductible
+
+The amount of loss paid by the policyholder. Either a specified dollar amount, a percentage of the claim amount, or a specified amount of time that must elapse before benefits are paid. The bigger the deductible, the lower the premium charged for the same coverage.
+
+Equity Capital
+
+Equity capital, or insurers' surplus, is defined as net worth under the Statutory Accounting Principles (SAP) promulgated by the National Association of Insurance Commissioners. As such, surplus is the difference between assets valued according to SAP and liabilities valued according to SAP.
+
+Generally Accepted Accounting Principles
+
+Generally accepted accounting principles (GAAP) refers to the conventions, rules, and procedures that define acceptable accounting practices at a particular time. These practices form the framework for financial statement preparation.
+
+Guaranty Fund
+
+The mechanism by which solvent insurers ensure that some of the policyholder and third-party claims against insurance companies that fail are paid. Such funds are required in all 50 states, the District of Columbia, and Puerto Rico, but the type and amount of claims covered by the fund varies from state to state. Some states pay policyholders' unearned premiums--the portion of the premium for which no coverage was provided because the company was insolvent. Some have deductibles. Most states have no limits on workers compensation payments. Guaranty funds are supported by assessments on insurers doing business in the state.
+
+Homeowners Insurance Policy
+
+The typical homeowners insurance policy covers the house, the garage, and other structures on the property, as well as personal possessions inside the house such as furniture, appliances, and clothing, against a wide variety of perils including windstorms, fire, and theft. The extent of the perils covered
+
+Page 70
+
+GAO-05-199 Catastrophe Risk
+
+Glossary of Terms
+
+depends on the type of policy. An all-risk policy offers the broadest coverage. This covers all perils except those specifically excluded in the policy. Homeowners insurance also covers additional living expenses. Known as "loss of use," this provision in the policy reimburses the policyholder for the extra cost of living elsewhere while the house is being restored after a disaster. Coverage for flood and earthquake damage is excluded and must be purchased separately.
+
+Indemnity Coverage
+
+Coverage with a simple relationship that is based on the insurer's actual incurred claims. For example, an insurer could contract with a reinsurer to cover half of all claims--up to $100 million in claims--from a hurricane over a specified time period in a specified geographic area. If a hurricane occurs where the insurer incurs $100 million or more in claims, the reinsurer would pay the insurer $50 million.
+
+Insolvency
+
+Insurer's inability to pay debts. Insurance insolvency standards and the regulatory actions taken vary from state to state. When regulators deem an insurance company is in danger of becoming insolvent, they can take one of three actions: place a company in conservatorship or rehabilitation if the company can be saved or liquidation if salvage is deemed impossible. The difference between the first two options is one of degree--regulators guide companies in conservatorship but direct those in rehabilitation. Typically the first sign of problems is an inability to pass the financial tests regulators administer as a routine procedure.
+
+Institutional Investor
+
+An organization such as a bank or insurance company that buys and sells large quantities of securities.
+
+Joint Underwriting Association
+
+Insurers that join together to provide coverage for a particular type of risk or size of exposure, when there are difficulties in obtaining coverage in the regular market, and share in the profits and losses associated with the program.
+
+Moral Hazard
+
+The incentive created by insurance that induces those insured to undertake greater risk than if they were uninsured, because the negative consequences are passed to the insurer.
+
+Page 71
+
+GAO-05-199 Catastrophe Risk
+
+Glossary of Terms
+
+Nonindemnity Coverage
+
+Coverage that specifies a specific event that triggers payment and payment formulas that are not directly related to the insurer's actual incurred losses. Payment could be tied to industry loss indexes, parametric measures such as wind speed during a hurricane or ground movement during an earthquake, or models of claims payments rather than actual claims.
+
+Peril
+
+A specific risk or cause of loss covered by an insurance policy, such as a fire, windstorm, flood, or theft. A named-peril policy covers the policyholder only for the risks named in the policy in contrast to an all-risk policy, which covers all causes of loss except those specifically excluded.
+
+Premium
+
+The price of an insurance policy typically charged annually or semiannually.
+
+Property-Casualty Insurance
+
+Covers damage to or loss of policyholders' property and legal liability for damages caused to other people or their property. Property-casualty insurance, which includes auto, homeowners, and commercial insurance, is one segment of the insurance industry. The other sector is life/health. Outside the United States, property-casualty insurance is referred to as nonlife or general insurance.
+
+Rating Agency
+
+Six major credit agencies determine insurers' financial strength and viability to meet claims obligations. They are A.M. Best Co.; Duff & Phelps Inc.; Fitch, Inc.; Moody's Investors Services; Standard & Poor's Corp.; and Weiss Ratings, Inc. Ratings agencies consider factors such as company earnings, capital adequacy, operating leverage, liquidity, investment performance, reinsurance programs, and management ability, integrity, and experience.
+
+Reinsurance
+
+Reinsurance is insurance for insurers. A reinsurer assumes part of the risk and part of the premium originally taken by the primary insurer. Reinsurers reimburse insurers for claims paid. The business is global and some of the largest reinsurers are based abroad.
+
+Page 72
+
+GAO-05-199 Catastrophe Risk
+
+Glossary of Terms
+
+Reserves Retention Retrocession Risk Risk Management
+
+A company's best estimate of what it will pay for claims.
+
+The amount of risk retained by an insurance company that is not reinsured.
+
+The reinsurance bought by reinsurers to protect their financial stability.
+
+The chance of loss of the person or entity that is insured.
+
+Management of the varied risks to which a business firm or association might be subject. It includes analyzing all exposures to gauge the likelihood of loss and choosing options to better manage or minimize loss. These options typically include reducing and eliminating the risk with safety measures, buying insurance, and self-insurance.
+
+Securitization of Insurance Risk
+
+Using the capital markets to expand and diversify the assumption of insurance risk. The issuance of bonds or notes to third-party investors directly or indirectly by an insurance or reinsurance company as a means of raising money to cover risks.
+
+Solvency
+
+Insurance companies' ability to pay the claims of policyholders. Regulations to promote solvency include minimum capital and surplus requirements, statutory accounting conventions, limits to insurance company investment and corporate activities, financial ratio tests, and financial data disclosure.
+
+Statutory Accounting Principles (SAP)
+
+Accounting principles that are required by law. In the insurance industry, these standards are more conservative than GAAP and are intended to emphasize the present solvency of insurance companies. SAP is directed toward measuring whether the company will have sufficient funds readily available to meet anticipated insurance obligations by recognizing liabilities earlier or at a higher value than GAAP and assets later or at a
+
+Page 73
+
+GAO-05-199 Catastrophe Risk
+
+Glossary of Terms
+
+lower value. For example, SAP requires that selling expenses be recorded immediately rather than amortized over the life of the policy.
+
+(250190)
+
+Page 74
+
+GAO-05-199 Catastrophe Risk
+
+GAO's Mission
+
+The Government Accountability Office, the audit, evaluation and investigative arm of Congress, exists to support Congress in meeting its constitutional responsibilities and to help improve the performance and accountability of the federal government for the American people. GAO examines the use of public funds; evaluates federal programs and policies; and provides analyses, recommendations, and other assistance to help Congress make informed oversight, policy, and funding decisions. GAO's commitment to good government is reflected in its core values of accountability, integrity, and reliability. The fastest and easiest way to obtain copies of GAO documents at no cost is through GAO's Web site (www.gao.gov). Each weekday, GAO posts newly released reports, testimony, and correspondence on its Web site. To have GAO e-mail you a list of newly posted products every afternoon, go to www.gao.gov and select "Subscribe to Updates." The first copy of each printed report is free. Additional copies are $2 each. A check or money order should be made out to the Superintendent of Documents. GAO also accepts VISA and Mastercard. Orders for 100 or more copies mailed to a single address are discounted 25 percent. Orders should be sent to: U.S. Government Accountability Office 441 G Street NW, Room LM Washington, D.C. 20548 To order by Phone: Voice: (202) 512-6000 TDD: (202) 512-2537 Fax: (202) 512-6061
+
+Obtaining Copies of GAO Reports and Testimony
+Order by Mail or Phone
+
+To Report Fraud, Waste, and Abuse in Federal Programs Congressional Relations Public Affairs
+
+Contact: Web site: www.gao.gov/fraudnet/fraudnet.htm E-mail: fraudnet@gao.gov Automated answering system: (800) 424-5454 or (202) 512-7470 Gloria Jarmon, Managing Director, JarmonG@gao.gov (202) 512-4400 U.S. Government Accountability Office, 441 G Street NW, Room 7125 Washington, D.C. 20548 Paul Anderson, Managing Director, AndersonP1@gao.gov (202) 512-4800 U.S. Government Accountability Office, 441 G Street NW, Room 7149 Washington, D.C. 20548
+
+

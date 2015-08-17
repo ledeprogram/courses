@@ -1,0 +1,734 @@
+4'.
+
+.
+
+.+H? I noa7
+
+UNITED STATES GENERAL ACCOUNTING OFFICE 20548 WASHINGTON, D.C.
+
+FOR RELEASE ON DELIVERY Expected at 10:00 a.m. Thursday, July 22, 1982
+I
+
+STATEMENT OF CHARLES A. BOWSHER COMPTROLLER GENERAL OF THE UNITED STATES BEFORE THE SUBCOMMITTEE ON LEGISLATION AND NATIONAL SECURITY HOUSE COMMITTEE ON GOVERNMENTOPERATIONS ON
+
+IIlllllllllI
+119027
+
+THE DEFENSE SCIENCE BOARD`S TASK FORCE ON EMBEDDED COMPUTER RESOURCES ACQUISITION AND MANAGEMENT Mr. Chairman and Members of the to be here Committee: to discuss 5000.5x process our views on the review De-
+
+I am pleased Department of the fense
+
+today
+
+of Defense
+
+(DOD) Instruction decisionmaking
+
+and our
+
+objectivity Science
+
+of the Board's
+
+used by the
+
+Task Force
+
+on Embedded Comp,uter Science evaluate, Board
+
+Resources convened
+
+Acquisition this task
+
+and Management. force in August
+
+The Defense 1981 to review,
+
+and make rec-
+
+ommendations of computers As part whether the
+
+on DOD's acquisition, to support of its policies its military the
+
+management, mission. task force
+
+and utilization
+
+mission, proposed
+
+was to examine 5000.5x to govof
+
+in DOD Instruction are appropriate.
+
+ern computer
+
+standardization
+
+The objectives
+
+(ylaiCI,, s.,; :_" .; ,.. ` ,y' ; ;!,,
+
+.'
+
+`:
+
+.'
+
+,'
+
+.,
+
+the
+
+proposed
+
+Instruction proliferation
+
+are
+
+to curtail
+
+high the
+
+costs
+
+from hardware of em-
+
+and software bedded to limit
+
+and increase To accomplish that
+
+effectiveness this,
+
+computer the
+
+management.
+
+DOD has chosen be used for for the the of ,
+
+number of architectures of computer Moreover, for military that
+
+could
+
+design tactical standard
+
+and development environment. architectures
+
+hardware DOD would
+
+and software require
+
+ownership
+
+embedded although the 197Os, its
+
+computers. proposed our DOD In-
+
+We reported struction raises time eration
+5000.5x
+
+to you earlier had merit issues 1980s.
+
+during that
+
+evaluation in the for consid-
+
+some serious frame are: of the
+
+challenge
+
+validity points
+
+Some of the
+
+salient
+
+--Aggressive pursuit of a standard high order language, such the software proliferation problem as Ada, could alleviate and at the same time permit the Government to fully capitalize on architectural advances. --Modern computers have substantially fewer parts and in many cases are a computer on a single board thereby reduoing the need for extensive logistics support. --Lower hardware unit costs and high hardware quality in fact available in the commercial market because technology and broader market base. --Improved competition cial computers will using militarized open up competition Instruction the risk Secretary the services these are of the
+
+versions of commerto many firms. would result locked into not implement their ongoing are in ob-
+
+--The ultimate impact of DOD very likely running solete architectures. We recommended Instruction standardization still appropriate. 5000.5x that the
+
+5000.5x of getting of Defense reevaluate
+
+and that
+
+efforts.
+
+We believe
+
+recommendations
+
+Although each branoh principles Defense struction meeting. Board a final
+
+DQP has not of th& aarwice:
+
+formally
+
+adopted
+
+Instruction a program the to
+
+5000.5x, implement The In, 1
+
+has developed with
+
+and poilicfee?s Science IWard
+
+commensurate its
+
+Instruction. proposed last Science yet
+
+announced of this year
+
+support after briefed the
+
+of the task
+
+in January The task in February. report,
+
+force's
+
+force
+
+formally the
+
+the
+
+Defense
+
+Although in April policies to a later force the
+
+task
+
+force of in from
+
+has not Defense
+
+issued his
+
+Secretary
+
+affirmed
+
+commitment
+
+to the
+
+expressed request
+
+the you,
+
+proposed
+
+Instruction. the its con-
+
+In response makeup of the clusions ently It alternatives computers cially to such their for stand to might task
+
+we reviewed to see if
+
+and its be relied
+
+deliberations
+
+reasonably
+
+upon as having
+
+been independ-
+
+and objectively should
+
+reached. that the stakes underlying engaged little the policy
+
+be understood are high. support
+
+Some firms military
+
+heavily have It
+
+in providing or no commeris advantageous on
+
+missions
+
+oriented firms for
+
+computer
+
+capability.
+
+obviously of
+
+DOD to establish If DOD relied these It,
+
+a policy
+
+standardization commercial firms market would given judge and
+
+computer computer to lose
+
+lines. innovations,
+
+upon the
+
+military-oriented therefore, is
+
+DOD business. that on the as possible. that
+
+critical, to
+
+the huge
+
+sums involved,
+
+any group standardization
+
+established issue
+
+make recommendations from overall bias
+
+be as free
+
+We recognize required for
+
+a significant evaluation 3
+
+portion resides
+
+of the in
+
+expertise
+
+a meaningful
+
+individuals
+
+asmciated
+efforts. task force of
+
+with That
+
+firms being
+
+that
+
+have
+
+interests
+
+in
+
+DOD's computer ties insure of the
+
+sal: the
+
+financial
+
+and employment
+analyzed of to this to
+
+members should inheesent not biases
+
+be thoroughly and conflicts attend
+
+absence opinion, ment.
+
+interest. important
+
+In our require,
+
+D'OD did
+
+properly
+
+At the entered eventual Army's
+those
+
+time four
+
+of the advance
+
+task
+
+force's
+
+deliberation, contracts
+
+the aimed
+
+Army had at the
+
+into
+
+development
+
+selection requirements four contractors process.
+
+of a single for
+
+production
+
+contractor To date, from the
+
+to
+
+fill
+
+the
+
+embedded computers. has been eliminated
+
+one of competitive be awarded
+
+selection engineering awarded
+
+Of the
+
+remaining
+
+three,
+
+two will
+
+development the Army's
+
+contracts
+
+and one of those for
+
+two will
+
+be
+
+production
+
+contract
+
+embedded computers. the advance developdevelopOne of for the
+
+The Navy's ment stage.
+
+program
+
+has progressed
+
+beyond
+
+Two companies for the will
+
+have been awarded two shipboard the
+
+engineering computers.
+
+ment contracts those the
+
+Navy's
+
+two companies shipboard
+
+be awarded A third for
+
+production
+
+contract
+
+computers. contract
+
+company has been awarded computers. differently.
+
+Navy's
+
+production The Air Force other set with item
+
+airborne
+
+has approached services, it
+
+standardization
+
+Unlike
+
+the
+
+has avoided level.
+
+standardizing so, it
+
+below has cona
+
+the
+
+instruction tracted different computers,
+
+architecture 20 companies, Air
+
+In doing
+
+over
+
+each of which Force's
+
+are producing for
+
+to meet the
+
+specification
+
+embedded
+
+We revieawed m-bars ests tracts and found
+
+financial that
+
+disclosure 7 af the firms
+
+statements
+
+of task
+
+force intercon-
+
+11 members had financial that have Force standardization programs:
+
+in one ar more of the undsr --Two the
+
+Army, Wavy, or Air
+
+maamb~-ecrwaived one of receivesd a salary received The other and held stock in
+
+in at lemt
+
+salaries from and had stockholdings the standardization contractors. One and held stock in an Army contractor. a salary from an Air Force cantractor contractors for all three services.
+
+'
+
+--TWO OR8
+
+recerived salaries from standardization contractors; from an Amy and the other from a Navy contractor. stock in both Army and Navy standardization fees from Air Force standardizaabove that effort. oriented proFour also con-
+
+--Qne held tractors.
+
+--Two received consulting tion contractors. Two of the had interests not
+
+seven members whose interests oriented the in computer
+
+are noted firms
+
+in commercially with
+
+were One firm.
+
+known to be aligned
+
+DOD standardization commercially the
+
+member had a stock Although grams of all of the the the
+
+interest task force it
+
+a major
+
+examined focused interests
+
+standardization Army program.
+
+services,
+
+on the
+
+members had financial
+
+in Army standardization
+
+contractors. In summary, financial with cially interests, oriented interests the task in force was composed of five members with two members and commerfinancial
+
+standardization standardization three
+
+contractors, contractors no relevant in
+
+interests oriented
+
+in both firms,
+
+members with an interest
+
+and one member with firm.
+
+a commercially
+
+Given that sions ing support
+
+the
+
+tilt
+
+of tasilwk fo'rce membership it is
+
+toward,interests that the conclu-
+
+tha! proposgad policy, task force cannot
+
+our,view
+
+of the
+
+reasonably irrespective by the to the task
+
+be looked
+
+upon as havof those the ,
+
+been objectively This view
+
+reached, is
+
+of the merit manner force in which
+
+policies. Department impressions
+
+reinforced
+
+provided
+
+information contractors of to
+
+and by the
+
+many of the
+
+conveyed 23 computer DOD.
+
+to us. firms and associacommented believed not on the the
+
+We interviewed tions task task that force's force provided
+
+officials comments
+
+Of 13 that stated five 14 that they did
+
+composition, was unbalanced.
+
+8 officials
+
+The remaining Also, told Five 9 of the us they of the did
+
+consider
+
+balance task force the
+
+to be a problem. use of input comments. had made its
+
+commented the they
+
+on the
+task
+
+force's
+
+not believe stated receiving
+
+used their task force
+
+nine
+
+believed com-
+
+decision
+
+before
+
+their
+
+ments. In conclusion, cannot policies DOD did prevent procedures assure did not be relied we believe that the findings of the task force
+
+on as an independent computer steps resources to
+
+assessment acquisition a balanced interest.
+
+of DOD's proposed and management. task force or the not DOD of bias. enough
+
+on embedded not the take
+
+adequate
+
+form of in its
+
+appearance used by the
+
+of conflicts task force
+
+Moreover, did Thus,
+
+deliberations of view. the
+
+adequate take is
+
+consideration action
+
+of all
+
+points
+
+appropriate a question
+
+to counter the
+
+appearance paid
+
+There attention
+
+as to whether
+
+Department arising
+
+to conflict-of-interest 6
+
+questions
+
+from members
+
+reported ment of Department
+
+financial Juetice far
+
+intam$;tcsc on this itgl matter
+
+We have and will
+
+conferred be referring
+
+with it
+
+the
+
+Depart-
+
+to the
+
+consideration. -m-w
+
+This work
+
+coneludeea
+
+my prepared in more detail
+
+comments. in a report be happy
+
+The results we will to answer
+
+of our be issuing any ques-
+
+,
+
+is discussed Committee
+
+to the tiona
+
+Chairman.
+
+I will
+
+you may haves.
+
+

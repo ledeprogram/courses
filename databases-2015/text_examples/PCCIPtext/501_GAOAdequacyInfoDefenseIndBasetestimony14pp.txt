@@ -1,0 +1,219 @@
+United States General Accounting Office
+
+{GlAO
+For Release on Delivery
+Expected at
+
+Testimony
+
+[Adequacy of Official Information on the U.S. Defense Industrial Basel
+
+10:00 a.m. EST Tuesday, July 18, 1989
+
+Statement of Frank C. Conahan, Assistant Comptroller General National Security and International Affairs Division Before the Subcommittee on Legislation and National Security Committee on Government Operations House of Representatives
+
+13 CAONA/
+GAO/T-NSIAD-89-40
+
+91/
+
+GqAl
+GAO Form 160 (12/S7)
+
+Mr.
+
+Chairman and Members of the Subcommittee:
+
+We appreciate this opportunity to appear before the Subcommittee today to discuss selected aspects of the federal government's data collection and coordination efforts related to the U.S. defense industrial base.
+
+In recent years, a number of studies have surfaced an increasing concern about a growing dependence on foreign sources for materials and components for our weapons systems. Our own earlier work on production capabilities and constraints in the defense industrial base demonstrated this dependence with respect to several weapons programs1 . problems. Other reports cite similar For example, a Joint Logistics Commanders report, A
+
+Study of the Effect of Foreign Dependency, prepared in 1986, reviewed 13 weapon systems and found foreign dependencies in 8 of them with severe problems in 6. According to this study, these dependencies could result in a total cut-off of the production of these items as early as 2 months into a war mobilization effort for a period lasting from 6 to 14 months. In July 1988, the Under Secretary of Defense for Acquisition's report, Bolstering Defense Industrial Competitiveness, said that the Nation is no longer self-sufficient in all essential materials and industries required to maintain a strong national defense. In October 1988, the Defense Science Board noted that globalization of defense markets has resulted in weapon systems that are dependent on foreign sources not only for raw materials but also for manufactured products. According to the Board, the most visible examples of this dependence include tactical missiles, such as the TOW, Maverick, Sidewinder, and Sparrow. The Board also stated that items such as these missiles would be in the greatest demand in a conventional war, and most at risk,
+1Assessing
+
+Production Capabilities and Constraints in the Defense Industrial Base (GAO/PEMD-85-3, Apr. 4, 1985).
+
+because of dependency on foreign sources.
+
+The Board recommended
+
+the purchase of an eighteen month buffer stock for critical foreign sourced components for prime contractors' work in process. Although evidence of dependence regarding certain weapon systems exists, it is not possible to measure the impact or extent of dependence because the Department of Defense (DOD) has no reliable system to identify foreign dependencies in technologies essential to defense production.
+
+Some efforts underway are intended to systematically collect and analyze industrial base data, including the extent of foreign dependency. support. However, they have been slow in coming to fruition and/or have not been adequately justified to receive necessary Also, there is no system in place to assist policymakers in being aware of or gaining access to information on existing data bases and models on industrial base matters.
+
+DOD's current ad hoc approach to defense industrial base data collection and analysis can provide information on general industry sectors and foreign dependencies through special studies. However, the ad hoc approach is inefficient and of limited effectiveness because it (1) provides only limited visibility into foreign dependencies at subtier industries, (2) does not facilitate the identification of acquisition strategies, and (3) does not shorten DOD's decisionmaking process for acquiring weapon systems, subsystems, and components by facilitating market research as a more systematic approach would. DOD officials stated that reliance on ad hoc data collection, which is based on varying methodologies, puts DOD in a reactive role and limits its ability to identify trends in critical industrial sectors.
+
+2
+
+My testimony today will cover
+
+(1) DOD efforts underway to improve
+
+data collection on and analysis of the defense industrial base, including foreign dependencies, (2) federal agencies' efforts to
+
+address the need for better coordination regarding the data bases and models that are available, and that decisionmakers should be aware of, on industrial base matters, and (3) agency views on
+
+significant data related problems regarding the defense industrial base. I will then discuss consultation procedures regarding
+
+between the Departments of Defense and Commerce Memorandums of Understanding (MOU) negotiations.
+
+EFFORTS UNDERWAY
+
+Two major efforts, the Defense Industrial Network
+
+(DINET) and
+
+the Army/Census Bureau project, are intended to improve data collection and analysis of the defense industrial base, foreign dependencies. including
+
+Other efforts, when completed, are also into foreign dependencies at lower
+
+intended to provide visibility tier levels.
+
+These include a review of the "Subcontract Report and a statutorily directed
+
+of Foreign Purchases," DD Form 2139,
+
+review of DOD's industrial production base analysis process, one aspect of which will address data collection on foreign sourcing.
+
+DINET
+
+The DINET project is an effort to provide accurate assessments of the production base essential to critical weapon systems and achieve a more responsive, competitive industrial base. DINET is
+
+intended to provide information and analysis on acquisition, trade, foreign direct investment, current economic trends, critical military technology, industrial capabilities and military requirements data, and reliance on foreign sources.
+
+DINET is also intended to integrate data available from DOD and other federal agencies in order to provide analysts, planners, and decisionmakers with (1) access to more complete, accurate,
+
+3
+
+and timely information regarding the industrial base, (2) a perspective on DOD's total industrial requirements, materials, (3) the ability to relate end item requirements to components, parts, and (4) better visibility into the critical subtier levels of production, and (5) identification of foreign vulnerabilities (a source of supply whose lack of availability jeopardizes national security by precluding the production, or significantly reducing the capability, of a critical weapon system). The DINET project started in 1985 and is expected to be completed in 1993. DINET's total estimated cost ranges from $7 million to DINET has $29 million, depending on the alternatives selected. million.
+
+been funded to date through special studies for a total of $1.4
+
+DINET project officials cited constraints that DINET needs to overcome regarding the collection of data. That is, data collection is difficult and time-consuming because (1) DOD components, including the three military services, have varying formats, standards, and definitions for the data and (2) data sources for industrial capacity and foreign dependency at the plant level are either non-existent or fragmented among many sources whose reliability is questionable. bases regarding mobilization. Another constraint cited is the differences in the services' approaches and data Project officials said DOD cannot fulfill its mission to assure the maintenance of adequate industrial base capabilities to meet peacetime and emergency military needs without a system such as DINET. Army/Census Bureau Project DOD identified another recent attempt at systematic data collection--the Army/Census Bureau survey. This effort was intended, among other things, to obtain information on U.S. manufacturers' ability to expand their production capacity and
+
+4
+
+on foreign dependency.
+
+It was also intended to provide The
+
+statistically valid information and be linked to DINET. 1987 to add a supplement to Census' Shipments to Federal
+
+Army, acting on DOD's behalf, agreed with the Census Bureau in Government Agencies survey, which is conducted every five years. The survey is sent to a sample of approximately 7,000 establishments in 84 U.S. industries. intended to obtain broad foreign sourcing for DOD procurements. this survey would The supplement was DOD officials stated that information about the prevalence of
+
+(1) minimize the need for special studies by
+
+federal agencies, (2) give visibility not jiust to a relatively few critical industries but to the whole subtier structure, and (3) provide consistency of methodology that would assist in the development of trends important in the monitoring of industries. The Census Bureau submitted the proposed survey to the Office of Management and Budget (OMB) in February 1988, after conducting informal consultations with industry. Act of The 'Paperwork Reduction Under the 1980, as amended, requires that agencies submit all
+
+information collection requests to OMB for review. burden they pose to the public.
+
+Act, OMB assesses information collection requests in terms of the Industry representatives strongly opposed the proposed survey on the grounds that the DOD supplement was burdensome, costly to industry, and duplicative of parts of DD Form 2139. not approve it. OMB, citing the Census Bureau's inadequate consultation with industry in devising the survey, did Census withdrew the information collection request from OMB review in May 1988. The Census submitted a revised draft of the survey to three industry associations for comment in the fall of 1988. While two of the associations found the survey burdensome, one supported it, stating that it would provide vital information, if completed accurately. Due to Army budget constraints, however, A further action on the survey was halted in March 1989. 5
+
+decision on whether to resubmit the DOD supplemental survey to OMB has been postponed until 1992, when the next Shipments to Federal Government Agencies survey will be conducted. Subcontract Report of Foreign Purchases DOD collects data on its prime contract awards to foreign sources under its Form DD-350 system. contract awards. Visibility into foreign source awards at the lower tiers, however, is limited. The only existing DOD system for collecting information on foreign sourcing is DD Form 2139, but the reliability of the data collected using this form is questionable. Under certain conditions, government prime contractors and subcontractors are contractually required to submit DD Form 2139 for foreign-sourced subcontracts exceeding $25,000 awarded to their first tier subcontractors. designed to determine the dollar value and extent of subcontracting from "offshore" (other than domestic) sources. DOD officials told us that the reliability of DD Form 2139 information submitted on foreign purchases is questionable because (1) some contractors do not report their offshore subcontracts on DD Form 2139 as required by the Defense Federal Acquisition Regulation Supplement and (2) DOD internal control mechanisms are not in place; that is, DOD does not have a systematic validation mechanism to determine the level of noncompliance. DOD officials said they do little follow-up with the contractors because it would be a "monumental task." Other DOD officials said that they plan to review DD Form 2139 with the view of revising it to make it a valuable source of data on foreign sources, particularly if linked to DINET. The form was This form, the Individual Contracting Action Report, collects information on DOD prime
+
+6
+
+Program officials stated that the only use of Form 2139 data is to publish defense trade balance figures on the amount of offshore activity for the 19 countries with which the U.S. has Reciprocal Procurement MOUs. Reciprocal Procurement MOUs are bilateral agreements that provide an umbrella framework under which "buy-national" restrictions, import duties, taxes, etc. are waived by participating countries to facilitate acquisition of standardized defense equipment. An Office of the Secretary of Defense (OSD) senior negotiator of MOUs told us that if defense trade balance data were accurate, they could be useful in monitoring the results of these MOUs, indicating the need to further investigate certain markets. For example, the balance of defense trade in favor of another country may signal that a market is closed to U.S. industries and, that further investigation may be necessary to determine why. In our opinion, not knowing how reliable DD Form 2139 data are and not having credible data may affect DOD's ability to make informed decisions on matters relating to the defense industrial base and the extent of foreign sourcing. In our 1983 report, Defense Department Subcontract-Level Reporting System (GAO/ID83-30), we had reservations about whether the DD Form 2139 system as planned and implemented at that time would provide the information necessary to fully (1) monitor arms cooperation agreements with friendly governments or (2) identify foreign source procurement at the subcontract level. concerns. Based on information gathered in our current review, we still have these
+
+Joint Production Base Analysis Working Group As part of its broader effort to review and make proposals regarding DOD's industrial base planning and production base analysis process, DOD has established the Joint Production Base
+
+7
+
+Analysis Working Group, among other things, to prepare guidelines to carry out a statutorily directed review of the capability of the defense industrial base to develop, produce, support each major defense acquisition program. maintain, and The Group plans
+
+to revise several mechanisms to collect data on production capabilities, effort including foreign sourcing information. This
+
+is in the very early stages.
+
+NO COORDINATED SYSTEM IN PLACE TO ASSIST POLICYMAKERS TO BE AWARE OF OR GAIN ACCESS TO INDUSTRIAL BASE DATA
+
+Several agencies are involved in attempts to coordinate information on existing data bases and models that provide visibility into the general health of the defense industrial base, and to some extent, visibility into foreign dependencies.
+
+Officials at DOD and the Federal Emergency Management Agency (FEMA) said it would be beneficial if information concerning such
+
+data bases and models were coordinated and shared among agencies to help emergency managers and policymakers informed decisions. of data" in making timely and
+
+They stated that even though there is a "sea
+
+on defense industrial base matters, there is no system
+
+in place for assisting policymakers government-wide to be aware of or gain access to the data.
+
+Agency officials cited two efforts underway to improve coordination on defense industrial base data collection: FEMA's (DOC)
+
+Executable Software System and the Department of Commerce's Emergency Preparedness Data Base.
+
+FEMA's Executable Software System
+
+In
+
+1988, FEMA developed a prototype for an automated inventory of
+
+data bases and models dealing with emergency management and the defense industrial base in the federal community. 8 The inventory
+
+package is called the Executable Software System.
+
+FEMA held two
+
+sessions in 1988 where agencies shared information on the data bases and models related to emergency management and industrial base matters. Based on these sessions, approximately 100 data FEMA No bases were described and entered into the prototype. to FEMA's lack of funds and recent reorganization. System.
+
+officials said a third meeting has been postponed, however, due implementation date has been set for the Executable Software According to FEMA officials, a lack of participation After the initial response in 1988, from other agencies has also slowed the progress of the Executable Software System. FEMA received less than 20 additional data base descriptions. FEMA officials estimated that less than 50 percent of the existing data bases have been identified.
+
+DOC's Emergency Preparedness Data Base DOC, in coordination with other federal departments and agencies, has developed a prototype for an Emergency Preparedness Data Base. This effort is in response to a National Security Council request to DOC to take a lead role in developing a plan for an industry-wide assessment of the production capabilities of defense and essential civilian sectors. The Emergency Preparedness Data Base prototype, a pilot program which currently includes data on seven critical industries, is intended to be used to assist emergency managers in determining what industrial resources are available in emergency situations. The data base, Such for example, could contain data to help estimate an industry's ability to survive a disaster and produce in the aftermath. production equipment vulnerability and survivability, and dependence on foreign sources for raw materials and production equipment. The full development of the prototype is pending approval by an interagency committee. data would include geographic locations of different industries,
+
+9
+
+Data Coordination Related to Foreign Sourcing Although data are available on the general health of the defense industrial base, there is a lack of data regarding production at subtier levels. And, what is available is collected on an ad hoc basis. We noted some efforts to coordinate assessments of the consequences of foreign sourcing. For example, DOC's Office of Industrial Resources Administration and the Navy are working on a project to identify industrial capabilities and foreign dependencies relating to critical parts of three major Navy weapon systems. I earlier mentioned the Joint Logistics Commanders report on foreign dependency. On request, FEMA provides other agencies with its economic analyses of foreign dependencies based on one of its economic models, the Resolution of Capacity Shortfall (ROCS) system. The ROCS system compares defense production requirements and import capacity estimates and takes into account the political viability of obtaining items from a foreign source in the event of a national security emergency. According to FEMA officials, the ROCS system addresses foreign dependencies to the extent that data are available, but due to the lack of data on subtier levels of production, it cannot directly address the consequences of foreign sourcing at these levels. According to a FEMA official, both DOD and DOC draw on the ROCS system economic analyses and FEMA has used its model to respond to congressional requests pertaining to the consequences of foreign sourcing. AGENCY VIEWS ON SIGNIFICANT DATA-RELATED PROBLEMS The Defense Production Act of 1950, as amended (DPA), gave the President a wide range of authorities to strengthen the mobilization base, produce military goods, control and stabilize the economy and in general mobilize the country's resources in support of a war effort. In general, DOD, DOC, and FEMA stated 10
+
+that the DPA provides the President broad authority to determine what kinds of data are to be collected and to share the data or otherwise coordinate matters related to the data. problems. FEMA FEMA officials said that to ensure the timely completion of their Executable Software System, a clear expression of presidential or congressional language is needed to direct agencies to cooperate with FEMA. In addition, FEMA officials stated that they need sufficient resources to implement the Executable Software System. Other agency officials, however, including the National Security Council, believe that FEMA's authority as addressed in Executive Order 12656 is sufficient to complete its automated inventory effort. However, FEMA
+
+and DOD cited what they consider significant data-related
+
+DOD DOD stated that a "very important issue" the data and that it be accurate. related to the authority
+
+to collect data is the authority to mandate that persons provide In this regard, DOD pointed out that section 705 of the DPA authorizes the President to obtain from any person, by subpoena if necessary, information relevant to the administration of the DPA. The President has delegated authority under section 705 to DOC's Bureau of Economic Analysis for the purpose of preparing a report required by DPA. DOD officials stated that they are not Some aware of any delegation of section 705 authority to DOD.
+
+OSD program officials stated that such a delegation of authority would assist DOD in obtaining accurate responses from contractors and subcontractors on surveys, such as the Army/Census Bureau survey.
+11
+
+CONSULTATION BETWEEN DOD AND DOC ON MOU NEGOTIATIONS
+
+DOC and DOD officials stated that prior to enactment of Section 824 of the National Defense Authorization Act, Fiscal Year 19892, there were minimal consultations between DOD and DOC about MOUs relating to research, development, or production of defense equipment. Since enactment of this law, DOD and DOC have begun
+
+using interim consultation procedures so that DOC can provide input into DOD's industrial base impact assessments. In
+
+addition, DOD established procedures for internally coordinating its assessment of the effects of MOUs on the defense industrial base.
+
+The interim procedures established by DOD and DOC call for the following (1) OSD provides to DOC an Industrial Base Factors risk assessment (prepared by
+
+Analysis and a technology security the DOD project officer), summary, (2)
+
+the proposed MOU, and the MOU program
+
+DOC submits to OSD its written assessment and and (3) OSD considers the data received from DOC
+
+recommendations,
+
+along with its own data and finalizes its industrial base assessment. May 31, DOD officials said that between January 6, 1989 and
+
+1989, DOD forwarded 33 MOUs to DOC for comment and DOD
+
+received comments on 5 of the MOUs.
+
+Although DOC officials said the interim procedures are a significant improvement over the lack of consultation before the fiscal year 1989 act was enacted, they requested modifications to In response to DOC's concerns, DOD and DOC
+
+the procedures.
+
+2
+
+This section states that in the negotiation and renegotiation of each MOU relating to research, development, or production of defense equipment, the Secretary of Defense should (1) assess the effect of the MOU on the defense industrial base and (2) regularly solicit and consider information or recommendations from DOC with respect to the effect of the MOU on the United States industrial base. 12
+
+drafted a new proposal for consultation procedures on all MOUs for research, development, or production of defense equipment. The proposal, which refines and formalizes the interim consultation procedures, is being considered as the basis for an interagency agreement between DOD and DOC. The proposed procedures would (1) provide DOC full access to all OSD information relating to the MOU, (2) include DOC as an advisor in MOU negotiations, (3) establish a timeframe for DOC to provide its written industrial base assessment to OSD, and (4) require that DOD consult with DOC before initiating or concluding MOU negotiations.
+
+Mr. Chairman, this concludes my statement. respond to any questions.
+
+We will be pleased to
+
+13
+
+

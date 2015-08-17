@@ -1,0 +1,345 @@
+United States General Accounting Office
+
+GAO
+For Release on Delivery Expected at 10:00 a.m. Wednesday, July 17, 2002
+
+Testimony
+Before the Select Committee on Homeland Security, House of Representatives
+
+HOMELAND SECURITY Critical Design and Implementation Issues
+Statement of David Walker, Comptroller General of the United States
+
+GAO-02-957T
+
+a
+
+Mr. Chairman and Members of the Select Committee: Thank you for the opportunity to appear before this Select Committee today to discuss one of the most important issues of our time, the reorganization of government agencies and the reorientation of their missions to improve our nation's ability to better protect our homeland. It is important to recognize that this transition to a more effective homeland security approach is part of a larger transformation effort that our government must make to address emerging security, economic, demographic, scientific, technological, fiscal and other challenges of the 21st century and to meet the expectations of the American people for timely, quality and cost-effective public services. In the months since the horrible events of September 11th, the President and the Congress have responded with important and aggressive actions to protect the nation, including creating an Office of Homeland Security (OHS), passing new laws such as the USA Patriot Act and an initial emergency supplemental spending bill, establishing a new agency to improve transportation security, and working with unprecedented collaboration with federal, state, and local governments, private sector entities, non-governmental organizations, and other countries to prevent future terrorist acts and to bring to justice those individuals responsible for such terrible acts. More recently, the Congress and the President have sought to remedy longstanding issues and concerns in the government's homeland security functions by proposing greater consolidation and coordination of various agencies and activities. On June 6th, the President announced a proposal to establish a Department of Homeland Security (DHS) and on June 18th he transmitted draft legislation to the Congress for its consideration. Both the House and the Senate have worked diligently on these issues and this Select Committee is now deliberating on a variety of proposals and issues raised by House committees and subcommittees.
+
+Page 1
+
+GAO-02-957T
+
+In my testimony today, I will focus on two major issues that we believe the Congress should consider creating a new cabinet department principally dedicated to homeland security: (1) the national strategy and criteria needed to guide any reorganization of homeland security activities and to help evaluate which agencies and missions should be included in or left out of the new DHS; and (2) key issues related to the successful implementation of, and transition to, a new department, including leadership, cost and phasing, and other management challenges. Our testimony is based largely on our previous and ongoing work on national preparedness issues1, as well as a review of the proposed legislation. In response to global challenges the government faces in the coming years, we have a unique opportunity to create an extremely effective and performance-based organization that can strengthen the nation's ability to protect its borders and citizens against terrorism. There is likely to be considerable benefit over time from restructuring some of the homeland security functions, including reducing risk and improving the economy, efficiency, and effectiveness of these consolidated agencies and programs. Sorting out those programs and agencies that would most benefit from consolidation versus those in which dual missions must be balanced in order to achieve a more effective fit in DHS is a difficult but critical task. Moreover, the magnitude of the challenges that the new department faces will clearly require substantial time and effort, and will take institutional continuity and additional resources to make it fully effective. Numerous complicated issues will need to be resolved in the short term, including a harmonization of the communication systems, information technology systems, human capital systems, the physical location of people and other assets, and many other factors. Implementation of the new department will be an extremely complex task and will ultimately take years to achieve. Given the magnitude of the endeavor, not everything can be achieved at the same time and a deliberate phasing of some operations will be necessary. As a result, it will be important for the new department to focus on: articulating a clear overarching mission and core values; establishing a short list of initial critical priorities; assuring effective communication and information systems; and developing an overall implementation plan for the new national strategy and related reorganization. Further, effective performance and risk management systems must be established, and work must be completed on threat and vulnerability assessments.
+
+1
+
+See "Related GAO Products" at the end of this testimony.
+
+Page 2
+
+GAO-02-957T
+
+Homeland Security Strategy, Criteria and Reorganization
+Homeland Security Strategy
+
+Congress, in its deliberations on creating a new department, should pay special attention to strategy, criteria and priorities for reorganization critical to the nation's efforts to protect the nation from terrorism.
+
+In recent testimony before the Congress, GAO urged that the proposal for establishing DHS should not be considered a substitute for, nor should it supplant, the timely issuance of a national homeland security strategy.2 Based on our prior work, GAO believes that the consolidation of some homeland security functions makes sense and will, if properly organized and implemented, over time lead to more efficient, effective, and coordinated programs; better intelligence sharing; and a more robust protection of our people, borders, and critical infrastructure. At the same time, the proposed cabinet department, even with its multiple missions, will still be just one of many players with important roles and responsibilities for ensuring homeland security. At the federal level, homeland security missions will require the involvement of the Central Intelligence Agency (CIA), Federal Bureau of Investigation (FBI), the U.S. Marshals Service, the Department of Defense (DOD), and a myriad of other agencies. In addition, state and local governments, including law enforcement and first responder personnel, and the private sector also have critical roles to play. If anything, the multiplicity of players only reinforces the recommendations that GAO has made in the past regarding the urgent need for a comprehensive threat, risk, and vulnerability assessment and a national homeland security strategy that can provide direction and utility at all levels of government and across all sectors of the country.3
+
+U.S. General Accounting Office, Homeland Security: Proposal for Cabinet Agency Has Merit But Implementation Will Be Pivotal to Success, GAO-02-886T (Washington, D.C.: June 25, 2002). U.S. General Accounting Office, Combating Terrorism: Selected Challenges and Related Recommendations, GAO-01-822 (Washington, D.C.: September 20, 2001).
+3
+
+2
+
+Page 3
+
+GAO-02-957T
+
+We are pleased that the Administration has just released the national homeland security strategy and GAO stands ready to work with the Congress and the Administration to ensure that a sound and strong strategy can be effectively implemented to protect the country against terrorism. Although GAO has not had time to thoroughly analyze the strategy yet, we previously suggested that certain key elements be incorporated in the homeland security strategy.4 We have indicated that a national homeland security strategy should: 1) clearly define and establish the need for homeland security and its operational components, 2) clarify the appropriate roles and responsibilities of federal, state, and local entities and build a framework for partnerships for coordination, communication, and collaboration, and 3) create specific expectations for performance and accountability, including establishing goals and performance indicators. In addition, GAO has said the national strategy development and implementation should include 1) a regular update of a national-level threat and risk assessment effort, 2) formulate realistic budget and resource plans to eliminate gaps, avoid duplicate effort, avoid "hitchhiker" spending, and protect against federal funds being used to substitute for funding that would have occurred anyway, 3) coordinate the strategy for combating terrorism with efforts to prevent, detect, and respond to computer-based attacks, 4) coordinate agency implementation by reviewing agency and interagency programs to accomplish the national strategy, and 5) carefully choose the most appropriate policy tools of government to best implement the national strategy and achieve national goals. Based on our preliminary review, some of these elements have been addressed in the national strategy. In the past, the absence of a broadbased homeland security definition or the ad hoc creation of a definition by individual government departments suggest that a consistent and transparent definition be applied to help create a more integrated approach and unified purpose. The President's national homeland security strategy does provide for a proposed definition of homeland security, which should help the government to more effectively administer, fund and coordinate activities both inside and outside a new department and to ensure that all parties are focused on the same goals and objectives, results and outcomes. It is critically important that the Congress and the Administration agree on a definition since it serves as the foundation for a number of key organizational, operational and funding decisions.
+
+4
+
+GAO-02-886T.
+
+Page 4
+
+GAO-02-957T
+
+Finally, I would also note that, in the past, we have suggested that a central focal point such as OHS be established statutorily in order to coordinate and oversee homeland security policy within a national framework.5 Today, we re-emphasize the need for OHS to be established statutorily in order to effectively coordinate activities beyond the scope of the proposed DHS and to assure reasonable congressional oversight.
+
+Need for Criteria and Reorganization
+
+Often it has taken years for the consolidated functions in new departments to effectively build on their combined strengths, and it is not uncommon for these structures to remain as management challenges for decades. It is instructive to note that the 1947 legislation creating DOD was further changed by the Congress in 1949, 1953, 1958, and 1986 in order to improve the department's structural effectiveness. Despite these and other changes made by DOD, GAO has consistently reported over the years that the department -- more than 50 years after the reorganization -- continues to face a number of serious management challenges. In fact, DOD has 8 of 24 government wide high-risk areas based on GAO's latest list, including the governmentwide high-risk areas of human capital and computer security.6 This note of caution is not intended to dissuade the Congress from seeking logical and important consolidations in government agencies and programs in order to improve homeland security missions. Rather, it is meant to suggest that reorganizations of government agencies frequently encounter start-up problems and unanticipated consequences that result from the consolidations are unlikely to fully overcome obstacles and challenges, and may require additional modifications in the future to effectively achieve our collective goals for defending the country against terrorism.7 The Congress faces a challenging and complex job in its consideration of DHS. On the one hand, there exists a certain urgency to move rapidly in order to remedy known problems relating to intelligence and information sharing and leveraging like activities that have in the past and even today prevent the United States from exercising as strong a homeland defense as
+
+5
+
+U.S. General Accounting Office, Homeland Security: Responsibility and Accountability for Achieving National Goals, GAO-02-627T (Washington, D.C.: April 11, 2002).
+6 U.S. General Accounting Office, High-Risk Series: An Update, GAO-01-263 (Washington, D.C.: January 2001). 7
+
+U.S. General Accounting Office, Implementation: The Missing Link in Planning Reorganizations, GAO-GGD-81-57 (Washington, D.C.: March 20, 1981).
+
+Page 5
+
+GAO-02-957T
+
+emerging and potential threats warrant. Simultaneously, that same urgency of purpose would suggest that the Congress be extremely careful and deliberate in how it creates a new department for defending the country against terrorism. The urge to "do it quickly" must be balanced by an equal need to "do it right." This is necessary to ensure a consensus on identified problems and needs, and to be sure that the solutions our government legislates and implements can effectively remedy the problems we face in a timely manner. It is clear that fixing the wrong problems, or even worse, fixing the right problems poorly, could cause more harm than good in our efforts to defend our country against terrorism. GAO has previously recommended that reorganizations should emphasize an integrated approach; that reorganization plans should be designed to achieve specific, identifiable goals; and that careful attention to fundamental public sector management practices and principles, such as strong financial, technology, and human capital management, are critical to the successful implementation of government reorganizations.8 Similarly, GAO has also suggested that reorganizations may be warranted based on the significance of the problems requiring resolution, as well as the extent and level of coordination and interaction necessary with other entities in order to resolve problems or achieve overall objectives.9 GAO, based on its own work as well as a review of other applicable studies of approaches to the organization and structure of entities, has concluded that the Congress should consider utilizing specific criteria as a guide to creating and implementing the new department. Specifically, GAO has developed a framework that will help the Congress and the Administration create and implement a strong and effective new cabinet department by establishing criteria to be considered for constructing the department itself, determining which agencies should be included and excluded, and leveraging numerous key management and policy elements that, after completion of the revised organizational structure, will be critical to the department's success. Figure 1 depicts the proposed framework:
+
+8 U.S. General Accounting Office, Government Reorganization: Issues and Principles, GAO/T-GGD/AIMD-95-166 (Washington, D.C.: May 17, 1995).
+
+Environmental Protection: Observations on Elevating the EPA to Cabinet Status, March 21, 2002 (GAO-02-552T).
+
+9
+
+Page 6
+
+GAO-02-957T
+
+Figure 1: Organization and Accountability Criteria for the Department of Homeland Security
+
+Organization and Accountability Criteria For the Department of Homeland Security The New Department · Definition · Statutory Basis · Clear Mission · Performance-based Organization Agency Transition: Inclusion/Exclusion · Mission Relevancy · Similar Goals and Objectives · Leverage Effectiveness · Gains Through Consolidation · Integrated Information Sharing/Coordination · Compatible Cultures · Impact on Excluded Agencies Cultural Transformation: Implementation and Success Factors · Strategic Planning · Organizational Alignment · Communications · Building Partnerships · Performance Management · Human Capital Strategy · Information Management and Technology · Knowledge Management · Financial Management · Acquisition Management · Risk Management · Change Management
+
+With respect to criteria that the Congress should consider for constructing the department itself, the following questions about the overall purpose and structure of the organization should be evaluated: · Definition: Is there a clear and consistently applied definition of homeland security that will be used as a basis for organizing and managing the new department? · Statutory Basis: Are the authorities of the new department clear and complete in how they articulate roles and responsibilities and do they sufficiently describe the department's relationship with other parties?
+
+Page 7
+
+GAO-02-957T
+
+· Clear Mission: What will the primary missions of the new DHS be and how will it define success? · Performance-based Organization: Does the new department have the structure (e.g., Chief Operating Officer (COO), etc.) and statutory authorities (e.g., human capital, sourcing) necessary to meet performance expectations, be held accountable for results, and leverage effective management approaches for achieving its mission on a national basis? Congress should also consider several very specific criteria in its evaluation of whether individual agencies or programs should be included or excluded from the proposed department. Those criteria include the following: · Mission Relevancy: Is homeland security a major part of the agency or program mission? Is it the primary mission of the agency or program? · Similar Goals and Objectives: Does the agency or program being considered for the new department share primary goals and objectives with the other agencies or programs being consolidated? · Leverage Effectiveness: Does the agency or program being considered for the new department create synergy and help to leverage the effectiveness of other agencies and programs or the new department as a whole? In other words, is the whole greater than the sum of the parts? · Gains Through Consolidation: Does the agency or program being considered for the new department improve the efficiency and effectiveness of homeland security missions through eliminating duplications and overlaps, closing gaps, and aligning or merging common roles and responsibilities? · Integrated Information Sharing/Coordination: Does the agency or program being considered for the new department contribute to or leverage the ability of the new department to enhance the sharing of critical information or otherwise improve the coordination of missions and activities related to homeland security? · Compatible Cultures: Can the organizational culture of the agency or program being considered for the new department effectively meld with
+
+Page 8
+
+GAO-02-957T
+
+the other entities that will be consolidated? Field structures and approaches to achieving missions vary considerably between agencies. · Impact on Excluded Agencies: What is the impact on departments losing components to DHS? What is the impact on agencies with homeland security missions left out of DHS? In addition to the above criteria that the Congress should consider when evaluating what to include and exclude from the proposed DHS, there are certain critical success factors the new department should emphasize in its initial implementation phase. Over the years, GAO has made observations and recommendations about many of these success factors, based on effective management of people, technology, financial, and other issues, especially in its biannual Performance and Accountability Series on major government departments.10 These factors include the following: · Strategic Planning: Leading results-oriented organizations focus on the process of strategic planning that includes involvement of stakeholders, assessment of internal and external environments, and an alignment of activities, core processes and resources to support mission-related outcomes. · Organizational Alignment: The organization of the new department should be aligned to be consistent with the goals and objectives established in the strategic plan. · Communications: Effective communication strategies are key to any major consolidation or transformation effort. · Building Partnerships: One of the key challenges of this new department will be the development and maintenance of homeland security partners at all levels of the government and the private sector, both in the United States and overseas. · Performance Management: An effective performance management system fosters institutional, unit and individual accountability.
+
+10
+
+U.S. General Accounting Office, Major Management Challenges and Program Risks: A Governmentwide Perspective, GAO-01-241 (Washington, D.C.: January 2001).
+
+Page 9
+
+GAO-02-957T
+
+· Human Capital Strategy: The new department must ensure that its homeland security missions are not adversely impacted by the government's pending human capital crisis, and that it can recruit, retain, and reward a talented and motivated workforce, which has required core competencies, to achieve its mission and objectives. The people factor is a critical element in any major consolidation or transformation. · Information Management and Technology: The new department should leverage state-of-the art enabling technology to enhance its ability to transform capabilities and capacities to share and act upon timely, quality information about terrorist threats. · Knowledge Management: The new department must ensure it makes maximum use of the collective body of knowledge that will be brought together in the consolidation. · Financial Management: The new department has a stewardship obligation to prevent fraud, waste and abuse; to use tax dollars appropriately; and to ensure financial accountability to the President, the Congress, and the American people. · Acquisition Management: Anticipated as one of the largest federal departments, the proposed DHS will potentially have some of the most extensive acquisition government needs. Early attention to strong systems and controls for acquisition and related business processes will be critical both to ensuring success and maintaining integrity and accountability. · Risk Management: The new department must be able to maintain and enhance current states of homeland security readiness while transitioning and transforming itself into a more effective and efficient structural unit. The proposed DHS will also need to immediately improve the government's overall ability to perform risk management activities that can help to prevent, defend against, and respond to terrorist acts. · Change Management: Assembling a new organization out of separate pieces and reorienting all of its processes and assets to deliver the desired results while managing related risks will take an organized, systematic approach to change. The new department will require both
+
+Page 10
+
+GAO-02-957T
+
+an executive and operational capability to encourage and manage change.
+
+Homeland Security Reorganization and Missions
+
+The President's proposal for the new department indicates that DHS, in addition to its homeland security responsibilities, will also be responsible for carrying out all other functions of the agencies and programs that are transferred to it. In fact, quite a number of the agencies proposed to be transferred to DHS have multiple functions. Agencies or programs that balance multiple missions present the Congress with significant issues that must be evaluated in order to determine how best to achieve all of the goals and objectives for which the entity was created. While we have not found any missions that would appear to be in fundamental conflict with the department's primary mission of homeland security, as presented in the President's proposal, the Congress will need to consider whether many of the non-homeland security missions of those agencies transferred to DHS will receive adequate funding, attention, visibility, and support when subsumed into a department that will be under tremendous pressure to succeed in its primary mission. As important and vital as the homeland security mission is to our nation's future, the other non-homeland security missions transferred to DHS for the most part are not small or trivial responsibilities. Rather, they represent extremely important functions executed by the federal government that, absent sufficient attention, could have serious implications for their effective delivery and consequences for sectors of our economy, health and safety, research programs and other significant government functions. Some of these responsibilities include: · maritime safety and drug interdiction by the Coast Guard, · collection of commercial tariffs by the Customs Service, · public health research by the Department of Health and Human Services, · advanced energy and environmental research by the Lawrence Livermore and Environmental Measurements labs, · responding to floods and other natural disasters by the Federal Emergency Management Agency (FEMA), and · authority over processing visas by the State Department's consular officers.
+
+Page 11
+
+GAO-02-957T
+
+These examples reveal that many non-homeland security missions could be integrated into a cabinet department overwhelmingly dedicated to protecting the nation from terrorism. Congress may wish to consider whether the new department, as proposed, will dedicate sufficient management capacity and accountability to ensure the execution of nonhomeland security missions, as well as consider potential alternatives to the current framework for handling these important functions. One alternative might be to create a special accountability track that ensures that non-homeland security functions are well supported and executed in DHS, including milestones for monitoring performance. Conversely, the Congress might separate out some of these functions. In doing so, the Congress will still need to hold agencies accountable for the homeland security missions that are not incorporated in the new department. In making these decisions, Congress should consider the criteria presented earlier in my testimony, especially those related to agency transitions, such as mission relevancy, similar goals and objectives, leveraging effectiveness, and creating gains through consolidation. There are clearly advantages and disadvantages to all of the decisions about placing agencies or programs with multiple missions in DHS and Congress must carefully weigh numerous important factors related to performance and accountability in crafting the legislation. For example, we have indicated in recent testimony that DHS could serve to improve biomedical research and development coordination because of the current fragmented state of disparate activities. Yet, we remain concerned that the proposed transfer of control and priority setting for research from the organizations where the research would be conducted could be disruptive to dual purpose programs, which have important synergies for public health programs that need to be maintained.11 Similarly, we have testified that the President's proposal, in tasking the new department with developing national policy for and coordinating the federal government's research and development efforts for responding to chemical, biological, radiological, and nuclear weapons threats, also transfers some of the civilian research programs of the Department of Energy.12 Again, there may be implications for research synergy.
+
+11
+
+U.S. General Accounting Office, Homeland Security: New Department Could Improve Biomedical R&D Coordination but May Disrupt Dual-Purpose Efforts, GAO-02-924T (Washington, D.C.: July 9, 2002).
+12
+
+U.S. General Accounting Office, Homeland Security: Title III of the Homeland Security Act of 2002, GAO-02-927T (Washington, D.C.: July 9, 2002).
+
+Page 12
+
+GAO-02-957T
+
+Congress may also craft compromises that strengthen homeland security while reducing concerns of program disruption or unanticipated consequences. One such example is seen in recent deliberations about the appropriate location for visa processing. Congressional debate has focused on two of our criteria, mission relevancy and gains through consolidation. The visa function attempts to facilitate legitimate travel while at the same time denying entry to the United States of certain individuals, including potential terrorists. Some have argued that the mission of the visa function is primarily related to homeland security and that therefore the function should be located within the proposed department. Others have advocated that the Department of State (State) should retain the visa function because they believe that there would be no gains from consolidation. They point out that State has an established field structure and that it may be impractical to create a similar field structure in the proposed department. The compromise position of several committees has been to transfer responsibility for visa policy to the proposed department, while retaining the cadre of overseas visa officers within State. As part of these deliberations, the Congress should consider not only the mission and role that agencies fulfill today, but the mission and role that they should fulfill in the coming years. Thus, while it may be accurate that large portions of the missions engaged in by the Coast Guard or FEMA today do not relate primarily to homeland security, it is wholly appropriate for Congress to determine whether the future missions of such agencies should focus principally on homeland security. Such decisions, of course, would require the Congress to determine the best approach for carrying out a range of the government's missions and operations, in order to see that non-homeland security activities of these departments are still achieved. In fact, given the key trends identified in GAO's recent strategic plan for supporting the Congress and our long range fiscal challenges, it is appropriate to ask three key questions: (1) what should the federal government do in the 21st century? (2) how should the federal government do business in the 21st century? and (3) who should do the federal government's business in the 21st century? These questions are relevant for DHS and every other federal agency and activity.
+
+Page 13
+
+GAO-02-957T
+
+As the proposal to create DHS demonstrates, the terrorist events of last fall have provided an impetus for the government to look at the larger picture of how it provides homeland security and how it can best accomplish associated missions. Yet, even for those agencies that are not being integrated into DHS, there remains a very real need and possibly a unique opportunity to rethink approaches and priorities to enable them to better target their resources to address our most urgent needs. In some cases, the new emphasis on homeland security has prompted attention to longstanding problems that have suddenly become more pressing. For example, we've mentioned in previous testimony the overlapping and duplicative food safety programs in the federal government.13 While such overlap and duplication has been responsible for poor coordination and inefficient allocation of resources, these issues assume a new, and potentially more foreboding, meaning after September 11th given the threat from bio-terrorism. In another example, we have recommended combining the Department of Justice's Office of Domestic Preparedness with FEMA to improve coordination.14 A consolidated approach to many of these issues can facilitate a concerted and effective response to new threats and mission performance. Similarly, we have conducted a number of reviews of State's visa function over the years and, based on our work, we believe that there are a number of areas in which the visa function can be strengthened. For example, the U.S. government needs to ensure that there are sufficient staff at overseas posts with the right training and experience to make good decisions about who should and who should not receive a visa. In addition, we are currently looking at ways that the visa function can be strengthened as a screen against potential terrorists and we expect to make recommendations later this fiscal year. These recommendations will apply regardless of decisions about the respective roles of the State Department and the proposed Department of Homeland Security regarding visa functions.
+
+13
+
+Food Safety and Security: Fundamental Changes Needed to Ensure Safe Food, October 10, 2001 (GAO-02-47T). GAO-01-822.
+
+14
+
+Page 14
+
+GAO-02-957T
+
+Homeland Security Implementation and Transition Issues
+
+The ultimate effectiveness of the new department will be dependent on successfully addressing implementation and transition issues. Picking the right leadership for these critical positions in the new department will be crucial to its success. If you don't have the right leadership team in key policy, operational and management positions, the department will be at risk. In addition providing the new department with some reasoned and reasonable human capital, management and budget flexibilities combined with appropriate safeguards to protect the Congress' constitutional authorities and to prevent abuse can also help contribute to a successful transition. Both the Congress and the Executive Branch have critical roles to play in achieving desired outcomes for the American people.
+
+Key Success Factors, Leadership and Accountability
+
+Among the most important elements for effectively implementing the new cabinet department will be close adherence to the key success factors. Strategic planning, building partnerships, human capital strategies, financial management and other critical factors will make the difference between a department that can quickly rise to the challenge of its mission and one that might otherwise become mired in major problems and obstacles that hamper efforts to protect the nation from terrorism. The quality and continuity of the new department's leadership is critical to building and sustaining the long-term effectiveness of DHS and homeland security goals and objectives. The experiences of organizations that have undertaken transformational change efforts along the lines that will be necessary for the new department to be fully effective suggest that this process can take up to 5 to 10 years to provide meaningful and sustainable results. Given the scope and nature of challenges facing the new department, the critical question is how can we ensure that the essential transformation and management issues receive the sustained, top-level attention that they require. The nation can ill-afford to have the secretary or deputy secretary being side-tracked by administrative and operational details -- the mission of the department requires their undivided attention. As a result, it is important for the Congress to give serious consideration to creating a deputy secretary for management/chief operating officer (COO) position within the department to provide the sustained management attention essential for addressing key infrastructure and stewardship issues while helping to facilitate the transition and transformation process. Recent legislative language adopted by the House Committee on Government Reform suggests elevating the undersecretary for
+
+Page 15
+
+GAO-02-957T
+
+management to a deputy secretary, equivalent to the deputy position provided for in the Administration's proposal. We believe that is an important first step to ensuring that transformation and management issues receive the top-level attention they require. Raising the organizational profile of transformation and management issues is important to ensure that the individual has the authority needed to successfully lead department-wide initiatives. We are not convinced that an under secretary for management, on par with the other under secretaries, would necessarily have sufficient authority. To provide further leadership and accountability for management, Congress may wish to consider several points: · First, Congress should consider making the deputy secretary for management/COO a term appointment of up to 7 years, subject to Senate confirmation. A term appointment would provide continuity that spans the tenure of the political leadership and thereby help to ensure that long-term stewardship issues are addressed and change management initiatives are successfully completed. · Second, to further clarify accountability, the COO should be subject to a clearly defined, results-oriented performance contract with appropriate incentive, reward and accountability mechanisms. The COO would be selected without regard to political affiliation based on (1) demonstrated leadership skills in managing large and complex organizations, and (2) experience achieving results in connection with "good government" responsibilities and initiatives. Requiring that both the performance contract and the subsequent performance evaluation be made available to the Congress would provide additional accountability and transparency.
+
+Page 16
+
+GAO-02-957T
+
+In addition to providing top-level leadership and accountability, the department will need to develop employee performance management systems that can serve as a key tool for aligning institutional, unit, and employee performance; achieving results; accelerating change; managing the organization on a day-to-day basis; and facilitating communication throughout the year so that discussions about individual and organizational performance are integrated and ongoing.15 A cascading set of resultsoriented performance agreements is one mechanism in a performance management system that creates a "line of sight" showing how individual employees can contribute to overall organizational goals.16 Further accountability can be achieved by ensuring that all relevant management laws are applied to the new department (e.g, Government Performance and Results Act (GPRA), Chief Financial Officers Act, ClingerCohen Act, etc.). These laws provide a foundation for the management structure of the new department and a basis for ensuring appropriate transparency and accountability.
+
+15
+
+U.S. General Accounting Office, Human Capital: Key Principles From Nine Private Sector Organizations, GAO/GGD-00-28 (Washington, D.C.: Jan. 31, 2000).
+16
+
+U.S. General Accounting Office, Managing for Results: Emerging Benefits From Selected Agencies' Use of Performance Agreements, GAO-01-115 (Washington, D.C.: Oct. 30, 2000).
+
+Page 17
+
+GAO-02-957T
+
+Request for Increased Human Capital and Management Flexibilities
+
+The President's proposal includes a set of human capital and management flexibilities for the new department. GAO believes that its reasonable for certain flexibilities to be granted to the new department in such areas as human capital, provided that they are accompanied by adequate transparency and accountability safeguards designed to prevent abuse. Human capital and management flexibility will help the new department to reorganize, realign and transform itself to achieve its important missions. Appropriate safeguards can help to prevent abuse of federal employees and provide adequate monitoring mechanisms to gauge performance. For instance, the Congress may wish to provide the new department with "early out" and "buy out" authority in order to help quickly realign the component entities and provide for future flexibility. DHS might consider new scientific and technical personnel tracks to encourage recruitment, retention and rewarding of individuals with critical knowledge, or Congress may wish to provide the new department with some limited term appointment authority. These and other suggested flexibilities for DHS should be viewed in the context of how similar flexibilities have been exercised by other agencies with similar missions, such as the Transportation Security Administration (TSA), the DOD, the FBI, and the CIA. Congress should also note that, as GAO has indicated in the past, agencies are already accorded in law significant flexibilities, especially with respect to human capital issues, but for a variety of reasons they do not always take advantage of them.17 DHS should use the these existing flexibilities and be given others in areas where Congress has done so with other agencies (e.g., TSA, Internal Revenue Service, DOD). In requesting human capital flexibilities, questions have been raised about whether they would result in eroding merit principles, veterans' preferences, whistleblower protections, collective bargaining and other basic civil service provisions. Recent testimony to the Congress by Governor Ridge has clarified the Administration's commitment to these provisions.18 The final legislation should clearly reflect the applicability of these tenets to the new department.
+
+17
+
+U.S. General Accounting Office, Managing For Results: Using Strategic Human Capital Management to Drive Transformational Change, GAO-02-940T (Washington, D.C.: July 15, 2002 ).
+
+18
+
+Statement of Governor Tom Ridge on the Department of Homeland Security to the House Select Committee on Homeland Security, July 15, 2002.
+
+Page 18
+
+GAO-02-957T
+
+Other flexibilities, such as ones for acquisitions and contracting, are included in the President's proposal. Careful analysis is needed to determine the need for additional flexibilities. Congress may want to consider not expressly providing certain flexibilities in the initial legislation, but rather providing a mechanism for expedited consideration of flexibilities should the new department request them in the future. For example, the Congress might wish to agree on rules specifying procedures for consideration of proposed changes, time limits on debate, or requirements that any amendments to future legislation be strictly related to DHS. This would not be the blanket grant of authority envisioned in the original Freedom to Manage proposal, but it would permit both the executive branch and the Congress to feel confident that proposed changes would receive timely consideration.
+
+Request for Increased Budget Flexibility
+
+The Administration has suggested that it needs a special grant of budget flexibility for the Department of Homeland Security. GAO believes that Congress should be careful to distinguish between those flexibilities that will solely enhance the operations of DHS and those that might simultaneously raise other concerns, including concerns about the constitutional responsibilities and prerogatives of the legislative branch. For instance, the President's proposal permits the Secretary to allocate funds as he sees fit, without regard to the original purpose of the appropriations. Moreover, there must be a system to identify homeland security funds across the wide range of existing budget accounts and program activities. This is necessary not only for the budget resolution and appropriations process, but also for tracking budget execution and for accountability to Congress. The Congress, through its appropriations subcommittees, has proven quite adept at creating and granting the kind of flexibility it sees as appropriate to any given agency. Congress gives agencies flexibility over the timing of spending by varying the period of fund availability: agencies may receive one-year, multi-year and no-year [permanent] funds. Congress has granted agencies varying degrees of transfer or reprogramming authority. These flexibilities are generally provided as part of the appropriations process and consider the balance between accountability and flexibility to ensure that Congress is a partner in the spending of taxpayer funds. Over the longer term the creation of the new Department may also be an opportune time to review the account structure of the Department's component entities. Should the orientation of budget accounts be shifted
+
+Page 19
+
+GAO-02-957T
+
+toward the strategic goals defined in plans? Such a reorientation might facilitate the process of linking resource allocation to results consistent with GPRA. Efforts designed to rationalize the number of budget accounts within the new department can serve to provide flexibility while ensuring accountability.
+
+DHS Transition Issues
+
+The creation of the Department of Homeland Security will be one of the largest reorganizations ever undertaken and the difficulty of this task should not be underestimated. Under the President's proposal, 22 existing agencies and programs and 170,000 people would be integrated into the new department in order to strengthen the country's defense against terrorism. With an estimated budget authority of the component parts of the new department of $37.45 billion, successfully transitioning the government in an endeavor of this scale will take considerable time and money.19 Careful and thorough planning will be critical to the successful creation of the new department. While national needs suggest a rapid reorganization of homeland security functions, the transition of agencies and programs into the new department is likely to take time to achieve. At the same time, the need for speed to get the new department up and running must be balanced with the need to maintain readiness for new and existing threats during the transition period. Moreover, the organizational transition of the various components will simply be the starting point ­ as implementation challenges beyond the first year should be expected in building a fully integrated department. As I stated earlier, it could take 5 to 10 years to fully implement this reorganization in an effective and sustainable manner. A comprehensive transition plan needs to be developed. The transition plan should establish a time table for the orderly migration of each component agency or program to the new department, identify key objectives to be achieved during the first year following the transfer, and describe the strategy for achieving an orderly transition and sustaining mission performance. More detailed implementation plans also will be necessary to address business system, processes, and resource issues. The President has taken an important first step by establishing a transition office within the Office of Management and Budget.
+
+The President's proposal entitled The Department of Homeland Security, President George W. Bush, June 2002.
+
+19
+
+Page 20
+
+GAO-02-957T
+
+Congress has an important oversight role to play in helping to ensure the effective implementation of the new department. In addition to the transition plans, Congress should consider requiring DHS to submit regular progress reports on implementation from the department and should also conduct periodic oversight hearings to assess progress and performance. In this regard, GAO stands ready to assist the Congress in conducting its oversight role. Increased cost must also be considered with regard to the President's proposal. It is likely that over time consolidation of functions within DHS may reduce costs below what otherwise would have been the case if these functions continued to operate separately. This, however, is unlikely to happen quickly. Moreover, we should expect that any reorganization would incur start up costs as well as require some funding for redundant activities to maintain continuity of effort during the transition period. The Congressional Budget Office (CBO) has estimated that the costs of implementing the new department would be about $3 billion over the next five years with an annual estimate of $150 million in FY2003 and $225 million thereafter. However, there are other transition costs that CBO acknowledges are not included in their estimates beyond the cost to hire, house, and equip key personnel. The CBO estimate assumes continuation of the existing multi-pay and retirement systems--however unlikely-- and does not address the potential need to cross-train existing personnel. Although the purchase of new computer equipment, supplies and compatible information management systems are included, no estimates are provided for the cost to correct existing computer system deficiencies nor the resources to support some system redundancy for a period of time. Finally, CBO did not attempt to price the relocation of personnel to a central location. The Administration has argued that CBO's estimates are inflated. In fact, CBO estimates that 1 percent of the total annual spending will be for administrative costs, but that a proportionate share of the costs to currently administer these agencies will be transferred. Depending on the decision to co-locate personnel and the flexibilities ultimately provided to the Administration in legislation--in particular a broad grant of transfer authority and the ability to staff through non-reimbursable agreements with other agencies-- these estimates may well change. More important than a precise cost estimate of the transition, however, is the recognition that there will be short-term transition costs and that these costs need to be made transparent. To fully recognize the transition costs, in fact, Congress should consider appropriating for them separately.
+
+Page 21
+
+GAO-02-957T
+
+In summary, I have discussed the reorganization of homeland security functions and some critical factors for success. However, the single most important element of a successful reorganization is the sustained commitment of top leaders to modern, effective and credible human capital strategies and to setting clear goals and appropriate accountability mechanisms. Top leadership involvement and clear lines of accountability for making management improvements are critical to overcoming an organization's natural resistance to change, marshalling the resources needed to improve management, and building and maintaining organization-wide commitment to new ways of doing business. Organizational cultures will not be transformed, and new visions and ways of doing business will not take root without strong and sustained leadership. Strong and visionary leadership will be vital to creating a unified, focused organization, as opposed to a group of separate units under a single roof. Modern human capital strategies, including implementing a credible, effective and equitable performance management system that links institutional, unit, team and individual performance measurement and reward systems to the department's strategic plan, core values and desired outcomes will be critical to success. Mr. Chairman, this concludes my written testimony. I would be pleased to respond to any questions that you or members of the Select Committee may have at this time.
+
+Page 22
+
+GAO-02-957T
+
+Related GAO Products
+
+Homeland Security
+
+Homeland Security: New Department Could Improve Coordination but Transforming Control of Public Health Programs Raises Concerns (GAO02-954T, July 16, 2002). Homeland Security: New Department Could Improve Biomedical R&D Coordination but May Disrupt Dual-Purpose Efforts (GAO-02-924T, July 9, 2002). Homeland Security: Title III of the Homeland Security Act of 2002 (GAO02-927T, July 9, 2002) Homeland Security: Intergovernmental Coordination and Partnerships Will Be Critical to Success (GAO-02-899T, July 1, 2002). Homeland Security: New Department Could Improve Coordination but May Complicate Priority Setting (GAO-02-893T, June 28, 2002). Homeland Security: New Department Could Improve Coordination But May Complicate Public Health Priority Setting (GAO-02-883T, June 25, 2002). Homeland Security: Proposal for Cabinet Agency Has Merit, But Implementation Will be Pivotal to Success (GAO-02-886T, June 25, 2002). Homeland Security: Key Elements to Unify Efforts Are Underway but Uncertainty Remains (GAO-02-610, June 7, 2002). National Preparedness: Integrating New and Existing Technology and Information Sharing into an Effective Homeland Security Strategy (GAO-02-811T, June 7, 2002). Homeland Security: Responsibility And Accountability For Achieving National Goals (GAO-02-627T, April 11, 2002). National Preparedness: Integration of Federal, State, Local, and Private Sector Efforts Is Critical to an Effective National Strategy for Homeland Security (GAO-02-621T, April 11, 2002). Homeland Security: Progress Made; More Direction and Partnership Sought (GAO-02-490T, March 12, 2002).
+
+Page 23
+
+GAO-02-957T
+
+Related GAO Products
+
+Homeland Security: Challenges and Strategies in Addressing Short- and Long-Term National Needs (GAO-02-160T, November 7, 2001). Homeland Security: A Risk Management Approach Can Guide Preparedness Efforts (GAO-02-208T, October 31, 2001). Homeland Security: Need to Consider VA's Role in Strengthening Federal Preparedness (GAO-02-145T, October 15, 2001). Homeland Security: Key Elements of a Risk Management Approach (GAO-02-150T, October 12, 2001). Homeland Security: A Framework for Addressing the Nation's Issues (GAO-01-1158T, September 21, 2001).
+
+Combating Terrorism
+
+Combating Terrorism: Intergovernmental Cooperation in the Development of a National Strategy to Enhance State and Local Preparedness (GAO-02-550T, April 2, 2002). Combating Terrorism: Enhancing Partnerships Through a National Preparedness Strategy (GAO-02-549T, March 28, 2002). Combating Terrorism: Critical Components of a National Strategy to Enhance State and Local Preparedness (GAO-02-548T, March 25, 2002). Combating Terrorism: Intergovernmental Partnership in a National Strategy to Enhance State and Local Preparedness (GAO-02-547T, March 22, 2002). Combating Terrorism: Key Aspects of a National Strategy to Enhance State and Local Preparedness (GAO-02-473T, March 1, 2002). Combating Terrorism: Considerations For Investing Resources in Chemical and Biological Preparedness (GAO-01-162T, October 17, 2001). Combating Terrorism: Selected Challenges and Related Recommendations (GAO-01-822, September 20, 2001). Combating Terrorism: Actions Needed to Improve DOD's Antiterrorism Program Implementation and Management (GAO-01-909, September 19, 2001).
+
+Page 24
+
+GAO-02-957T
+
+Related GAO Products
+
+Combating Terrorism: Comments on H.R. 525 to Create a President's Council on Domestic Preparedness (GAO-01-555T, May 9, 2001). Combating Terrorism: Observations on Options to Improve the Federal Response (GAO-01-660T, April 24, 2001). Combating Terrorism: Comments on Counterterrorism Leadership and National Strategy (GAO-01-556T, March 27, 2001). Combating Terrorism: FEMA Continues to Make Progress in Coordinating Preparedness and Response (GAO-01-15, March 20, 2001). Combating Terrorism: Federal Response Teams Provide Varied Capabilities: Opportunities Remain to Improve Coordination (GAO-0114, November 30, 2000). Combating Terrorism: Issues in Managing Counterterrorist Programs (GAO/T-NSIAD-00-145, April 6, 2000). Combating Terrorism: Need to Eliminate Duplicate Federal Weapons of Mass Destruction Training (GAO/NSIAD-00-64, March 21, 2000). Combating Terrorism: Observations on the Threat of Chemical and Biological Terrorism (GAO/T-NSIAD-00-50, October 20, 1999). Combating Terrorism: Need for Comprehensive Threat and Risk Assessments of Chemical and Biological Attack (GAO/NSIAD-99-163, September 7, 1999). Combating Terrorism: Observations on Growth in Federal Programs (GAO/T-NSIAD-99-181, June 9, 1999). Combating Terrorism: Analysis of Potential Emergency Response Equipment and Sustainment Costs (GAO/NSIAD-99-151, June 9, 1999). Combating Terrorism: Use of National Guard Response Teams Is Unclear (GAO/NSIAD-99-110, May 21, 1999). Combating Terrorism: Issues to Be Resolved to Improve Counterterrorism Operations (GAO/NSIAD-99-135, May 13, 1999).
+
+Page 25
+
+GAO-02-957T
+
+Related GAO Products
+
+Combating Terrorism: Observations on Federal Spending to Combat Terrorism (GAO/T-NSIAD/GGD-99-107, March 11, 1999). Combating Terrorism: Opportunities to Improve Domestic Preparedness Program Focus and Efficiency (GAO/NSIAD-99-3, November 12, 1998). Combating Terrorism: Observations on the Nunn-Lugar-Domenici Domestic Preparedness Program (GAO/T-NSIAD-99-16, October 2, 1998). Combating Terrorism: Threat and Risk Assessments Can Help Prioritize and Target Program Investments (GAO/NSIAD-98-74, April 9, 1998). Combating Terrorism: Spending on Governmentwide Programs Requires Better Management and Coordination (GAO/NSIAD-98-39, December 1, 1997).
+
+Public Health
+
+Bioterrorism: The Centers for Disease Control and Prevention's Role in Public Health Protection (GAO-02-235T, November 15, 2001). Bioterrorism: Public Health and Medical Preparedness (GAO-02-141T, October 10, 2001). Bioterrorism: Review of Public Health and Medical Preparedness (GAO02-149T, October 10, 2001). Food Safety and Security: Fundamental Changes Needed to Ensure Safe Food (GAO-02-47T, October 10, 2001). Bioterrorism: Coordination and Preparedness (GAO-02-129T, October 5, 2001). Bioterrorism: Federal Research and Preparedness Activities (GAO-01915, September 28, 2001). Chemical and Biological Defense: Improved Risk Assessments and Inventory Management Are Needed (GAO-01-667, September 28, 2001). West Nile Virus Outbreak: Lessons for Public Health Preparedness (GAO/HEHS-00-180, September 11, 2000).
+
+Page 26
+
+GAO-02-957T
+
+Related GAO Products
+
+Need for Comprehensive Threat and Risk Assessments of Chemical and Biological Attacks (GAO/NSIAD-99-163, September 7, 1999). Chemical and Biological Defense: Program Planning and Evaluation Should Follow Results Act Framework (GAO/NSIAD-99-159, August 16, 1999). Combating Terrorism: Observations on Biological Terrorism and Public Health Initiatives (GAO/T-NSIAD-99-112, March 16, 1999).
+
+Aviation Security
+
+Aviation Security: Vulnerabilities in, and Alternatives for, Preboard Screening Security Operations (GAO-01-1171T, September 25, 2001). Aviation Security: Weaknesses in Airport Security and Options for Assigning Screening Responsibilities (GAO-01-1165T, September 21, 2001). Aviation Security: Terrorist Acts Illustrate Severe Weaknesses in Aviation Security (GAO-01-1166T, September 20, 2001). Aviation Security: Terrorist Acts Demonstrate Urgent Need to Improve Security at the Nation's Airports (GAO-01-1162T, September 20, 2001). Aviation Security: Long-Standing Problems Impair Airport Screeners' Performance (RCED-00-75, June 28, 2000). Aviation Security: Slow Progress in Addressing Long-Standing Screener Performance Problems (T-RCED-00-125, March 16, 2000). Aviation Security: Progress Being Made, but Long-term Attention Is Needed (T-RCED-98-190, May 14, 1998). Aviation Security: FAA's Procurement of Explosives Detection Devices (RCED-97-111R, May 1, 1997). Aviation Security: Commercially Available Advanced Explosives Detection Devices (RCED-97-119R, April 24, 1997). Aviation Security: Technology's Role in Addressing Vulnerabilities (TRCED/NSIAD-96-262, September 19, 1996).
+
+Page 27
+
+GAO-02-957T
+
+Related GAO Products
+
+Aviation Security: Urgent Issues Need to Be Addressed (T-RCED/NSIAD96-251, September 11, 1996). Aviation Security: Immediate Action Needed to Improve Security (TRCED/NSIAD-96-237, August 1, 1996).
+
+Critical Infrastructure Protection
+
+Critical Infrastructure Protection: Significant Homeland Security Challenges Need to Be Addressed (GAO-02-918T, July 9, 2002). Critical Infrastructure Protection: Significant Challenges in Safeguarding Government and Privately Controlled Systems from Computer-Based Attacks (GAO-01-1168T, September 26, 2001). Critical Infrastructure Protection: Significant Challenges in Protecting Federal Systems and Developing Analysis and Warning Capabilities (GAO-01-1132T, September 12, 2001). Critical Infrastructure Protection: Significant Challenges in Developing Analysis, Warning, and Response Capabilities (GAO-01-1005T, July 25, 2001). Critical Infrastructure Protection: Significant Challenges in Developing Analysis, Warning, and Response Capabilities (GAO-01-769T, May 22, 2001). Critical Infrastructure Protection: Significant Challenges in Developing National Capabilities (GAO-01-323, April 25, 2001). Critical Infrastructure Protection: Challenges to Building a Comprehensive Strategy for Information Sharing and Coordination (GAO/T-AIMD-00-268, July 26, 2000). Critical Infrastructure Protection: Comments on the Proposed Cyber Security Information Act of 2000 (GAO/T-AIMD-00-229, June 22, 2000). Critical Infrastructure Protection: National Plan for Information Systems Protection (GAO/AIMD-00-90R, February 11, 2000). Critical Infrastructure Protection: Comments on the National Plan for Information Systems Protection (GAO/T-AIMD-00-72, February 1, 2000).
+
+Page 28
+
+GAO-02-957T
+
+Related GAO Products
+
+Critical Infrastructure Protection: Fundamental Improvements Needed to Assure Security of Federal Operations (GAO/T-AIMD-00-7, October 6, 1999). Critical Infrastructure Protection: Comprehensive Strategy Can Draw on Year 2000 Experiences (GAO/AIMD-00-1, October 1, 1999).
+
+Disaster Assistance
+
+Disaster Assistance: Improvement Needed in Disaster Declaration Criteria and Eligibility Assurance Procedures (GAO-01-837, August 31, 2001). FEMA and Army Must Be Proactive in Preparing States for Emergencies (GAO-01-850, August 13, 2001). Federal Emergency Management Agency: Status of Achieving Key Outcomes and Addressing Major Management Challenges (GAO-01-832, July 9, 2001).
+
+Budget and Management
+
+Results-Oriented Budget Practices in Federal Agencies (GAO-01-1084SP, August 2001). Managing for Results: Federal Managers' Views on Key Management Issues Vary Widely Across Agencies (GAO-01-592, May 2001). Determining Performance and Accountability Challenges and High Risks (GAO-01-159SP, November 2000). Managing for Results: Using the Results Act to Address Mission Fragmentation and Program Overlap (GAO/AIMD-97-156, August 29, 1997). Government Restructuring: Identifying Potential Duplication in Federal Missions and Approaches (GAO/T-AIMD-95-161, June 7, 1995). Government Reorganization: Issues and Principals (GAO/T-GGD/AIMD95-166, May 17, 1995).
+
+Page 29
+
+GAO-02-957T
+
+Related GAO Products
+
+Reorganization
+
+FBI Reorganization: Initial Steps Encouraging but Broad Transformation Needed (GAO-02-865T, June 21, 2002). Environmental Protection: Observations on Elevating the Environmental Protection Agency to Cabinet Status (GAO-02-552T, March 21, 2002). Implementation: The Missing Link in Planning Reorganizations (GAOGGD-81-57, March 20, 1981).
+
+Grant Design
+
+Grant Programs: Design Features Shape Flexibility, Accountability, and Performance Information (GAO/GGD-98-137, June 22, 1998). Federal Grants: Design Improvements Could Help Federal Resources Go Further (GAO/AIMD-97-7, December 18, 1996). Block Grants: Issues in Designing Accountability Provisions (GAO/AIMD-95-226, September 1, 1995).
+
+Management
+
+Managing for Results: Using Strategic Human Capital Management to Drive Transformational Change (GAO-02-940T, July 15, 2002). Managing for Results: Building on the Momentum for Strategic Human Capital Reform (GAO-02-528T, March 18, 2002). A Model of Strategic Human Capital Management (GAO-02-373SP, March 15, 2002). High-Risk Series: An Update (GAO-01-263, January 2001). Major Management Challenges and Program Risks: A Governmentwide Perspective (GAO-01-241, January 2001).
+
+(450142)
+
+Page 30
+
+GAO-02-957T
+
+

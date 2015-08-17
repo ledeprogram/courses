@@ -1,0 +1,520 @@
+      A            B             c            D                                  E             F                 G
+  1 FY      CONTRACT NUMBER CONTRACT MOD PERFORMER   PROGRAM TITLE                        AWARD DATE        AMOUNT
+ 2
+1420 1999   MDA97292J 1029   GR20       CNRI         INFORMATION MANAGEMENT                  12/10/1998        $687,000.00
+1421        MDA97292J1 029   GR22       CNRI         COMMUNICATOR                             4/22/1999        $400,000.00
+1422        MDA97292J1 029   GR22       CNRI         WEBINABOX                                4122/1999        $360,000.00
+1423        MDA97292J1 029   P00025     CNRI         WEBINABOX                                8/24/1999                $0.00
+1424        MDA972931 0030   P00009     GEORGIATEC   HIGH DEFINITION SYSTEMS (HDS)            1/29/1999      $1 ,210,694.00
+1425        MDA9729320014    P00017     USDISPLAYC   FLAT PANEL DISPLAYS                      8116/1999      $5,794,000.00
+1426        MDA97293C0016    P00043     SYSPLANCOR   CHPS: Combat Hybrid Power Systems          1nt1999          $79,441.00
+1427        MDA97294C0003    A00003     BELLATLANT   NEXT GENERATION INTERNET                 8/28/1998                $0.00
+1428        MDA97294C0003    P00026     BELLATLANT   NEXT GENERATION INTERNET                 1/2011999        $332,197.00
+1429        MDA97294C0003    P00027     BELLATLANT   NEXT GENERATION INTERNET                   2/4/1999         $94,750.00
+1430        MDA97294C0003    P00028     BELLATLANT   NEXT GENERATION INTERNET                 2/22/1999        $450,000.00
+1431        MDA97294C0003    P00029     BELLATLANT   NEXT GENERATION INTERNET                   3/1/1999       $254,750.00
+1432        MDA97294C0003    P00030     BELLATLANT   NEXT GENERATION INTERNET                 4/1 2/1999               $0.00
+1433        MDA97294C0003    P00031     BELLATLANT   NEXT GENERATION INTERNET                 4/1 3/1999       $254,750.00
+1434        MDA97294C0003    P00032     BELLATLANT   NEXT GENERATION INTERNET                   9/8/1999       $254,750.00
+1435        MDA97294C0016    P00026     BDMFEDERAL   STOWACTD                                 2/1 2/1999       $117,000.00
+1436        MDA97294C0016    P00027     BDMFEDERAL   STOWACTD                                   3/1/1999       $273,000.00
+1437        MDA97294C0016    P00028     BDMFEDERAL   IMAGE UNDERSTANDING                      3/2911999        $150,166.00
+1438        MDA97294C0016    P00029     BDMFEDERAL   STOWACTD                                 5/27/1999          $40,000.00
+1439        MDA97294C0016    P00030     BDMFEDERAL   STOWACTD                                   911 /1999        $55,930.00
+1440        MDA97294D0001    D003/P16   VRT          BADD                                     12/9/1998          $73,374.00
+1441        MDA97294D0001    0032/3     VRT          AGILE INFO CONTROL ENVIRONMENT           2/12/1999        $100,095.00
+1442        MDA97294D0001    003202     VALLEYELEC   AGILE INFO CONTROL ENVIRONMENT          12/22/1998         $100,095.00
+1443        MDA972951 0016   GR03       ARIZONASTA   VLSI PHOTONICS                           3/1 5/1999       $149,984.00
+1444        MDA9729530027    P00014     BELLCORE     BROADBAND INFORMATION TECHNOLOGY           1/4/1999     $4,547,200.00
+1445        MDA9729530029    A00009     PLANARAMER   HIGH DEFINITION SYSTEMS (HDS)              5/4/1999               $0.00
+1446        MDA9729530029    GR0008     PLANARAMER   HIGH DEFINITION SYSTEMS (HDS)           11/10/1998      $7,570,137.00
+1447        MDA9729530036    GR06       ITNENERGYS   PHOTOVOLTAICS (VP)                      11/1 8/1998        $558,900.00
+1448        MDA9729530042    GR011      CRAYRESEAR   SHOCC                                      6nt1999      $1 ,289,562.00
+1449        MDA97295C0004    P00008     UMASS        LARGE MILLIMETER TELESCOPE               8/30/1999      $1 ,151 ,500.00
+1450        MDA97295C0021    P00012     HUGHESRESL   VIRTUAL ELECTROMAGNETIC TEST RANGE       7/26/1999         $498,383.00
+1451        MDA97295C0032    P00012     ART I        CONTRACT ADMINISTRATION                  12/2/1998      $2,000,000.00
+1452        MDA97295C0032    P00014     ART I        ADMINISTRATIVE SUPPORT                   3/30/ 1999        $290,000.00
+1453        MDA97295C0032    P00014     ARTI         CONTRACT ADM INISTRATION                 3/30/ 1999     $1,516,319.00
+1454        MDA97295C0032    P00014     ARTI         JLTO SUPPORT COSTS-ISO                   3/30/1999         $210,500.00
+1455        MDA97295C0032    P00014     ART!         STARLIGHT SUPPORT COSTS-ITO              3/30/1999         $210,500.00
+1456        MDA97295C0032    P00015     ARTI         STARLIGHT SUPPORT COSTS-ITO                6/8/1999               $0.00
+1457        MDA97295C0032    P00016     ARTI         CONTRACT ADMINISTRATION                  8/31/1999         $490,071.00
+1458        MDA97295C0032    P00016     ARTI          DARPA TECH                              8/31 /1999          $48,000.00
+1459        MDA97295C0033    P00018     ARTI         SECURITY SUPPORT                           3/1/1999     $1,321 ,000.00
+1460        MDA97295C0033    P00019     ARTI         SECURITY SUPPORT .                         9/3/1999        $423,212.00
+1461        MDA97295D0002    00001101   DIGITSYSIN   CONTRACT ADMINISTRATION                  3/10/1999            $3,417.00
+1462        MDA97295D0002    00001101   DIGITSYSIN   CONTRACTS MANAGEMENT                     3/10/1 999           $5,286.00
+1463        MDA97295D0002    00001102   DIGITSYSIN   CONTRACTS MANAGEMENT                     4/1 6/1999               $0.00
+1464        MDA9729500002    00001103   DIGITSYSIN    CONTRACTS MANAGEMENT                    8/12/1999        ($1 09,494.00)
+1465        MDA97295D0002    00010/05   DIGITSYSIN    CONTRACTS MANAGEMENT                     12/8/ 1998         $65,572.00
+1466        MDA97295D0002    0001006    DIGITSYSIN    CONTRACTS MANAGEMENT                     5/27/ 1999        ($10,000.00
+     A          B             c            D                                             E                        F                G
+  1 FY   CONTRACT NUMBER CONTRACT MOD PERFORMER      PROGRAM TITLE                                           AWARD DATE       AMOUNT
+  2
+1467     MDA97295D0002    000104        DIGITALSYS   CONTRACT ADMINISTRATION                                    10/22/1998         $60,000.00
+1468     MDA97295D0002    0011          DIGITSYSIN   CONTRACTS MANAGEMENT                                        1/17/1999       $566,045.00
+1469     MDA97295D0002    P00018        DIGITSYSIN   CONTRACTS MANAGEMENT                                        4/16/1999              $0.00
+1470     MDA9729610005    GR0004        SOFTPROCON   RTAP                                                        6/29/1999     $1 ,926,000.00
+1471     MDA972961 0006   GR0003        CNRI         INFORMATION MANAGEMENT                                        4/7/1999      $808,440.00
+1472     MDA9729610006    P00003        CNRI         INFORMATION MANAGEMENT                                        2/8/1999      $244,629.00
+1473     MDA9729610006    P00005        CNRI         INFORMATION MANAGEMENT                                      8/24/1999              $0.00
+1474     MDA9729630014    P00005        SDLINC       SOLAR BLIND DETECTORS                                       12/9/1998       $250,000.00
+1475     MDA9729630014    P00006        SDLINC       SOLAR BLIND DETECTORS                                       3/25/1999              $0.00
+1476     MDA9729630016    P00004        MOTOROLA     MAGNETIC MATERIALS AND DEVICES                              1/14/1999       $810,734.00
+1477     MDA9729630016    P00005        MOTOROLA     MAGNETIC MATERIALS AND DEVICES                              6/15/1999     $1,000,000.00
+1478     MDA9729690800    P00010        UARIZONA     Precision Optics                                            3/12/1999     $2,790,100.00
+1479     MDA97296C0017    P00011        CERIDIAN     AGILE INFO CONTROL ENVIRONMENT                              4/26/1999     $3,497,712.00
+1480     MDA97296C0017    P00011        CERIDIAN     BADD                                                        4/26/1999       $300,000.00
+1481     MDA97296C0017    P00012        CERIDIAN     AGILE INFO CONTROL ENVIRONMENT                                8/4/1999             $0.00
+1482     MDA97296C0030    P00006        IBM          MAGNETIC MATERIALS AND DEVICES                                2/1/1999    $1,606,470.00
+1483     MDA97296C0801    P00008        TEXASINSTR   Compact Lasers                                              2/26/1999            $874.00
+1484     MDA97296D0002    D0000813      JOHNSHOPUA   Discoverer II                                               3/29/1999              $0.00
+1485     MDA97296D0002    D0000814      JOHNSHOPUA   Seedlings TT-06                                             6/16/1999              $0.00
+1486     MDA97296D0002    D0001114      JHAPL        CHEM/BIO DEFENSE (ADV DEV)                                    5/3/1999      $450,000.00
+1487     MDA97296D0002    D0001116      JHAPL        BWD/DETECTION (PBD 203)                                     5/27/1999         $97,000.00
+1488     MDA9729600002    D0001117      JOHNSHOPUA   Seedlings TT-06                                             6/10/1999              $0.00
+1489     MDA9729600002    D0001118      JHAPL        BIO DETECTION &IDENTIFICATION                               6/10/1999         $50,000.00
+1490     MDA97296D0002    D0002304      JOHNSHOPUA   ADVANCED SIMULATION TECH                                    1/20/1999       $333,929.00
+1491     MDA97296D0002    D0002415      JHAPL        BWD/DETECTION (PBD 203)                                     5/27/1999         $97,000.00
+1492     MDA97296D0002    D0002418      JOHNSHOPUA   SENSOR EMULATION                                            8/23/1999              $0.00
+1493     MDA97296D0002    00002506      JOHNSHOPUA   Seedlings TT-06                                             8/25/1999       $100,000.00
+1494     MDA9729600002    D0002705      JOHNSHOPUA   Seedlings TT-06                                             3/12/1999              $0.00
+1495     MDA97296D0002    D0002801      JOHNSHOPUA   ARRMD: Affordable Rapid Response Missile Demonstrator       1/19/1999       $500,000.00
+1496     MDA9729600002    D0003002      JOHNSHOPUA   Discoverer II                                                 4/9/1999             $0.00
+1497     MDA97296D0002    D0003201      JOHNSHOPUA   Discoverer II                                               3/31/1999       $599,878.00
+1498     MDA97296D0002    D00033        JOHNSHOPUA   BUOYANT ANTENNA                                            10/15/1998       $980,000.00
+1499     MDA97296D0002    D0003301      JOHNSHOPUA   BUOYANT ANTENNA                                             2/18/1999         $70,000.00
+1500     MDA97296D0002    00003302      JOHNSHOPUA   SUB STUDY (SUBMARINE PAYLOADS AND SENSORS                     7/2/1999        $30,000.00
+1501     MDA97296D0002    D0003303      JOHNSHOPUA    SENSOR EMULATION                                           7/13/1999              $0.00
+1502     MDA97296D0002    000036        JHAPL         BW                                                           4/6/1999    $2,100,000.00
+1503     MDA9729600002    D0015/P11     JOHNSHOPUA   ADVANCED SIMULATION TECH                                   12/23/1998              $0.00
+1504     MDA97296D0002    D0015033/P1   JOHNSHOPUA    UNDERSEA LITTORAL WARFARE                                 12/23/1998              $0.00
+1505     MDA97296D0002    D0016P4       JOHNSHOPUA    BW                                                        12/23/1998              $0.00
+1506     MDA97296D0002    D002416       JOHNSHOPUA    BWD/DETECTION (PBD 203)                                    6/30/1999       $921 ,400.00
+1507     MDA97296D0002    D007P11       JOHNSHOPUA    UNDERSEA LITTORAL WARFARE                                 11/18/1998       $100,000.00
+1508     MDA9729600002    0011/P13      JOHNSHOPUA    CHEM/BIO DEFENSE (ADV DEV)                                  1/13/1999    $1,790,000.00
+1509     MDA9729600002    D011015       JOHNSHOPUA    CHEM/BIO DEFENSE (ADV DEV)                                 5/25/1999        $267,500.00
+1510     MDA9729600002    D02008        JHAPL         CHEM/BIO DEFENSE (ADV DEV)                                   5/3/1999             $0.00
+1511     MDA9729600002    D023/P3       JOHNSHOPUA    ADVANCED SIMULATION TECH                                  11/17/1998         $91,071 .00
+1512     MDA97296D0002    D02305        JOHNSHOPUA    ADVANCED SIMULATION TECH                                    1/25/1999        $40,056.00
+1513     MDA97296D0002    D02413        JOHNSHOPUA    Seedlings TT-06                                            3/24/1999               $0.00
+     A          B             c            D                                             E            F                G
+  1 FY   CONTRACT NUMBER CONTRACT MOD PERFORMER   PROGRAM TITLE                                  AWARD DATE       AMOUNT
+ 2
+1514     MDA97296D0002     D024P12   JHAPL        BWD/DETECTION(PBD 203)                             1/26/1999      $741,000.00
+1515     MDA97296D0002     D02505    JOHNSHOPUA   Seedlings TT-06                                     3/4/1999      $300,000.00
+1516     MDA9729600002     D029/P2   JOHNSHOPUA   UNDERSEA LITTORAL WARFARE                         12/22/1998        $30,000.00
+1517     MDA97296D0002     D03001    JHAPL        Discoverer II                                      3/19/1999      $900,000.00
+1518     MDA97296D0002     D031/P1   JOHNSHOPUA   BW                                                 12/4/1998     $1,950,000.00
+1519     MDA97296D0002     D035      JOHNSHOPUA   Discoverer II                                      3/22/1999      $499,052.00
+1520     MDA9729600002     0037      JOHNSHOPUA   BADD                                               6/22/1999        $10,523.00
+1521     MDA9729600002     0037      JOHNSHOPUA   ISO DIRECTORS TAX FUND SACM4                       6/22/1999        $35,528.00
+1522     MDA9729600002     0037      JOHNSHOPUA   ISO DIRECTORS TAX FUND SICE4                       6/22/1999        $49,905.00
+1523     MDA97296D0002     0037      JOHNSHOPUA   JFACC                                              6/22/1999        $52,158.00
+1524     MDA9729600002     D037      JOHNSHOPUA   SENSOR EMULATION                                   6/22/1999        $51,861.00
+1525     MDA97296D0002     D07112    JOHNSHOPUA   UNDERSEA LITTORAL WARFARE                         12/22/1998       $800,000.00
+1526     MDA97296D0002     P00009    JOHNSHOPUA   UNDERSEA LITTORAL WARFARE                          1/19/1999              $0.00
+1527     MDA97296D0002     P00010    JOHNSHOPUA   Discoverer II                                      5/10/1999              $0.00
+1528     MDA97296K0001     BASIC     UVA          CHEMICAL AND BIOLOGICAL DEFENSE                   11/19/1998       $365,396.00
+1529     MDA97296K0003     P00005    UALABAMA     BWD/DETECTION(PBD 203)                             12/8/1998       $500,000.00
+1530     MDA97296K0003     P00006    UALABAMA     BWD/DETECTION(PBD 203)                              2/8/1999       $400,000.00
+1531     MDA97296K0004     P00007    SRI          BWD/DETECTION(PBD 203)                              1/5/1999       $300,000.00
+1532     MDA97296K0004     P00008    SRI          BWD/DETECTION(PBD 203)                             7/20/1999              $0.00
+1533     MDA9729710003     GR0001    UNIVNEWORL   NANOPHASE MAG PARTICLE(CONG ADD)                   8/11/1999     $3,474,136.00
+1534     MDA9729710004     GR03      MARSHALLUR   ADVANCED FLEXIBLE MANUFACTURING                     3/4/1999     $3,400,000.00
+1535     MDA972971 001 0   GR02      UCBERKELEY   ADVANCED LITHOGRAPHY                              11/23/1998     $1,380,000.00
+1536     MDA972971 0011    GR02      UTAHSTU      BWD/DETECTION(PBD 203)                             12/4/1998       $162,618.00
+1537     MDA972971 0012    GR04      UTAHSTU      BWD/DETECTION(PBD 203}                             1/21/1999              $0.00
+1538     MDA972971 0012    GR06      UTAHSTU      BWD/DETECTION(PBD 203)                             8/12/1999              $0.00
+1539     MDA9729710012     P00003    UTAHSTU      BWD/DETECTION(PBD 203)                             12/8/1998       $150,000.00
+1540     MDA972971 0012    P00005    UTAHSTU      BWD/DETECTION(PBD 203}                             4/26/1999        $15,000.00
+1541     MDA9729710016     GR05      OREGONGRDC   ADVANCED LOGISTICS TECHNOLOGY                     11/25/1998        $45,000.00
+1542     MDA972971 0016    GR06      OREGONGRDC   ADVANCED LOGISTICS TECHNOLOGY                      6/25/1999              $0.00
+1543     MDA972971 0016    P00005    OREGONGRDC   ADVANCED LOGISTICS TECHNOLOGY                      2/17/1999       $205,000.00
+1544     MDA972971 0020    GR05      CTC          NATL APPLIED SOFTWARE ENG CENTER                   5/14/1999     $2,897,000.00
+1545     MDA972971 0022    GR04      ENVISION     CHEMICAL AND BIOLOGICAL DEFENSE                   12/11/1998       $503,630.00
+1546     MDA972971 0022    P00005    ENVISION     CHEMICAL AND BIOLOGICAL DEFENSE                    6/25/1999              $0.00
+1547     MDA972971 0026    P00002    AUBURNU      DOG'S NOSEIUXO DETECTION                          12/21/1998       $395,320.00
+1548     MDA972971 0026    P00003    AUBURNU      DOG'S NOSE/UXO DETECTION                           1/11/1999              $0.00
+1549     MDA9729720001     P00006    NELHA        CEROS (FENCED)                                     6/16/1999     $6,510,000.00
+1550     MDA9729730008     P00002    HEWLETTPAC   OM NET                                            11/10/1998     $4,600,545.00
+1551     MDA9729730008     P00004    HEWLETTPAC    OM NET                                              2/1/1999     ($402, 700.00)
+1552     MDA9729730016     GR03      MCDONDOUG     SMART MATERIALS/DEMOS                            11/18/1998     $2,700,000.00
+1553     MDA9729730017     P00004    BOEINGDEFS    SMART MATERIALS/ACTUATORS                         12/2/1998       $898,000.00
+1554     MDA9729730017     P00004    BOEINGDEFS    SMART MATERIALS/DEMOS                             12/2/1998        $16,000.00
+1555     MDA9729730017     P00005    BOEINGDEFS    SMART MATERIALS/DEMOS                               7/9/1999      $650,000.00
+1556     MDA9729730018     A00005    RAYTHEON     AM3: Affordable Multi-Missile Manufacturing        3/16/1999              $0.00
+1557     MDA9729730018     A00006    RAYTHEON     AM3: Affordable Multi-Missile Manufacturing        5/13/1999              $0.00
+1558     MDA9729730018     GR0004    RAYTHEONTI    AM3: Affordable Multi-Missile Manufacturing       1217/1998     $9,901,798.00
+1559     MDA9729730018     GR05      RAYTHEONTI    AM3: Affordable Multi-Missile Manufacturing         2/8/1999             $0.00
+1560     MDA97297C0001     P00002    SYNERGIA      SBIR SET-ASIDE                                      2/5/1999       $20,000.00
+     A          B             c            D                                      E         F                G
+  1 FY   CONTRACT NUMBER CONTRACT MOD PERFORMER    PROGRAM TITLE                       AWARD DATE       AMOUNT
+  2
+1561     MDA97297C0001   P00002      SYNERGIA      SBIR-ADVANCED SIMULATION TECH             2/5/1999        $55,000.00
+1562     MDA97297C0001   P00003      SYNERGIA      SBIR SET-ASIDE                          6/29/1999       $750,000.00
+1563     MDA97297C0001   P00004      SYNERGIA      SBIR SET-ASIDE                          7/20/1999               $0.00
+1564     MDA97297C0006   P00008      HOUSTONASS    STOWACTD                                3/1611999       $345,372.00
+1565     MDA97297C0012   A00001      IBM           TRVS                                    5/1311999               $0.00
+1566     MDA97297C0012   P00005      IBM           TRVS                                   11/25/1998       $209,431 .00
+1567     MDA97297C0012   P00006      IBM           COMMUNICATOR                              1/4/1999      $500,000.00
+1568     MDA97297C0012   P00006      IBM           TRVS                                      1/4/1999      $290,569.00
+1569     MDA97297C0016   M15         MITRECIVSY    JASON STUDIES                           3/26/1999     $1 '188,000.00
+1570     MDA97297C0016   P00014      MITRE         JASON STUDIES                           1/1311999       $200,000.00
+1571     MDA97297C0016   P00016      MITRECIVSY    JASON STUDIES                           5/27/1999       $400,795.00
+1572     MDA97297C0016   P00018      MITRE         JASON STUDIES                           7/3011999       $176,482.00
+1573     MDA97297C0016   P00019      MITRECIVSY    JASON STUDIES                           8/19/1999       $350,000.00
+1574     MDA97297C0017   P00004      SAIC          ADVANCED SIMULATION TECH               11/12/1998       $117,420.00
+1575     MDA97297C0017   P00005      SAIC          ADVANCED SIMULATION TECH               12/31/1998       $430,533.00
+1576     MDA97297C0019   P00007      SRI           CHEM/810 DEFENSE (ADV DEV)              2/24/1999       $912,000.00
+1577     MDA97297C0020   P00006      PACSIERRA     BWD/DETECTION(PBD 203)                  12/4/1998       $500,000.00
+1578     MDA97297C0020   P00007      PACSIERRA     CHEM/BIO DEFENSE (ADV DEV)              3/29/1999       $480,975.00
+1579     MDA97297C0020   P00008      PACSIERRA     CHEM/BIO DEFENSE (ADV DEV)                8/2/1999              $0.00
+1580     MDA97297C0022   P00003      SAIC          ADVANCED SIMULATION TECH               11/12/1998       $105,408.00
+1581     MDA97297C0022   P00004      SAIC          ADVANCED SIMULATION TECH                1/2011999       $386,493.00
+1582     MDA97297C0024   P00008      TASC          ADVANCED SIMULATION TECH               11/17/1998       $107,142.00
+1583     MDA97297C0024   P00009 ·    TASC          ADVANCED SIMULATION TECH                2/19/1999       $392,858.00
+1584     MDA97297C0027   P00005      APT I         WATER HAMMER                            2/16/1999       $199,309.00
+1585     MDA97297C0027   P00006      APT I         WATER HAMMER                              4/1/1999    $2,610,132.00
+1586     MDA97297C0028   P00003      SYNTEK        GENOA                                  11/12/1998       $150,000.00
+1587     MDA97297C0028   P00004      SYNTEK        GENOA                                   1/25/1999       $103,950.00
+1588     MDA97297C0030   P00004      HOWARDUNIV    JTFATD                                  4/19/1999       $119,950.00
+1589     MDA97297C0030   P00005      HOWARDUNIV    ISO DIRECTORS TAX FUND SSTI8            7/15/1999       $200,000.00
+1590     MDA97297C0030   P00006      HOWARDUNIV    ISO DIRECTORS TAX FUND SSTI8              9/8/1999              $0.00
+1591     MDA97297C0031   P00007      NORTHROPGR    CHPS: Combat Hybrid Power Systems         1/6/1999    $2,130,000.00
+1592     MDA97297C0031   P00008      NORTHROPGR    CHPS: Combat Hybrid Power Systems       3/12/1999     $1 ,000,000.00
+1593     MDA97297C0032   P00003      SAIC          CHPS: Combat Hybrid Power Systems         1/6/1999    $9,250,000.00
+1594     MDA97297C0032   P00004      SAIC          CHPS: Combat Hybrid Power Systems       4/30/1999         $30,950.00
+1595     MDA97297C0033   P00003      SARNOFFCOR    AGILE INFO CONTROL ENVIRONMENT            5/3/1999      $174,798.00
+1596     MDA97297C0033   P00004      SARNOFFCOR    AGILE INFO CONTROL ENVIRONMENT          6/15/1999               $0.00
+1597     MDA97297C0033   P00005      SARNOFFCOR    AGILE INFO CONTROL ENVIRONMENT          9/14/1999               $0.00
+1598     MDA97297C0035   P00005      LOCKMARTIN    AG ILE INFO CONTROL ENVIRONMENT         4/12/1999       $199,899.00
+1599     MDA97297C0041   P00004      MET RON       ADVANCED LOGISTICS TECHNOLOGY           2/17/1999       $550,000.00
+1600     MDA97297C0041   P00005      METRON        ADVANCED LOGISTICS TECHNOLOGY           2/22/1999       $350,000.00
+1601     MDA97297C0041   P00006      METRON        ADVANCED LOGISTICS TECHNOLOGY           6/25/1999               $0.00
+1602     MDA97297C0041   P00007      METRON        ADVANCED LOGISTICS TECHNOLOGY             9/1/1999      $200,000.00
+1603     MDA97297C0041   P00008      METRON        ADVANCED LOGISTICS TECHNOLOGY           9/23/1999       $149,999.00
+1604     MDA97297C0041   P00009       METRON       ADVANCED LOGISTICS TECHNOLOGY           9/23/1999       $100,000.00
+1605     MDA97297C0045   P00003       MCNEILTECH   BADD                                     6/17/1999       $258,264.00
+1606     MDA97297C0045   P00003       MCNEILTECH   GENOA                                    6/17/1999       $327,206.00
+1607     MDA97297C0045   P00003       MCNEILTECH   JOINT LOGISTICS ACTO                     6117/1999         $93,780.00
+     A          B             c            D                                   E                                     F                 G
+  1 FY   CONTRACT NUMBER CONTRACT MOD PERFORMER    PROGRAM TITLE                                                AWARD DATE        AMOUNT
+ 2
+1608     MDA97297C0045    P00003     MCNEILTECH    JTF ATD                                                          6/17/1999       $102,706.00
+1609     MDA97297C0045    P00004     MCNEILTECH    JTF ATD                                                          8/2411999               $0.00
+1610     MDA97297C0800    A00004     ALPINECONS    OBJECT ARCHITECTURE FOR SEMANTICALLY INTEROPERABLE SYSTEMS       6/28/1999               $0.00
+1611     MDA97297C0800    GR0027     ALPINECONS    ADVANCED LOGISTICS TECHNOLOGY                                    7/21/1999      $2,135,000.00
+1612     MDA97297C0800    GR018      ALPINECONS    ADVANCED LOGISTICS TECHNOLOGY                                     2/1/1999      $3,750,000.00
+1613     MDA97297C0800    GR023      ALPINECONS    ADVANCED LOGISTICS TECHNOLOGY                                      6/4/1999       $100,000.00
+1614     MDA97297C0800    P00006     ALPINECONS    ADVANCED LOGISTICS TECHNOLOGY                                   11/25/1998               $0.00
+1615     MDA97297C0800    P00017     ALPINECONS    ADVANCED LOGISTICS TECHNOLOGY                                   12/14/1998      $2,200,000.00
+1616     MDA97297C0800    P00019     BBN           ADVANCED LOGISTICS TECHNOLOGY                                    4/27/1999        $144,000.00
+1617     MDA97297C0800    P00020     ALPINECONS    ADVANCED LOGISTICS TECHNOLOGY                                    4/27/1999      $4,384,000.00
+1618     MDA97297C0800    P00021     ALPINECONS    ADVANCED LOGISTICS TECHNOLOGY                                    4/27/1999               $0.00
+1619     MDA97297C0800    P00022     ALPINECONS    ADVANCED LOGISTICS TECHNOLOGY                                    5/27/1999      $1,785,000.00
+1620     MDA97297C0800    P00024     ALPINECONS    OBJECT ARCHITECTURE FOR SEMANTICALLY INTEROPERABLE SYSTEMS         6/9/1999     $1,700,000.00
+1621     MDA97297C0800    P00025     BBN           ADVANCED LOGISTICS TECHNOLOGY                                    6/23/1999               $0.00
+1622     MDA97297C0800    P00026     BBN           ADVANCED LOGISTICS TECHNOLOGY                                    6/2311999               $0.00
+1623     MDA97297C0800    P00028     ALPINECONS    ISO DIRECTORS TAX FUND SMSR9                                     7/26/1999          $56,000.00
+1624     MDA97297C0803    GR08       HARRISCORP    COMMON DATA LINK                                                   6/3/1999       $750,000.00
+1625     MDA97297C0803    P00007     HARRISCORP    COMMON DATA LINK                                                 2/18/1999      $1,853,441.00
+1626     MDA97297C0804    P00005     L-3COMMUNI    COMMON DATA LINK                                                   3/1/1999     $2,036,559.00
+1627     MDA97297C0804    P00006     L-3COMMUNI    COMMON DATA LINK                                                   6/3/1999       $750,000.00
+1628     MDA97297F0006    P00003     WALCOFF       APLA: SELF HEALING/TAGS/MGM                                      4/13/1999          $20,526.00
+1629     MDA97297K0003    P00004     IITRI         BWD/DETECTION(PBD 203)                                           12/4/1998        $184,428.00
+1630     MDA9729810005    P00003     CALTECH       HIGH POWER SOLID-STATE ELECTRON!                                12/1 4/1998       $256,638.00
+1631     MDA9729810006    P00003     UFLA          HIGH POWER SOLID-STATE ELECTRON!                                12/14/1998        $321,768.00
+1632     MDA9729810007    P00003     VANDERBILT    HIGH POWER SOLID-STATE ELECTRON!                                12/14/1998        $204,435.00
+1633     MDA9729810008    GR02       UWISCONSIN    LAST CENTER                                                      6/21/1999          $43,650.00
+1634     MDA972981 0009   GR03       UTEXAS        FREQUENCY AGILE MATERIALS FORELECTRONICS                         1119/1998        $350,000.00
+1635     MDA9729830001    GR02       BOEING        SMART MATERIALS/ACTUATORS                                        2124/1999        $735,760.00
+1636     MDA9729830001    GR02       BOEING        SMART MATERIALS/DEMOS                                            2/24/1999      $1,819,008.00
+1637     MDA9729830002    P00005     GEAIRCRAFT    ART: Advanced Rotorcraft Technology                                1/6/1999     $1 ,500,000.00
+1638     M DA9729830002   P00006     GEAIRCRAFT    ART: Advanced Rotorcraft Technology                              5/12/1999               $0.00
+1639     MDA9729830002    P00007     GEAIRCRAFT    ART: Advanced Rotorcraft Technology                                9/7/1999              $0.00
+1640     MDA9729830004    GR02       LMAM3         AM3: Affordable Multi-Missile Manufacturing                     11/18/1998      $7,925,688.00
+1641     M DA9729830004   GR03       LMAM3         AM3: Affordable Multi-Missile Manufacturing                        2/8/1999              $0.00
+1642     MDA9729830004    GR04       LMAM3         AM3: Affordable Multi-Missile Manufacturing                      4/21/1999        $800,000.00
+1643     MDA9729830009    P00002     NORTHROPGR    HIGH POWER SOLID-STATE ELECTRON!                                 6/17/1999        $650,000.00
+1644     MDA9729890001    P00004     LOCKHEEDMA    RSTVehicle                                                        1/19/1999       $186,083.00
+1645     MDA9729890002    P00005     GDLS          RSTVehicle                                                        1/19/1999       $190,842.00
+1646     MDA9729890004    GR04       FRONTIERSY    AA V: Advanced Air Vehicle                                         5/5/1999      ($500,000.00)
+1647     MDA9729890004    P00002     FRONTIERSY    AAV: Advanced Air Vehicle                                         1/11/1999     $6,565,000.00
+1648     MDA9729890004    P00003     FRONTIERSY    AA V: Advanced Air Vehicle                                        1/25/1999               $0.00
+1649     MDA9729890006    P00006     NORTHROP       UCAV: Unmanned Combat Air Vehicle                                1212/1998       $874,010.00
+1650     MDA9729890006    P00007      NORTHROPGR    UCAV: Unmanned Combat Air Vehicle                                2/16/1999               $0.00
+1651     MDA9729890007    P00006     RAYTHEON       UCAV: Unmanned Combat Air Vehicle                                12/2/1998        $518,453.00
+1652     MDA9729890007    P00007     RAYTHEON       UCAV: Unmanned Combat Air Vehicle                                2/16/1999               $0.00
+1653     MDA9729890008    P00006      BOEINGDEFS    UCAV: Unmanned Combat Air Vehicle                                12/2/1998        $847,010.00
+1654     MDA9729890008    P00007      BOEINGDEFS    UCAV: Unmanned Combat Air Vehicle                                  1/6/1999        $27,000.00
+      A          B              c           D                                    E            F             G
+  1 FY    CONTRACT NUMBER CONTRACT MOD PERFORMER    PROGRAM TITLE                        AWARD DATE    AMOUNT
+  2
+1655      MDA9729890008    P00008     BOEING        UCAV: Unmanned Combat Air Vehicle          3/3/1999           $0.00
+1656      MDA9729890009    GR02       BOEING        AAV: Advanced Air Vehicle               11/23/1998   $3,660,000.00
+1657      MDA972989001 0   P00002     RAYTHEONSY    AIRBORNE COMMS NODE                     12/15/1998   $5,600,000.00
+1658      MDA9729890011    P00002     LOCKHEED-S    AIRBORNE COMMS NODE                     12/15/1998   $5,600,000.00
+1659      MDA9729890012    P00003     TRW           AIRBORNE COMMS NODE                     12/15/1998   $5,600,000.00
+1660      MDA9729890013    P00004     ITTINDUSTR    SUO: SITUATION AWARENESS SYS (SAS)      11/24/1998   $5,000,000.00
+1661      MDA9729890014    GROG       RAYTHEONSY    SUO: SITUATION AWARENESS SYS (SAS)       5/13/1999             $0.00
+1662      MDA9729890014    P00005     RAYTHEONSY    SUO: SITUATION AWARENESS SYS (SAS)      11/24/1998   $5,000,000.00
+1663      MDA97298C0001    P00005     GE            HIGH POWER SOLID-STATE ELECTRON!        12/15/1998   $1 ,427,526.00
+1664      MDA97298C0001    P00006     GE            HIGH POWER SOLID-STATE ELECTRON!         6/28/1999      $243,774.00
+1665      MDA97298C0001    P00007     GE            HIGH POWER SOLID-STATE ELECTRON!           7/9/1999            $0.00
+1666      MDA97298C0002    A00002     ROCKWELLIN    HIGH POWER SOLID-STATE ELECTRON!          1/20/1999            $0.00
+1667      MDA97298C0002    P00002     ROCKWELLIN    HIGH POWER SOLID-STATE ELECTRON!        12/15/1998   $1 ,064,928.00
+1668      MDA97298C0002    P00003     ROCKWELLIN    HIGH POWER SOLID-STATE ELECTRON!          8/30/1999     $556,226.00
+1669      MDA97298C0003    P00003     MOTOROLA      HIGH POWER SOLID-STATE ELECTRON!        12/15/1998      $867,000.00
+1670      MDA97298C0003    P00004     MOTOROLA      HIGH POWER SOLID-STATE ELECTRON!          2/17/1999    ($800,000.00)
+1671      MDA97298C0004    P00001     POLAROIDCO    Compact Lasers                          12/21/1998      $200,000.00
+1672      MDA97298C0006    P00008     BRADSONCOR    AGENT ADMIN SUPPORT                       8/30/1999     $769,226.00
+1673      MDA97298C0007    P00001     LUCENTTECH    ADVANCED LITHOGRAPHY                      12/2/1998  $1,650,000.00
+1674      MDA97298C0008    P00003     UMINN         DISTRIBUTED ROBOTICS                      12/9/1998  $1,915,045.00
+1675      MDA97298C0009    P00001     XEROXPARC     DISTRIBUTED ROBOTICS                      12/2/1998  $1 ,642,515.00
+1676      M DA97298C0012   P00001     SCIENCEENG    BWD/DETECTION(PBD 203)                  11/24/1998      $800,000.00
+1677      MDA97298C0012    P00002     SCIENCEENG    BIO DETECTION &IDENTIFICATION             4/26/1999     $370,416.00
+1678      MDA97298C0013    P00001     POLAROIDCO    HIGH DEFINITION SYSTEMS (HDSl           12/14/1998      $900,000.00
+1679      MDA97298C0013    P00002     POLAROIDCO    FLEXIBLE EMISSIVE DISPLAYS                  8/4/1999    $100,000.00
+1680      MDA97298C0014    P00002     NORTHROPGR    Discoverer                              11/19/1998 $10,500,000.00
+1681      MDA97298C0014    P00003     NORTHROPGR    Discoverer                                12/8/1998 ($7 ,000,000.00)
+1682      M DA97298C0014   P00004     NORTHROPGR    Discoverer                                  6/8/1999 $7,000,000.00
+1683      MDA97298C0015    P00003     RAYTHEON      Discoverer                                12/811998  $3,333,000.00
+1684      MDA97298C0015    P00004     RAYTHEON      Discoverer                                  4/6/1999 $3,319,353.00
+1685      MDA97298C0015    P00005     RAYTHEONSY    Discoverer                                5/24/1999  $4,082,000.00
+1686      MDA97298C0015    P00006     RAYTHEONSY    Discoverer                                8/13/1999  $1,515,000.00
+1687      MDA97298C0015    P00007      RAYTHEONSY   Discoverer                                9/24/1999     $687,927.00
+1688      MDA97298C0016    P00001     SAIC          ADVANCED SIMULATION TECH                  12/8/1998     $116,667.00
+1689      MDA97298C0016    P00002     SAIC          ADVANCED SIMULATION TECH                  1/13/1999     $583,333.00
+1690      MDA97298C0016    P00003     SAIC          ADVANCED SIMULATION TECH                  3/19/1999     $143,433.00
+1691      MDA97298C0019    P00003      RAYTHEONSY   DANTE-SEEDLING                            2/23/1999     $349,909.00
+1692      MDA97298C0019    P00004      RAYTHMISYS   LCCMD                                     8/18/1999  $2,053,443.00
+1693      MDA97298C0019    P00004      RAYTHMISYS   OFFICE/PROGRAM SUPPORT                    8/18/1999     $108,700.00
+1694      MDA97298C0019    P00004      RAYTHMISYS   OFFICE/PROGRAM SUPPORT FOR VFOX9          8/18/1999     $300,000.00
+1695      MDA97298C0019    P00004      RAYTHMISYS   OFFICE/PROGRAM SUPPORT FOR VGTT9          8/18/1999     $391 ,300.00
+1696      MDA97298C0019    P00005      RAYTHMISYS   OFFICE/PROGRAM SUPPORT FOR VFOX9          8/18/1999            $0.00
+1697      MDA97298C0020    P00001      NORTHROPGR   SAIP                                     12/10/1998   $6,119,332.00
+1698      MDA97298C0020    P00002      NORTHROPGR   SAIP                                      5/21/1999             $0.00
+1699      MDA97298C0020    P00003      NORTHROPGR   SAIP                                      6/23/1999   $1 ,490,998.00
+1700      MDA97298C0020    P00003      NORTHROPGR   SENSOR EMULATION                          6/23/1999       $26,658.00
+ 1701     MDA97298C0020    P00004      NORTHROPGR    SENSOR EMULATION                          9/16/1999     $114,281.00
+     A          B             c            D                                     E                      F                G
+  1 FY   CONTRACT NUMBER CONTRACT MOD PERFORMER     PROGRAM TITLE                                  AWARD DATE       AMOUNT
+ 2
+1702     MDA97298C0020    P00005       NORTHROPGR   SENSOR EMULATION                                   9/16/1999         $39,415.00
+1703     MDA97298C0021    P00002       HONEYWELL    MAGNETIC MATERIALS AND DEVICES                     12/4/1998       $700,000.00
+1704     MDA97298C0021    P00003       HONEYWELL    MAGNETIC MATERIALS AND DEVICES                     1/12/1999     $1 ,293,841.00
+1705     MDA97298C0021    P00004       HONEYWELL    MAGNETIC MATERIALS AND DEVICES                     3/30/1999               $0.00
+1706     MDA97298C0021    P00005       HONEYWELL    ACMPNIP                                            4/21/1999       $302,233.00
+1707     MDA97298C0021    P00006       HONEYWELL    ACMPNIP                                            5/19/1999               $0.00
+1708     MDA97298C0021    P00007       HONEYWELL    NANOPHASE MAG PARTICLE(CONG ADD)                   8/26/1999       $199,789.00
+1709     MDA97298C0022    P00002       TRACORAERO   LCCMD                                              12/1/1998       $247,900.00
+1710     MDA97298C0022    P00003       TRACORAERO   LCCMD                                              5/26/1999               $0.00
+1711     MDA97298C0022    P00004       TRACORAERO   LCCMD                                              8/12/1999     $1 ,200,000.00
+1712     MDA97298C0023    P00002       RAYTHMISYS   LCCMD                                              12/1/1998       $124,983.00
+1713     MDA97298C0023    P00004       RAYTHEON     LCCMD                                              5/26/1999               $0.00
+1714     MDA97298C0023    P00005       RAYTHEON     LCCMD                                                8/1/1999              $0.00
+1715     MDA97298C0023    P00006       RAYTHEON     LCCMD                                                8/4/1999      $294,996.00
+1716     MDA97298C0024    P00003       RAYTHEON     LCCMD                                              12/1/1998       $244,295.00
+1717     MDA97298C0024    P00004       RAYTHEONSY   LCCMD                                              5/26/1999               $0.00
+1718     MDA97298C0025    P00003       BOEINGNAIN   LCCMD                                              12/1/1998         $76,655.00
+1719     MDA97298C0025    P00004       BOEING       LCCMD                                              1/13/1999               $0.00
+1720     MDA97298C0025    P00005       BOEINGNAIN   LCCMD                                              5/26/1999               $0.00
+1721     MDA97298C0026    P00002       JAVELIN      SBIR SET-ASIDE                                     9/23/1999       $413,864.00
+1722     MDA97298C0027    P00002 ·     CFDRESCORP   SBIR SET-ASIDE                                     3/31/1999       $324,929.00
+1723     MDA97298F0002    P00001       PRC          lA INTEGRATED TESTBEDJINFORMATION ASSURANCE)       2/11/1999         $79,167.00
+1724     MDA97298F0013    P00003       MRJ          SCALABLE TACTICAL IMAGE EXPLOITATION                 5/3/1999      $194,148.00
+1725     MDA97298F0020    P00003       BOOZALLEN    BW                                                12/30/1998       $375,000.00
+1726     MDA972991 0001   GR01         UCBERKELEY   GICUR                                              3/12/1999     $2,000,000.00
+1727     MDA972991 0001   GR02         UCBERKELEY   GICUR                                              6/17/1999      ($120,000.00)
+1728     MDA972991 0002              0 GEORGIATEC   GICUR                                              6/1711999      ($120,000.00)
+1729     MDA972991 0002   GR02         GEORGIATEC   GICUR                                              3/26/1999     $2,000,000.00
+1730     MDA972991 0003   GR0001       DARPA        MEMS                                               8112/1999               $0.00
+1731     MDA972991 0003   GRANT        CNRI         MEMS                                               7/16/1999     $2,586,066.00
+1732     MDA972991 0005   BASIC        UILLURBCHA   NEXT GENERATION INTERNET                           6/16/1999       $100,000.00
+1733     MDA972991 0006   GRANT        UCSANTABAR   NEXT GENERATION INTERNET                           7/29/1999       $100,000.00
+1734     MDA972991 0007   GRANT        UCIRVINE     ACTIVE NETWORKS                                    8/10/1999         $50,000.00
+1735     MDA972991 0008   BASIC        UCLA         NEXT GENERATION INTERNET                           6/21/1999       $100,000.00
+1736     MDA972991 0009   GRANT        UCLON        BROADBAND INFORMATION TECHNOLOGY                   7/27/1999       $156,000.00
+1737     MDA972991 0009   P00001       UCLON        BROADBAND INFORMATION TECHNOLOGY                   9/17/1999               $0.00
+1738     MDA972991 0010   BASIC        NATLACADSC   BIOMIMETIC SYSTEMS                                 5/10/1999         $50,000.00
+1739     MDA972991 0011   A00001       COLOSTU      NEXT GENERATION INTERNET                           8/20/1999               $0.00
+1740     MDA972991 0011   GRANT        COLOSTU      NEXT GENERATION INTERNET                           7/29/1999       $100,000.00
+1741     MDA972991 0012   BASIC        MIT          ADAPTIVE COMPUTING SYSTEMS                         7/20/1999       $450,000.00
+1742     MDA972991 0014   GRANT        MIT          ANTS SEEDLINGS                                     8/26/1999          $50,000.00
+1743     MDA972991 0017   GRANT        UCLA         MAGNETIC MATERIALS AND DEVICES                     9/22/1999        $250,000.00
+1744     MDA972991 0018   BASIC        CNRI         INFORMATION MANAGEMENT                               9nt1999        $850,000.00
+1745     MDA9729930003    CON          ATTTECH      COMMUNICATOR                                        2/22/1999       $200,000.00
+1746     MDA9729930005    BASIC        NORTHROPGR   FREQUENCY AGILE MATERIALS FORELECTRONICS             1/6/1999       $380,492.00
+1747     MDA9729930005    P00001       NORTHROPGR   FREQUENCY AGILE MATERIALS FORELECTRONICS            1/15/1999       $155,992.00
+1748     MDA9729930006    BASIC        MOTOROLA     OFFICE/PROGRAM SUPPORT (RELATED TO VSEE8)          4/27/1999        $130,000.00
+     A          B                  c       D                                    E                    F            G
+  1 FY   CONTRACT NUMBER CONTRACT MOD PERFORMER     PROGRAM TITLE                               AWARD DATE   AMOUNT
+  2
+1749     MDA9729930006    BASIC        MOTOROLA     WARFIGHTERS INTERNET                            4/27/1999    $210,000.00
+1750     MDA9729930007    BASIC        ALPHATECH    BW SEEDLINGS PART TWO                           5/27/1999    $355,947.00
+1751     MDA9729930007    P00001       ALPHATECH    SARECCM                                          6n/1999       $80,000.00
+1752     MDA9729930007    P00002       ALPHATECH    BW SEEDLING PART ONE                              9/9/1999     $32,839.00
+1753     MDA9729930011    P00001       MISSIONRES   CARABAS                                         8/27/1999      $79,846.00
+1754     MDA9729930021    P00001       JHAPL        OFFICE/PROGRAM SUPPORT FOR VFOX9                8/11/1999      $97,966.00
+1755     MDA9729930022    BASIC        SAIC         BW SEEDLINGS PART TWO                           5/14/1999    $392,856.00
+1756     MDA9729930022    P00001       SAIC         LASERS                                            912/1999     $70,778.00
+1757     MDA9729930023    BASIC        INFOSYSLAB   ADVANCED GROUND SURVELLIANCE                    6/1111999      $24,864.00
+1758     MDA9729930029    BASIC        LOCKHEED-S   BW SEEDLINGS PART TWO                           5/10/1999    $395,859.00
+1759     MDA9729930030    GR0001       APTI         OFFICE/PROGRAM SUPPORT (RELATED TO VSEE8)         8/5/1999   $124,999.00
+1760     MDA9729990002    BASIC        BOEINGDEFS   SLID: Small Low-Cost Interceptor Device         5/28/1999  $1 ,800,000.00
+1761     MDA9729990003    BASIC        BOEING       UCAV: Unmanned Combat Air Vehicle               3/24/1999 $14,848,000.00
+1762     MDA9729990003    P00001       BOEINGDESP   UCAV: Unmanned Combat Air Vehicle               3/26/1999  $5,883,520.00
+1763     MDA9729990003    P00002       BOEING       UCAV: Unmanned Combat Air Vehicle                 6n/1999  $1 ,169,500.00
+1764     MDA9729990003    P00003       BOEING       UCAV: Unmanned Combat Air Vehicle                 9/9/1999 $1,877,000.00
+1765     MDA9729990003    P00004       BOEING       UCAV: Unmanned Combat Air Vehicle                 9/9/1999   $698,000.00
+1766     MDA9729990004    BASIC        TEAM2020     SUB STUDY (SUBMARINE PAYLOADS AND SENSORS       5/28/1999  $3,075,000.00
+1767     MDA9729990005    BASIC        FORPASSCON   SUB STUDY (SUBMARINE PAYLOADS AND SENSORS       6/25/1999  $3,075,000.00
+1768     MDA9729990006    BASIC        TELEDYNERY   MAL Interceptor                                 7/14/1999  $2,311 ,497.00
+1769     MDA9729990006    BASIC        TELEDYNERY   Seedlings TT-06                                 7/14/1999     $500,000.00
+1770     MDA9729990006    BASIC        TELEDYNERY   Seedlings TT-07                                 7/14/1999     $200,000.00
+1771     MDA9729990007    BASIC        ITTAEROSPA   SUO: SITUATION AWARENESS SYS (SAS)              6/30/1999  $8,826,140.00
+1772     MDA9729990007    P00001       ITTAEROSPA   SUO: SITUATION AWARENESS SYS (SAS)              8/18/1999            $0.00
+1773     MDA9729990007    P00002       ITTAEROSPA   SUO: SITUATION AWARENESS SYS (SAS)              8/27/1999            $0.00
+1774     MDA97299C0002    BASIC        NATLACADSC   MOLETRONICS                                    12/21/1998      $95,524.00
+1775     MDA97299C0002    P00001       NATLACADSC   MESOSCALE MACHINES                              1/25/1999      $25,000.00
+1776     MDA97299C0002    P00002       NATLACADSC   MESOSCALE MACHINES                              2/18/1999     $400,000.00
+1777     MDA97299C0002    P00003       NATLACADSC   CHPS: Combat 1-tybrid Power Systems             5/17/1999     $150,000.00
+1778     MDA97299C0002    P00004       NATLACADSC   MESOSCALE MACHINES                              6/10/1999     $100,000.00
+1779     MDA97299C0002    P00005       NATLACADSC   MESOSCALE MACHINES                              8/11/1999      $65,000.00
+1780     MDA97299C0002    P00006       NATLACADSC   MESOSCALE MACHINES                              8/11/1999      $68,000.00
+1781     MDA97299C0004    BASIC        SANTAFESCJ   ELECTROACTIVE POLYMERS                            4n/1999     $771 ,805.00
+1782     MDA97299C0005    P00001       NORTHROPGR   3-D MICRO ELECTRONICS                             8/4/1999 $4,942,961 .00
+1783     MDA97299C0006    BASIC        TRITECHINC   CONTRACT ADMINISTRATION                         4/12/1999     $222,649.00
+1784     MDA97299C0006    P00001       TRITECHINC   CONTRACT ADMINISTRATION                           9/3/1999           $0.00
+1785     MDA97299C0007    P00009       ORBITALSCI   Seedlings SGT-02                                3/29/1999     $242,880.00
+1786     MDA97299C0008    BASIC        TERABITCOR   NEXT GENERATION INTERNET                        5/26/1999      $50,000.00
+1787     MDA97299C0009    BASIC        IBM          MAGNETIC MATERIALS AND DEVICES                  5118/1999  $3,282,970.00
+1788     MDA97299C0009    P00001       IBM          MAGNETIC MATERIALS AND DEVICES                  7/27/1999            $0.00
+1789     MDA97299C001 0   BASIC        DRAPERLAB    ADVANCED SHIP/SENSOR SYSTEMS MRN-02               8/6/1999    $365,731 .00
+1790     MDA97299C001 0   P00002       DRAPERLAB    ADVANCED SHIP/SENSOR SYSTEMS MRN-02             8/20/1999    ($365,731.00)
+1791     MDA97299C0011    BASIC        SRI          NEXT GENERATION INTERNET                        7/29/1999     $200,000.00
+1792     MDA97299C0012    BASIC        ARIZONASTA   BW FLOW STUDY                                   6/25/1999     $195,867.00
+1793     MDA97299C0013    BASIC        ALPHATECH    MSTAR                                            8/13/1999    $417,065.00
+1794     MDA97299C0014    BASIC        VEDAINC      MSTAR                                            8/13/1999    $666,262.00
+1795     MDA97299C0016    BASIC        NETWORKELE   NEXT GENERATION INTERNET                         6/2311999    $493,980.00
+     A          B             c            D                                            E            F                G
+  1 FY   CONTRACT NUMBER CONTRACT MOD PERFORMER   PROGRAM TITLE                                 AWARD DATE       AMOUNT
+  2
+1796     MDA97299C0017   BASIC       CFDRESCORP   SBIR-MICE                                         8/20/1999       $374,990.00
+1797     MDA97299C0018   BASIC       ERIM         MSTAR                                             8/13/1999       $833,281.00
+1798     MDA97299C0019   BASIC       SAIC         MSTAR                                             6/16/1999       $357,869.00
+1799     MDA97299C0020   BASIC       HOWARDUNIV   SMART MATERIALS/DEMOS                             5/13/1999         $95,943.00
+1800     MDA97299C0020   P00001      HOWARDUNIV   SMART MATERIALS/DEMOS                             5/19/1999               $0.00
+1801     MDA97299C0021   BASIC       ERIM         NEXT GENERATION INTERNET                           6/1/1999       $100,000.00
+1802     MDA97299C0022   BASIC       USCISI       NEXT GENERATION INTERNET                          6/28/1999       $299,997.00
+1803     MDA97299C0023   BASIC       MAYADESIGN   IT EXPEDITIONS                                     8/2/1999       $500,000.00
+1804     MDA97299C0024   A00001      STANFORDU    ADAPTIVE COMPUTING SYSTEMS                        9/14/1999               $0.00
+1805     MDA97299C0024   BASIC       STANFORDU    ADAPTIVE COMPUTING SYSTEMS                        7/28/1999       $400,000.00
+1806     MDA97299C0024   BASIC       STANFORDU    EVOLUTIONARY DESIGN COMPLEX SOFT                  7/28/1999       $114,000.00
+1807     MDA97299C0024   P00001      STANFORDU    EVOLUTIONARY DESIGN COMPLEX SOFT                  9/16/1999               $0.00
+1808     MDA97299C0025   BASIC       RAYTHEON     RECONFIGURABLE APERTURE(RECAP)                    9/22/1999     $1 ,000,000.00
+1809     MDA97299F0003   BASIC       SYSPLANCOR   NOVEL ATENNAS                                     12/4/1998       $499,927.00
+1810     MDA97299F0003   P00001      SYSPLANCOR   LASERS                                             617/1999            $497.00
+1811     MDA97299F0003   P00001      SYSPLANCOR   NOVEL ATENNAS                                      617/1999       $218,000.00
+1812     MDA97299F0004   BASIC       DECISION-S   MSTAR                                            11/23/1998       $176,491.00
+1813     MDA97299F0004   DO          DECISION-S   MSTAR                                            11/13/1998               $0.00
+1814     MDA97299F0004   P00001      DECISION-S   MSTAR                                             12/7/1998               $0.00
+1815     MDA97299F0004   P00002      DECISION-S   MSTAR                                             2/10/1999       $273,501.00
+1816     MDA97299F0004   P00003      DECISION-S   MSTAR                                              4/9/1999               $0.00
+1817     MDA97299F0004   P00004      DECISION-S   MSTAR                                             6/14/1999       $100,000.00
+1818     MDA97299F0005   BASIC       CENTRA       NOVEL ANTENNAS                                    12/4/1998               $0.00
+1819     MDA97299F0005   DO          CENTRA       NOVEL ATENNAS                                     12/4/1998       $594,401.00
+1820     MDA97299F0005   00001       CENTRA       NOVEL ATENNAS                                     1/13/1999               $0.00
+1821     MDA97299F0005   P00001      CENTRA       NOVEL ATENNAS                                     1113/1999               $0.00
+1822     MDA97299F0005   P000010     CENTRA       COUNTER UNDERGROUND FACILITIES                    8/24/1999               $0.00
+1823     MDA97299F0005   P00002      CENTRA       COUNTER UNDERGROUND FACILITIES                      2/2/1999              $0.00
+1824     MDA97299F0005   P00003      CENTRA       NOVEL ATENNAS                                       3/1/1999              $0.00
+1825     MDA97299F0005   P00004      CENTRA       COUNTER UNDERGROUND FACILITIES                    3/23/1999       $200,000.00
+1826     MDA97299F0005   P00005      CENTRA       OFFICE/PROGRAM SUPPORT FOR VCUF9                  4/16/1999       $200,000.00
+1827     MDA97299F0005   P00006      CENTRA       COUNTER UNDERGROUND FACILITIES                    6/15/1999       $250,000.00
+1828     MDA97299F0005   P00007      CENTRA       COUNTER UNDERGROUND FACILITIES                    7127/1999       $534,702.00
+1829     MDA97299F0005   P00008      CENTRA       COUNTER UNDERGROUND FACILITIES                                            $0.00
+1830     MDA97299F0005   P00009      CENTRA       COUNTER UNDERGROUND FACILITIES                    8/18/1999         $31,569.00
+1831     MDA97299F0006   BASIC       SRI          RAPID KNOWLEDGE FORMATION                         1/26/1999       $124,928.00
+1832     MDA97299F0006   P00001      SRI          RAPID KNOWLEDGE FORMATION                         7/13/1999               $0.00
+1833     MDA97299F0007   P00001      BOOZALLEN    AM3: Affordable Multi-Missile Manufacturing       3/29/1999       $168,421.00
+1834     MDA97299F0007   P00001      BOOZALLEN    BUOYANT ANTENNA                                   3/29/1999         $80,000.00
+1835     MDA97299F0007   P00001      BOOZALLEN    CHPS: Combat Hybrid Power Systems                 3/29/1999         $60,669.00
+1836     MDA97299F0007   P00001      BOOZALLEN    DRaFT: Digital Radio Frequency Tags               3129/1999       $140,000.00
+1837     MDA97299F0007   P00001      BOOZALLEN    HEDM: High Energy Density Materials               3/29/1999         $40,000.00
+1838     MDA97299F0007   P00001      BOOZALLEN    LASER ACOUSTIC SENSORS                            3/29/1999         $20,000.00
+1839     MDA97299F0007   P00001      BOOZALLEN    MAFC: Micro Adaptive Flow Control                 3/29/1999         $82,109.00
+1840     MDA97299F0007   P00001      BOOZALLEN    MAL Interceptor                                   3/29/1999         $60,000.00
+1841     MDA97299F0007   P00001      BOOZALLEN    MAV: Micro Air Vehicle                            3/29/1999        $104,539.00
+1842     MDA97299F0007   P00001      BOOZALLEN     RSTVehicle                                       3/29/1999          $70,000.00
+     A           B                 c        D                                    E                       F                G
+  1 FY CONTRACT NUMBER    CONTRACT MOD PERFORMER    PROGRAM TITLE                                   AWARD DATE       AMOUNT
+  2
+1843     MDA97299F0007    P00001       BOOZALLEN    SLID: Small Low-Cost Interceptor Device             3/29/1999        $59,000.00
+1844     MDA97299F0007    P00001       BOOZALLEN    SUO: SITUATION AWARENESS SYS (SAS)                  3/29/1999      $312,360.00
+1845     MDA97299F0007    P00001       BOOZALLEN    TACTICAL SENSORS                                    3/29/1999      $290,580.00
+1846     MDA97299F0007    P00001       BOOZALLEN    TMR: URBAN ROBOTICS                                 3/29/1999      $332,000.00
+1847     MDA97299F0007    P00001       BOOZALLEN    UNDERSEA LITTORAL WARFARE                           3/29/1999      $320,000.00
+1848     MDA97299F0007    P00001       BOOZALLEN    WATER HAMMER                                        3/29/1999        $78,000.00
+1849     MDA97299F0007    P00002       BOOZALLEN    ADVANCED SHIP/SENSOR SYSTEMS MRN-02                 4/20/1999      $285,000.00
+1850     MDA97299F0007    P00003       BOOZALLEN    ADVANCED SHIP/SENSOR SYSTEMS MRN-02                   6/8/1999             $0.00
+1851     MDA97299F0008    DO           SYSPLANCOR   OFFICE/PROGRAM SUPPORT                              1/11/1999        $31 ,697.37
+1852     MDA97299F0009    BASIC        BDMFEDERAL   ADVANCED LOGISTICS TECHNOLOGY                         1/4/1999     $114,950.00
+1853     MDA97299F0009    P00001       BDMFEDERAL   ADVANCED LOGISTICS TECHNOLOGY                       8/24/1999              $0.00
+1854     MDA97299F001 0   BASIC        SCHAFER      AIRBORNE VIDEO SURVEILLANCE                         1/13/1999      $393,486.00
+1855     MDA97299F0011    BASIC        SCHAFER      CONTROL: OF AGENT-BASED SYSTEMS                     1/13/1999      $210,262.00
+1856     MDA97299F0012    BASIC        SCHAFER      HIGH PERFORMANCE KNOWLEDGE BASE                     1/13/1999      $300,000.00
+1857     MDA97299F0013    DO           SCHAFER      ACTIVE TEMPLATES                                    1/13/1999      $329,987.00
+1858     MDA97299F0013    DO           SCHAFER      GENOA                                               1/13/1999      $500,386.00
+1859     MDA97299F0013    DO           SCHAFER      PLANNING AND DECISION AIDS                          1/13/1999      $210,262.00
+1860     MDA97299F0014    DO           SCHAFER      COMMAND POST OF THE FUTURE                          1/29/1999      $129,850.00
+1861     MDA97299F0015    DO           SCHAFER      lA INTEGRATED TESTBED (INFORMATION ASSURANCE)         215/1999     $119,732.00
+1862     MDA97299F0015    DO           SCHAFER      SURVIVABLTY LARGE SCALE INFO SYS                      215/1999     $119,732.00
+1863     MDA97299F0015    P00001       SCHAFER      SURVIVABLTY LARGE SCALE INFO SYS                    8/20/1999              $0.00
+1864     MDA97299F0016    DO           SRSTECHNOL   NOVEL ATENNAS                                       3/15/1999        $81 ,772.38
+1865     MDA97299F0017    BASIC        BRADSONCOR   CONTRACTS MANAGEMENT                                2/1211999        $73,096.56
+1866     MDA97299F0018    BASIC        SCHAFER      lA INTEGRATED TESTBED (INFORMATION ASSURANCE)         3/1/1999     $789,358.00
+1867     MDA97299F0019    DO           SCHAFER      ADVANCED NETWORKING TECHNOLOGY                      4/15/1999        $49,959.00
+1868     MDA97299F0019    DO           SCHAFER      SKYLINK                                             4/15/1999      $100,000.00
+1869   · MDA97299F0020    DO           SCHAFER      ADVANCED LOGISTICS TECHNOLOGY                       4/2011999      $306,000.00
+1870     MDA97299F0020    DO           SCHAFER      JOINT LOGISTICS ACTD                                4/20/1999      $306,000.00
+1871     MDA97299F0021    DO           SCHAFER      AIM : Advanced ISR Man'!9ement                      3/31/1999      $600,000.00
+1872     MDA97299F0022    DO           SCHAFER ·    AIRBORNE VIDEO SURVEILLANCE                         3/29/1999        $75,000.00
+1873     MDA97299F0022    DO           SCHAFER      IMAGE UNDERSTANDING                                 3/29/1999      $183,000.00
+1874     MDA97299F0023    DO           SCHAFER      COMMAND POST OF THE FUTURE                          5/12/1999      $179,993.00
+1875     MDA97299F0024    BASIC        GRCI         OFFICE/PROGRAM SUPPORT (RELATED TO VSEE8)            3/1711999       $40,000.00
+1876     MDA97299F0024    BASIC        GRCI         WARFIGHTERS INTERNET                                 3/17/1999     $117,000.00
+1877     MDA97299F0025    BASIC        SYSPLANCOR   COUNTER UNDERGROUND FACILITIES                       6/25/1999      $251 ,924.00
+1878     MDA97299F0027    DO           ORIONSCSYS   COUNTER MEASURES                                     6/11/1999      $199,991 .00
+1879     M DA97299F0028   DO           DIGITSYSIN   CONTRACT ADMINISTRATION                             7/14/1999        $90,000.00
+1880     MDA97299F0028    D001         DIGITSYSIN   CONTRACTS MANAGEMENT                                6/30/1999          $4,422.00
+1881     MDA97299F0029    DO           DTAI         TECH INTEGRATION CENTER/TECH DEV CENTER               8/4/1999      $100,000.00
+1882     MDA97299F0030    BASIC        BOOZALLEN    POLYMER MATERIALS (CONG ADD)                         5/15/1999      $423,916.45
+1883     MDA97299F0031    BASIC        SCHAFER      CEROS (FENCED)                                        8/2/1999        $59,972.00
+1884     MDA97299F0032    DO           BRADSONCOR   ADVANCED SHIP/SENSOR SYSTEMS MRN-02                   8/9/1999        $43,425.18
+1885     MDA97299F0033    DO           SYSPLANCOR   CONTRACTS MANAGEMENT                                 8/30/1999        $37,075.00
+1886     MDA97299F0033    P00001       SYSPLANCOR   CONTRACTS MANAGEMENT                                 9/13/1999              $0.00
+1887     MDA97299F0034    BASIC        DIGITSYSIN   CONTRACTS MANAGEMENT                                 8/31/1999        $64,755.00
+1888     MDA97299M0002    DO           INFOSYSLAB   ADVANCED GROUND SURVELLIANCE                         3/1211999        $99,729.00
+1889     MDA97299M0003    DO           SRC          ADVANCED MICROELECTRONICS                            4/14/1999        $10,000.00
+     A          B                  c       D                                      E                  F             G
+  1 FY   CONTRACT NUMBER CONTRACT MOD PERFORMER     PROGRAM TITLE                               AWARD DATE    AMOUNT
+  2
+1890     MDA97299M0004    DO           ARDAK        BW MEDICAL DIAGNOSTICS                           3/30/1999    $99,970.00
+1891     MDA97299M0004    P00001       ARDAK        BW MEDICAL DIAGNOSTICS                           5/26/1999         $0.00
+1892     MDA97299M0004    P00002       ARDAK        BW MEDICAL DIAGNOSTICS                            8/4/1999         $0.00
+1893     MDA97299M0005    DO           SHA          SENSOR EMULATION                                  5/4/1999  $100,000.00
+1894     MDA97299M0005    P00001       SHA          SENSOR EMULATION                                 5/12/1999         $0.00
+1895     MDA97299M0006    DO           VISTARESEA   UNDERSEA LITTORAL WARFARE                        4/12/1999    $74,827.00
+1896     MDA97299M0007    DO           VISUALEYES   COMBAT CASUALTY DIAGNOSTICS:ULTRASOUND            5/3/1999    $59,500.00
+1897     MDA97299M0008    BASIC        BLUE RIDGE   OFFICE/PROGRAM SUPPORT (related to VTAX4)        5/11/1999    $48,566.00
+1898     MDA97299M0009    DO           QRI          ADVANCED SIMULATION TECH                         6/29/1999    $99,494.00
+1899     MDA97299M001 0   DO           PRAJAINC     COUNTER MEASURES                                 6/14/1999    $80,460.00
+1900     MDA97299M0011    BASIC        lVI          COUNTER MEASURES                                 7/16/1999    $90,000.00
+1901     MDA97299M0012    BASIC        JERRYCOOKE   CONTRACT ADMINISTRATION                           5/3/1999   $100,000.00
+1902     MDA97299M0013    DO           DIAMONDBAC   TECH INTEGRATION CENTER/TECH DEV CENTER           9/8/1999    $50,000.00
+1903     MDA9769630014    P00007       SDLINC       SOLAR BLIND DETECTORS                             7/9/1999         $0.00
+1904                                                                                            FY SUBTOTAL: $340,495,021.94
+1905
+
