@@ -207,6 +207,7 @@ Homework
 
 ##Week 7: August 24th and 26th
 
+* SQL, continued. [Notes](SQL_notes_part2.md)
 * Building web APIs with Flask (and/or other selected topics)
 * Final project workshops
 
