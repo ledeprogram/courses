@@ -9,7 +9,7 @@ to hold this information:
 
 | name | title | start_year |
 | ---- | ----- | ---------- |
-| Gabriela McCullough | reporter | 2009 |
+| Gabriella McCullough | reporter | 2009 |
 | Steven Kennedy | drama critic | 2012 |
 | Jalen Shaara | columnist | 2002 |
 
@@ -90,7 +90,7 @@ created above for our imaginary news organization:
 
 | name | title | start_year |
 | ---- | ----- | ---------- |
-| Gabriela McCullough | reporter | 2009 |
+| Gabriella McCullough | reporter | 2009 |
 | Steven Kennedy | drama critic | 2012 |
 | Jalen Shaara | columnist | 2002 |
 
@@ -112,15 +112,15 @@ The SQL commands for creating these tables in the database looks like this:
 The SQL commands for populating those tables with data looks like this:
 
     insert into reporters (name, title, start_year) values
-        ('Gabriela McCullough', 'reporter', 2009),
+        ('Gabriella McCullough', 'reporter', 2009),
         ('Steven Kennedy', 'drama critic', 2012),
         ('Jalen Shaara', 'columnist', 2002);
 
     insert into articles (author, title, published_date) values
-        ('Gabriela McCullough', 'Man, opossum reach garbage accord', '2015-07-01'),
+        ('Gabriella McCullough', 'Man, opossum reach garbage accord', '2015-07-01'),
         ('Steven Kennedy', '"The Deceit of Apricot" opens to rave reviews', '2015-07-15'),
         ('Jalen Shaara', 'What''s the Big Data? Why I''m a data skeptic', '2015-07-16'),
-        ('Gabriela McCullough', 'Traffic signals restored on Tunguska Ave', '2015-07-01'); 
+        ('Gabriella McCullough', 'Traffic signals restored on Tunguska Ave', '2015-07-01'); 
 
 Here are some example queries we can run on the data, along with their results.
 To get a list just of reporter's names:
@@ -129,7 +129,7 @@ To get a list just of reporter's names:
 
             name         
     ---------------------
-    Gabriela McCullough
+    Gabriella McCullough
     Steven Kennedy
     Jalen Shaara
 
@@ -149,8 +149,8 @@ To get a list of articles and authors, along with the titles of those authors:
 
         author        |    title     |                     title                     
     ---------------------+--------------+-----------------------------------------------
-    Gabriela McCullough | reporter     | Traffic signals restored on Tunguska Ave
-    Gabriela McCullough | reporter     | Man, opossum reach garbage accord
+    Gabriella McCullough | reporter     | Traffic signals restored on Tunguska Ave
+    Gabriella McCullough | reporter     | Man, opossum reach garbage accord
     Steven Kennedy      | drama critic | "The Deceit of Apricot" opens to rave reviews
     Jalen Shaara        | columnist    | What's the Big Data? Why I'm a data skeptic
 
