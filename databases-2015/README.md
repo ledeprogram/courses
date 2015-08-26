@@ -208,13 +208,16 @@ Homework
 ##Week 7: August 24th and 26th
 
 * SQL, continued. [Notes](SQL_notes_part2.md)
-* Building web APIs with Flask (and/or other selected topics)
-* Final project workshops
+* CSV to SQL, a Journey. [Notes](CSV_to_SQL.ipynb)
 
 Reading
 
 - Bucher, Taina. "[Objects of intense feeling: The case of the Twitter API.](http://computationalculture.net/article/objects-of-intense-feeling-the-case-of-the-twitter-api)"
 - Thorp, Jer. "[Art and the API.](http://blog.blprnt.com/blog/blprnt/art-and-the-api)"
+
+Homework
+
+* [Assignment #7](Homework_7.ipynb), optional/extra credit
 
 ##Week 8: August 31st
 
